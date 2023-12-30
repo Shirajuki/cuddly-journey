@@ -10,6 +10,18 @@ from imutils.video import FileVideoStream
 from queue import Queue
 from threading import Thread
 import argparse
+from edgegpt import edgegpt
+
+prompt = """
+Here is a list of parsed vietnamese subtitle texts:
+MESSAGE
+
+Can you help me clean it up and from all the outputs guess what the correct message is? If you believe something is an abbrevation or doesn't fit in the message please do not include it. Write your answer in the following format, take for example if the answer is "ANSWER":
+
+START
+ANSWER
+END
+"""
 
 a = [167,260,383,434,526,814,886,939,1044,1331,1376,1527,1957,1999,2048,2146,2663,2699,2730]
 FIRST_FRAME = 0#a[10-2] #300 # Skip frames up to this point
@@ -71,12 +83,11 @@ COMMON_MISTAKES = {
 
 OUTPUT_ENCODING = 'utf-8'
 
-
 def main():
     parser = argparse.ArgumentParser(description='Creates an SRT file from a video file that has hardcoded subtitles')
     parser.add_argument('video_file', help='the path to a video file that has hardcoded subtitles')
     parser.add_argument('srt_file', help='where to put the resulting SRT file, will overwrite if it is already there')
-    parser.add_argument('frame_srt_file', help='where to put the resulting SRT file, will overwrite if it is already there')
+    parser.add_argument('frame_srt_file', help='the path to a SRT file containing timestamps ')
     args = parser.parse_args()
     extract_srt(args.video_file, args.srt_file, args.frame_srt_file)
 
@@ -122,16 +133,18 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
 
     subs = None
     sub_index = FIRST_SUB_INDEX
+
+    # Read the SRT file
     if srt != "none":
         subs = pysrt.open(srt)
         #print(len(subs))
 
     cache = []
     while frame is not None:
-        cropped_frame = frame[SUBTITLE_BOUNDS_TOP:SUBTITLE_BOUNDS_BOTTOM,
-                              SUBTITLE_BOUNDS_LEFT:SUBTITLE_BOUNDS_RIGHT]
+        cropped_frame = frame[SUBTITLE_BOUNDS_TOP:SUBTITLE_BOUNDS_BOTTOM, SUBTITLE_BOUNDS_LEFT:SUBTITLE_BOUNDS_RIGHT]
         monochrome_frame = to_monochrome_subtitle_frame_custom(cropped_frame)
 
+        # Parse the SRT and extract subtitles by timestamps if found
         if subs != None:
             if len(subs) == sub_index:
                 break
@@ -139,6 +152,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 break
             millis = get_millis_for_frame(video, frame_number)
             srt_millis = subs[sub_index].start.ordinal + 400
+
             #print(millis, srt_millis, frame_number)
             if srt_millis < millis < srt_millis + 500:
                 #print(frame_number)
@@ -149,6 +163,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 cache.append(line)
                 subs[sub_index].text = line
                 #print(subs[sub_index])
+
                 #print()
                 if sub_index == FIRST_SUB_INDEX+1 and TEST:
                     sys.exit(0)
@@ -158,12 +173,18 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 print(cache)
                 print(subs[sub_index])
                 print()
+                # Try out custom edge gpt for sentence correction
+                # TODO: Add context to the movie for better correction
+                if len("".join(cache)) > 10:
+                    print(edgegpt(prompt.replace("MESSAGE", str(cache))))
+                print()
                 sub_index+=1
                 cache = []
             frame_number += 1
             frame = video.read()
             continue
 
+        # TODO: Update and refactor this
         textImage = Image.fromarray(monochrome_frame)
         frame_hash = imagehash.average_hash(textImage, IMAGE_HASH_SIZE)
         # Only use Tesseract if the subtitle changes. This is for performance
@@ -232,6 +253,7 @@ class SubtitleChange:
         self.timestamp = timestamp
 
     def read_subtitle(self):
+        # TODO: Configure tesseract for better output
         #line = pytesseract.image_to_string(self.frame,lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
         line = pytesseract.image_to_string(self.frame,lang=TESSERACT_EXPECTED_LANGUAGE)
         return clean_up_tesseract_output(line)
@@ -296,8 +318,7 @@ def to_monochrome_subtitle_frame(cropped_frame):
     bounds_width = SUBTITLE_BOUNDS_RIGHT - SUBTITLE_BOUNDS_LEFT
     bounds_height = SUBTITLE_BOUNDS_BOTTOM - SUBTITLE_BOUNDS_TOP
     whitespace_below_y = bounds_height - SUBTITLE_BLANK_SPACE_BELOW
-    above_subtitles = numpy.array([[0, 0], [0, SUBTITLE_BLANK_SPACE_ABOVE],
-        [bounds_width, SUBTITLE_BLANK_SPACE_ABOVE], [bounds_width, 0]])
+    above_subtitles = numpy.array([[0, 0], [0, SUBTITLE_BLANK_SPACE_ABOVE], [bounds_width, SUBTITLE_BLANK_SPACE_ABOVE], [bounds_width, 0]])
     below_subtitles = numpy.array([[0, whitespace_below_y], [0, bounds_height],
     [bounds_width, bounds_height], [bounds_width, whitespace_below_y]])
     # ensure white above and below text. Some blank space is needed for
@@ -332,7 +353,6 @@ def millis_to_srt_timestamp(total_millis):
 
 def get_millis_for_frame(video, frame_number):
     return 1000.0 * frame_number / video.stream.get(cv2.CAP_PROP_FPS)
-
 
 if __name__ == "__main__":
     main()

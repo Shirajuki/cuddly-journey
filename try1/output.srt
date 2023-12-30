@@ -4,11 +4,17 @@
 Không hẳn là mình muốn một cuộc sống hạnh phúc hơn...
 
 
+.............................................................
+Không hẳn là mình muốn một cuộc sống hạnh phúc hơn...
+
 ['Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.', 'Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.']
 2
 00:00:10,800 --> 00:00:14,620
 Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.
 
+
+....................................................................................................................................
+Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứa hẹn.
 
 ['. mm me\n\nHơậ hỗn những diều dó.', 'Hơi hẳn những diều dó.', 'Hơệ hẳn những diều đó.', 'Hơệ hẳn những diều đó.', 'Hơộ hẳn những diều đó.', 'Hơô hẳn những diều dó.', 'Hơn hẳn những diều dó.', 'Hơn liễn những diều dó.', 'Hơn lển những diều dó.', 'Hơn HỂn những diều dó.', 'Hơn tê những điều đỏ.', 'Hơn hệ những điều đỏ.']
 3
@@ -16,11 +22,17 @@ Cũng không phải là tôi muốn nắm bắt những triển vọng dây hứ
 Hơn hệ những điều đỏ.
 
 
+..........................................................................................
+Hơn hẳn những diều đó.
+
 ['Xa xảm đâu đó ngoài kia...', 'Xa xảm đâu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đầu đó ngoài kia...', 'Xa xảm đâu đó ngoài kia...', 'Xa xảm đâu đó ngoài kia...', 'Xa xảm đâu đó ngoài kia...', 'Xa xảm đâu đó ngoài kia...']
 4
 00:00:18,080 --> 00:00:21,880
 Xa xảm đâu đó ngoài kia...
 
+
+...............................................................................................................................
+Xa xảm đâu đó ngoài kia...
 
 ['Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...', 'Tôi...']
 5
@@ -28,11 +40,17 @@ Xa xảm đâu đó ngoài kia...
 Tôi...
 
 
+....................................................................................................
+Tôi...
+
 ['Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.', 'Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.']
 6
 00:00:33,900 --> 00:00:36,880
 Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.
 
+
+........................................................................................................
+Con không nhất thiết phải lên tận Tokyo học đại học đầu.
 
 ['Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...', 'Với lại ở đây cũng không có trưởng luyện thí nảo cả...']
 7
@@ -40,69 +58,4 @@ Con không ñhất nhiết phải lên tận Tokyo học đại học đầu.
 Với lại ở đây cũng không có trưởng luyện thí nảo cả...
 
 
-['Thôi chết! Tớ phải tới lớp luyện thị đây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thi dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thị đây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thị dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thị dây, thế nhé.', 'Thôi chết Tớ phải tới lớp luyện thị dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thị dây, thể nhé.', 'Thôi chết! Tớ phải tới lớp luyện thí dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thị dây, thể nhé.', 'Thôi chết! Tớ phải tới lớp luyện thi dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thi dây, thế nhé.', 'Thôi chết! Tớ phải tới lớp luyện thí đây, thế nhé.']
-8
-00:00:39,120 --> 00:00:42,160
-Thôi chết! Tớ phải tới lớp luyện thí đây, thế nhé.
-
-
-['Năm nay cậu ấy thị đội Tế nhỉ? Ỷ=', 'Năm nay cậu ấy thị đội Tế nhỉ? Ỷ=', 'Năm nay cậu ấy thị đội Tế nhỉ? ,—œ', 'Năm nay cậu ấy thị đội Tế nhỉ? ,—œ', 'Năm nay cậu ấy thị đội Tế nhỉ? ,—œ', 'Năm nay cậu ấy thị đội Tế nhỉ? =', 'Năm nay cậu ấy thị đội Tế nhỉ? =', 'Năm nay cậu ấy thị đội Tế nhỉ? =', 'Năm nay cậu ấy thị đội Tế nhỉ? =', 'Năm nay cậu ấy thị đội Tế nhỉ? =', 'mm nay cậu ấy thi đại học nhỉ?', 'mm nay cậu ấy thi đại học nhỉ?']
-9
-00:00:43,460 --> 00:00:48,020
-mm nay cậu ấy thi đại học nhỉ?
-
-
-['', '', '', '', '', 'Sao thể ạ?', 'Sao thể ạ?', 'Sao thể ạ?', 'Sao thể ạ?', 'Sao thể ạ?', 'Sao thể ạ?', 'Sao thể ạ?']
-10
-00:00:55,440 --> 00:00:57,320
-Sao thể ạ?
-
-
-['Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...', 'Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...']
-11
-00:00:57,320 --> 00:01:02,880
-Không, chỉ là phát hiện ra hai trỏ này rất giống nhau...
-
-
-['', '', '', '', '', '', '', '', '', '', '']
-12
-00:01:03,600 --> 00:01:04,640
-
-
-
-['(AEcc4ec cau', '0 Wsoeu«4 số', '0 .Wsoeu«4 7 số', '6 Woeu«4a na', '/REoccc4ecaap', 'mg. iauôn đf2 suất\n2® 8MWee.<', 'mụz&i,jŠón đf" cố\n48 .8Wsee.<', 'TW c9... 7 xơ', '@MWWoee49‹ 7 số.', '3W %ecoeu<.49.: số.', 'Ò “(RAREoeu9c số PP', 'HBN ĐC nõ0^.']
-13
-00:01:21,500 --> 00:01:23,260
-HBN ĐC nõ0^.
-
-
-["nạn ¡Ð' Lá, đi dây ai Ệ", "nạn ¡Ð' Lá, đi dây ai $", 'an jg!LOAY cá...', 'an jg!LOẠY cay...', 'an jg!HOAY c8.', 'an jg!HOAY c8.', "an jg!'OAY, ¡ á,", "an jg!'OAY, ¡ á,", "an jÐ!'OAY, ¡ á,", "an #g'LAY. . „ T3", "an #g'LAY. . o„ T9", "an #g'LAY. . o„ T9"]
-14
-00:01:23,260 --> 00:01:25,320
-an #g'LAY. . o„ T9
-
-
-['', '', '', '', '', '', '', '', '', '', '', '']
-15
-00:01:25,320 --> 00:01:27,020
-
-
-
-['Á phải rồi, là hôm nay dây nš.. mm', 'Á phải rồi, là hôm nay dây nŠ.. mm', 'Á phải rồi, là hôm nay dây nš.. mm', 'Á phải rồi, là hôm nay dây nš.. max', 'Á phải rồi, là hôm nay dây n=... mmw', 'Á phải rồi, là hôm nay dây nỆ.. mmw', 'Á phải rồi, là hôm nay dây nỆ.. mmw', 'Á phải rồi, là hôm nay dây nỆ.. mmw', "Á phải rồi, là hôm nay dây '. mm", 'Á phải rồi, là hôm nay dây n§t.. mm', 'Á phải rồi, là hôm nay đây b5 mm', 'Á phải rồi, là hôm nay dây b5 mm']
-16
-00:01:29,400 --> 00:01:33,860
-Á phải rồi, là hôm nay dây b5 mm
-
-
-['', '', '', '', '', '', '', '', '', '', '', '']
-17
-00:01:50,920 --> 00:01:52,440
-
-
-
-['', '', '', '', '', '', '', '', '', '', '', '']
-18
-00:01:52,440 --> 00:01:53,720
-
-
-
+........................................................................................
