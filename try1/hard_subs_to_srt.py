@@ -23,6 +23,8 @@ ANSWER
 END
 
 OPTIONAL
+
+Do not write your thoughts, only give the answer.
 """
 
 a = [167,260,383,434,526,814,886,939,1044,1331,1376,1527,1957,1999,2048,2146,2663,2699,2730]
@@ -85,6 +87,9 @@ COMMON_MISTAKES = {
 
 OUTPUT_ENCODING = 'utf-8'
 
+CONV = None
+COOKIE_VALUE = open('.cookie').read()
+
 def main():
     parser = argparse.ArgumentParser(description='Creates an SRT file from a video file that has hardcoded subtitles')
     parser.add_argument('video_file', help='the path to a video file that has hardcoded subtitles')
@@ -124,6 +129,7 @@ class FileAndTerminalStream(object):
 
 
 def convert_frames_to_srt(video, first_frame_pos, srt):
+    global CONV
     prev_frame_hash = NO_SUBTILE_FRAME_HASH
     frame_number = first_frame_pos
     reader = SubtitleReader()
@@ -160,7 +166,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 #print(frame_number)
                 #print(millis_to_srt_timestamp(millis))
                 cv2.imwrite(f"test{sub_index}-{len(cache)}.png", monochrome_frame)
-                line = pytesseract.image_to_string(monochrome_frame, lang=TESSERACT_EXPECTED_LANGUAGE)
+                line = pytesseract.image_to_string(monochrome_frame, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
                 line = clean_up_tesseract_output(line)
                 cache.append(line)
                 subs[sub_index].ntext = line
@@ -183,17 +189,18 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 # TODO: Add context to the movie for better correction
                 if len("".join(cache)) > 10:
                     p = prompt.replace("MESSAGE", str(cache))
-                    opt = """Use the following translation for this subtitle as a base of context for the sentence being corrected:\n""" + str(otext)
+                    opt = """Use the following english translation for this subtitle as a base of context for the sentence being corrected:\n""" + str(otext)
                     p = p.replace("OPTIONAL", opt)
                     # print(p)
-                    # print(edgegpt(p))
+                    out, CONV = edgegpt(p, COOKIE_VALUE, CONV)
+                    print(out)
                 print()
                 sub_index+=1
                 cache = []
             frame_number += 1
             frame = video.read()
             continue
-
+        
         # TODO: Update and refactor this
         textImage = Image.fromarray(monochrome_frame)
         frame_hash = imagehash.average_hash(textImage, IMAGE_HASH_SIZE)
