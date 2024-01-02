@@ -5,3 +5,4 @@ imagehash
 opencv-python
 numpy
 imutils
+lingua-language-detector

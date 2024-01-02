@@ -12,6 +12,10 @@ from threading import Thread
 import argparse
 from edgegpt import edgegpt
 
+from lingua import Language, LanguageDetectorBuilder
+languages = [Language.VIETNAMESE, Language.ENGLISH]
+detector = LanguageDetectorBuilder.from_languages(*languages).build()
+
 prompt = """
 Here is a list of parsed vietnamese subtitle texts:
 MESSAGE
@@ -202,6 +206,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
             continue
         
         # TODO: Update and refactor this
+        # TODO: Check for imagehash, sentence length, sentence similarity and connect the timestamps into one long one
         textImage = Image.fromarray(monochrome_frame)
         frame_hash = imagehash.average_hash(textImage, IMAGE_HASH_SIZE)
         # Only use Tesseract if the subtitle changes. This is for performance
@@ -240,6 +245,19 @@ class SubtitleReader:
             change = self.changes.get()
             line = change.read_subtitle()
 
+            if line == "":
+                continue
+            
+            # TODO: Language detector
+            # TODO: Fix and remove gibberish text as well
+            language = detector.detect_language_of(line)
+            confidence_values = detector.compute_language_confidence_values(line)
+            #if language and language.iso_code_639_3.name == "VIE" and confidence_values[0].value >= 0.7:
+            #    pass
+            #else:
+            #    continue
+
+            # Check for line similarity
             if prev_line != line:
                 if prev_line != '':
                     print_line(
