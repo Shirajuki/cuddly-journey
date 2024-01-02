@@ -16,11 +16,13 @@ prompt = """
 Here is a list of parsed vietnamese subtitle texts:
 MESSAGE
 
-Can you help me clean it up and from all the outputs guess what the correct message is? If you believe something is an abbrevation or doesn't fit in the message please do not include it. Write your answer in the following format, take for example if the answer is "ANSWER":
+Can you help me clean it up and from all the outputs guess what the correct message is? If you believe something is an abbrevation or doesn't fit in the message please do not include it. If you believe the parsed message came out bad and doesn't include anything meaninful, then write the answer as an empty space. Write your answer in the following format, take for example if the answer is "ANSWER":
 
 START
 ANSWER
 END
+
+OPTIONAL
 """
 
 a = [167,260,383,434,526,814,886,939,1044,1331,1376,1527,1957,1999,2048,2146,2663,2699,2730]
@@ -161,7 +163,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 line = pytesseract.image_to_string(monochrome_frame, lang=TESSERACT_EXPECTED_LANGUAGE)
                 line = clean_up_tesseract_output(line)
                 cache.append(line)
-                subs[sub_index].text = line
+                subs[sub_index].ntext = line
                 #print(subs[sub_index])
 
                 #print()
@@ -170,13 +172,21 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                     pass
                 #sub_index+=1
             elif srt_millis < millis < srt_millis + 600:
+                otext = subs[sub_index].text
+                ntext = subs[sub_index].ntext
+                subs[sub_index].text = ntext
                 print(cache)
                 print(subs[sub_index])
+                # print(otext)
                 print()
                 # Try out custom edge gpt for sentence correction
                 # TODO: Add context to the movie for better correction
                 if len("".join(cache)) > 10:
-                    print(edgegpt(prompt.replace("MESSAGE", str(cache))))
+                    p = prompt.replace("MESSAGE", str(cache))
+                    opt = """Use the following translation for this subtitle as a base of context for the sentence being corrected:\n""" + str(otext)
+                    p = p.replace("OPTIONAL", opt)
+                    # print(p)
+                    # print(edgegpt(p))
                 print()
                 sub_index+=1
                 cache = []
