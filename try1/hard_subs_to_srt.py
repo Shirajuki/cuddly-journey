@@ -13,6 +13,9 @@ import argparse
 from edgegpt import edgegpt
 
 from lingua import Language, LanguageDetectorBuilder
+from langdetect import detect
+import pycld2 as cld2
+
 languages = [Language.VIETNAMESE, Language.ENGLISH]
 detector = LanguageDetectorBuilder.from_languages(*languages).build()
 
@@ -69,7 +72,6 @@ IMAGE_HASH_SIZE = 32
 MAX_HASH_DIFFERENCE_FOR_SAME_SUBTITLE = 20
 NO_SUBTILE_FRAME_HASH = imagehash.hex_to_hash('0' * 256)
 
-TESSERACT_EXPECTED_LANGUAGE = 'vie'
 # Page segmentation mode (PSM) 13 means "Raw line. Treat the image as a single
 # text line, bypassing hacks that are Tesseract-specific." See this link for
 # other options:
@@ -87,12 +89,31 @@ COMMON_MISTAKES = {
     '”': '',
     "¬" : "",
     "一": "",
+    "#": "",
+    "°": "",
+    "®": "",
+    "%": "",
+    "ø": "",
+    ".": "",
+    "~": "",
+    "/": "",
+    "\\": "",
+    "“": "",
+    "£": "",
+    "@": "",
+    "}": "",
+    "{": "",
+    "^": "",
+    "\n": ""
 }
 
 OUTPUT_ENCODING = 'utf-8'
 
 CONV = None
 COOKIE_VALUE = open('.cookie').read()
+
+LANGUAGE_TO_DETECT = "vi"
+TESSERACT_EXPECTED_LANGUAGE = 'vie'
 
 def main():
     parser = argparse.ArgumentParser(description='Creates an SRT file from a video file that has hardcoded subtitles')
@@ -250,12 +271,25 @@ class SubtitleReader:
             
             # TODO: Language detector
             # TODO: Fix and remove gibberish text as well
+            # TODO: Save the score to be used later
+            score = 0
+            try:
+                language = detect(line)
+                if language != LANGUAGE_TO_DETECT:
+                    score += 1
+            except:
+                pass
             language = detector.detect_language_of(line)
             confidence_values = detector.compute_language_confidence_values(line)
-            #if language and language.iso_code_639_3.name == "VIE" and confidence_values[0].value >= 0.7:
-            #    pass
-            #else:
-            #    continue
+            if not (language and language.iso_code_639_1.name.lower() == LANGUAGE_TO_DETECT and confidence_values[0].value >= 0.54):
+                score += 1
+
+            isReliable, textBytesFound, details = cld2.detect(line)
+            if not isReliable and details[0][1] != LANGUAGE_TO_DETECT:
+                score += 1
+
+            if score > 1:
+                continue
 
             # Check for line similarity
             if prev_line != line:
