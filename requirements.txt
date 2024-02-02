@@ -7,3 +7,4 @@ numpy
 imutils
 lingua-language-detector
 langdetect
+edge-tts

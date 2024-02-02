@@ -5,16 +5,20 @@ import imagehash
 import cv2
 import numpy
 import sys
+import os
 import pysrt
 from imutils.video import FileVideoStream
 from queue import Queue
 from threading import Thread
 import argparse
-from edgegpt import edgegpt
 
 from lingua import Language, LanguageDetectorBuilder
 from langdetect import detect
 import pycld2 as cld2
+
+sys.path.append('../ai_tools')
+from edgegpt import edgegpt
+sys.path.append('../srt_extract')
 
 languages = [Language.VIETNAMESE, Language.ENGLISH]
 detector = LanguageDetectorBuilder.from_languages(*languages).build()
@@ -110,7 +114,7 @@ COMMON_MISTAKES = {
 OUTPUT_ENCODING = 'utf-8'
 
 CONV = None
-COOKIE_VALUE = open('.cookie').read()
+COOKIE_VALUE = open('../ai_tools/.cookie').read()
 
 LANGUAGE_TO_DETECT = "vi"
 TESSERACT_EXPECTED_LANGUAGE = 'vie'
@@ -191,6 +195,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 #print(frame_number)
                 #print(millis_to_srt_timestamp(millis))
                 cv2.imwrite(f"test{sub_index}-{len(cache)}.png", monochrome_frame)
+                os.popen(f"cp test{sub_index}-{len(cache)}.png ../output")
                 line = pytesseract.image_to_string(monochrome_frame, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
                 line = clean_up_tesseract_output(line)
                 cache.append(line)

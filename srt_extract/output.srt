@@ -1,0 +1,62 @@
+['—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn', '—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn']
+1
+00:00:06,920 --> 00:00:10,800
+—_ Không hẳn là mình muốn một cuộc sống hạnh phúc hơn
+
+
+{'Content-Length': '139', 'Content-Type': 'application/json; charset=utf-8', 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Headers': 'x-ms-client-request-id, x-ms-useragent', 'Access-Control-Allow-Methods': 'GET', 'Access-Control-Allow-Origin': 'https://www.bing.com', 'Access-Control-Expose-Headers': 'X-Sydney-ConversationSignature, X-Sydney-EncryptedConversationSignature, X-MS-Sydney-AffinityToken, X-Chat-SessionId', 'Cache-Control': 'private', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'X-EventID': '65bd323d55a14e2cb22b329820198980', 'UserAgentReductionOptOut': 'A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=', 'Content-Security-Policy-Report-Only': "script-src https: 'strict-dynamic' 'report-sample' 'nonce-QHgmCICJ3qiOff8sZX0aHiXNCLNWiS3e3YeS+zT9Vbo='; base-uri 'self';report-to csp-endpoint", 'Report-To': '{"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}', 'P3P': 'CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"', 'X-Sydney-EncryptedConversationSignature': 'y3CHYlg2WsddTdMttpS1CQQAXMPvpa4rgbeI3d2edax6aXUty7Gah8LsVqsagi946UFOvvfhvQ61MZCTMyj3JHqiitA/SY6pwua9aD538hHFOx3adRE+B0Mrtn+JxEwJhOH6WJ0U9ds5X9Eo5c5WV9odw0BZgg1k52dDIN00ETSMCWMwCmsI0ksvU5OudH0+kDz6rNV+ZJHNEMwzggk1iFrU7RC6/DjDi2EaGiTZTeKAeaHe9hS52maS/ywMoeDHEmO2nt/3dFC3PWQTyI5pT4RUMeMps9rRKfOFjyrSmHuLOX3i/21eu6zW5b6DXPrRVz+cyKrw1D2hTIdEFs+b1gIEutbBnKk8GXW3dvjgEsmu5HfINJgcpxHC5lVXYy72/Cd2Q638f1QdZ8FWh7gtOCgLbFCHwrMIStSHSUctvOi2B67uvsjRBMaYxqmqmyYh1NDYF9q5O57ADAb+cHyg63vnGU8j03Yc1KmGI+je/Kt3GZM/o2WV4oRWppirj9ALAQ8s9AE19gBCG4lW+PkpyuuCTm2Ux9oP8UCIGVsJdLejKio1ZWfLu7FPZLu1fl2xUEF0u7mfb7KXAQoO46be3VUe36N8pN82lqAgoQLfubKJf8/M3nAf/KIB1cbcKgWD0m3x9RLZC75t7RWwq/82+3JVD2Y7UZZwtshQNqWma4XExGFACmQ7AOLIxVblfuckP11ydUdoFEeTVWNaqynNzIWCd8a8hupk2C9AjQMxfxCCugp3lApe31mEV7ignQUf8hCM9tmHXvB7Ry1N9a7oluReLNvxeWQgmw9E7o/0ukulTpDXKsum9s+dQjqMpIHB1iV6rsyIiniDMKayUof1zFOU0EDUM96InlYIhrySz2YdbC/S2WN+WdlAdaExMhFL4NohVBuekoaTHhJrm902zXHgVenfyWrzX6uyRPS2DMkcTyb7sYDcRtB7v/SsMjHw6PPxWj4K1jHaW7f3xS7BwteJxbgdMj9KfIWi7+lxk/j238V6FM95iHUjyoYb+47IvJlgV+EZlYA34bQHBlqdI/v9TAMg3/9ECO+3r+TNAoVFuzaSjmsW2eqh5iDqkC/peXyzrZ8h+f/qZ08ZZjy73HcT1/etwLmdSVbOy94Sk3l12/7P4YRipDsngj7gMi7NTYuULNC01/dqDO18hwLqreO3KxTKt/2fa+6YRWd9az4=', 'X-Sydney-ConversationSignature': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxODI5NTgxNjQ0OTg2NDEyIiwiYXBpcyI6WyJDaGF0SHViIiwiU2VuZEZlZWRiYWNrIiwiUmVuYW1lQ2hhdCIsIlVwZGF0ZUNvbnZlcnNhdGlvbiIsIkRlbGV0ZVNpbmdsZUNvbnZlcnNhdGlvbiIsIkdldENvbnZlcnNhdGlvbiIsIkdldFNoYXJlZE1lc3NhZ2VzIiwiR2V0VHRzIiwiR2V0Q29udGV4dCIsIkV4dGVuc2lvbkh1YiIsIlNlYXJjaEhhcmRlciIsIlNoYXJlTWVzc2FnZXMiLCJEZWxldGVDb252ZXJzYXRpb24iLCJVcGxvYWRGaWxlIiwiQ2hhdCJdLCJjaWQiOiI1MUR8QmluZ1Byb2R8QjhGRjI0NkU1QjQ0QUIxM0Q3RTVBMTBGMTRBMjczMEY5NTRCNzZEM0Y5RkIxMEFDRUI5M0Q3QUZFNEZBN0Q4OCIsImFwcGlkIjoiOWVhMWFkNzktZmRiNi00ZjlhLThiYzMtMmI3MGY5NmUzNGM3IiwidWlkIjoiMTgyOTU4MTY0NDk4NjQxMiIsInNjZW5hcmlvcyI6WyJkZWZhdWx0X3NjZW5hcmlvIl0sIm5iZiI6MTcwNjg5NzkyMiwiZXhwIjoxNzA2OTAxNTgyLCJpYXQiOjE3MDY4OTc5ODIsImlzcyI6Imh0dHBzOi8vc3lkbmV5LmJpbmcuY29tL3N5ZG5leSIsImF1ZCI6Imh0dHBzOi8vc3lkbmV5LmJpbmcuY29tL3N5ZG5leSJ9.ffP9zcsaWz67fGISDwby_QwLsqA44h3h9elzekQFsJ4', 'X-Ceto-ref': '65bd323d55a14e2cb22b329820198980|AFD:65bd323d55a14e2cb22b329820198980|2024-02-02T18:19:41.706Z', 'Date': 'Fri, 02 Feb 2024 18:19:42 GMT', 'Connection': 'keep-alive', 'Set-Cookie': '_C_ETH=1; expires=Thu, 01 Feb 2024 18:19:41 GMT; domain=.bing.com; path=/; secure; httponly, _C_Auth=, SRCHHPGUSR=SRCHLANG=nb&PV=15.0.0&BRW=NOTP&BRH=M&CW=840&CH=928&SCW=840&SCH=796&DPR=1.0&UTC=60&DM=1&EXLTT=31&HV=1704223417&PRVCW=840&PRVCH=928&CIBV=1.1542.0&cdxtone=Precise&cdxtoneopts=h3precise,clgalileo,gencontentv3; domain=.bing.com; expires=Wed, 26-Feb-2025 18:19:41 GMT; path=/; secure; SameSite=None', 'Alt-Svc': 'h3=":443"; ma=93600', 'X-CDN-TraceID': '0.7c0a655f.1706897981.1c13ff0e'}
+...............................
+Không hẳn là mình muốn một cuộc sống hạnh phúc hơn
+
+['__ Cũng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cũng không phải là tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cũng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cũng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cũng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cũng không phải l tôi muốn nắm bắt những triển vọng đấy hứa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ', '__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ']
+2
+00:00:10,800 --> 00:00:14,620
+__ Cảng không phải l tôi muốn nắm bắt những triển vọng đấy húa hơn ˆ
+
+
+.........................................
+Cũng không phải là tôi muốn nắm bắt những triển vọng đầy hứa hẹn
+
+['`', '', 'nŸnỹÿÝŸỶŸ 7 Bồn ghưg de', '"ƒÝaỷÏŸn 7Ô Hong e Cu', 'ŸH ke 7Ô Bồhhg he', '5', 'sŸndZfaeCO TC Bẽhh ghê Ử', '"', '5A ốỐỐ', '—3551AốỐ', '35 AA', '5 Ồ']
+3
+00:00:15,920 --> 00:00:18,080
+5 Ồ
+
+
+....
+
+
+['S  ——————___ Xa sim đâu để ngoà Mu', 'S  ——————___ Xa sim đâu để ngoà Mu', 'ốc', 'ốc', 'ốc', 'S  ——————_—__ Xasim đâu để ngoài Mu', 'S  ——————_—__ Xasim đâu để ngoài Mu', 'S  ——————_—__ Xasim đâu để ngoài Mu', 'S  ——————___ Xa sim đâu để ngoà Mu', 'S  ——————___ Xa sim đâu để ngoà Mu', 'S  ——————___ Xa sim đâu để ngoà Mu', 'S  ——————___ Xa sim đâu để ngoà Mu']
+4
+00:00:18,080 --> 00:00:21,880
+S  ——————___ Xa sim đâu để ngoà Mu
+
+
+...................
+Xa xăm đâu đó ngoài kia
+
+['TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'TL', 'CỐ TS W7 7777 TT']
+5
+00:00:21,880 --> 00:00:25,360
+CỐ TS W7 7777 TT
+
+
+....
+
+
+['_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '__ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '__ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '__ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '__ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '__ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu', '_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu']
+6
+00:00:33,900 --> 00:00:36,880
+_ Can không Bhất nhiết phải lên tận Tokyo học dại học đầu
+
+
+..............................
+Con không cần nhất thiết phải lên tận Tokyo để học đại học đâu
+
+['—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả', '—_ Với lại ở đây càng không có trường luyện thì nào cả']
+7
+00:00:36,880 --> 00:00:39,120
+—_ Với lại ở đây càng không có trường luyện thì nào cả
+
+
+......
