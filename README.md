@@ -28,11 +28,15 @@ pip3 install -r requirements.txt
 ```
 
 ## How to use
+To extract sub channels from a video file run:
+- ffmpeg -i movie.mkv -map 0:s:0 subs.srt
 
 To extract hardcoded subtitles from a video file run:
+- `ffmpeg -i input.mp4 -vcodec copy -acodec copy movie.mkv` (may be different depending on the video format)
+- `python3 hard_subs_to_srt.py movie.mkv output.srt crossroad.srt`
 
-- `ffmpeg -i input.mp4 -vcodec copy -acodec copy output.mkv` (may be different depending on the video format)
-- `python3 hard_subs_to_srt.py output.mkv output.srt crossroad.srt`
+To generate tts from srt files run:
+- `python3 tts.py input.srt`
 
 Note that the script currently only support HD (1280x720) videos for now
 

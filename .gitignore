@@ -1,3 +1,5 @@
 .cookie
 __pycache__
 *.mp3
+*.csv
+*.txt

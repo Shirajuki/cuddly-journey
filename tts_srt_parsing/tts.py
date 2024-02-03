@@ -55,16 +55,22 @@ def srt_parse(srt):
     srt_process(dialogue_srt, "../output/subbed.srt", tts=True)
     srt_process(filtered_srt, "../output/filtered.srt")
 
+def generate_tts(text, i):
+    out = os.path.join(os.path.abspath("../output"), f"{i}.mp3")
+    voice = "vi-VN-HoaiMyNeural"
+    #if "female" not in os.popen(f"cat ../output/extract{i}.csv").read():
+    #    voice = "vi-VN-NamMinhNeural"
+    edgetts(text, voice, out)
+
 def srt_process(srt_list, outfile, tts=False):
     with open(outfile, "w") as f:
-        for sub in srt_list:
-            f.write(f"{sub['timestamp']}\n{sub['text']}\n\n")
+        for i, sub in enumerate(srt_list):
+            f.write(f"{i+1}\n{sub['timestamp']}\n{sub['text']}\n\n")
 
     if tts:
         threads = []
         for i, sub in enumerate(srt_list):
-            out = os.path.join(os.path.abspath("../output"), f"{i}.mp3")
-            thread = threading.Thread(target=edgetts, args=(sub["text"], out))
+            thread = threading.Thread(target=generate_tts, args=(sub["text"], i))
             threads.append(thread)
         
         # Start all the threads
@@ -77,7 +83,10 @@ def srt_process(srt_list, outfile, tts=False):
 
 
 if __name__ == "__main__":
-    srt_parse("ep1.txt")
+    if len(sys.argv) != 2:
+        print("usage: python3 tts.py input.srt")
+    else:
+        srt_parse(sys.argv[1])
 
     
 
