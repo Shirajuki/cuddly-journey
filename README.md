@@ -46,5 +46,5 @@ Note that the script currently only support HD (1280x720) videos for now
 # Credits
 
 - [victorjoh](https://github.com/victorjoh/hard-subs-to-srt) for the initial code that this project were based on
-- [rany2](https://github.com/rany2/edge-tts) for the tts wrapper one Microsoft Edge's tts
+- [rany2](https://github.com/rany2/edge-tts) for the Microsoft Edge's tts python wrapper
 - [vsakkas](https://github.com/vsakkas/sydney.py) used as inspiration in reverse engineering the Bing Chat / Copilot / Sydney API
