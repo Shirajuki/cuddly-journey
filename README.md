@@ -17,7 +17,7 @@ The script relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) for
 
 ## Dependencies
 
-- [Python 3.10](https://www.python.org/downloads/)
+- [Python 3](https://www.python.org/downloads/)
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract#installing-tesseract) with support for your target language
 - [FFmpeg](https://ffmpeg.org/download.html) to convert video to a supported format
 
@@ -38,10 +38,13 @@ To extract hardcoded subtitles from a video file run:
 To generate tts from srt files run:
 - `python3 tts.py input.srt`
 
+To process the generated tts into an audio file:
+- `python3 standalone.py`
+
 Note that the script currently only support HD (1280x720) videos for now
 
 # Credits
 
 - [victorjoh](https://github.com/victorjoh/hard-subs-to-srt) for the initial code that this project were based on
-- [NTT123](https://github.com/NTT123/vietTTS) for the self hosted Vietnamese TTS
+- [rany2](https://github.com/rany2/edge-tts) for the tts wrapper one Microsoft Edge's tts
 - [vsakkas](https://github.com/vsakkas/sydney.py) used as inspiration in reverse engineering the Bing Chat / Copilot / Sydney API
