@@ -17,11 +17,10 @@ def srt_timestamp_to_millis(timestamp):
     millis += int(time_format[-3]) * 60*60*1000
     return millis
 
-def process_srt(srt):
-    if srt == "none":
+def process_srt(srt, input_video=""):
+    if srt == "none" or input_video == "":
         return
 
-    input_video = "/mnt/c/Users/phucj/Downloads/solo-leveling-01.mkv"
     subs = pysrt.open(srt)
     for i in range(0, len(subs)):
         start = srt_timestamp_to_millis(str(subs[i].start))/1000
@@ -57,8 +56,9 @@ def process_speech_segment(srt):
 
 if __name__ == "__main__":
     srt = "../output/subbed.srt"
+    input_video = "/mnt/c/Users/phucj/Downloads/solo-leveling-01.mkv"
     #print("processing srt...")
     #process_srt(srt)
     print("processing speech segmenter...")
-    process_speech_segment(srt)
+    process_speech_segment(srt, input_video)
 

@@ -12,7 +12,7 @@ sys.path.append('../tts_srt_parsing')
 WORDS_TO_REPLACE = [
     ["D", "Đ"]
 ]
-WORDS_TO_REMOVE = [
+TEXT_TO_REMOVE = [
     "(Xem anime sớm nhất tai VuiGhe.App nhé!)"
 ]
 
@@ -46,8 +46,8 @@ def srt_parse(srt):
         text = " ".join(text)
 
         # Remove words
-        for wtr in WORDS_TO_REMOVE:
-            text = text.replace(wtr, "")
+        for ttr in TEXT_TO_REMOVE:
+            text = text.replace(ttr, "")
 
         dialogue = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": text}
         dialogue_srt.append(dialogue)
@@ -58,8 +58,7 @@ def srt_parse(srt):
 def generate_tts(text, i):
     out = os.path.join(os.path.abspath("../output"), f"{i}.mp3")
     voice = "vi-VN-HoaiMyNeural"
-    #if "female" not in os.popen(f"cat ../output/extract{i}.csv").read():
-    #    voice = "vi-VN-NamMinhNeural"
+    # voice = "vi-VN-NamMinhNeural"
     edgetts(text, voice, out)
 
 def srt_process(srt_list, outfile, tts=False):
@@ -76,7 +75,6 @@ def srt_process(srt_list, outfile, tts=False):
         # Start all the threads
         for thread in threads:
             thread.start()
-
         # Wait for all threads to complete
         for thread in threads:
             thread.join()

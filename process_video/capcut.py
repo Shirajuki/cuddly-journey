@@ -93,6 +93,7 @@ def capcut_parse():
     capcut["materials"]["audios"] = audios
     return capcut, ids
 
+# TODO: Update segments to 3 instead of 2
 def capcut_process(data, segments, ids):
     audio_segment = json.loads(json.dumps(AUDIO_SEGMENT))
     audio_segment["id"] = generate_id()
@@ -105,21 +106,9 @@ def capcut_process(data, segments, ids):
         segments[1].append(audio_segment)
 
 def capcut_save(data, segments):
-    data["tracks"][1]["segments"] = segments[0]
-    data["tracks"][2]["segments"] = segments[1]
-    with open("ndraft_content.json", "w") as f:
-        f.write(json.dumps(data))
-
-def srt_parse(srt, data, meta={}):
-    segments = [[],[]]
-    subs = pysrt.open(srt)
-    for i in range(len(subs)):
-        start = srt_timestamp_to_millis(str(subs[i].start))*1000
-        d = {"index": i, "start": start}
-        capcut_process(d, segments, meta)
-    
+    print("[*] Saving...")
     # Update video name
-    name = "solo-leveling-03.mkv"
+    name = "solo-leveling-01.mkv"
     path = f"C:/Users/phucj/Downloads/{name}"
     duration = get_millis_from_video(f"/mnt/c/Users/phucj/Downloads/{name}")*1000
     data["materials"]["videos"][0]["name"] = name
@@ -129,6 +118,21 @@ def srt_parse(srt, data, meta={}):
     data["tracks"][0]["segments"][0]["target_timerange"]["duration"] = duration
     data["tracks"][0]["segments"][0]["volume"] = 0.2818382978439331
 
+    # Update audio segments
+    data["tracks"][1]["segments"] = segments[0]
+    data["tracks"][2]["segments"] = segments[1]
+    with open("ndraft_content.json", "w") as f:
+        f.write(json.dumps(data))
+
+def srt_parse(srt, data, meta={}):
+    segments = [[],[]]
+    subs = pysrt.open(srt)
+    print("[*] Processing...")
+    for i in range(len(subs)):
+        start = srt_timestamp_to_millis(str(subs[i].start))*1000
+        d = {"index": i, "start": start}
+        capcut_process(d, segments, meta)
+
     capcut_save(data, segments)
 
 if __name__ == "__main__":
@@ -136,5 +140,6 @@ if __name__ == "__main__":
     if srt == "none":
         exit(0)
 
+    print("[*] Parsing...")
     data, ids = capcut_parse()
     srt_parse(srt, data, ids)

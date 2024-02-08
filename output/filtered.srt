@@ -1,168 +1,20 @@
 1
-00:00:26,005 --> 00:00:27,090
-(Thông báo) (Chúc mừng, bạn đã trở thành Người chơi.)
+00:00:02,398 --> 00:00:05,485
+(BA NĂM TRƯỚC)
 
 2
-00:02:44,977 --> 00:02:50,030
-(Chỉ Mình Tôi Thăng Cấp)
+00:04:35,045 --> 00:04:38,007
+(CHỈ MÌNH TÔI THĂNG CẤP)
 
 3
-00:05:16,879 --> 00:05:18,300
-(Điểm: 10)
+00:04:38,507 --> 00:04:40,509
+(BA NĂM SAU)
 
 4
-00:05:50,871 --> 00:05:52,590
-(Thông báo) (Bạn có tin nhắn chưa đọc.)
+00:04:40,550 --> 00:04:42,505
+(HIỆN TẠI)
 
 5
-00:05:56,544 --> 00:05:58,920
-(Thông báo) (Bạn có tin nhắn chưa đọc.)
-
-6
-00:06:06,304 --> 00:06:07,800
-(Thông báo) (Nhiệm vụ ẩn: "Dũng khí của kẻ yếu".)
-
-7
-00:06:07,847 --> 00:06:09,550
-(Thông báo) (Bạn đạt tư cách trở thành Người chơi.) (Có chấp nhận không?)
-
-8
-00:06:09,599 --> 00:06:10,510
-(Thông báo) (Nếu chọn không chấp nhận, tim bạn sẽ ngừng đập trong 0.02 giây.) (Có chấp nhận không?) (Có - Không)
-
-9
-00:06:10,558 --> 00:06:11,220
-(Trong 0.02 giây)
-
-10
-00:06:11,267 --> 00:06:11,930
-(Tim sẽ)
-
-11
-00:06:11,976 --> 00:06:13,310
-(Ngừng đập)
-
-12
-00:06:13,352 --> 00:06:15,820
-(Thông báo) (Nếu chọn không chấp nhận, tim bạn sẽ ngừng đập trong 0.02 giây.) (Có chấp nhận không?) (Có - Không)
-
-13
-00:07:15,039 --> 00:07:15,850
-(Thông báo) (Bạn đã trở thành Người chơi.) (Nhận nhiệm vụ hàng ngày: Rèn luyện Sức mạnh.)
-
-14
-00:07:52,493 --> 00:07:53,470
-(Thông tin nhiệm vụ) (Mục tiêu)
-
-15
-00:10:00,000 --> 00:10:02,248
-(XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-16
-00:10:02,248 --> 00:10:02,950
-(Cảnh báo: Trong trường hợp không hoàn thành hết tất cả, hình phạt sẽ được áp dụng.) (XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-17
-00:10:02,950 --> 00:10:02,998
-(XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-18
-00:10:02,998 --> 00:10:05,540
-(Thông báo) (Nhận nhiệm vụ hàng ngày: Rèn luyện Sức mạnh.) (XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-19
-00:10:05,540 --> 00:10:07,837
-(XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-20
-00:10:09,530 --> 00:10:15,000
-(XEM ANIME VIETSUB SỚM TRÊN VUIGHE.APP)
-
-21
-00:10:30,234 --> 00:10:31,480
-(Nanh độc Rết khổng lồ sa mạc)
-
-22
-00:10:32,987 --> 00:10:34,154
-(Thông tin nhiệm vụ) (Nhiệm vụ hình phạt: Sống sót!)
-
-23
-00:10:34,196 --> 00:10:35,610
-(Mục tiêu) (Sống sót trong)
-
-24
-00:11:11,108 --> 00:11:14,060
-(Sống sót trong)
-
-25
-00:11:31,045 --> 00:11:31,710
-(Sống sót trong)
-
-26
-00:11:34,590 --> 00:11:35,540
-(Sống sót trong)
-
-27
-00:11:37,551 --> 00:11:38,510
-(Sống sót trong)
-
-28
-00:11:40,095 --> 00:11:41,050
-(Sống sót trong)
-
-29
-00:11:42,222 --> 00:11:42,840
-(Sống sót trong)
-
-30
-00:11:49,396 --> 00:11:54,060
-(Thông báo) (Nhiệm vụ hình phạt: Sống sót!)
-
-31
-00:12:00,324 --> 00:12:01,990
-(Thông báo) (Bạn đã nhận được phần thưởng từ Nhiệm vụ hình phạt: Sống sót!) (Kiểm tra phần thưởng?) (Có - Không)
-
-32
-00:13:38,672 --> 00:13:39,550
-(Thông tin nhiệm vụ) (Nhận nhiệm vụ hàng ngày: Rèn luyện sức mạnh.)
-
-33
-00:13:42,384 --> 00:13:43,600
-(Phần thưởng nhiệm vụ) (Hồi phục hoàn toàn) (+ 3 điểm Giá trị năng lực) (Hộp ngẫu nhiên) (Chấp nhận phần thưởng?) (Có - không)
-
-34
-00:14:47,407 --> 00:14:48,490
-(Chìa khóa dịch chuyển đến Phó bản Hầm ngục. Có thể dùng tại cửa ra số 3 nhà ga Hapjeong.)
-
-35
-00:17:25,315 --> 00:17:29,860
-(Ga Hapjeong)
-
-36
-00:18:00,934 --> 00:18:02,260
-(Ga Hapjeong)
-
-37
-00:18:12,612 --> 00:18:13,530
-(Ga Hapjeong)
-
-38
-00:18:19,870 --> 00:18:21,450
-(Thông báo) (Bạn đã vào Phó bản Hầm ngục.)
-
-39
-00:18:56,782 --> 00:18:57,690
-(Thông báo) (Bạn không thể thoát khỏi hầm ngục. Phải đánh bại con trùm hoặc sử dụng Đá dịch chuyển.)
-
-40
-00:21:14,085 --> 00:21:14,920
-(Nanh thép LYCAN)
-
-41
-00:23:32,140 --> 00:23:34,950
-(Chỉ Mình Tôi Thăng Cấp)
-
-42
-00:23:35,643 --> 00:23:40,520
-(Tập 4 - Mình phải trở nên mạnh mẽ hơn)
+00:23:37,061 --> 00:23:40,772
+(TẬP 2 - NẾU CÓ THÊM MỘT CƠ HỘI NỮA)
 
