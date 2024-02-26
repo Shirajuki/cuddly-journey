@@ -1,20 +1,100 @@
 1
-00:00:02,398 --> 00:00:05,485
-(BA NĂM TRƯỚC)
+00:00:58,913 --> 00:00:59,800
+(Hội trưởng Hội Bạch Hổ)
 
 2
-00:04:35,045 --> 00:04:38,007
-(CHỈ MÌNH TÔI THĂNG CẤP)
+00:01:06,879 --> 00:01:07,493
+(Chủ tịch Hiệp hội Thợ săn)
 
 3
-00:04:38,507 --> 00:04:40,509
-(BA NĂM SAU)
+00:03:00,701 --> 00:03:05,991
+(Chỉ Mình Tôi Thăng Cấp)
 
 4
-00:04:40,550 --> 00:04:42,505
-(HIỆN TẠI)
+00:08:35,786 --> 00:08:37,788
+(Thông báo) (Nhiệm vụ ẩn: "Dũng khí của kẻ yếu".)
 
 5
-00:23:37,061 --> 00:23:40,772
-(TẬP 2 - NẾU CÓ THÊM MỘT CƠ HỘI NỮA)
+00:08:37,830 --> 00:08:39,707
+(Thông báo) (Bạn đạt tư cách trở thành Người chơi. Có chấp nhận không?)
+
+6
+00:08:39,749 --> 00:08:42,460
+(Thông báo) (Nếu chọn không chấp nhận, tim bạn sẽ ngừng đập trong 0.02 giây. Có chấp nhận không?) (Có - Không)
+
+7
+00:08:42,501 --> 00:08:46,005
+(Có)
+
+8
+00:08:46,672 --> 00:08:47,715
+(Thông báo) (Chúc mừng, bạn đã trở thành Người chơi.)
+
+9
+00:10:12,508 --> 00:10:13,592
+(Chìa khóa dịch chuyển đến Phó bản hầm ngục. Có thể dùng tại cửa ra số 3 nhà ga Hapjeong.)
+
+10
+00:10:26,522 --> 00:10:30,860
+(Ga Hapjeong)
+
+11
+00:12:05,120 --> 00:12:06,205
+(Vua đầm lầy Nanh độc Kasaka Xanh)
+
+12
+00:15:56,018 --> 00:15:57,130
+(Chống đẩy, Gập bụng, Squat, Chạy bộ)
+
+13
+00:15:58,061 --> 00:15:59,933
+(Phần thưởng nhiệm vụ) (1. Hồi phục hoàn toàn) (2. +3 điểm Giá trị năng lực) (3. Hộp ngẫu nhiên)
+
+14
+00:17:37,035 --> 00:17:38,287
+(Cảnh báo: Nếu không hoàn thành sẽ phải nhận hình phạt thích đáng.)
+
+15
+00:17:38,328 --> 00:17:39,204
+(Cảnh báo: Nếu không hoàn thành, tim sẽ ngừng đập.)
+
+16
+00:17:39,246 --> 00:17:39,760
+(Những kẻ này là kẻ địch muốn giết Người chơi.)
+
+17
+00:18:50,233 --> 00:18:51,109
+(Số kẻ địch đã tiêu diệt) (0/6)
+
+18
+00:18:51,151 --> 00:18:51,651
+(Số kẻ địch đã tiêu diệt) (1/6)
+
+19
+00:19:06,416 --> 00:19:07,566
+(Nếu không hoàn thành, tim sẽ ngừng đập.)
+
+20
+00:19:38,907 --> 00:19:39,658
+(Bùa hại) (Tê liệt) (Chảy máu)
+
+21
+00:19:54,047 --> 00:19:54,631
+(Số kẻ địch đã tiêu diệt) (4/6)
+
+22
+00:19:54,673 --> 00:19:55,465
+(Số kẻ địch đã tiêu diệt) (5/6)
+
+23
+00:21:35,148 --> 00:21:35,982
+(Số kẻ địch đã tiêu diệt) (6/6)
+
+24
+00:21:36,024 --> 00:21:37,067
+(Thông báo) (Hoàn thành nhiệm vụ khẩn cấp: Tiêu diệt kẻ địch.)
+
+25
+00:23:37,062 --> 00:23:39,773
+(Chỉ Mình Tôi Thăng Cấp)
 

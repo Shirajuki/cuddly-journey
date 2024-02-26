@@ -13,7 +13,8 @@ WORDS_TO_REPLACE = [
     ["D", "Đ"]
 ]
 TEXT_TO_REMOVE = [
-    "(Xem anime sớm nhất tai VuiGhe.App nhé!)"
+    "(Xem anime sớm nhất tai VuiGhe.App nhé!)",
+    "(Xem anime sớm nhất tạii VuiGhe.App nhé!)"
 ]
 
 def srt_timestamp_to_millis(timestamp):
@@ -114,6 +115,3 @@ if __name__ == "__main__":
     else:
         print("[*] Parsing...")
         srt_parse(sys.argv[1])
-
-    
-
