@@ -85,7 +85,6 @@ def generate_tts(text, duration, index):
     audio = AudioSegment.from_file(out)
     audio_duration = len(audio)
     duration = srt_timestamp_to_millis(str(duration))
-    # print(duration, audio_duration)
     # Speedup
     if duration + 350 <= audio_duration:
         edgetts(text, voice, out, "+40%")
