@@ -2,11 +2,12 @@ import json
 import requests as req
 from urllib.parse import quote
 from websocket import WebSocket
+import time
 import re
 import os
 import sys
 
-BUNDLED_VERSION = "1.1542.0"
+BUNDLED_VERSION = "1.1600.0"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
 
 def edgegpt(prompt_message, cookie_value, conv=None):
@@ -57,18 +58,14 @@ def edgegpt(prompt_message, cookie_value, conv=None):
     add_conversation_url = f"https://www.bing.com/codex/plugins/conversation/add?conversationId={quote(conversation_id)}&appid={appid}&pluginId={plugin_id}"
     res = sess.post(add_conversation_url)
     res = res.json()
-
-    if not res.get("IsSuccess", False):
-        return ""
+    #if not res.get("IsSuccess", False):
+    #    return "", conv
 
     chathub_url = f"wss://sydney.bing.com/sydney/ChatHub?sec_access_token={quote(encrypted_conversation_signature).replace('/','%2F')}"
-
     def as_json(message):
         DELIMETER = "\x1e"  # Record separator character.
         return json.dumps(message) + DELIMETER
-
     cookies = "; ".join([f"{x[0]}={x[1]}" for x in sess.cookies.items()])
-
     ws = WebSocket()
     ws.connect(chathub_url, cookie=cookies)
     ws.send(as_json({"protocol": "json", "version": 1}))
@@ -88,12 +85,14 @@ def edgegpt(prompt_message, cookie_value, conv=None):
                             "enablemm",
                             "dv3sugg",
                             "autosave",
-                            "iyxapbing",
-                            "iycapbing",
-                            "h3precise",
-                            "clgalileo",
-                            "gencontentv3",
+                            "uquopt",
+                            "codeintfile",
+                            "rctechalwlst",
+                            "fluxprod",
                             "eredirecturl",
+                            "ldsummary",
+                            "ldqa",
+                            "sdretrieval"
                         ],
                         "allowedMessageTypes": [
                             "ActionRequest",
@@ -104,7 +103,6 @@ def edgegpt(prompt_message, cookie_value, conv=None):
                             "InternalSearchResult",
                             "Disengaged",
                             "InternalLoaderMessage",
-                            "InvokeAction",
                             "Progress",
                             "RenderCardRequest",
                             "RenderContentRequest",
@@ -112,11 +110,13 @@ def edgegpt(prompt_message, cookie_value, conv=None):
                             "SemanticSerp",
                             "GenerateContentQuery",
                             "SearchQuery",
+                            "GeneratedCode",
+                            "InternalTasksMessage"
                         ],
                         "sliceIds": [],
                         "verbosity": "verbose",
                         "scenario": "SERP",
-                        "plugins": [{"id": plugin_id}],
+                        "plugins": [{"id": plugin_id, "category": 1}],
                         "conversationHistoryOptionsSets": [
                             "autosave",
                             "savemem",
@@ -149,13 +149,25 @@ def edgegpt(prompt_message, cookie_value, conv=None):
     out = ""
     run = True
     invalid_runs = 0
-    while run and invalid_runs <= 10:
+    while run and invalid_runs <= 7:
         print(".", end="", flush=True)
         invalid_runs += 1
         try:
-            data = json.loads(ws.recv().strip())
+            odata = ws.recv().strip()
+            if odata.startswith('{"type":2'):
+                run = False
+                break
+            data = json.loads(odata)
+            dtype = data.get("type", 1)
+            if dtype == 2:
+                run = False
+                break
+            if dtype == 6:
+                invalid_runs = 0
+                continue
             item = data.get("arguments", [])[0]
             messages = item.get("messages", [])
+            # print(messages)
             for msg in messages:
                 text = msg.get("text", "")
                 # print(text, flush=True)
@@ -163,12 +175,11 @@ def edgegpt(prompt_message, cookie_value, conv=None):
                 if "END" in text:
                     pattern = re.compile(r"START(.*?)END", re.DOTALL)
                     out = pattern.findall(text)[0].strip()
-                    run = False
                     break
         except Exception as e:
             pass
     print()
-    return out, conv
+    return out, conv.copy()
 
 
 if __name__ == "__main__":
@@ -191,7 +202,7 @@ Do not write your thoughts, only give the answer.
 """
     out, conv = edgegpt(prompt_message, cookie_value)
     print(out, conv)
-    out, conv = edgegpt("Can you repeat the answer again?", cookie_value, conv)
+    out, conv = edgegpt("Can you repeat the answer above again?", cookie_value, conv)
     print(out, conv)
-    out, conv = edgegpt("Can you repeat the answer once again?", cookie_value, conv)
+    out, conv = edgegpt("Can you repeat the answer above once again?", cookie_value, conv)
     print(out, conv)
