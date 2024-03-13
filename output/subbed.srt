@@ -1,1104 +1,1300 @@
 1
-00:00:01,147 --> 00:00:03,500
-Quay ngược về hơn mười năm trước.
+00:00:08,112 --> 00:00:11,616
+Vật phẩm chữa lành mọi bệnh tật sao...
 
 2
-00:00:03,524 --> 00:00:05,866
-Một lối đi kết nối đến chiều không gian khác,
+00:00:17,997 --> 00:00:22,942
+Nếu có thuốc này thì có thể chữa lành bệnh Nịch thụy của mẹ không chừng...
 
 3
-00:00:05,902 --> 00:00:08,408
-thứ mà sau này người ta gọi là Cánh cổng đột nhiên xuất hiện.
+00:00:22,961 --> 00:00:27,173
+Cần ba vật phẩm để tạo ra Nước thánh của sự sống.
 
 4
-00:00:09,530 --> 00:00:14,700
-Bên trong Cánh cổng tồn tại những con quái vật kỳ dị,
+00:00:27,215 --> 00:00:29,395
+Tuy mình chưa có cái nào hết,
 
 5
-00:00:14,744 --> 00:00:17,000
-và những người thức tỉnh khả năng chiến đấu
+00:00:29,425 --> 00:00:31,902
+nhưng đã biết rõ có thể tìm chúng ở đâu rồi.
 
 6
-00:00:17,038 --> 00:00:21,166
-với bọn quái vật khiến quân đội bình thường đành bó tay chịu trói ấy...
+00:00:32,845 --> 00:00:38,050
+Nhưng với khả năng của mình hiện tại, thì bước qua cánh cổng đó chẳng khác nào tự sát.
 
 7
-00:00:21,209 --> 00:00:22,752
-được gọi là Thợ săn.
+00:00:38,101 --> 00:00:40,311
+Mình phải thăng cấp nhiều hơn...
 
 8
-00:00:23,419 --> 00:00:35,100
-Thợ săn được chia thành các hạng S, A, B, C, Đ, E dựa theo lượng ma lực bên trong cơ thể.
+00:00:41,437 --> 00:00:42,855
+Nhiều hơn nữa.
 
 9
-00:00:35,139 --> 00:00:40,604
-Tuy nhiên, một người sau khi đã thức tỉnh thì dù có nỗ lực đến đâu,
+00:00:43,648 --> 00:00:46,025
+Mình phải trở nên mạnh hơn mới được...
 
 10
-00:00:40,645 --> 00:00:43,564
-năng lực của người đó cũng sẽ không bao giờ phát triển.
+00:02:17,533 --> 00:02:19,330
+Anh chấp nhận sao ạ?
 
 11
-00:00:44,691 --> 00:00:48,833
-Thức tỉnh trở thành Thợ săn yếu nhất dù là trong số hạng E.
+00:02:19,369 --> 00:02:21,204
+Tình hình có chút thay đổi.
 
 12
-00:00:48,861 --> 00:00:51,297
-Chính là Sung Jinwoo mình đây.
+00:02:21,245 --> 00:02:25,111
+Tôi chấp nhận yêu cầu tham gia mười chín chuyến công phá hạng C với cậu.
 
 13
-00:00:51,698 --> 00:00:54,853
-Là người thức tỉnh trở thành Thợ săn yếu nhất nhân loại,
+00:02:26,834 --> 00:02:28,836
+Thế nhưng, tôi có một điều kiện.
 
 14
-00:00:54,909 --> 00:00:56,780
-mình chỉ là đứa làm vướng chân người khác,
+00:02:28,878 --> 00:02:31,600
+Vâng! Cần gì anh cứ nói ạ!
 
 15
-00:00:56,828 --> 00:00:58,871
-và luôn phải cận kề cái chết.
+00:02:32,799 --> 00:02:35,431
+Cậu và tôi, chỉ có hai chúng ta đi thôi.
 
 16
-00:00:59,831 --> 00:01:00,957
-Cả nước chỉ có một vài Thợ săn hạng S. (Hội trưởng Hội Bạch Hổ)
+00:02:37,845 --> 00:02:43,059
+Ý đại ca là, sẽ chỉ có em và anh phá đảo hầm ngục hạng C sao ạ?
 
 17
-00:01:00,999 --> 00:01:03,376
-Cả nước chỉ có một vài Thợ săn hạng S. (Hội trưởng Hunters Guild)
+00:02:43,101 --> 00:02:44,602
+Ý tôi là vậy đấy.
 
 18
-00:01:03,418 --> 00:01:06,835
-Mình cũng muốn thức tỉnh trở thành Thợ săn như họ. (Hội phó Hunters Guild)
+00:02:46,145 --> 00:02:52,026
+Nh-Nhưng cần phải có ít nhất tám thành viên mới được vào cổng hạng C...
 
 19
-00:01:07,547 --> 00:01:10,174
-Tổ chức quản lý những Thợ săn (Chủ tịch Hiệp hội Thợ săn)
+00:02:52,068 --> 00:02:54,153
+Tìm người bù cho đủ số là được.
 
 20
-00:01:10,216 --> 00:01:11,733
-và điều phối các chuyến công phá hầm ngục (Trưởng bộ phận giám sát Hiệp hội Thợ săn)
+00:02:54,612 --> 00:02:57,615
+Giống như cách Hwang Dongsuk dùng thôi.
 
 21
-00:01:11,759 --> 00:01:13,094
-chính là Hiệp hội Thợ săn. (Trưởng bộ phận giám sát Hiệp hội Thợ săn)
+00:02:59,409 --> 00:03:02,586
+Nh-Nhưng có nguy hiểm quá không ạ?
 
 22
-00:01:14,095 --> 00:01:16,660
-Những người có sức mạnh như quái vật.
+00:03:02,620 --> 00:03:04,631
+Tùy vào cách cậu nhìn nhận thôi.
 
 23
-00:01:16,681 --> 00:01:19,000
-Những người có sức mạnh để hợp sức với người khác.
+00:03:05,248 --> 00:03:06,791
+Chỉ cần hai chúng ta không sao,
 
 24
-00:01:19,058 --> 00:01:22,186
-Cứu giúp, trở nên có ích, hỗ trợ người khác.
+00:03:06,833 --> 00:03:10,002
+thì cậu sẽ đạt thành tích mười chín chuyến công phá mà không một ai bị thương.
 
 25
-00:01:22,228 --> 00:01:25,366
-Kẻ chẳng thể làm gì, chẳng có một tác dụng nào như mình...
+00:03:10,545 --> 00:03:12,964
+Một đội tấn công liên tiếp bình an mười chín lần.
 
 26
-00:01:25,398 --> 00:01:27,734
-tuyệt đối không bao giờ có thể đuổi kịp họ.
+00:03:14,298 --> 00:03:18,970
+Đó không phải là cơ sở rất tốt để bố cậu công nhận khả năng sao.
 
 27
-00:01:29,569 --> 00:01:30,737
-Đến tận bây giờ...
+00:03:19,011 --> 00:03:20,430
+Đúng thật...
 
 28
-00:01:30,778 --> 00:01:33,786
-mình đã luôn nghĩ vậy.
+00:03:24,350 --> 00:03:25,935
+Vậy làm thế đi, đại ca!
 
 29
-00:03:10,461 --> 00:03:13,306
-Ủa? Sung đây mà?
+00:03:25,977 --> 00:03:29,564
+Em sẽ lo sắp xếp thành viên và Cánh cổng!
 
 30
-00:03:13,339 --> 00:03:16,200
-Mình là Sung Jinwoo.
+00:04:07,560 --> 00:04:10,062
+Thế, tìm tôi có việc gì?
 
 31
-00:03:16,259 --> 00:03:20,263
-Yếu nhất trong cả hạng Thợ săn yếu nhất là hạng E.
+00:04:11,189 --> 00:04:12,523
+Bất ngờ thật.
 
 32
-00:03:20,304 --> 00:03:22,604
-Biệt danh được gán cho mình là...
+00:04:12,565 --> 00:04:15,443
+Đúng là Thợ săn hạng S có khác.
 
 33
-00:03:22,640 --> 00:03:25,608
-Biệt danh là “Vũ khí yếu nhất nhân loại".
+00:04:15,485 --> 00:04:18,446
+Tôi đang cố tìm thời điểm thích hợp để bắt chuyện...
 
 34
-00:03:25,643 --> 00:03:28,737
-Nhưng dù là Vũ khí yếu nhất nhân loại đi nữa,
+00:04:18,988 --> 00:04:20,948
+Xin lỗi vì làm phiền trong lúc cô đang luyện tập.
 
 35
-00:03:28,771 --> 00:03:32,233
-mình vẫn có gia đình cần phải bảo vệ.
+00:04:20,990 --> 00:04:24,200
+Đây là danh thiếp của tôi.
 
 36
-00:03:32,275 --> 00:03:37,342
-Mình cần phải chinh phục hầm ngục bên trong Cánh cổng để nhận phần thưởng.
+00:04:33,044 --> 00:04:36,380
+Đã hơn mười năm từ khi cánh cổng đầu tiên xuất hiện.
 
 37
-00:03:40,074 --> 00:03:41,701
-Được rồi!
+00:04:36,422 --> 00:04:39,926
+Thế giới đã thay đổi chóng mặt.
 
 38
-00:03:41,742 --> 00:03:43,327
-Cuối cùng cũng được một viên!
+00:04:39,967 --> 00:04:44,305
+Ở thời điểm hiện tại, cơ sở hạ tầng, kinh tế, truyền thông, thậm chí đến cả chính trị,
 
 39
-00:03:43,369 --> 00:03:44,328
-Jinwoo!
+00:04:44,347 --> 00:04:48,471
+không một thứ gì có thể nằm ngoài guồng quay của các hầm ngục.
 
 40
-00:03:58,843 --> 00:04:00,151
-Jinwoo!
+00:04:48,518 --> 00:04:51,937
+Đặc biệt là các cơ sở hạ tầng nền tảng cho cuộc sống của con người,
 
 41
-00:04:00,178 --> 00:04:01,512
-Cháu lùi lại đi, Joohee!
+00:04:51,979 --> 00:04:55,404
+không thể duy trì nếu không có tài nguyên từ hầm ngục.
 
 42
-00:04:08,060 --> 00:04:09,960
-Không sao rồi.
+00:04:55,441 --> 00:05:00,863
+Người duy nhất có thể mang tài nguyên quan trọng đó về thế giới này
 
 43
-00:04:10,021 --> 00:04:11,898
-Tôi nhất định sẽ chữa được cho cậu.
+00:05:00,905 --> 00:05:02,862
+chính là những Thợ săn.
 
 44
-00:04:24,577 --> 00:04:26,213
-Đúng là anh Song có khác.
+00:05:02,907 --> 00:05:06,097
+Và cơ quan quản lý những Thợ săn đó,
 
 45
-00:04:24,577 --> 00:04:26,213
-Chúng ta làm được rồi!
+00:05:06,577 --> 00:05:10,289
+là một tổ chức chính thức với tên gọi Hiệp hội Thợ săn.
 
 46
-00:04:26,245 --> 00:04:27,872
-Ê!
+00:05:12,083 --> 00:05:18,548
+Hiệp hội Thợ săn xếp hạng, ghi danh và quản lý những Thợ săn đã thức tỉnh.
 
 47
-00:04:27,914 --> 00:04:29,617
-Lại đây xem này!
+00:05:18,589 --> 00:05:21,217
+Họ lo việc xử lý những Cánh cổng bị lọt ngoài đấu thầu,
 
 48
-00:04:30,166 --> 00:04:33,711
-Nhưng không ngờ sau khi chinh phục hầm ngục, bên trong còn hầm ngục tầng hai nữa.
+00:05:21,259 --> 00:05:23,970
+cho đến đối phó với bùng nổ hầm ngục.
 
 49
-00:04:33,753 --> 00:04:38,933
-Tuy có rất nhiều nguy cơ, nhưng cùng với đó là cơ hội để kiếm nhiều phần thưởng hơn.
+00:05:24,637 --> 00:05:28,683
+Nhưng dù vậy, Hiệp hội cũng chỉ là một cơ quan chính thức.
 
 50
-00:04:38,966 --> 00:04:42,512
-Bọn mình đã bỏ phiếu đa số và quyết định tiến lên.
+00:05:28,724 --> 00:05:34,689
+Trên thực tế, người mang phần lớn tài nguyên về từ hầm ngục đủ để vận hành xã hội này
 
 51
-00:04:49,352 --> 00:04:52,396
-Nhưng hóa ra... đó là một sai lầm.
+00:05:34,730 --> 00:05:38,115
+là những doanh nghiệp dựa trên ngành Thợ săn gọi là "Hội".
 
 52
-00:04:54,941 --> 00:04:56,020
-Mọi người, mau nằm xuống!
+00:05:38,776 --> 00:05:43,823
+Các Hội thu thập tài nguyên từ hầm ngục và kiếm được lợi nhuận khổng lồ từ đó.
 
 53
-00:05:07,036 --> 00:05:09,555
-Chuyện gì đang diễn ra thế này...
+00:05:44,365 --> 00:05:46,367
+Trong số đó, "Hội Hunter",
 
 54
-00:05:10,456 --> 00:05:12,866
-Rốt cuộc tại sao chuyện này lại xảy ra...
+00:05:46,409 --> 00:05:47,702
+"Hội Bạch Hổ",
 
 55
-00:05:12,917 --> 00:05:14,200
-Bị nhốt.
+00:05:47,743 --> 00:05:49,245
+"Hội Tử Thần",
 
 56
-00:05:14,252 --> 00:05:15,211
-Không chạy thoát được.
+00:05:49,287 --> 00:05:50,538
+"Hội Minh Tinh"
 
 57
-00:05:15,253 --> 00:05:17,672
-Chết... Chết...
+00:05:50,580 --> 00:05:54,709
+và "Hội Kỵ Sĩ Đoàn" là năm Hội lớn và hùng mạnh nhất cả nước.
 
 58
-00:05:21,175 --> 00:05:22,760
-Mình sẽ bị giết.
+00:05:54,750 --> 00:05:58,693
+Có thể nói chúng chính là những người độc chiếm lợi nhuận trong ngành này.
 
 59
-00:05:28,599 --> 00:05:30,766
-Bọn mình hoàn toàn không có cửa
+00:05:59,338 --> 00:06:03,546
+Không thể chỉ đứng nhìn tình trạng đó tiếp diễn.
 
 60
-00:05:30,810 --> 00:05:34,430
-đối đầu với con trùm của hầm ngục hai tầng,
+00:06:03,593 --> 00:06:07,388
+Đó là chưa kể đến, những tài nguyên quý giá có thể được xem như huyết mạch của xã hội,
 
 61
-00:05:34,480 --> 00:05:38,276
-Đơn giản chỉ là đứng yên chờ chết thôi.
+00:06:07,430 --> 00:06:10,975
+không thể giao cho bọn người hữu dũng vô mưu được.
 
 62
-00:05:42,113 --> 00:05:44,471
-Chú Song, chú dẫn Joohee chạy đi.
+00:06:11,934 --> 00:06:14,979
+Là những người thúc đẩy sự phát triển của quốc gia từ trước tới nay,
 
 63
-00:05:46,075 --> 00:05:47,285
-Đã bảo tôi sẽ ở lại mà!
+00:06:15,021 --> 00:06:17,191
+chúng ta phải có trách nhiệm tiếp quản chúng.
 
 64
-00:05:47,326 --> 00:05:49,733
-Vậy thì ai cõng Joohee đi đây?
+00:06:18,941 --> 00:06:22,987
+Chính vì thế, việc thành lập Hội là một điều vô cùng cần thiết.
 
 65
-00:05:49,787 --> 00:05:51,914
-Không còn thời gian nữa đâu! Nhanh đi!
+00:06:24,155 --> 00:06:25,990
+V-Vâng ạ...
 
 66
-00:05:52,707 --> 00:05:54,100
-Kh-Không được đâu Jinwoo!
+00:06:28,284 --> 00:06:29,952
+Dù biết là thế,
 
 67
-00:05:54,125 --> 00:05:55,126
-Nếu thế thì để tôi...
+00:06:29,994 --> 00:06:35,416
+lôi kéo một Thợ săn hạng S rồi cho họ cùng quản lý với anh trai thì rủi ro quá...
 
 68
-00:05:55,167 --> 00:05:57,920
-Tôi đã hứa sẽ đãi cậu ăn nhỉ.
+00:06:35,458 --> 00:06:38,628
+Nhưng hiện tại mình đã có...
 
 69
-00:05:58,421 --> 00:06:00,881
-Dùng cái này ăn gì đó trước đi.
+00:06:53,434 --> 00:06:56,687
+Nó không đếm thêm số vượt quá nữa rồi à.
 
 70
-00:06:00,923 --> 00:06:03,966
-Sau khi ra khỏi đây tôi sẽ đến đòi tiền thối đấy nhé...
+00:06:56,937 --> 00:07:02,652
+Quả nhiên, do nhiệm vụ ẩn lần trước không chọn
 
 71
-00:06:04,010 --> 00:06:05,595
-Đến lúc này rồi mà còn...
+00:07:02,693 --> 00:07:06,072
+nên mất cơ hội sở hữu "Hộp ngẫu nhiên lời nguyền" rồi à.
 
 72
-00:06:07,638 --> 00:06:11,766
-Xin lỗi, thật sự hết thời gian rồi.
+00:07:06,113 --> 00:07:11,118
+Hẳn là nó phải cho vật phẩm có giá trị ngang với chìa khóa "Lâu đài quỷ" rồi...
 
 73
-00:06:11,809 --> 00:06:13,019
-Nhờ chú.
-
-74
-00:06:13,060 --> 00:06:13,811
-Ừm...
-
-75
-00:06:20,526 --> 00:06:23,706
-May quá, chỉ có mình mình chết thôi...
-
-76
-00:06:30,995 --> 00:06:33,680
-Ít nhất tao cũng sẽ kéo theo một con...
-
-77
-00:06:34,707 --> 00:06:36,880
-Có giỏi thì đến đây!
-
-78
-00:06:47,970 --> 00:06:50,577
-Mình lúc nào cũng là kẻ yếu nhất.
-
-79
-00:06:50,598 --> 00:06:53,434
-Hết lần này đến lần khác bị người ta coi thường.
-
-80
-00:06:53,476 --> 00:06:56,145
-Dù vậy vẫn gắng gượng được đến tận đây.
-
-81
-00:06:59,857 --> 00:07:01,108
-Thế mà...
-
-82
-00:07:02,443 --> 00:07:04,530
-Đừng có giỡn mặt...
-
-83
-00:07:04,570 --> 00:07:06,906
-Đừng có giỡn mặt!
-
-84
-00:07:08,449 --> 00:07:11,202
-Mình cũng muốn trở nên mạnh mẽ hơn!
-
-85
-00:07:12,244 --> 00:07:14,160
-Nhưng chỉ hoài công vô ích...
-
-86
-00:07:19,168 --> 00:07:23,591
-Dù vậy, mình vẫn cố sống đến tận lúc này theo cách riêng...
-
-87
-00:07:28,719 --> 00:07:30,088
-Đừng có giỡn...
-
-88
-00:07:30,388 --> 00:07:32,360
-Tới giới hạn rồi ư?
-
-89
-00:07:32,390 --> 00:07:34,433
-Ai cũng vậy thôi!
-
-90
-00:07:34,475 --> 00:07:37,537
-Thế mà dám lấy đó làm lý do biện minh cho mình!
-
-91
-00:07:39,897 --> 00:07:42,600
-Khỏi cần mấy lời cảm ơn đó.
-
-92
-00:07:42,650 --> 00:07:46,946
-Lúc nào người được lợi cũng là kẻ nghĩ cho bản thân mình trước thôi!
-
-93
-00:07:47,363 --> 00:07:49,500
-Tôi cũng có gia đình vậy!
-
-94
-00:07:49,532 --> 00:07:51,450
-Tôi cũng muốn sống sót trở về vậy!
-
-95
-00:07:58,916 --> 00:08:01,386
-Mừng vì chỉ có mình mình chết ư?
-
-96
-00:08:07,925 --> 00:08:11,387
-Đừng có điên! Cái đồ đạo đức giả!
-
-97
-00:08:14,432 --> 00:08:15,457
+00:07:11,160 --> 00:07:12,411
 Không...
 
+74
+00:07:12,453 --> 00:07:14,497
+Ngay cả Hộp ngẫu nhiên bình thường
+
+75
+00:07:14,538 --> 00:07:19,001
+cũng có khả năng rơi ra chìa khóa Phó bản hầm ngục như lần trước mà.
+
+76
+00:07:27,343 --> 00:07:29,261
+Hẳn rồi...
+
+77
+00:07:32,181 --> 00:07:37,353
+Giá trị năng lực đã tăng lên đến từng này thì chỉ có ba điểm thôi không đủ để phân phối.
+
+78
+00:07:38,020 --> 00:07:40,815
+Mình muốn thăng cấp nhanh hơn,
+
+79
+00:07:40,856 --> 00:07:43,818
+nhưng phải chờ Jinho liên lạc mới vào hầm ngục hạng C được ...
+
+80
+00:07:45,695 --> 00:07:48,030
+Đúng rồi, khu vực hình phạt!
+
+81
+00:07:48,072 --> 00:07:50,449
+Nếu đánh với con rết ở đó thì...
+
+82
+00:07:50,491 --> 00:07:51,492
+Không,
+
+83
+00:07:51,534 --> 00:07:54,120
+có thể bây giờ mình đã dễ dàng chạy thoát hơn trước,
+
+84
+00:07:54,161 --> 00:07:55,955
+nhưng để đánh bại nó thì...
+
+85
+00:07:55,996 --> 00:07:58,541
+Với cũng chưa chắc sẽ thu được điểm kinh nghiệm nữa...
+
+86
+00:08:02,086 --> 00:08:04,004
+Chiêu mộ cho Cổng hạng Đ.
+
+87
+00:08:04,880 --> 00:08:08,509
+Hiệp hội Thợ săn kêu gọi thành lập một đội tấn công.
+
+88
+00:08:08,551 --> 00:08:11,679
+Thế này thì không thể chiến đấu một mình được rồi...
+
+89
+00:08:11,721 --> 00:08:13,681
+Từ chối thôi nhỉ?
+
+90
+00:08:15,850 --> 00:08:17,601
+Có còn hơn không...
+
+91
+00:08:22,231 --> 00:08:24,525
+Bực thật...
+
+92
+00:08:34,744 --> 00:08:37,580
+Đúng là em không phải đối thủ của sư phụ mà.
+
+93
+00:08:38,748 --> 00:08:41,250
+Tôi vẫn chưa nhường chiến thắng cho cậu được đâu.
+
+94
+00:08:41,751 --> 00:08:44,128
+Nhưng đúng là tiếc thật,
+
+95
+00:08:44,170 --> 00:08:46,505
+em muốn đấu khi sư phụ hoàn toàn lành lặn cơ.
+
+96
+00:08:46,547 --> 00:08:48,299
+Lại thế nữa rồi...
+
+97
+00:08:48,340 --> 00:08:51,135
+Đã mấy tháng rồi đó...
+
 98
-00:08:16,434 --> 00:08:18,144
-Mình không muốn chết...
+00:08:54,013 --> 00:08:56,223
+Chiêu mộ khẩn cấp à?
 
 99
-00:08:24,400 --> 00:08:26,630
-Nếu có thêm...
+00:08:56,265 --> 00:08:59,935
+Thợ săn hạng thấp hay bị gọi làm việc linh tinh ghê.
 
 100
-00:08:26,652 --> 00:08:29,530
-Nếu có thêm một cơ hội nữa thì...!
+00:08:59,977 --> 00:09:02,772
+Sư phụ thực sự sẽ không nghỉ hưu sao ạ?
 
 101
-00:08:54,221 --> 00:08:58,600
-Sau khi tỉnh lại mình thấy bản thân đang ở trên giường bệnh.
+00:09:02,813 --> 00:09:04,607
+Nghỉ hưu?
 
 102
-00:08:58,642 --> 00:09:00,770
-Cả cánh tay và chân bị mất
+00:09:08,819 --> 00:09:14,337
+Phải rồi, một lão già cụt tay như tôi chỉ làm vướng chân người ta thôi.
 
 103
-00:09:00,811 --> 00:09:04,940
-cũng đã trở lại như cũ như chưa từng có chuyện gì xảy ra.
+00:09:14,366 --> 00:09:16,285
+Không, ý em không phải thế!
 
 104
-00:09:06,484 --> 00:09:09,093
-Nhưng điều kỳ lạ không chỉ có thế.
+00:09:16,327 --> 00:09:20,122
+Dù mất cánh tay nhưng tôi vẫn còn giữ được mạng.
 
 105
-00:09:09,111 --> 00:09:09,904
-Không hiểu sao một thứ trông như cửa sổ tin nhắn trong game xuất hiện,
+00:09:20,164 --> 00:09:22,541
+Tuy chắc chẳng còn sống được bao lâu,
 
 106
-00:09:09,945 --> 00:09:11,655
-(Thông báo) (Bạn có tin nhắn chưa đọc) Không hiểu sao một thứ trông như cửa sổ tin nhắn trong game xuất hiện,
+00:09:22,583 --> 00:09:26,764
+nhưng tôi muốn dùng nó cống hiến cho xã hội.
 
 107
-00:09:11,697 --> 00:09:13,449
-Không hiểu sao một thứ trông như cửa sổ tin nhắn trong game xuất hiện,
+00:09:34,512 --> 00:09:36,640
+Có chuyến công phá tiếp theo rồi.
 
 108
-00:09:13,491 --> 00:09:15,733
-nhưng chỉ có mình mình nhìn thấy.
+00:09:37,681 --> 00:09:39,102
+Nè anh à.
 
 109
-00:09:15,785 --> 00:09:17,911
-Xin lỗi, không có gì đâu.
+00:09:39,809 --> 00:09:43,229
+Hay anh bỏ làm Thợ săn đi?
 
 110
-00:09:19,705 --> 00:09:22,830
-Hôm nay đã là ngày thứ tư từ khi mình tỉnh lại rồi.
+00:09:43,270 --> 00:09:45,105
+Lại vụ đó nữa à.
 
 111
-00:09:22,875 --> 00:09:25,100
-Mình đã biết thêm vài điều.
+00:09:45,147 --> 00:09:46,732
+Nhưng mà nguy hiểm quá.
 
 112
-00:09:25,127 --> 00:09:25,966
-Đầu tiên,
+00:09:46,774 --> 00:09:49,693
+Trong chuyến công phá lần trước có rất nhiều người chết còn gì.
 
 113
-00:09:26,003 --> 00:09:29,066
-thứ trước mắt mình đây không phải là ảo ảnh.
+00:09:49,735 --> 00:09:53,280
+Anh cũng chỉ suýt soát mới thoát được khỏi chỗ nguy hiểm đó mà phải không?
 
 114
-00:09:29,590 --> 00:09:33,000
-Mỗi khi hoàn thành xong nhiệm vụ hằng ngày, mình sẽ nhận được ba phần thưởng.
+00:09:56,408 --> 00:09:58,202
+Papa, bế con!
 
 115
-00:09:33,052 --> 00:09:34,512
-Hồi phục trạng thái.
+00:09:58,202 --> 00:09:59,245
+Ừ nè!
 
 116
-00:09:35,888 --> 00:09:38,390
-Mọi mệt mỏi đều ngay lập tức bay hết...
+00:09:59,829 --> 00:10:03,123
+Nhưng sang năm là Unji vào mẫu giáo rồi,
 
 117
-00:09:40,226 --> 00:09:41,977
-Tiếp theo là “Điểm giá trị năng lực”.
+00:10:03,165 --> 00:10:04,755
+Unha cũng lên cấp hai.
 
 118
-00:09:42,019 --> 00:09:45,773
-(Điểm giá trị năng lực có thể sử dụng: 3) Mình có thể dùng điểm này để phân bố vào năng lực mình muốn.
+00:10:04,792 --> 00:10:06,257
+Phải kiếm thêm mới được.
 
 119
-00:09:46,315 --> 00:09:48,604
-Chắc là “Sức mạnh cơ bắp” thôi nhỉ.
+00:10:06,293 --> 00:10:07,753
+Thì biết là thế...
 
 120
-00:09:48,651 --> 00:09:51,633
-Sau khi tăng giá trị năng lực, mình sẽ mạnh lên một mức tương ứng.
+00:10:07,795 --> 00:10:09,255
+Em yên tâm đi,
 
 121
-00:09:51,654 --> 00:09:54,573
-Trên thực tế, mình cảm nhận rõ sức mạnh cơ bắp đã được tăng cường.
+00:10:09,296 --> 00:10:13,717
+Hiệp hội cũng chẳng gọi Thợ săn hạng thấp như bọn anh tới mấy hầm ngục nguy hiểm đâu.
 
 122
-00:09:55,741 --> 00:09:58,600
-Và phần thưởng nhiệm vụ hằng ngày cuối cùng là...
+00:10:14,885 --> 00:10:17,680
+Lần trước là ngoại lệ thôi.
 
 123
-00:09:58,661 --> 00:10:00,133
-Hộp ngẫu nhiên.
+00:10:17,721 --> 00:10:19,139
+Cũng đúng.
 
 124
-00:10:00,162 --> 00:10:01,664
-Hôm nay sẽ ra cái gì đây...
+00:10:19,181 --> 00:10:21,308
+Xin lỗi, em nói thừa rồi.
 
 125
-00:10:09,421 --> 00:10:10,923
-Chìa khóa?
+00:10:21,350 --> 00:10:22,768
+Đừng để ý.
 
 126
-00:10:13,634 --> 00:10:15,800
-Phó bản hầm ngục?
+00:10:23,269 --> 00:10:24,979
+Anh đi cẩn thận nhé.
 
 127
-00:10:15,845 --> 00:10:17,263
-Là gì cơ?
+00:10:25,396 --> 00:10:27,940
+Ừ, anh yêu em.
 
 128
-00:10:19,223 --> 00:10:20,966
-Dựa theo những diễn biến trước giờ
+00:10:27,982 --> 00:10:29,024
+Papa?
 
 129
-00:10:21,016 --> 00:10:23,262
-thì đây hẳn là một sự kiện để giúp mình mạnh lên rồi...
+00:10:29,650 --> 00:10:30,818
+Sao nào?
 
 130
-00:10:37,533 --> 00:10:39,200
-Tính sao đây...
+00:10:30,860 --> 00:10:32,903
+Papa có mạnh không?
 
 131
-00:10:39,243 --> 00:10:41,200
-Tự nhiên thấy rén quá.
+00:10:32,945 --> 00:10:34,738
+Đương nhiên rồi.
 
 132
-00:10:46,834 --> 00:10:48,627
-Xuất hiện rồi! Còn ba con một lúc nữa chứ!
+00:10:34,780 --> 00:10:38,242
+Papa tiêu diệt được bọn quái vật đáng sợ lắm luôn đó.
 
 133
-00:11:06,979 --> 00:11:08,856
-Hạ được rồi...
+00:10:38,284 --> 00:10:39,660
+Tuyệt quá!
 
 134
-00:11:36,258 --> 00:11:38,880
-Không còn là nhà ga nữa rồi...
+00:10:39,702 --> 00:10:42,177
+Papa đúng là rất mạnh rồi!
 
 135
-00:11:45,267 --> 00:11:45,809
-Nhanh quá!
+00:10:43,289 --> 00:10:45,875
+Giỏi lắm rồi đó!
 
 136
-00:11:50,731 --> 00:11:51,815
-Kiếm của mình!
+00:10:48,127 --> 00:10:50,129
+Chuyện gì cơ?
 
 137
-00:11:57,655 --> 00:12:00,700
-Mình đã tăng được khá nhiều cấp rồi...
+00:10:50,170 --> 00:10:53,632
+Dám đẩy mấy công việc phiền phức như phỏng vấn này nọ cho tôi!
 
 138
-00:12:00,741 --> 00:12:02,993
-Thế mà tên của nó...
+00:10:53,674 --> 00:10:54,758
+Tôi có xem rồi.
 
 139
-00:12:03,953 --> 00:12:05,079
-Vẫn hiện màu cam...
+00:10:54,800 --> 00:10:56,969
+Anh thành thạo ra phết.
 
 140
-00:12:07,331 --> 00:12:09,792
-Nếu ăn trọn đòn này... thì chết chắc!
+00:10:57,011 --> 00:10:59,555
+Nghe anh trả lời mà tôi cảm động luôn.
 
 141
-00:12:30,479 --> 00:12:33,607
-Cứ tưởng mình mạnh lên được một chút rồi chứ...
+00:10:59,597 --> 00:11:01,599
+Không nghĩ thế thì không không mượn nói ra!
 
 142
-00:12:42,074 --> 00:12:45,494
-Thế này rồi mà vẫn bất lực à...
+00:11:01,640 --> 00:11:05,311
+Mà vốn dĩ, việc đó là dành cho bên cậu mà!
 
 143
-00:12:46,328 --> 00:12:49,957
-Phải mạnh lên cỡ nào...
+00:11:05,352 --> 00:11:07,897
+Nhưng lời đề nghị thông qua Chủ tịch Go là
 
 144
-00:12:50,582 --> 00:12:55,504
-mới thoát khỏi kiếp liên tục bị cười nhạo đây!
+00:11:07,938 --> 00:11:14,194
+"Thể hiện sự chân thành và trung thực của một Thợ săn có sức ảnh hưởng",
 
 145
-00:13:12,187 --> 00:13:13,850
-Tao...
+00:11:14,236 --> 00:11:17,823
+tôi tự thấy mình không thích hợp lắm.
 
 146
-00:13:19,153 --> 00:13:22,823
-buộc phải mạnh mẽ hơn mới được!
+00:11:17,865 --> 00:11:20,242
+Tự biết bản thân gian xảo thế nào à...
 
 147
-00:13:28,120 --> 00:13:29,371
-Chưa là gì đâu!
+00:11:21,535 --> 00:11:25,205
+Thôi kệ đi, thế chuyện chính là gì đây?
 
 148
-00:13:30,289 --> 00:13:34,793
-So với bọn chúng, so với nỗi sợ lúc đó...
+00:11:25,247 --> 00:11:29,543
+Chắc không tốn công gọi cho tôi đến chỉ để nghe tôi phàn nàn phải không?
 
 149
-00:13:34,835 --> 00:13:37,379
-thì con này có là gì chứ!
+00:11:29,585 --> 00:11:34,657
+Có chuyện này tôi nghĩ sẽ tốt hơn nếu chia sẻ với anh.
 
 150
-00:13:51,852 --> 00:13:55,397
-Mình đã tập trung điểm giá trị năng lực để nâng vào sức mạnh cơ bắp!
+00:11:35,424 --> 00:11:38,844
+Có vẻ như Công ty xây dựng Yoojin đang thúc đẩy thành lập một Hội.
 
 151
-00:14:00,194 --> 00:14:01,644
-Nếu là mình của hiện tại thì...
+00:11:38,886 --> 00:11:42,014
+Biết rồi, đang chạy khắp nơi đi đêm kìa.
 
 152
-00:14:05,616 --> 00:14:07,826
-Nếu là mình của hiện tại thì!
+00:11:42,056 --> 00:11:45,142
+Có tin đồn bọn chúng cũng đang giở trò lôi kéo bên tôi nữa.
 
 153
-00:14:09,161 --> 00:14:12,539
-Mày sẽ chết dưới tay tao!
+00:11:45,184 --> 00:11:49,706
+Ôi ôi, anh đã biết thì hình như tôi lo chuyện bao đồng rồi.
 
 154
-00:14:13,707 --> 00:14:18,212
-Chết đi!
+00:11:49,730 --> 00:11:53,150
+Cậu thừa biết tôi cũng biết chuyện rồi.
 
 155
-00:14:37,940 --> 00:14:40,366
-Điểm giá trị năng lực sau khi thức tỉnh sẽ được cố định
+00:11:53,192 --> 00:11:55,653
+Bớt dài dòng đi.
 
 156
-00:14:40,400 --> 00:14:42,319
-và không bao giờ biến đổi.
+00:11:56,403 --> 00:11:58,489
+Hỏi lại lần nữa,
 
 157
-00:14:42,361 --> 00:14:43,933
-Nhưng không hiểu sao...
+00:11:58,530 --> 00:12:00,074
+vấn đề chính là gì?
 
 158
-00:14:43,987 --> 00:14:47,157
-chỉ có mình là có thể thăng cấp.
+00:12:03,619 --> 00:12:06,455
+Dạo này chẳng thấy con liên lạc gì hết,
 
 159
-00:14:49,409 --> 00:14:50,536
-Xin lỗi ạ.
+00:12:06,497 --> 00:12:08,791
+mọi chuyện có ổn không vậy?
 
 160
-00:14:51,411 --> 00:14:55,666
-Mình của hiện tại có thể kiếm được nhiều hơn rất nhiều tiền so với trước đây.
+00:12:08,832 --> 00:12:09,625
+Ừm.
 
 161
-00:14:55,707 --> 00:14:58,453
-Mình nghĩ thế...
+00:12:09,667 --> 00:12:11,627
+Công việc sao rồi?
 
 162
-00:14:58,502 --> 00:15:00,995
-Nói thế chứ, đâu có dễ tìm đến vậy.
+00:12:11,669 --> 00:12:14,171
+Ừ thì, cũng bình thường...
 
 163
-00:15:01,672 --> 00:15:05,600
-Để kiếm nhiều tiền mình cần phải vào những Cánh cổng hạng cao.
+00:12:14,213 --> 00:12:17,007
+Từ nhỏ con đã nhút nhát rồi,
 
 164
-00:15:05,634 --> 00:15:11,166
-Nhưng Cổng tốt thì làm gì có chỗ cho Thợ săn hạng E mò tới chứ.
+00:12:17,049 --> 00:12:19,688
+làm thợ săn khó lắm phải không?
 
 165
-00:15:11,181 --> 00:15:12,808
-Hay đi giám định lại nhỉ?
+00:12:19,718 --> 00:12:21,637
+Con hạng B nhỉ?
 
 166
-00:15:13,267 --> 00:15:16,060
-Nếu thăng hạng thì mình có thể vào được những Cánh cổng tốt hơn,
+00:12:21,679 --> 00:12:24,556
+Người khác cỡ đó thì mạnh chứ,
 
 167
-00:15:16,103 --> 00:15:18,480
-nếu được chú ý có khi thu nhập cũng sẽ tăng nữa...
+00:12:24,598 --> 00:12:27,706
+con chỉ làm vướng chân họ thôi chứ gì?
 
 168
-00:15:19,398 --> 00:15:21,817
-Nhưng nếu vậy thì sẽ rất nổi bật,
+00:12:27,726 --> 00:12:30,270
+Về nhà giúp việc gia đình đi con.
 
 169
-00:15:21,859 --> 00:15:23,944
-riêng việc tái thức tỉnh thôi đã hiếm rồi...
+00:12:30,312 --> 00:12:31,772
+Bố con cũng lo lắng lắm...
 
 170
-00:15:24,528 --> 00:15:28,907
-Mình chưa nghe ai nói có Thợ săn thăng cấp và ngày một mạnh hơn bao giờ.
+00:12:31,814 --> 00:12:33,691
+Đừng có tự ý quyết định mọi chuyện!
 
 171
-00:15:29,741 --> 00:15:32,733
-Nếu vậy thì phải tránh sự chú ý không cần thiết mới được.
+00:12:34,274 --> 00:12:37,150
+Để con yên đi, chuyện của con con tự quyết!
 
 172
-00:15:32,786 --> 00:15:34,766
-Truyền thông thì ồn ào,
+00:12:37,194 --> 00:12:38,711
+Chờ chút, con nhỏ này...
 
 173
-00:15:34,788 --> 00:15:37,249
-còn thu hút bọn ganh ghét muốn dìm hàng nữa.
+00:12:46,078 --> 00:12:47,688
+Làm vướng chân à...
 
 174
-00:15:37,291 --> 00:15:41,484
-Thôi đi vậy, trước mắt cố để có thể bảo vệ bản thân đã.
+00:12:49,790 --> 00:12:51,511
+Nhưng mà...
 
 175
-00:15:41,503 --> 00:15:45,424
-Sau đó, phải tìm cho ra nguồn gốc của sức mạnh này.
+00:12:54,336 --> 00:12:57,464
+Thử cố thêm một chút nữa xem sao...
 
 176
-00:15:57,186 --> 00:15:58,020
-Xác nhận. (Cảnh báo: Trong trường hợp không hoàn thành hết tất cả, hình phạt sẽ được áp dụng.)
+00:13:29,246 --> 00:13:30,942
+Xin phép.
 
 177
-00:15:59,980 --> 00:16:01,231
-Xin chào!
+00:13:32,374 --> 00:13:35,210
+Chào, có chuyện gì sao, Thợ săn Cha Hae-in?
 
 178
-00:16:03,984 --> 00:16:05,460
-Tôi là Hwang Dongsuk.
+00:13:35,627 --> 00:13:37,500
+Hồi nãy lúc tôi đang luyện tập,
 
 179
-00:16:05,485 --> 00:16:06,633
-Tôi là Sung Jinwoo.
+00:13:37,546 --> 00:13:39,982
+có người bên Công ty xây dựng Yoojin đến chiêu mộ.
 
 180
-00:16:06,653 --> 00:16:07,933
-Cậu ở hạng E nhỉ?
+00:13:40,007 --> 00:13:41,675
+Tôi đến để báo cáo chuyện đó.
 
 181
-00:16:07,988 --> 00:16:08,933
-Phải.
+00:13:42,593 --> 00:13:43,635
+Ồ?
 
 182
-00:16:08,989 --> 00:16:11,700
-Xem ra chúng ta là đồng đội rồi.
+00:13:43,677 --> 00:13:46,805
+Có vẻ như họ đang muốn thành lập một Hội,
 
 183
-00:16:12,284 --> 00:16:15,366
-Em là Yoo Jinho, 21 tuổi, hạng Đ.
+00:13:46,847 --> 00:13:50,071
+nên mời tôi về làm Hội trưởng.
 
 184
-00:16:15,412 --> 00:16:17,680
-Em cũng được gọi đến đây cho đủ người.
+00:13:50,976 --> 00:13:52,311
+Báo cáo...
 
 185
-00:16:17,706 --> 00:16:18,833
-Vâng...
+00:13:52,352 --> 00:13:55,898
+tức tôi có thể hiểu cô đã từ chối họ rồi phải không?
 
 186
-00:16:18,874 --> 00:16:20,966
-Hạng Đ mà trang bị cỡ này á?
+00:13:55,939 --> 00:13:59,193
+Vâng, tôi đã từ chối ngay lập tức.
 
 187
-00:16:21,001 --> 00:16:23,045
-Chắc là cậu ấm nhà nào rồi đây.
+00:13:59,234 --> 00:14:02,071
+Vậy tôi yên tâm rồi, cảm ơn cô.
 
 188
-00:16:23,670 --> 00:16:25,839
-Lần đầu anh vào hầm ngục hạng C à?
+00:14:02,112 --> 00:14:04,531
+Không có gì, mà nhắc mới nhớ...
 
 189
-00:16:26,423 --> 00:16:27,560
-Yên tâm đi,
+00:14:04,573 --> 00:14:08,702
+Hình như trước khi tôi vào anh đã gặp mặt với Hội trưởng Baek.
 
 190
-00:16:27,591 --> 00:16:28,842
-em sẽ bảo vệ anh.
+00:14:08,744 --> 00:14:10,996
+Hai người đã nói chuyện gì vậy?
 
 191
-00:16:33,639 --> 00:16:34,840
-Được rồi, chúng ta đi thôi!
+00:14:19,421 --> 00:14:24,115
+Anh nghĩ sao về đảo Jeju?
 
 192
-00:16:36,308 --> 00:16:38,330
-Hay lắm, giờ dọn dẹp thôi!
+00:14:24,134 --> 00:14:25,886
+Đảo Jeju?
 
 193
-00:16:38,352 --> 00:16:39,394
-Chờ mãi!
+00:14:25,928 --> 00:14:27,930
+Sao là sao nữa?
 
 194
-00:16:40,562 --> 00:16:42,260
-Họ rất ăn ý,
+00:14:27,971 --> 00:14:29,473
+Sau chuyến công phá lần thứ ba,
 
 195
-00:16:42,314 --> 00:16:45,776
-có thể nhận ra những người này đã đồng hành cùng nhau rất lâu.
+00:14:29,515 --> 00:14:32,434
+chúng ta đã không thể lên đảo được nữa
 
 196
-00:16:45,817 --> 00:16:50,497
-Nhưng không biết có phải vì chẳng bao giờ có người chữa trị không, mà cảm giác liều lĩnh quá...
+00:14:32,476 --> 00:14:35,771
+mà chỉ có thể do thám định kỳ từ ngoài biển.
 
 197
-00:16:50,989 --> 00:16:52,157
-Nhưng sao...
+00:14:35,813 --> 00:14:39,591
+Công chúng cũng chỉ biết đến lễ tưởng niệm được tổ chức mỗi năm một lần thôi.
 
 198
-00:16:55,369 --> 00:16:56,370
-Có gì đó khó chịu quá...
+00:14:40,109 --> 00:14:45,030
+Mọi người đang cố quên đi hòn đảo đó cùng với nỗi sợ...
 
 199
-00:16:57,496 --> 00:16:58,330
-Kyuhwan...
+00:14:45,072 --> 00:14:47,502
+Chuyện đó cũng không trách được.
 
 200
-00:16:58,372 --> 00:17:00,833
-Linh cảm của mình đã đúng
+00:14:47,533 --> 00:14:48,784
+Thế nhưng!
 
 201
-00:17:00,874 --> 00:17:03,877
-Một tổ đội giàu kinh nghiệm như vậy mà lại cần người lấp chỗ.
+00:14:48,826 --> 00:14:52,412
+Cho dù sự tồn tại của Cổng đã quen thuộc đến mức nào,
 
 202
-00:17:04,253 --> 00:17:05,671
-Cũng không có người chữa trị nữa.
+00:14:52,454 --> 00:14:55,374
+cho dù được người ta ca tụng là "Vũ khí tối thượng của nhân loại" đi nữa...
 
 203
-00:17:06,588 --> 00:17:08,333
-Bọn người Hwang Dongsuk này
+00:14:55,415 --> 00:14:59,582
+tôi vẫn không thể quên hòn đảo đó, và những việc đã xảy ra trên đó được.
 
 204
-00:17:08,382 --> 00:17:11,385
-thuê Thợ săn hạng thấp với danh nghĩa cho đủ số lượng.
+00:15:00,420 --> 00:15:04,853
+Mục tiêu của tôi là trong một tương lai không xa, tôi sẽ lại chinh phục hòn đảo đó.
 
 205
-00:17:11,426 --> 00:17:14,096
-Nhưng thật ra là để giết họ bên trong hầm ngục,
+00:15:05,509 --> 00:15:09,763
+Vì lẽ đó, tôi không muốn bị chia rẽ với bên anh lúc này.
 
 206
-00:17:14,137 --> 00:17:17,057
-và chiếm trọn phần thưởng.
+00:15:09,805 --> 00:15:15,310
+Chúng tôi cần tăng cường lực lượng, tăng số lượng thành viên và khuấy động dư luận.
 
 207
-00:17:18,183 --> 00:17:21,433
-Lần này chúng cũng nhốt mình và Jinho bên trong phòng con trùm,
+00:15:15,352 --> 00:15:18,355
+Thu thập thông tin và đào tạo thành viên mới cũng là vì thế à.
 
 208
-00:17:21,478 --> 00:17:24,106
-và định bỏ mặc cho đến chết.
+00:15:25,946 --> 00:15:28,382
+Chắc anh cũng có
 
 209
-00:17:24,147 --> 00:17:26,966
-Thế nhưng mình đã giết con trùm
+00:15:29,074 --> 00:15:32,244
+thứ không thể quên trên hòn đảo đó phải không?
 
 210
-00:17:26,984 --> 00:17:29,152
-khiến kế hoạch của chúng trở thành công cốc.
+00:15:38,792 --> 00:15:40,836
+Eunseok...
 
 211
-00:17:29,194 --> 00:17:33,075
-Thế nên sau đó, chúng định đích thân ra tay giết bọn mình.
+00:15:40,878 --> 00:15:42,588
+Byung-Gyu...
 
 212
-00:17:39,788 --> 00:17:41,160
-Kẻ địch? (Những kẻ này là kẻ địch muốn giết Người chơi.)
+00:15:46,550 --> 00:15:48,051
+Xin anh...
 
 213
-00:17:41,206 --> 00:17:43,125
-Hệ thống đang yêu cầu mình giết người. (Tiêu diệt chúng)
+00:15:48,093 --> 00:15:50,345
+Làm ơn...
 
 214
-00:17:43,166 --> 00:17:45,585
-Hệ thống đang yêu cầu mình giết người. (Tim sẽ ngừng đập)
+00:15:51,013 --> 00:15:53,430
+hãy giết bọn chúng đi.
 
 215
-00:17:45,627 --> 00:17:48,817
-Hệ thống cần mình.
+00:15:55,642 --> 00:15:57,100
+Anh đi đây.
 
 216
-00:17:53,010 --> 00:17:55,448
-Nó cần mình mạnh mẽ.
+00:15:57,144 --> 00:15:59,438
+Ngày nghỉ mà vẫn đi làm à?
 
 217
-00:17:56,680 --> 00:17:58,598
-Tao quên mất.
+00:16:00,480 --> 00:16:02,649
+Gần đây nhiều việc nhỉ.
 
 218
-00:17:58,640 --> 00:18:02,900
-Đây là nơi những kẻ yếu đuối sẽ bị cướp đoạt.
+00:16:03,567 --> 00:16:04,651
+Cũng tạm.
 
 219
-00:18:02,936 --> 00:18:07,831
-Cũng biết điều quá chứ, "Vũ khí yếu nhất nhân loại".
+00:16:04,693 --> 00:16:05,944
+Mới hôm nào thôi,
 
 220
-00:18:07,858 --> 00:18:09,066
-Vậy tức là...
+00:16:05,986 --> 00:16:09,573
+mỗi lần anh vào Cổng là lại bị thương phải nghỉ ngơi...
 
 221
-00:18:09,109 --> 00:18:13,030
-bọn mày cũng chuẩn bị tinh thần rồi nhỉ.
+00:16:09,615 --> 00:16:11,325
+Nhờ rèn luyện hả?
 
 222
-00:18:13,822 --> 00:18:15,490
-Nói gì cơ?
+00:16:11,366 --> 00:16:12,868
+Cũng có thể.
 
 223
-00:18:15,532 --> 00:18:18,201
-Tao hỏi nếu bọn mày cũng là Thợ săn...
+00:16:12,910 --> 00:16:16,079
+Dù sao thì giờ anh có thể kiếm thu nhập ổn định rồi.
 
 224
-00:18:18,952 --> 00:18:23,040
-thì chắc cũng đã chuẩn bị tinh thần bị săn rồi nhỉ.
+00:16:16,121 --> 00:16:17,581
+Đâu phải chuyện gì xấu.
 
 225
-00:18:24,541 --> 00:18:27,217
-Anh Dongsuk, để em giết thằng này.
+00:16:17,623 --> 00:16:19,625
+Ừ thì, đúng là thế...
 
 226
-00:18:27,252 --> 00:18:28,966
-Thanh niên à,
+00:16:19,666 --> 00:16:22,127
+Cơ mà anh à, hành lý đâu?
 
 227
-00:18:29,004 --> 00:18:31,680
-mày không hiểu tình hình hiện tại của mình phải không?
+00:16:22,169 --> 00:16:24,588
+Không sao hết, thôi anh đi đây.
 
 228
-00:18:32,090 --> 00:18:34,230
-Chuẩn bị tinh thần bị săn á?
+00:16:24,630 --> 00:16:26,173
+Ơ khoan!
 
 229
-00:18:34,259 --> 00:18:37,800
-Một thằng hạng E quèn thì làm được gì chứ?
+00:16:29,051 --> 00:16:31,760
+Tưởng là đi tạp hóa mua đồ hả trời...
 
 230
-00:18:37,846 --> 00:18:39,890
-Hả Vũ khí yếu nhất nhân loại...
+00:16:34,973 --> 00:16:38,284
+Do không thức tỉnh sức mạnh vật lý nên kiếm của mình
 
 231
-00:18:54,363 --> 00:18:57,000
-Mình giết người rồi...
+00:16:38,310 --> 00:16:41,021
+chẳng làm gì được bọn quái vật cả.
 
 232
-00:18:57,032 --> 00:18:58,825
-Giết người...
+00:16:41,063 --> 00:16:45,484
+Tuy kiếm thuật rèn luyện suốt hàng chục năm chẳng có tác dụng gì trong hầm ngục,
 
 233
-00:18:58,867 --> 00:19:02,371
-(Cảnh báo: Nếu không hoàn thành, tim sẽ ngừng đập.) Dù chỉ tuân theo lệnh của Hệ thống đi nữa...
+00:16:45,525 --> 00:16:50,614
+nhưng việc một kiếm sĩ như mình lại thức tỉnh làm Thợ săn hệ phép thuật âu cũng là định mệnh.
 
 234
-00:19:02,412 --> 00:19:06,375
-thì mình cũng vừa giết người.
+00:16:50,656 --> 00:16:53,386
+Chắc hẳn phải có lý do gì cho việc đó rồi...
 
 235
-00:19:07,584 --> 00:19:09,848
-Nhưng nếu không giết thì chính mình sẽ chết. (Nếu không hoàn thành, tim sẽ ngừng đập.)
+00:16:56,745 --> 00:16:58,372
+Cậu...
 
 236
-00:19:10,921 --> 00:19:13,306
-Không còn đường lui nữa rồi.
+00:16:58,413 --> 00:16:59,748
+Chú Song!
 
 237
-00:19:14,549 --> 00:19:17,484
-Nếu chỉ có kẻ mạnh được sống thôi thì...!
+00:16:59,790 --> 00:17:01,375
+Còn tưởng nhìn nhầm cơ,
 
 238
-00:19:18,512 --> 00:19:20,097
-Chết đi!
+00:17:01,416 --> 00:17:03,252
+không phải Sung đây sao!
 
 239
-00:19:30,524 --> 00:19:33,466
-Hạng E mà di chuyển kiểu gì thế này!
+00:17:03,293 --> 00:17:04,836
+Lâu quá không gặp chú.
 
 240
-00:19:33,485 --> 00:19:35,570
-Tên khốn...
+00:17:04,878 --> 00:17:07,351
+Không ngờ gặp lại cậu ở đây!
 
 241
-00:19:47,040 --> 00:19:48,580
-Ăn này!
+00:17:07,381 --> 00:17:11,927
+Cơ mà chàng trai ngây thơ của tôi đâu mất rồi?
 
 242
-00:19:56,508 --> 00:19:57,592
-Mạnh quá...
+00:17:11,969 --> 00:17:14,805
+Mới có mấy tháng thôi mà thay đổi dữ vậy sao?
 
 243
-00:19:58,427 --> 00:20:02,556
-Cảm giác như anh ấy còn mạnh hơn lúc đấu với con trùm hầm ngục nữa.
+00:17:15,681 --> 00:17:17,057
+Chưa kể...
 
 244
-00:20:02,597 --> 00:20:06,266
-Ch-Chỉ trong chớp mắt mà toàn đội mình...
+00:17:17,099 --> 00:17:19,528
+Cái chân bị chặt đứt của cậu sao lại...?
 
 245
-00:20:06,309 --> 00:20:08,270
-Mày che giấu sức mạnh thật sự sao?
+00:17:20,644 --> 00:17:23,897
+Lúc tôi tỉnh lại trong bệnh viện thì nó đã bình phục rồi ạ...
 
 246
-00:20:08,311 --> 00:20:11,231
-Con trùm cũng do mày giết chứ gì!
+00:17:23,939 --> 00:17:25,190
+Thế à,
 
 247
-00:20:11,690 --> 00:20:15,861
-Nhưng dù cùng là hạng C đi nữa, tao cũng không giống bọn nó đâu!
+00:17:25,232 --> 00:17:30,028
+chắc là nhờ trong những Thợ săn đến tiếp viện, có người chữa trị hạng cao rồi.
 
 248
-00:20:16,319 --> 00:20:17,696
-Cường hóa!
+00:17:30,862 --> 00:17:35,070
+Dù sao thì tương lai của cậu vẫn còn dài, thấy cậu hồi phục được tôi mừng quá.
 
 249
-00:20:24,703 --> 00:20:27,581
-Hwang, mày mạnh thật đấy.
+00:17:35,117 --> 00:17:37,160
+Cảm ơn chú.
 
 250
-00:20:28,874 --> 00:20:31,084
-Nhưng để tao báo cho mày biết một tin buồn.
+00:17:37,202 --> 00:17:39,246
+Nhưng chú Song thì...
 
 251
-00:20:36,131 --> 00:20:40,346
-Tao đã không ngừng thăng cấp đấy.
+00:17:39,288 --> 00:17:43,792
+Có vẻ như vết thương của tôi đã để quá lâu...
 
 252
-00:20:41,011 --> 00:20:43,566
-Ch-Chuyện gì vừa xảy ra vậy?
+00:17:43,834 --> 00:17:45,502
+Nhưng không vấn đề gì.
 
 253
-00:20:43,597 --> 00:20:47,225
-Nó vừa cho mình nằm đất sao?
+00:17:45,544 --> 00:17:46,837
+Quan trọng hơn là,
 
 254
-00:20:47,267 --> 00:20:50,812
-Thằng này... chắc chắn không phải hạng E!
+00:17:46,878 --> 00:17:49,548
+tuy nhân viên Hiệp hội đã cho tôi biết cậu vẫn bình an rồi,
 
 255
-00:20:52,564 --> 00:20:54,100
-Ch-Chờ chút đã, đừng giết tôi!
+00:17:49,589 --> 00:17:51,842
+nhưng được gặp lại thế này vui quá đi.
 
 256
-00:20:54,149 --> 00:20:56,566
-Tha cho tôi đi! T-Tôi sẽ trả tiền cho cậu!
+00:17:51,883 --> 00:17:54,261
+Chú Song đang làm gì ở đây vậy ạ?
 
 257
-00:20:56,610 --> 00:21:00,363
-Đá phép thuật và Đá quặng Mana ở đây cậu lấy hết cũng được!
+00:17:54,303 --> 00:17:57,514
+Hiệp hội cho gọi tôi, hình như là hạng Đ đấy.
 
 258
-00:21:01,114 --> 00:21:02,730
-Kh-Không đủ sao?
+00:17:57,556 --> 00:17:58,974
+Chú Song cũng vậy sao ạ?
 
 259
-00:21:02,782 --> 00:21:05,619
-H-Hiểu rồi, vậy thì tôi sẽ trả thêm tiền!
+00:18:12,696 --> 00:18:14,573
+Trùng hợp làm sao.
 
 260
-00:21:05,660 --> 00:21:06,119
-Tôi sẽ trả mà...
+00:18:15,032 --> 00:18:17,993
+Những thành viên ngày đó đều tập hợp này.
 
 261
-00:21:06,161 --> 00:21:07,954
-Ba lần...
+00:18:20,078 --> 00:18:21,413
+Jinwoo!
 
 262
-00:21:07,996 --> 00:21:11,291
-Mày đang cầu xin người mình định giết ba lần
+00:18:21,788 --> 00:18:23,498
+Joohee.
 
 263
-00:21:11,333 --> 00:21:13,335
-tha mạng cho đấy hả?
+00:18:24,082 --> 00:18:27,252
+Chưa kể còn chú Kim và anh Kang nữa.
 
 264
-00:21:13,835 --> 00:21:15,560
-D-Dừng tay!
+00:18:28,879 --> 00:18:30,088
+Cũng không trách được.
 
 265
-00:21:15,587 --> 00:21:17,422
-Mày tưởng làm thế này có thể thoát tội chắc!
+00:18:30,130 --> 00:18:34,926
+Ngày đó, bọn mình đã bỏ mặc Jinwoo lại mà chạy thoát.
 
 266
-00:21:17,923 --> 00:21:21,134
-Những việc xảy ra trong mê cung sẽ không lọt ra ngoài,
+00:18:35,552 --> 00:18:38,138
+Kim còn chĩa kiếm vào mình nữa,
 
 267
-00:21:21,885 --> 00:21:23,457
-chính mày đã nói thế còn gì?
+00:18:38,180 --> 00:18:41,099
+đương nhiên không còn mặt mũi nào nhìn nhau rồi.
 
 268
-00:21:24,471 --> 00:21:25,766
-Thằng chó!
+00:18:41,141 --> 00:18:46,271
+Thế nhưng, hiện giờ năm người sống sót sau thảm kịch ấy đều đã tập hợp đông đủ...
 
 269
-00:21:25,805 --> 00:21:27,682
-Mày có biết em tao là ai không...
+00:18:46,313 --> 00:18:47,314
+Vậy thì...
 
 270
-00:21:38,902 --> 00:21:40,570
-Mình đã trở nên mạnh mẽ.
+00:18:47,356 --> 00:18:50,776
+Cậu là Jinwoo nhỉ?
 
 271
-00:21:41,571 --> 00:21:43,490
-Vì những người quan trọng,
+00:18:50,817 --> 00:18:53,028
+Trông cậu khác quá đi...
 
 272
-00:21:44,032 --> 00:21:47,494
-mình lựa chọn sẽ trở nên mạnh mẽ dù phải đánh mất bất cứ thứ gì.
+00:18:53,070 --> 00:18:54,988
+Phải, lâu rồi không gặp.
 
 273
-00:21:48,328 --> 00:21:51,581
-Dù là quái vật hay con người đi nữa...
+00:18:55,030 --> 00:18:58,450
+Cậu cao hơn nhiều đấy, cả chân nữa...
 
 274
-00:21:56,002 --> 00:21:58,986
-Mình không thể ngừng chiến đấu.
+00:18:58,492 --> 00:19:00,968
+Đúng là khác hẳn với hồi tôi đến thăm...
 
 275
-00:22:02,259 --> 00:22:04,427
-Mình vẫn còn phải...
+00:19:00,994 --> 00:19:02,079
+Ể? Đến thăm?
 
 276
-00:22:06,721 --> 00:22:09,893
-Mình vẫn còn phải thăng cấp nhiều hơn nữa.
+00:19:08,919 --> 00:19:12,097
+Ở đây cũng có gái xinh này!
+
+277
+00:19:14,132 --> 00:19:15,509
+Gì đây?
+
+278
+00:19:15,550 --> 00:19:18,428
+Em cặp bồ với thằng này rồi hả?
+
+279
+00:19:18,470 --> 00:19:19,888
+Cho bọn anh chơi với...
+
+280
+00:19:19,930 --> 00:19:21,431
+Im lặng đi.
+
+281
+00:19:24,142 --> 00:19:26,773
+Đây không phải đi dã ngoại đâu.
+
+282
+00:19:29,022 --> 00:19:32,442
+Vậy giờ, tôi xin giải thích với các Thợ săn bình thường.
+
+283
+00:19:32,484 --> 00:19:33,693
+Mời mọi người qua đây.
+
+284
+00:19:34,444 --> 00:19:35,654
+Rốt cuộc họ là...
+
+285
+00:19:35,695 --> 00:19:40,242
+Họ là "Tù nhân thế chỗ" sẽ đồng hành cùng mọi người hôm nay.
+
+286
+00:19:40,283 --> 00:19:41,743
+Tù nhân thế chỗ?
+
+287
+00:19:41,785 --> 00:19:44,371
+Cô bảo chúng tôi phải cùng chiến đấu với lũ tội phạm à?
+
+288
+00:19:44,413 --> 00:19:46,456
+Tuy họ là những Thợ săn đã phạm tội,
+
+289
+00:19:46,498 --> 00:19:49,960
+nhưng do muốn được giảm án nên sẽ không làm gì gây nguy hại đến mọi người đâu.
+
+290
+00:19:50,001 --> 00:19:53,130
+Chúng tôi đang thiếu nhân lực do số lượng Thợ săn trong khu vực suy giảm.
+
+291
+00:19:53,171 --> 00:19:54,965
+Mong mọi người hãy thông cảm.
+
+292
+00:19:55,006 --> 00:19:56,675
+Chuyện quái gì thế này...
+
+293
+00:19:57,092 --> 00:20:01,096
+Lần này cũng có sự tham gia của anh Kang Taeshik từ bộ phận giám sát thuộc Hiệp hội Thợ săn.
+
+294
+00:20:01,138 --> 00:20:02,639
+Anh ấy là hạng B,
+
+295
+00:20:02,681 --> 00:20:08,311
+nên lỡ có chuyện gì xảy ra, anh ấy cũng sẽ dễ dàng trấn áp được ba tên tội phạm hạng C thôi.
+
+296
+00:20:08,353 --> 00:20:10,105
+Xin mọi người cứ yên tâm.
+
+297
+00:20:10,480 --> 00:20:12,149
+Tự nhiên thấy bất an quá.
+
+298
+00:20:12,190 --> 00:20:14,568
+Joohee, cậu đừng tham gia chuyến này thì hơn.
+
+299
+00:20:14,609 --> 00:20:15,819
+Còn Jinwoo thì sao?
+
+300
+00:20:16,528 --> 00:20:17,779
+Tôi sẽ đi.
+
+301
+00:20:21,241 --> 00:20:23,360
+Vậy thì tôi cũng sẽ đi.
+
+302
+00:20:24,744 --> 00:20:26,079
+Tôi hiểu rồi.
+
+303
+00:20:27,789 --> 00:20:30,667
+Không gì quý hơn tự do.
+
+304
+00:20:30,709 --> 00:20:34,546
+Bọn này có phải nô lệ đâu mà đối xử như vậy.
+
+305
+00:20:34,588 --> 00:20:37,757
+Câm miệng, bọn mày chỉ là một lũ tội phạm thôi.
+
+306
+00:20:37,799 --> 00:20:41,226
+Nếu dám manh động dù chỉ một chút chắc biết chuyện gì sẽ xảy ra rồi đấy.
+
+307
+00:20:44,347 --> 00:20:48,727
+Tôi là Kang Taeshik từ bộ phận giám sát thuộc Hiệp hội Thợ săn.
+
+308
+00:20:49,644 --> 00:20:52,481
+Tôi sẽ chịu trách nhiệm quản lý bọn chúng,
+
+309
+00:20:52,522 --> 00:20:54,608
+xin mọi người cứ yên tâm.
+
+310
+00:20:54,649 --> 00:20:58,720
+Xin hỏi ai sẽ là thủ lĩnh trong chuyến công phá hôm nay đây ạ?
+
+311
+00:20:58,778 --> 00:21:02,532
+Sung, để tôi làm thủ lĩnh có được không?
+
+312
+00:21:02,574 --> 00:21:03,742
+Vâng, đương nhiên rồi ạ.
+
+313
+00:21:05,660 --> 00:21:07,996
+Cảm ơn đã cho tôi thêm một cơ hội.
+
+314
+00:21:08,038 --> 00:21:09,164
+Ch-Chú Song?
+
+315
+00:21:09,581 --> 00:21:13,335
+Ngày hôm đó, do lỗi của tôi mà bảy người đã thiệt mạng.
+
+316
+00:21:13,376 --> 00:21:16,463
+Không thể bảo vệ được mọi người hoàn toàn là trách nhiệm của tôi.
+
+317
+00:21:16,505 --> 00:21:20,133
+Nhưng nhờ có cậu mà sáu người đã sống sót.
+
+318
+00:21:20,175 --> 00:21:22,844
+Tôi xin đại diện cho năm người còn lại nói điều này.
+
+319
+00:21:23,386 --> 00:21:25,680
+Từ tận đáy lòng, xin cảm ơn cậu.
+
+320
+00:21:26,348 --> 00:21:29,434
+Chú Song, chú ngẩng đầu lên đi.
+
+321
+00:21:31,144 --> 00:21:35,413
+Kim, để tôi làm thủ lĩnh có được không?
+
+322
+00:21:36,983 --> 00:21:38,610
+Tùy mọi người quyết định đi.
+
+323
+00:21:45,158 --> 00:21:49,829
+Là vậy đó, tôi sẽ là thủ lĩnh dẫn đầu bên trong hầm ngục.
+
+324
+00:21:49,871 --> 00:21:52,874
+Đã rõ, vậy chúng ta đi thôi.
+
+325
+00:22:00,257 --> 00:22:02,133
+Vậy thì đi thôi.
 

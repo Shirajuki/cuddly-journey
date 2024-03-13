@@ -10,7 +10,11 @@ from edgetts import edgetts
 sys.path.append('../tts_srt_parsing')
 
 WORDS_TO_REPLACE = [
-    ["D", "Đ"]
+    ["D", "Đ"],
+]
+CHARACTERS_TO_REPLACE = [
+    ["“", '"'],
+    ["”", '"'],
 ]
 TEXT_TO_REMOVE = [
     "(Xem anime sớm nhất tai VuiGhe.App nhé!)",
@@ -29,6 +33,13 @@ def srt_timestamp_to_millis(timestamp):
     millis += int(time_format[-2]) * 60*1000
     millis += int(time_format[-3]) * 60*60*1000
     return millis
+
+def millis_to_srt_timestamp(total_millis):
+    (total_seconds, millis) = divmod(total_millis, 1000)
+    (total_minutes, seconds) = divmod(total_seconds, 60)
+    (hours, minutes) = divmod(total_minutes, 60)
+    time_format = '{:02}:{:02}:{:02},{:03}'
+    return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
 def srt_parse(srt):
     print("[*] Processing SRT...")
@@ -49,16 +60,8 @@ def srt_parse(srt):
             texts = subs[i].text.replace("\n", " ").split()
             texts = [" ".join(texts)]
         
-        # Parse thinking dialogues
+        # Parse dialogues
         for text in texts:
-            ntext = text
-            for match in re.findall(r'\(.*\)',text):
-                ntext = ntext.replace(match, "")
-            if len(ntext.strip()) == 0:
-                filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": text, "duration": subs[i].duration}
-                filtered_srt.append(filtered)
-                continue
-
             # Replace words
             text = text.split()
             for wtr in WORDS_TO_REPLACE:
@@ -67,14 +70,58 @@ def srt_parse(srt):
                         text[j] = word.replace(wtr[0], wtr[1])
             text = " ".join(text)
 
+            # Replace characters
+            text = list(text)
+            for c in CHARACTERS_TO_REPLACE:
+                for j, char in enumerate(text):
+                    if char == c[0]:
+                        text[j] = c[1]
+            text = "".join(text)
+
             # Remove words
             for ttr in TEXT_TO_REMOVE:
                 text = text.replace(ttr, "")
 
-            dialogue = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": text, "duration": subs[i].duration}
+            # Parse display text and thinking dialogues
+            ntext = text
+            filtered_texts = []
+            for match in re.findall(r'\(.*\)',text):
+                ntext = ntext.replace(match, "")
+                filtered_texts.append(f"{match}")
+            if len(filtered_texts) > 0:
+                filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": " ".join(filtered_texts), "duration": subs[i].duration}
+                filtered_srt.append(filtered)
+            if len(ntext.strip()) == 0:
+                continue
+
+            dialogue = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": ntext.strip(), "duration": subs[i].duration}
             dialogue_srt.append(dialogue)
 
-    srt_process(dialogue_srt, "../output/subbed.srt", tts=True)
+    # Merge dialogues if duplicate
+    ndialogue_srt = []
+    for i, dialogue in enumerate(dialogue_srt):
+        # Skip dialogue if the skip value is set
+        if dialogue.get("skip", False):
+            continue
+        # Seek 4 next dialogues and merge them if text is same
+        next = dialogue_srt[i+1:i+5]
+        if len(next) == 0:
+            continue
+        start, end = [srt_timestamp_to_millis(timestamp) for timestamp in dialogue["timestamp"].split(" --> ")]
+        duration = srt_timestamp_to_millis(str(dialogue["duration"]))
+        for d in next:
+            if dialogue["text"] != d["text"]:
+                continue
+            ds, de = [srt_timestamp_to_millis(t) for t in d["timestamp"].split(" --> ")]
+            dd = srt_timestamp_to_millis(str(d["duration"]))
+            end = de
+            duration += dd
+            d["skip"] = True
+        dialogue["timestamp"] = f"{millis_to_srt_timestamp(start)} --> {millis_to_srt_timestamp(end)}"
+        dialogue["duration"] = millis_to_srt_timestamp(duration)
+        ndialogue_srt.append(dialogue)
+
+    srt_process(ndialogue_srt, "../output/subbed.srt", tts=True)
     srt_process(filtered_srt, "../output/filtered.srt")
 
 def generate_tts(text, duration, index):
