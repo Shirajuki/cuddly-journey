@@ -14,6 +14,7 @@ The script relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) for
   - Configure the subtitle crop-box position by specific frames
   - LLM API used for sentence correction
 - Process SRT-file and generate audio dubbing through a given TTS model
+- All in one tool for easier video subbing and dubbing
 
 ## Dependencies
 
