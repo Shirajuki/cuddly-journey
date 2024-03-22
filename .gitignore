@@ -3,5 +3,8 @@ __pycache__
 *.mp3
 *.csv
 *.txt
+*.png
+*.mkv
 
 piper
+yt-dlp

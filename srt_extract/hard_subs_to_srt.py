@@ -81,6 +81,7 @@ NO_SUBTILE_FRAME_HASH = imagehash.hex_to_hash('0' * 256)
 # other options:
 # https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html#page-segmentation-method
 TESSERACT_CONFIG = '--psm 13'
+TESSERACT_CONFIG = ''
 
 # Tesseract makes mistakes. Some are easy to fix. Keys in this dictionary will
 # be replaced with their respective values.
@@ -188,14 +189,13 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
             if video.stream.get(cv2.CAP_PROP_FPS) <= 0:
                 break
             millis = get_millis_for_frame(video, frame_number)
-            srt_millis = subs[sub_index].start.ordinal + 400
+            srt_millis = subs[sub_index].start.ordinal - 0
 
             #print(millis, srt_millis, frame_number)
-            if srt_millis < millis < srt_millis + 500:
+            if srt_millis < millis < srt_millis + 300:
                 #print(frame_number)
                 #print(millis_to_srt_timestamp(millis))
-                cv2.imwrite(f"test{sub_index}-{len(cache)}.png", monochrome_frame)
-                os.popen(f"cp test{sub_index}-{len(cache)}.png ../output")
+                cv2.imwrite(f"../output/test{sub_index}-{len(cache)}.png", monochrome_frame)
                 line = pytesseract.image_to_string(monochrome_frame, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
                 line = clean_up_tesseract_output(line)
                 cache.append(line)
@@ -217,7 +217,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
                 print()
                 # Try out custom edge gpt for sentence correction
                 # TODO: Add context to the movie for better correction
-                if len("".join(cache)) > 10:
+                if len("".join(cache)) > 10 and False:
                     p = prompt.replace("MESSAGE", str(cache))
                     opt = """Use the following english translation for this subtitle as a base of context for the sentence being corrected:\n""" + str(otext)
                     p = p.replace("OPTIONAL", opt)
@@ -375,7 +375,7 @@ def to_monochrome_subtitle_frame_custom(cropped_frame):
     # Add some blur since some pixels within the subtitles are not completely
     # white. This also eliminates smaller groups of white pixels outside of the
     # subtitles
-    img = cv2.GaussianBlur(img, SUBTITLE_IMAGE_BLUR_SIZE, 0)
+    #img = cv2.GaussianBlur(img, SUBTITLE_IMAGE_BLUR_SIZE, 0)
     img = cv2.threshold(img, SUBTITLES_MIN_VALUE_AFTER_BLUR, 255, cv2.THRESH_BINARY)[1]
     
     # Invert the colors to have white background with black text.

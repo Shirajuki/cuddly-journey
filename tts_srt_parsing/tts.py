@@ -12,14 +12,25 @@ sys.path.append('../tts_srt_parsing')
 WORDS_TO_REPLACE = [
     ["D", "Đ"],
 ]
+SENTENCE_TO_REPLACE = [
+    ['<font face="Gandhi Sans" size="75">', ''],
+    ['<font ', ''],
+    ['</font>', ''],
+    ['<i>', ''],
+    ['</i>', ''],
+    ['{\\an8}', ''],
+]
 CHARACTERS_TO_REPLACE = [
     ["“", '"'],
     ["”", '"'],
+    ["'", ""],
 ]
 TEXT_TO_REMOVE = [
     "(Xem anime sớm nhất tai VuiGhe.App nhé!)",
     "(Xem anime sớm nhất tạii VuiGhe.App nhé!)"
 ]
+REGEX = r'\(.*\)'
+REGEX = r'((size=("30")+(.*)<\/font>)|(face=("(OranienbaumEroded||Cagliostro||Courte||BorisBlackBloxx||Kozuka Mincho Pro Strippedv2 R||FOT Seurat ProN Strp Medium)"))+(.*)<\/font>)'
 
 def srt_timestamp_to_millis(timestamp):
     if "," in timestamp:
@@ -85,9 +96,17 @@ def srt_parse(srt):
             # Parse display text and thinking dialogues
             ntext = text
             filtered_texts = []
-            for match in re.findall(r'\(.*\)',text):
+            for match in re.findall(REGEX,text):
+                if type(match) != str:
+                    print(match)
+                    match = match[0]
                 ntext = ntext.replace(match, "")
                 filtered_texts.append(f"{match}")
+
+            # Replace sentences
+            for stor in SENTENCE_TO_REPLACE:
+                ntext = ntext.replace(stor[0], stor[1])
+
             if len(filtered_texts) > 0:
                 filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": " ".join(filtered_texts), "duration": subs[i].duration}
                 filtered_srt.append(filtered)
