@@ -1,9 +1,9 @@
 # [WIP] Hardcoded Subtitles to SRT
 
-Creates an [SRT](https://www.matroska.org/technical/subtitles.html#srt-subtitles) file from
-a video file that has hardcoded subtitles.
+An all-in-one tool for video subbing and dubbing. Done by creating an [SRT](https://www.matroska.org/technical/subtitles.html#srt-subtitles) file from
+a given video file that has hardcoded subtitles, finally generating an audio dub on the extracted subtitle.
 
-The script relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) for the optical character recognition.
+The scripts relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) for the optical character recognition, and FFmpeg for parsing and converting audio/video files.
 
 ## Features (TODOs)
 
@@ -28,7 +28,7 @@ To download the required python package dependencies, run
 pip3 install -r requirements.txt
 ```
 
-## How to use
+## Useful commands
 To extract sub channels from a video file run:
 - ffmpeg -i movie.mkv -map 0:s:0 subs.srt
 
@@ -44,8 +44,14 @@ To process the generated tts into an audio file:
 
 Note that the script currently only support HD (1280x720) videos for now
 
+## How to use
+TBA
+
 # Credits
+
+The codebase builds upon the foundations of the following projects:
 
 - [victorjoh](https://github.com/victorjoh/hard-subs-to-srt) for the initial code that this project were based on
 - [rany2](https://github.com/rany2/edge-tts) for the Microsoft Edge's tts python wrapper
 - [vsakkas](https://github.com/vsakkas/sydney.py) used as inspiration in reverse engineering the Bing Chat / Copilot / Sydney API
+- [RVC-Project](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) inference audio, making tts more natural
