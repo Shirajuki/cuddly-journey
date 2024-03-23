@@ -20,7 +20,6 @@ const PlaygroundLazyImport = createFileRoute('/playground')()
 const EditorLazyImport = createFileRoute('/editor')()
 const DocumentationLazyImport = createFileRoute('/documentation')()
 const BatchEditLazyImport = createFileRoute('/batch-edit')()
-const AboutLazyImport = createFileRoute('/about')()
 const IndexLazyImport = createFileRoute('/')()
 
 // Create/Update Routes
@@ -45,11 +44,6 @@ const BatchEditLazyRoute = BatchEditLazyImport.update({
   getParentRoute: () => rootRoute,
 } as any).lazy(() => import('./routes/batch-edit.lazy').then((d) => d.Route))
 
-const AboutLazyRoute = AboutLazyImport.update({
-  path: '/about',
-  getParentRoute: () => rootRoute,
-} as any).lazy(() => import('./routes/about.lazy').then((d) => d.Route))
-
 const IndexLazyRoute = IndexLazyImport.update({
   path: '/',
   getParentRoute: () => rootRoute,
@@ -61,10 +55,6 @@ declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
     '/': {
       preLoaderRoute: typeof IndexLazyImport
-      parentRoute: typeof rootRoute
-    }
-    '/about': {
-      preLoaderRoute: typeof AboutLazyImport
       parentRoute: typeof rootRoute
     }
     '/batch-edit': {
@@ -90,7 +80,6 @@ declare module '@tanstack/react-router' {
 
 export const routeTree = rootRoute.addChildren([
   IndexLazyRoute,
-  AboutLazyRoute,
   BatchEditLazyRoute,
   DocumentationLazyRoute,
   EditorLazyRoute,

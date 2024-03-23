@@ -7,7 +7,7 @@ export const Route = createRootRoute({
   component: () => (
     <>
       <Navigation />
-      <main className="dark bg-background text-foreground min-h-screen overflow-hidden p-4 max-w-screen-2xl mx-auto">
+      <main className="dark bg-background text-foreground min-h-screen overflow-hidden p-4 max-w-screen-2xl mx-auto pt-20">
         <Outlet />
       </main>
       <Footer />

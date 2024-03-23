@@ -31,12 +31,12 @@ const navigationMenuItems = [
 ];
 export default function Navigation() {
   return (
-    <header className="dark bg-background text-foreground sticky top-0 z-50 w-full border-b border-border/40 backdrop-blur max-w-screen-2xl mx-auto">
+    <header className="dark text-foreground fixed top-0 z-50 w-full border-b border-border/40 backdrop-blur-lg max-w-screen-2xl mx-auto left-0 h-16 bg-neutral-800/20 justify-center px-3 items-center rounded-b-sm flex overflow-hidden">
       <NavigationMenu className="container flex h-14 max-w-screen-2xl items-center gap-2">
         <NavigationMenuList className="hidden md:flex">
           {navigationMenuItems.map((item) => (
             <NavigationMenuItem key={item.href}>
-              <Link to={item.href} className={cn(navigationMenuTriggerStyle(), "[&.active]:bg-accent/50")}>
+              <Link to={item.href} className={cn(navigationMenuTriggerStyle(), "[&.active]:bg-accent/80")}>
                 {item.label}
               </Link>
             </NavigationMenuItem>
