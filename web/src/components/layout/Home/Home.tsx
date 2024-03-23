@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import { Link } from "@tanstack/react-router";
 
 export default function Home() {
   return (
@@ -15,8 +16,12 @@ export default function Home() {
           </p>
         </div>
         <div className="flex gap-4">
-          <Button>Playground</Button>
-          <Button>Editor</Button>
+          <Link to="/playground">
+            <Button>Playground</Button>
+          </Link>
+          <Link to="/editor">
+            <Button>Editor</Button>
+          </Link>
         </div>
       </div>
     </>
