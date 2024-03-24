@@ -140,7 +140,7 @@ def extract_srt(video_file, srt_file, frame_srt_file="none"):
     convert_frames_to_srt(video, FIRST_FRAME, frame_srt_file)
     sys.stdout = sys.stdout.terminal
 
-    cv2.destroyAllWindows()
+    # cv2.destroyAllWindows()
     video.stop()
 
 
@@ -189,7 +189,7 @@ def convert_frames_to_srt(video, first_frame_pos, srt):
             if video.stream.get(cv2.CAP_PROP_FPS) <= 0:
                 break
             millis = get_millis_for_frame(video, frame_number)
-            srt_millis = subs[sub_index].start.ordinal - 0
+            srt_millis = subs[sub_index].start.ordinal + 50
 
             #print(millis, srt_millis, frame_number)
             if srt_millis < millis < srt_millis + 300:

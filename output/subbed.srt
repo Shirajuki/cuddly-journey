@@ -1,1292 +1,5504 @@
 1
-00:00:16,780 --> 00:00:17,330
-Machiko!
+00:01:00,020 --> 00:01:02,780
+Những sợi vải dọc là dòng chảy thời gian.
 
 2
-00:00:17,330 --> 00:00:18,370
-Honey!
+00:01:04,440 --> 00:01:07,020
+Chúng được nhuộm bởi màu sắc của bầu trời khi các mùa thay đổi.
 
 3
-00:00:18,370 --> 00:00:19,790
-Where are we?
+00:01:08,690 --> 00:01:10,930
+Những sợi ngang là tiếng gọi của ai đó.
 
 4
-00:00:19,790 --> 00:00:20,830
-I dont know.
+00:01:12,640 --> 00:01:15,510
+Chúng giúp người đó đứng vững và làm đung đưa trái tim họ.
 
 5
-00:00:20,830 --> 00:00:22,370
-I dont remember a thing.
+00:01:17,370 --> 00:01:20,480
+Người Iorph tiếp tục dệt Hibiol
 
 6
-00:00:23,040 --> 00:00:24,170
-You too?
+00:01:22,200 --> 00:01:26,810
+suốt cuộc đời dài hàng trăm năm của mình.
 
 7
-00:00:24,170 --> 00:00:25,830
-You mean you dont either?
+00:01:43,130 --> 00:01:43,930
+Maquia!
 
 8
-00:00:51,990 --> 00:00:53,240
-Please, come in.
+00:01:48,640 --> 00:01:49,470
+Leilia!
 
 9
-00:00:54,610 --> 00:00:56,700
-Welcome to Quindecim.
+00:01:51,140 --> 00:01:52,590
+Cậu đang làm gì thế?
 
 10
-00:02:18,860 --> 00:02:22,490
-Allow me to formally introduce myself. I am Decim, your bartender.
+00:01:53,100 --> 00:01:54,830
+Một khi cậu cứ chơi đùa như thế, cậu sẽ không làm xong việc đâu!
 
 11
-00:02:22,740 --> 00:02:23,330
-Hello.
+00:01:57,170 --> 00:01:59,130
+Này, xuống đây đi, Maquia!
 
 12
-00:02:24,040 --> 00:02:26,620
-Now, then. If you will indulge me,
+00:01:59,310 --> 00:02:00,520
+Nhảy đi!
 
 13
-00:02:26,620 --> 00:02:28,710
-I must ask you a question.
+00:02:01,350 --> 00:02:04,660
+Mình... mình không làm được.
 
 14
-00:02:29,460 --> 00:02:32,290
-Do you remember anything that happened just before your arrival?
+00:02:07,550 --> 00:02:08,440
+Cậu nhát quá!
 
 15
-00:02:33,500 --> 00:02:36,300
-No, nothing.
+00:02:11,660 --> 00:02:12,400
+Maquia,
 
 16
-00:02:36,300 --> 00:02:37,260
-Although...
+00:02:12,840 --> 00:02:14,800
+cậu không cần phải làm theo cô gái nghịch ngợm đó.
 
 17
-00:02:37,880 --> 00:02:40,970
-I think we were on our honeymoon.
+00:02:15,170 --> 00:02:15,760
+Krim...
 
 18
-00:02:41,650 --> 00:02:44,930
-Youre right! I remember that much, at least.
+00:02:16,760 --> 00:02:19,780
+Cậu thực sự... không cần phải làm vậy.
 
 19
-00:02:44,930 --> 00:02:46,310
-Very good.
+00:02:30,370 --> 00:02:35,440
+Những người tiếp tục dệt vải tách biệt với loài người được gọi là
 
 20
-00:02:46,310 --> 00:02:47,930
-Thank you very much.
+00:02:38,180 --> 00:02:39,650
+Thị tộc Biệt lập.
 
 21
-00:02:47,930 --> 00:02:50,940
-So tell us... What is this place?
+00:02:44,800 --> 00:02:47,360
+Có chuyện gì ạ, thưa Phu nhân Racine?
 
 22
-00:02:50,940 --> 00:02:54,940
-Allow me to explain your circumstances.
+00:02:49,930 --> 00:02:50,590
+Không có gì.
 
 23
-00:02:54,940 --> 00:02:57,820
-I ask that you pay close attention.
+00:02:52,850 --> 00:02:54,710
+Cậu nên làm thế lần sau, Maquia à!
 
 24
-00:02:58,950 --> 00:03:00,110
-First:
+00:02:59,080 --> 00:03:00,040
+Mẹ!
 
 25
-00:03:00,110 --> 00:03:04,330
-I cannot tell you where you are.
+00:03:00,750 --> 00:03:02,290
+Mừng mẹ về nhà ạ!
 
 26
-00:03:04,830 --> 00:03:05,950
-Second:
+00:03:04,320 --> 00:03:06,650
+Đừng đối xử với vải như thế!
 
 27
-00:03:05,950 --> 00:03:09,330
-The two of you are here to play a game.
+00:03:07,600 --> 00:03:08,830
+Con xin lỗi!
 
 28
-00:03:10,330 --> 00:03:11,580
-A game?
+00:03:09,520 --> 00:03:10,770
+Con ướt sũng rồi đây này.
 
 29
-00:03:12,170 --> 00:03:13,380
-Third:
+00:03:11,240 --> 00:03:13,040
+Cha à, cha có hái được vài bông hoa đẹp không?
 
 30
-00:03:13,380 --> 00:03:16,840
-The game you play will be chosen via roulette.
+00:03:13,230 --> 00:03:15,540
+Có. Chúng ta có thể có được vài màu sáng nhờ chúng.
 
 31
-00:03:18,340 --> 00:03:19,340
-Fourth:
+00:03:18,150 --> 00:03:20,170
+Tạm biệt, Maquia!
 
 32
-00:03:20,090 --> 00:03:23,140
-Your lives will be staked on this game.
+00:03:20,720 --> 00:03:21,770
+Tạm biệt.
 
 33
-00:03:23,340 --> 00:03:24,930
-W-Wait a minute!
+00:03:27,630 --> 00:03:28,680
+Tạm biệt...
 
 34
-00:03:24,930 --> 00:03:25,890
-Fifth:
+00:03:35,970 --> 00:03:36,930
+Sợi vải...
 
 35
-00:03:25,890 --> 00:03:27,640
-Until the game is over,
+00:03:51,220 --> 00:03:52,770
+Vì sao con khóc vậy?
 
 36
-00:03:27,640 --> 00:03:30,100
-you cannot leave this bar.
+00:03:54,820 --> 00:03:56,390
+Bởi vì con cô đơn.
 
 37
-00:03:30,100 --> 00:03:31,140
-What?
+00:03:57,010 --> 00:03:59,600
+Cô đơn? Kể cả ta ở đây?
 
 38
-00:03:32,400 --> 00:03:34,900
-Lets go, Machiko. This guys not worth our time.
+00:04:00,600 --> 00:04:02,160
+Tộc trưởng, đó không phải là điều con...
 
 39
-00:03:34,900 --> 00:03:35,900
-O-Okay.
+00:04:03,770 --> 00:04:06,130
+Con đúng là đứa trẻ hay khóc.
 
 40
-00:03:36,230 --> 00:03:38,360
-Poor bastards off his rocker.
+00:04:07,520 --> 00:04:11,660
+Con biết vì sao chúng ta được gọi là Thị tộc Biệt lập không?
 
 41
-00:03:42,190 --> 00:03:43,030
-Huh?
+00:04:13,490 --> 00:04:18,260
+Chúng ta, những người sống cuộc đời dài với rất ít thay đổi ở vẻ bên ngoài,
 
 42
-00:03:44,770 --> 00:03:46,030
-Just a bathroom.
+00:04:18,890 --> 00:04:20,850
+là những tạo vật từ những câu chuyện cổ xưa
 
 43
-00:03:46,700 --> 00:03:47,660
-Damn it.
+00:04:20,960 --> 00:04:22,860
+với những người thường.
 
 44
-00:03:55,290 --> 00:03:56,880
-How do we get out of here?
+00:04:24,370 --> 00:04:26,580
+Cho đến khi hàng trăm năm trước,
 
 45
-00:03:56,880 --> 00:04:00,800
-You cannot leave the bar until the game is over.
+00:04:27,170 --> 00:04:29,390
+con có thể tìm thấy những sinh vật như thế ở khắp nơi.
 
 46
-00:04:00,800 --> 00:04:03,050
-And if we refuse to play your game?
+00:04:30,240 --> 00:04:32,690
+Một thị tộc có cánh như loài chim.
 
 47
-00:04:04,150 --> 00:04:06,020
-I would not recommend that.
+00:04:33,530 --> 00:04:35,500
+Những bông hoa hát trước lúc bình minh.
 
 48
-00:04:10,430 --> 00:04:11,770
-Wh-Whats going on?
+00:04:36,390 --> 00:04:39,820
+Những con cá khổng lồ bơi trong dòng nước.
 
 49
-00:04:17,820 --> 00:04:19,730
-Honey, are those...
+00:04:41,180 --> 00:04:41,850
+Nhưng,
 
 50
-00:04:20,440 --> 00:04:22,240
-What the hell?
+00:04:42,850 --> 00:04:46,940
+tất cả đều xa cách với thế giới này.
 
 51
-00:04:22,240 --> 00:04:23,820
-Are those actually bodies?
+00:04:50,260 --> 00:04:51,330
+Và đó là lý do chính xác vì sao
 
 52
-00:04:23,820 --> 00:04:26,120
-This is all I can tell you:
+00:04:51,820 --> 00:04:54,550
+chúng ta tiếp tục dệt vải Hibiol.
 
 53
-00:04:26,120 --> 00:04:31,080
-You are here to play a game on which your lives depend.
+00:04:55,970 --> 00:04:58,370
+Con sẽ không bao giờ cô đơn miễn là con ở đây.
 
 54
-00:04:32,330 --> 00:04:35,290
-Whats this guy up to?
+00:04:59,380 --> 00:05:03,400
+Mọi ký ức chứa đựng trong những năm qua
 
 55
-00:04:35,290 --> 00:04:39,090
-If you would go ahead and press this button, the roulette will commence...
+00:05:03,600 --> 00:05:05,640
+đều được Hibiol ghi nhớ.
 
 56
-00:04:39,420 --> 00:04:41,380
-and the game will be chosen.
+00:05:07,010 --> 00:05:10,010
+Kể cả những người không thể nói lời tạm biệt
 
 57
-00:04:41,380 --> 00:04:42,880
-Honey...
+00:05:11,080 --> 00:05:14,370
+sẽ khóc cùng con bên trong Hibiol.
 
 58
-00:04:42,880 --> 00:04:45,090
-Lets just go along with it for now.
+00:05:15,180 --> 00:05:17,600
+Họ đang khóc cùng con ạ?
 
 59
-00:04:45,590 --> 00:04:49,430
-Theres no telling what he might do if we dispute him.
+00:05:19,140 --> 00:05:23,000
+Nhưng nếu con rời khỏi Iorph,
 
 60
-00:04:49,430 --> 00:04:51,100
-Good thinking.
+00:05:25,530 --> 00:05:28,400
+và đối mặt với thế giới bên ngoài,
 
 61
-00:05:19,880 --> 00:05:21,920
-The rules are simple.
+00:05:29,700 --> 00:05:31,240
+con đừng bao giờ yêu ai.
 
 62
-00:05:21,920 --> 00:05:26,260
-You will take turns throwing each of the darts in front of you until one of you reaches a score of zero.
+00:05:32,390 --> 00:05:35,460
+Khi con yêu một người, con sẽ thực sự cô độc đấy.
 
 63
-00:05:26,840 --> 00:05:30,470
-In the event that you run out of darts before that happens,
+00:05:37,460 --> 00:05:41,040
+Con sẽ cô độc kể cả khi con gặp người khác ạ?
 
 64
-00:05:30,470 --> 00:05:33,270
-the one with the lowest score will be declared the winner.
+00:05:41,650 --> 00:05:43,160
+Đó là định mệnh mà chúng ta,
 
 65
-00:05:33,270 --> 00:05:35,350
-You each have seven darts.
+00:05:43,700 --> 00:05:47,510
+Thị tộc Biệt lập, phải nhận lấy.
 
 66
-00:05:35,350 --> 00:05:38,190
-Please be mindful of the throw line at your feet.
+00:05:51,010 --> 00:05:52,220
+Chúc ngủ ngon.
 
 67
-00:05:39,900 --> 00:05:41,520
-The outer ring nets you double points,
+00:05:52,620 --> 00:05:54,270
+Ngủ ngon nhé, Maquia.
 
 68
-00:05:41,520 --> 00:05:44,110
-and the inner ring nets you triple.
+00:05:55,260 --> 00:05:58,400
+Đừng quên giá trị hôm nay của Hibiol.
 
 69
-00:05:44,110 --> 00:05:46,530
-A single-bull is worth 25 points,
+00:05:58,700 --> 00:05:59,430
+Vâng ạ.
 
 70
-00:05:46,530 --> 00:05:48,200
-and a double-bull is worth 50.
+00:07:27,720 --> 00:07:28,690
+Nó nở rồi.
 
 71
-00:05:51,660 --> 00:05:54,950
-There are regions of the body inscribed on the targets,
+00:07:44,420 --> 00:07:45,230
+Maquia?
 
 72
-00:05:54,950 --> 00:05:58,420
-each of which is linked to a set of your nerves.
+00:07:55,990 --> 00:07:56,710
+Renato?
 
 73
-00:05:59,170 --> 00:06:00,590
-What was that?
+00:07:59,020 --> 00:08:00,270
+Vậy có nghĩa là Mezarte đã...
 
 74
-00:06:01,250 --> 00:06:02,670
-Theyre "linked" to us?
+00:08:00,740 --> 00:08:01,390
+Maquia!
 
 75
-00:06:02,940 --> 00:06:06,420
-Yes. If pierced by a dart, you will feel pain.
+00:08:01,860 --> 00:08:03,220
+Đến chỗ tộc trưởng đi!
 
 76
-00:06:06,420 --> 00:06:07,680
-Well what?!
+00:08:08,560 --> 00:08:09,640
+Tộc trưởng!
 
 77
-00:06:07,680 --> 00:06:11,800
-The higher the score, the greater the pain will be.
+00:08:25,410 --> 00:08:26,530
+Tộc trưởng!
 
 78
-00:06:11,800 --> 00:06:13,680
-Y-You cant be serious.
+00:08:30,480 --> 00:08:31,450
+Tộc trưởng...
 
 79
-00:06:13,680 --> 00:06:14,720
-I...
+00:08:33,380 --> 00:08:34,700
+Tộc trưởng!
 
 80
-00:06:14,720 --> 00:06:16,100
-Calm down.
+00:08:34,700 --> 00:08:35,910
+Con Renato đã được trang bị vũ khí!
 
 81
-00:06:16,100 --> 00:06:18,100
-You know that cant be true.
+00:08:36,110 --> 00:08:37,450
+Bảo vệ Hibiol!
 
 82
-00:06:18,100 --> 00:06:21,060
-Lets just keep playing along for now.
+00:09:04,220 --> 00:09:04,950
+Ở kia!
 
 83
-00:06:21,060 --> 00:06:21,980
-But...
+00:09:14,470 --> 00:09:15,860
+Đúng như lời đồn.
 
 84
-00:06:21,980 --> 00:06:23,070
-If worst comes to worst,
+00:09:15,860 --> 00:09:17,890
+Chỉ toàn trẻ con ở đây.
 
 85
-00:06:23,480 --> 00:06:24,860
-Ill find us a way out of this.
+00:09:18,130 --> 00:09:21,670
+Này, anh không thích thể loại ấy à?
 
 86
-00:06:25,900 --> 00:06:26,990
-Honey...
+00:09:21,820 --> 00:09:22,600
+Lùi lại!
 
 87
-00:06:28,240 --> 00:06:29,530
-Well, then.
+00:09:23,670 --> 00:09:24,650
+Tư lệnh Izor.
 
 88
-00:06:29,530 --> 00:06:31,120
-Let us begin the game.
+00:09:40,030 --> 00:09:41,370
+Ai đứng đầu làng này?
 
 89
-00:06:44,250 --> 00:06:46,010
-"Linked", my ass.
+00:09:46,490 --> 00:09:47,400
+Ta thấy rồi.
 
 90
-00:06:46,010 --> 00:06:47,970
-Even the idea is ridiculous.
+00:09:48,590 --> 00:09:49,990
+Lần đầu tiên ta gặp một người như vậy.
 
 91
-00:06:55,140 --> 00:06:55,890
-Machiko!
+00:09:50,840 --> 00:09:52,200
+Cô có thể trông như một cô gái trẻ,
 
 92
-00:06:56,180 --> 00:06:57,890
-Youre kidding me!
+00:09:52,540 --> 00:09:56,960
+nhưng ta nghe nói cô thực sự là con quái vật 400 tuổi rồi.
 
 93
-00:06:57,890 --> 00:06:59,890
-It couldve been my imagination.
+00:09:58,160 --> 00:10:01,590
+Cuộc sống hằng ngày của chúng tôi gồm dệt vải và dệt ngày tháng,
 
 94
-00:06:59,890 --> 00:07:02,310
-It was just a little twinge.
+00:10:01,970 --> 00:10:03,750
+lặp đi lặp lại nhiều lần.
 
 95
-00:07:02,310 --> 00:07:03,610
-It doesnt hurt anymore.
+00:10:04,580 --> 00:10:06,520
+Chúng tôi không có thời gian tiếp xúc với những kẻ như các người.
 
 96
-00:07:04,320 --> 00:07:06,400
-Thank you. Im fine.
+00:10:06,520 --> 00:10:08,560
+Cô không phải là người quyết định điều đó.
 
 97
-00:07:06,820 --> 00:07:08,280
-But...
+00:10:10,260 --> 00:10:11,670
+Đây là lệnh của Nhà vua:
 
 98
-00:07:08,280 --> 00:07:09,900
-Calm down, dear.
+00:10:12,100 --> 00:10:15,440
+Cô sẽ đi với chúng tôi đến Cung điện Hoàng gia Mezarte.
 
 99
-00:07:11,110 --> 00:07:13,200
-Let me give it a try.
+00:10:16,100 --> 00:10:17,810
+Không được đến gần Phu nhân Racine!
 
 100
-00:07:25,380 --> 00:07:26,170
-Honey!
+00:10:21,240 --> 00:10:21,970
+Phụ nữ!
 
 101
-00:07:26,170 --> 00:07:27,550
-Did it actually hurt you?!
+00:10:22,380 --> 00:10:23,360
+Hãy bắt giữ lấy phụ nữ!
 
 102
-00:07:27,800 --> 00:07:30,300
-That settles it.
+00:10:24,320 --> 00:10:27,170
+Cứ giết những kẻ chống cự!
 
 103
-00:07:30,300 --> 00:07:32,180
-How the hell are they doing this?
+00:10:36,620 --> 00:10:38,080
+Con này nhiễm bệnh Mắt Đỏ rồi...!
 
 104
-00:07:34,970 --> 00:07:36,810
-Did something stab me?!
+00:10:43,760 --> 00:10:44,620
+Bỏ nó đi!
 
 105
-00:07:39,560 --> 00:07:40,940
-No, theres nothing.
+00:10:45,070 --> 00:10:46,550
+Còn bây giờ, cứ ưu tiên người Iorph đã!
 
 106
-00:07:42,600 --> 00:07:43,400
-Honey!
+00:10:56,610 --> 00:10:58,260
+Cho tôi ra đi! Cho tôi ra...
 
 107
-00:07:43,400 --> 00:07:44,520
-Just wait there!
+00:11:29,530 --> 00:11:30,180
+Maquia!
 
 108
-00:07:45,190 --> 00:07:46,770
-You cant fool me that easy!
+00:12:49,190 --> 00:12:49,990
+Không...
 
 109
-00:07:46,770 --> 00:07:48,150
-Im a doctor!
+00:12:51,420 --> 00:12:55,920
+KHÔNG!
 
 110
-00:07:48,480 --> 00:07:50,320
-There arent any signs of surgery.
+00:13:21,840 --> 00:13:23,980
+Này, xuống đây đi, Maquia!
 
 111
-00:07:50,320 --> 00:07:52,240
-What did you do to us?!
+00:13:24,430 --> 00:13:25,700
+Nhảy đi!
 
 112
-00:07:52,240 --> 00:07:53,610
-Nothing in particular.
+00:14:07,580 --> 00:14:09,200
+Một... đứa bé?
 
 113
-00:07:53,610 --> 00:07:56,370
-Then what is this pain?!
+00:14:09,340 --> 00:14:10,820
+Một loại rượu làm từ nước mắt
 
 114
-00:07:56,370 --> 00:07:57,160
-I was very clear.
+00:14:14,060 --> 00:14:16,180
+có vị ngon tuyệt vì có chút muối đấy.
 
 115
-00:07:58,160 --> 00:08:02,160
-In this game, your lives are on the line.
+00:14:18,600 --> 00:14:21,120
+Cô là Maquia từ chỗ Tộc trưởng phải không?
 
 116
-00:08:07,170 --> 00:08:11,220
-If you wish to avoid the pain, you do not have to hit the target.
+00:14:22,580 --> 00:14:25,970
+Tôi đến đây để mua vải Hibiol nhưng bị mắc kẹt ở đây.
 
 117
-00:08:12,010 --> 00:08:12,880
-What?
+00:14:27,160 --> 00:14:30,560
+Đây là nơi sinh sống của người du mục, nhưng có vẻ lũ cướp giết họ rồi.
 
 118
-00:08:12,880 --> 00:08:17,180
-If you miss with the rest of your darts, the game will come to an end.
+00:14:31,330 --> 00:14:33,620
+Và đứa trẻ này vừa mới sinh.
 
 119
-00:08:18,220 --> 00:08:19,310
-Oh, yeah.
+00:14:39,090 --> 00:14:42,180
+Thật khó khăn khi làm một người mẹ.
 
 120
-00:08:19,310 --> 00:08:20,850
-We could always do that instead.
+00:14:42,460 --> 00:14:45,020
+Cố bảo vệ đứa con bằng tất cả mạng sống của mình.
 
 121
-00:08:20,850 --> 00:08:24,310
-In that case, Machiko would be declared the winner.
+00:14:45,370 --> 00:14:49,240
+Nếu ta mặc kệ đứa bé, họ sẽ gặp lại nhau sớm thôi.
 
 122
-00:08:30,190 --> 00:08:31,320
-Id lose?
+00:14:49,680 --> 00:14:51,780
+Hibiol của nó sẽ kết thúc ở đây.
 
 123
-00:08:32,450 --> 00:08:34,910
-Whats going on, honey?
+00:14:51,940 --> 00:14:56,080
+Một vết cắt cô không thể gọi là vải sẽ được tạo ra.
 
 124
-00:08:35,610 --> 00:08:36,740
-Takashi?
+00:14:56,940 --> 00:14:59,620
+Như thế tốt hơn là ở đây một mình.
 
 125
-00:08:37,450 --> 00:08:38,450
-Oh...
+00:15:02,240 --> 00:15:04,100
+Đứa bé thực sự cô độc sao?
 
 126
-00:08:38,780 --> 00:08:41,160
-It sounds like we have to keep playing the game.
+00:15:36,530 --> 00:15:38,830
+Thật... quyền năng...
 
 127
-00:08:41,160 --> 00:08:43,750
-But he just gave me quite the tip.
+00:15:40,850 --> 00:15:41,730
+Đáng kinh ngạc...
 
 128
-00:08:43,750 --> 00:08:45,670
-All we have to do is miss.
+00:15:42,550 --> 00:15:44,410
+Thôi nào, dừng lại đi.
 
 129
-00:08:45,670 --> 00:08:47,380
-Itll be over before we know it.
+00:15:52,750 --> 00:15:54,610
+Cô định mang nó theo à?
 
 130
-00:08:48,170 --> 00:08:49,380
-We can do that?
+00:15:56,850 --> 00:15:57,840
+Đó không phải đồ chơi đâu...
 
 131
-00:08:49,380 --> 00:08:50,170
-Yeah.
+00:15:57,840 --> 00:15:58,930
+Nó không phải đồ chơi.
 
 132
-00:08:51,510 --> 00:08:54,970
-But if we do, then youll lose.
+00:16:00,640 --> 00:16:01,350
+Nó là...
 
 133
-00:08:55,260 --> 00:08:57,390
-Dont let that get to you.
+00:16:03,770 --> 00:16:05,020
+Hibiol của tôi.
 
 134
-00:09:00,720 --> 00:09:02,270
-Its fine.
+00:16:07,510 --> 00:16:08,800
+Không thể tin được.
 
 135
-00:09:02,270 --> 00:09:04,140
-It doesnt matter who wins or loses.
+00:16:09,040 --> 00:16:12,110
+Một kẻ cô đơn gặp một kẻ cô đơn khác.
 
 136
-00:09:06,310 --> 00:09:08,310
-I still have Machiko.
+00:16:18,170 --> 00:16:19,000
+Con thấy lạnh không?
 
 137
-00:09:15,650 --> 00:09:17,030
-Whats the matter?
+00:16:30,890 --> 00:16:32,040
+Con có mùi kỳ lạ quá.
 
 138
-00:09:17,030 --> 00:09:18,780
-Its your turn.
+00:16:34,010 --> 00:16:35,430
+Mùi hương như mặt trời vậy.
 
 139
-00:09:18,780 --> 00:09:19,950
-Oh, right.
+00:16:46,670 --> 00:16:48,080
+Bên này này!
 
 140
-00:09:19,950 --> 00:09:20,910
-Sorry.
+00:16:47,600 --> 00:16:48,580
+- Đợi đã!
 
 141
-00:09:39,970 --> 00:09:41,220
-Shit!
+00:16:50,980 --> 00:16:52,490
+Lang! Deol!
 
 142
-00:09:41,220 --> 00:09:42,680
-Im sorry, Machiko!
+00:16:52,650 --> 00:16:54,070
+Sao cứ mải chơi thế hả?
 
 143
-00:09:42,680 --> 00:09:44,230
-My hand slipped!
+00:16:55,580 --> 00:16:56,570
+Qua bên này đi!
 
 144
-00:09:45,140 --> 00:09:47,390
-I-Its all right, honey.
+00:16:56,060 --> 00:16:57,060
+- Đợi với!
 
 145
-00:09:48,480 --> 00:09:49,560
-Thanks.
+00:16:57,170 --> 00:16:58,300
+Em không đợi đâu!
 
 146
-00:10:02,580 --> 00:10:07,500
-My eyes!
+00:16:57,490 --> 00:16:58,300
+- Sao em cứ...
 
 147
-00:10:08,620 --> 00:10:10,920
-Im sorry, dear!
+00:16:58,370 --> 00:17:00,280
+Cảm ơn trời, thằng bé ham chơi này.
 
 148
-00:10:11,840 --> 00:10:13,090
-Are you okay?
+00:17:02,420 --> 00:17:03,540
+Sao thế, Onora?
 
 149
-00:10:14,550 --> 00:10:16,920
-You just had to hit the double!
+00:17:19,770 --> 00:17:20,780
+Vú...
 
 150
-00:10:16,920 --> 00:10:19,430
-I didnt do it on purpose! Honest!
+00:17:22,300 --> 00:17:23,320
+Vú...
 
 151
-00:10:22,720 --> 00:10:25,770
-Im sorry, honey. Im so sorry!
+00:17:24,100 --> 00:17:25,440
+Vú...
 
 152
-00:10:30,310 --> 00:10:31,940
-Forgive me.
+00:17:27,240 --> 00:17:28,390
+Tôi không biết chúng ở đâu!
 
 153
-00:10:32,900 --> 00:10:34,440
-Please dont!
+00:17:33,220 --> 00:17:34,490
+Nghe này,
 
 154
-00:10:35,860 --> 00:10:37,950
-Please, at least...
+00:17:35,200 --> 00:17:38,790
+một đứa trẻ nuôi một đứa trẻ là hoàn toàn không thể, cô không nghĩ thế à?
 
 155
-00:10:37,950 --> 00:10:40,030
-not in the stomach.
+00:17:42,930 --> 00:17:44,700
+Con cô đấy à?
 
 156
-00:10:43,700 --> 00:10:45,450
-Not at your child.
+00:17:49,900 --> 00:17:52,690
+Chúng ta không thể biết được tuổi một người Iorph dựa trên vẻ ngoài cô ấy, đúng không?
 
 157
-00:10:45,450 --> 00:10:47,390
-What? Are you serious?
+00:17:53,190 --> 00:17:53,900
+Nó là con cô ạ?
 
 158
-00:10:48,000 --> 00:10:48,960
-Yes.
+00:17:56,450 --> 00:17:57,890
+Lang, Deol.
 
 159
-00:10:54,960 --> 00:10:56,590
-Now that I think about it,
+00:17:58,610 --> 00:18:01,330
+Tôi... tôi mới 15 tuổi...
 
 160
-00:10:57,210 --> 00:10:58,800
-you have been out of sorts lately.
+00:18:01,890 --> 00:18:03,530
+Đứa bé này... không phải.
 
 161
-00:10:58,800 --> 00:10:59,590
-Yeah.
+00:18:04,220 --> 00:18:05,130
+Tôi không biết tuổi nó.
 
 162
-00:10:59,590 --> 00:11:01,510
-How many weeks?
+00:18:15,320 --> 00:18:16,590
+Tên đứa bé là gì?
 
 163
-00:11:01,510 --> 00:11:03,100
-Ten.
+00:18:18,000 --> 00:18:19,110
+Tôi không biết.
 
 164
-00:11:03,100 --> 00:11:05,220
-Why didnt you say anything?
+00:18:20,100 --> 00:18:21,190
+Kỳ lạ thật.
 
 165
-00:11:05,220 --> 00:11:08,600
-I wanted to surprise you on our honeymoon.
+00:18:21,590 --> 00:18:22,750
+Đúng là cô gái kỳ quặc.
 
 166
-00:11:08,600 --> 00:11:11,400
-I still havent told anyone.
+00:18:23,050 --> 00:18:24,470
+Đúng là đứa bé kỳ quặc!
 
 167
-00:11:11,400 --> 00:11:14,110
-I wanted you to be the first to know.
+00:18:24,520 --> 00:18:25,470
+Leilia!
 
 168
-00:11:16,190 --> 00:11:17,360
-Really?
+00:18:27,700 --> 00:18:28,580
+Leilia...
 
 169
-00:11:18,820 --> 00:11:20,610
-Thank you, Machiko.
+00:18:29,520 --> 00:18:30,770
+Đấy là tên con gái.
 
 170
-00:11:20,610 --> 00:11:22,660
-Try not to overexert yourself.
+00:18:31,260 --> 00:18:32,260
+Không phải tên con trai à?
 
 171
-00:11:22,660 --> 00:11:23,370
-Okay.
+00:18:32,510 --> 00:18:33,860
+Vậy thì...
 
 172
-00:11:23,660 --> 00:11:24,910
-Im sorry.
+00:18:34,130 --> 00:18:34,880
+Reiri...
 
 173
-00:11:27,950 --> 00:11:31,370
-So Im finally going to be a father.
+00:18:36,000 --> 00:18:36,600
+Eri...
 
 174
-00:11:59,690 --> 00:12:00,780
-How could you...
+00:18:36,760 --> 00:18:37,660
+Ariel.
 
 175
-00:12:00,780 --> 00:12:02,150
-I didnt do it on purpose.
+00:18:39,000 --> 00:18:39,980
+Ariel!
 
 176
-00:12:02,150 --> 00:12:05,410
-Liar! What if something happened to the baby?!
+00:18:40,150 --> 00:18:40,880
+Hả?
 
 177
-00:12:06,240 --> 00:12:08,120
-Wh-What?
+00:18:41,380 --> 00:18:41,830
+Hả?
 
 178
-00:12:08,120 --> 00:12:11,620
-I cant believe I let something so important get away from me.
+00:18:42,620 --> 00:18:44,430
+Đủ rồi đấy.
 
 179
-00:12:12,790 --> 00:12:15,130
-What are you talking about?
+00:18:49,990 --> 00:18:53,330
+Cô ấy là một đứa trẻ bên họ hàng nhà tôi. Và cô ấy biết dệt vải.
 
 180
-00:12:15,130 --> 00:12:17,500
-Dont give me that.
+00:19:02,430 --> 00:19:05,380
+Có một cái máy dệt không được sử dụng đằng sau cửa hàng.
 
 181
-00:12:18,130 --> 00:12:19,800
-That was such a lovely ceremony.
+00:19:05,780 --> 00:19:07,230
+Cô có thể dùng nó.
 
 182
-00:12:19,800 --> 00:12:23,760
-Yeah. Macchi sure does play to win, doesnt she?
+00:19:12,920 --> 00:19:13,700
+Đợi ở đây.
 
 183
-00:12:23,760 --> 00:12:25,510
-Youre telling me.
+00:19:17,230 --> 00:19:18,790
+Cô ấy đến từ Iorph.
 
 184
-00:12:25,510 --> 00:12:28,510
-Macchi? Do they mean Machiko?
+00:19:19,640 --> 00:19:21,480
+Tôi thật không giỏi bằng ông, Darel.
 
 185
-00:12:26,890 --> 00:12:28,510
-Come to think of it,
+00:19:21,700 --> 00:19:22,480
+Tôi hy vọng...
 
 186
-00:12:28,510 --> 00:12:31,100
-shes always been a smooth operator, hasnt she?
+00:19:26,150 --> 00:19:28,460
+Vải Iorph có thể bán được với giá cao.
 
 187
-00:12:31,350 --> 00:12:34,020
-I hear her husbands another doctor.
+00:19:29,510 --> 00:19:31,840
+Tôi sẽ không nói ra danh tính
 
 188
-00:12:35,020 --> 00:12:38,520
-And shes got a stud on the side. Im so freaking jealous!
+00:19:32,090 --> 00:19:33,880
+của một nguồn thu nhập đáng giá đến vậy đâu.
 
 189
-00:12:44,360 --> 00:12:46,780
-I heard every word they said.
+00:19:35,040 --> 00:19:36,180
+Cảm ơn ông rất nhiều.
 
 190
-00:12:46,780 --> 00:12:49,030
-Your friends really have no class.
+00:19:36,500 --> 00:19:39,370
+Mặc dù, cô ấy chỉ có một mình
 
 191
-00:12:49,740 --> 00:12:51,540
-Whats that supposed to mean?
+00:19:39,970 --> 00:19:42,200
+và còn là người Iorph
 
 192
-00:12:51,540 --> 00:12:56,540
-Imagine finding out on your wedding day that your wife is having an affair.
+00:19:42,770 --> 00:19:43,560
+Đúng vậy.
 
 193
-00:12:56,540 --> 00:12:58,540
-I dont know what youre talking about!
+00:19:44,170 --> 00:19:46,600
+Tôi không biết điều gì sẽ xảy ra tiếp theo kể từ bây giờ.
 
 194
-00:12:59,000 --> 00:13:04,130
-Still, I couldnt bring myself to stop the ceremony.
+00:19:47,380 --> 00:19:49,830
+Cho dù cô ấy ở đây hay không.
 
 195
-00:13:04,130 --> 00:13:06,640
-I just kept trying to block out what theyd said.
+00:19:56,020 --> 00:19:58,000
+Của bà đây, phần hôm nay.
 
 196
-00:13:06,640 --> 00:13:08,970
-Im telling you, youve got it all wrong!
+00:19:58,060 --> 00:20:00,130
+Cảm ơn cô như mọi khi.
 
 197
-00:13:08,970 --> 00:13:11,560
-I was so in love with you!
+00:20:02,240 --> 00:20:06,060
+Sau tất cả thì cheese của cô vị khác với phần còn lại.
 
 198
-00:13:11,560 --> 00:13:13,810
-And I love you, too! You dont know what youre saying!
+00:20:06,060 --> 00:20:08,800
+Không hề đâu! Tôi sẽ nhờ bà trong tuần tới!
 
 199
-00:13:13,810 --> 00:13:15,140
-Dont lie to me!
+00:20:09,020 --> 00:20:11,620
+Khác như vị thứ hai ấy!
 
 200
-00:13:15,850 --> 00:13:18,310
-Im not lying! Its the truth!
+00:20:11,620 --> 00:20:13,060
+Và cả tuần sau đó nữa!
 
 201
-00:13:20,650 --> 00:13:22,570
-You and I are through.
+00:20:15,130 --> 00:20:16,630
+Thậm chí ở tuổi của tôi,
 
 202
-00:13:24,990 --> 00:13:26,660
-Tell me something.
+00:20:16,770 --> 00:20:19,470
+nuôi con một mình vẫn rất vất vả.
 
 203
-00:13:26,660 --> 00:13:27,780
-What is it?
+00:20:20,370 --> 00:20:21,440
+Cô hiểu chứ?
 
 204
-00:13:28,030 --> 00:13:31,040
-Theres more to the game than those rules, isnt there?
+00:20:23,790 --> 00:20:25,010
+Chồng tôi, cô thấy đấy,
 
 205
-00:13:31,040 --> 00:13:33,290
-That ones not yours.
+00:20:26,100 --> 00:20:28,680
+bị giết bởi một con Renato nhiễm Mắt Đỏ.
 
 206
-00:13:33,290 --> 00:13:34,960
-That may be,
+00:20:32,670 --> 00:20:34,010
+Tôi không biết.
 
 207
-00:13:34,960 --> 00:13:38,670
-but the rules didnt say anything about who can throw each dart.
+00:20:34,840 --> 00:20:36,420
+Lại là "Tôi không biết" rồi.
 
 208
-00:13:38,670 --> 00:13:39,540
-Am I wrong?
+00:20:37,400 --> 00:20:39,510
+Tôi không biết làm mẹ như thế nào.
 
 209
-00:13:39,540 --> 00:13:41,170
-You are correct.
+00:20:40,050 --> 00:20:41,520
+Bởi vì... tôi...
 
 210
-00:13:41,170 --> 00:13:44,210
-As long as a dart hits a target, points are scored.
+00:20:42,740 --> 00:20:43,710
+không có mẹ.
 
 211
-00:13:45,260 --> 00:13:48,760
-They planned on us taking from each other from the start.
+00:20:44,790 --> 00:20:46,100
+Như thế này này!
 
 212
-00:13:48,760 --> 00:13:51,010
-Seven darts were never enough.
+00:22:01,460 --> 00:22:02,260
+Nó đi được rồi!
 
 213
-00:13:51,010 --> 00:13:53,310
-You are down to one final dart,
+00:22:02,310 --> 00:22:03,790
+Giỏi quá, Ariel!
 
 214
-00:13:53,310 --> 00:13:55,930
-so the next person to score will be the winner.
+00:22:04,910 --> 00:22:05,810
+Ariel!
 
 215
-00:13:55,930 --> 00:13:58,560
-What happens to the loser?
+00:22:09,520 --> 00:22:10,540
+Tuyệt vời!
 
 216
-00:13:58,560 --> 00:14:02,070
-I am terribly sorry, but I cannot answer that.
+00:22:10,770 --> 00:22:12,320
+Con thật kỳ diệu, Ariel!
 
 217
-00:14:02,730 --> 00:14:04,650
-You heard the man.
+00:22:17,500 --> 00:22:21,160
+Bây giờ cô đang trở thành một người mẹ đấy!
 
 218
-00:14:04,650 --> 00:14:09,740
-I think its about time I showed Ms. Play-to-Win the taste of defeat. How about it, Macchi?
+00:22:23,560 --> 00:22:25,590
+Tôi... một người mẹ à?
 
 219
-00:14:10,320 --> 00:14:11,580
-Ill bet youve never lost, eh?
+00:22:27,490 --> 00:22:29,770
+Làm gì có mẹ nào không đáng tin như thế này đâu!
 
 220
-00:14:12,830 --> 00:14:14,080
-"Macchi"?
+00:22:30,700 --> 00:22:33,590
+Con dọn xong chuồng cừu chưa?
 
 221
-00:14:14,080 --> 00:14:16,080
-Thats your nickname, isnt it?
+00:22:33,810 --> 00:22:34,960
+Ôi không, là mẹ đấy!
 
 222
-00:14:19,080 --> 00:14:25,340
-Do you remember me telling you about my friend at our wedding who I hadnt seen in years?
+00:22:35,070 --> 00:22:36,020
+Đi thôi, Deol!
 
 223
-00:14:26,300 --> 00:14:27,760
-Machida Yuuki.
+00:22:38,840 --> 00:22:40,050
+Con xin lỗi mẹ.
 
 224
-00:14:27,760 --> 00:14:31,350
-Shed always hated her name back in high school.
+00:22:40,180 --> 00:22:41,330
+Con xin lỗi.
 
 225
-00:14:31,890 --> 00:14:33,850
-She said it sounded too masculine.
+00:22:41,780 --> 00:22:43,260
+Đi nào, nhấc cái mông về ngay.
 
 226
-00:14:35,060 --> 00:14:36,600
-What are you saying?
+00:22:50,460 --> 00:22:53,220
+Con thử gọi "Mẹ" đi.
 
 227
-00:14:37,430 --> 00:14:39,600
-So we nicknamed her "Macchi".
+00:22:56,300 --> 00:22:57,970
+Nói dối! Đó là nói dối!
 
 228
-00:14:40,850 --> 00:14:42,110
-What?
+00:22:58,840 --> 00:22:59,680
+Mẹ.
 
 229
-00:14:42,400 --> 00:14:45,940
-She married a doctor several years ago,
+00:23:01,190 --> 00:23:03,370
+Ariel, con vừa nói gì?
 
 230
-00:14:45,940 --> 00:14:48,780
-but fretted about being unable to break it off with an old boyfriend.
+00:23:06,690 --> 00:23:07,640
+Một lần nữa.
 
 231
-00:14:49,860 --> 00:14:51,120
-Youre lying!
+00:23:08,880 --> 00:23:10,680
+Nói lại đi con.
 
 232
-00:14:51,120 --> 00:14:53,120
-You think Im making this up, too?
+00:23:18,260 --> 00:23:21,750
+Thêm một Renato nữa bị nhiễm Mắt Đỏ.
 
 233
-00:14:55,450 --> 00:14:59,370
-Macchi sure does play to win, doesnt she?
+00:23:23,200 --> 00:23:24,480
+Nó đã có một cái chết nhanh chóng.
 
 234
-00:14:59,370 --> 00:15:01,920
-I hear her husbands another doctor.
+00:23:24,690 --> 00:23:26,950
+Phần còn lại của nó đã được cách ly, hoả thiêu,
 
 235
-00:15:02,250 --> 00:15:04,250
-I-It cant be.
+00:23:27,190 --> 00:23:28,900
+và được chôn sâu dưới đất rồi.
 
 236
-00:15:04,250 --> 00:15:06,260
-Then you mean...
+00:23:29,310 --> 00:23:31,480
+Chúng ta còn lại năm con còn sống.
 
 237
-00:15:06,670 --> 00:15:08,010
-the baby is...
+00:23:31,750 --> 00:23:34,040
+Sao có thể thế được!
 
 238
-00:15:08,420 --> 00:15:11,010
-I havent lied to you at all.
+00:23:34,420 --> 00:23:38,110
+Mezarte có khả năng xâm lược các nước láng giềng
 
 239
-00:15:12,010 --> 00:15:14,300
-Machiko! Wait a minute!
+00:23:38,330 --> 00:23:41,390
+là nhờ những con quái vật cổ đại ấy, loài Renato.
 
 240
-00:15:17,720 --> 00:15:18,310
-Wait, I...
+00:23:41,960 --> 00:23:45,180
+Vậy nếu chúng chết hết, sự cân bằng cuối cùng sẽ bị sụp đổ.
 
 241
-00:15:18,310 --> 00:15:19,940
-Enough already!
+00:23:46,550 --> 00:23:49,030
+Để Mezarte duy trì quyền lực của nó,
 
 242
-00:15:20,440 --> 00:15:21,940
-Ill show you!
+00:23:49,030 --> 00:23:53,280
+chúng ta cần một thực thể vượt trên hiểu biết con người để thay thế Renato.
 
 243
-00:15:21,940 --> 00:15:22,770
-Dont!
+00:23:53,430 --> 00:23:54,850
+Đúng thế.
 
 244
-00:16:05,940 --> 00:16:07,070
-No...
+00:23:55,200 --> 00:23:56,960
+Chúng ta đã lấy được nó.
 
 245
-00:16:14,030 --> 00:16:15,570
-Congratulations.
+00:23:57,130 --> 00:23:58,640
+Dòng máu của kẻ được chọn!
 
 246
-00:16:15,570 --> 00:16:17,580
-Machiko is the winner.
+00:23:59,130 --> 00:24:01,920
+Izor, người phụ nữ đó thế nào rồi?
 
 247
-00:16:18,040 --> 00:16:20,580
-The game is hereby at an end.
+00:24:02,290 --> 00:24:05,710
+Cô gái Iorph đó sẽ là cô dâu của Hoàng tử Hazel.
 
 248
-00:16:20,580 --> 00:16:22,830
-Both of you, please proceed this way.
+00:24:07,750 --> 00:24:10,000
+Tại sao lại thành ra thế này?
 
 249
-00:16:23,210 --> 00:16:24,080
-Hold on!
+00:24:11,200 --> 00:24:13,420
+Loài vật bọn mày có cánh,
 
 250
-00:16:24,500 --> 00:16:27,290
-Not yet! Just give me one more try!
+00:24:14,370 --> 00:24:16,410
+nhưng sao bọn mày không bay khỏi đây?
 
 251
-00:16:27,290 --> 00:16:28,300
-Youre too late!
+00:24:22,450 --> 00:24:23,370
+Loài vật yếu đuối.
 
 252
-00:16:28,300 --> 00:16:29,050
-What was that?!
+00:24:24,920 --> 00:24:26,950
+Tất cả bọn mày đang chết dần.
 
 253
-00:16:29,500 --> 00:16:30,460
-Its too late...
+00:24:27,860 --> 00:24:30,450
+Tất cả bọn mày đang chết dần trong khi cơ thể bị thiêu đốt
 
 254
-00:16:31,920 --> 00:16:33,550
-for any of this.
+00:24:31,220 --> 00:24:32,160
+từ những cảm xúc không thể giải phóng,
 
 255
-00:16:34,340 --> 00:16:35,300
-Machiko...
+00:24:32,580 --> 00:24:34,050
+bọn mày đã bị bỏ mặc thiêu cháy trong tim.
 
 256
-00:16:35,300 --> 00:16:36,850
-Tell me.
+00:24:35,270 --> 00:24:38,130
+Cô Leilia, cô được Nhà vua cho gọi.
 
 257
-00:16:36,850 --> 00:16:37,970
-We...
+00:24:39,700 --> 00:24:40,670
+Cho ta thêm chút thời gian.
 
 258
-00:16:39,060 --> 00:16:41,310
-Were dead, arent we?
+00:24:42,570 --> 00:24:45,320
+Cô Leilia, sao cô luôn đến đây?
 
 259
-00:16:43,060 --> 00:16:44,060
-Yes.
+00:24:47,140 --> 00:24:49,050
+Vì nó giống như tháp Hibiol.
 
 260
-00:16:44,060 --> 00:16:46,650
-The two of you have already passed on.
+00:24:50,800 --> 00:24:51,770
+Vậy à?
 
 261
-00:16:46,650 --> 00:16:47,980
-Following their deaths,
+00:25:08,340 --> 00:25:09,120
+Con xong rồi!
 
 262
-00:16:47,980 --> 00:16:51,320
-people are sent to either Heaven or Hell.
+00:25:09,380 --> 00:25:10,570
+Nói thế có đúng không ạ?
 
 263
-00:16:51,320 --> 00:16:55,570
-Quindecim exists to preside over that judgment.
+00:25:10,670 --> 00:25:13,270
+Ừ. "Onora, mau khoẻ nhanh nhé!"
 
 264
-00:16:55,950 --> 00:17:01,450
-There is a provision that states that those pairs who die at the same moment may be invited here.
+00:25:15,790 --> 00:25:17,750
+Ở nơi mẹ sinh ra,
 
 265
-00:17:02,750 --> 00:17:05,790
-I apologize for being unable to tell you earlier.
+00:25:18,300 --> 00:25:21,360
+mọi người dùng vải thay cho tính cách để bộc lộ cảm xúc.
 
 266
-00:17:19,890 --> 00:17:21,100
-Why dont you answer it?
+00:25:21,910 --> 00:25:23,570
+Từ nơi mẹ sinh ra ạ?
 
 267
-00:17:21,100 --> 00:17:21,720
-Huh?
+00:25:23,990 --> 00:25:25,780
+Con sinh ra ở đâu?
 
 268
-00:17:22,060 --> 00:17:23,770
-I just dont feel like talking.
+00:25:26,840 --> 00:25:28,680
+Mẹ của Dita nói thế.
 
 269
-00:17:24,730 --> 00:17:26,900
-Give me that! Ill answer it!
+00:25:28,790 --> 00:25:31,000
+Mẹ khác với những người khác.
 
 270
-00:17:26,900 --> 00:17:27,980
-Hey, cut it out!
+00:25:33,140 --> 00:25:35,150
+Nơi con sinh ra
 
 271
-00:17:27,980 --> 00:17:29,770
-The road! Watch the road!
+00:25:35,740 --> 00:25:37,790
+có những thứ biết nói với dạ dày
 
 272
-00:17:42,120 --> 00:17:43,450
-Were dead?
+00:25:38,140 --> 00:25:39,590
+những con côn trùng ngọ nguậy.
 
 273
-00:17:43,910 --> 00:17:46,960
-How could this have happened?
+00:25:39,800 --> 00:25:40,800
+Chúng ở đây này!
 
 274
-00:17:48,210 --> 00:17:49,920
-I just...
+00:25:40,800 --> 00:25:41,510
+Ngọ nguậy ngọ nguậy ngọ nguậy!
 
 275
-00:17:49,920 --> 00:17:53,130
-wanted to start a happy family.
+00:25:41,510 --> 00:25:43,890
+Dạ dày nói chuyện với rắm!
 
 276
-00:17:53,130 --> 00:17:55,220
-I wanted to be our protector.
+00:25:47,170 --> 00:25:48,440
+Onora!
 
 277
-00:17:57,470 --> 00:17:59,930
-How could I have killed my own child?
+00:25:49,180 --> 00:25:50,720
+Mặc nhẹ nhàng cho nó thôi nhé?
 
 278
-00:17:59,930 --> 00:18:01,470
-Thats ludicrous!
+00:25:55,640 --> 00:25:57,080
+Tốt cho mày đấy, Onora.
 
 279
-00:18:01,970 --> 00:18:03,180
-Please help us!
+00:25:58,340 --> 00:26:01,640
+Onora đã ở đây kể từ khi mẹ và bố lấy nhau.
 
 280
-00:18:03,180 --> 00:18:04,730
-Youre God, arent you?!
+00:26:02,500 --> 00:26:05,620
+Nó đã khoảng 90 tuổi tính theo tuổi con người.
 
 281
-00:18:05,180 --> 00:18:07,480
-I am merely an arbiter.
+00:26:16,870 --> 00:26:19,690
+Mẹ của Ariel kỳ quặc.
 
 282
-00:18:07,480 --> 00:18:12,320
-Please! This cant seriously be happening!
+00:26:19,800 --> 00:26:21,980
+Cô ấy luôn đi lại lén lút.
 
 283
-00:18:13,360 --> 00:18:16,110
-Shut up! You can drop the fucking act already!
+00:26:22,120 --> 00:26:23,500
+Mẹ không kỳ quặc!
 
 284
-00:18:17,110 --> 00:18:17,860
-"Act"?
+00:26:23,730 --> 00:26:24,420
+Mẹ...
 
 285
-00:18:17,860 --> 00:18:19,610
-That is not my child!
+00:26:25,160 --> 00:26:26,200
+Mẹ tớ...
 
 286
-00:18:20,160 --> 00:18:22,870
-Then whose do you think it is?
+00:26:26,980 --> 00:26:27,670
+Tớ...
 
 287
-00:18:22,870 --> 00:18:26,620
-Another mans, of course!
+00:26:28,970 --> 00:26:30,480
+Nó vẫn dùng từ "Tớ" kìa.
 
 288
-00:18:27,910 --> 00:18:29,710
-Takashi...
+00:26:30,480 --> 00:26:32,830
+Nó như trẻ con ấy! Hư hỏng làm sao!
 
 289
-00:19:10,330 --> 00:19:12,420
-Youre right.
+00:26:32,950 --> 00:26:34,800
+Cậu là đồ kỳ quặc, Ariel!
 
 290
-00:19:14,960 --> 00:19:16,420
-The thing is...
+00:26:35,460 --> 00:26:38,210
+Một người yêu mẹ mình là kỳ quặc đấy.
 
 291
-00:19:16,420 --> 00:19:18,670
-I love someone else.
+00:26:38,290 --> 00:26:40,250
+Không đúng! Tớ...
 
 292
-00:19:27,350 --> 00:19:29,180
-I mean, Id have to, right?
+00:26:41,570 --> 00:26:43,330
+Tớ... ghét mẹ!
 
 293
-00:19:29,600 --> 00:19:32,440
-Did you honestly think someone was going to fall in love with you?
+00:26:43,960 --> 00:26:45,470
+Tớ yêu mẹ tớ.
 
 294
-00:19:33,440 --> 00:19:35,440
-What are you, brain-damaged?!
+00:26:45,590 --> 00:26:46,740
+Im đi!
 
 295
-00:19:35,440 --> 00:19:37,440
-I was obviously after your money!
+00:26:46,810 --> 00:26:48,840
+Tớ ghét cậu, Dita!
 
 296
-00:19:37,820 --> 00:19:39,360
-You...
+00:26:55,690 --> 00:26:57,560
+Cậu không sao chứ, Dita?
 
 297
-00:19:39,360 --> 00:19:42,280
-So this whole time, its been nothing but lies!
+00:27:04,790 --> 00:27:05,960
+Cái này khá đẹp.
 
 298
-00:19:42,280 --> 00:19:45,620
-Of course I was lying! Who the hell would want to have your child?!
+00:27:09,410 --> 00:27:10,960
+Đây là của tháng này.
 
 299
-00:19:47,580 --> 00:19:50,830
-You dirty bitch!
+00:27:11,340 --> 00:27:12,620
+Cảm ơn ông.
 
 300
-00:19:54,380 --> 00:19:55,500
-Fuck!
+00:27:13,040 --> 00:27:15,760
+Phải rồi, cô nhìn qua cái này được không?
 
 301
-00:19:58,340 --> 00:19:59,840
-What is this?!
+00:27:16,360 --> 00:27:18,800
+Có một người mua được vải Hibiol.
 
 302
-00:20:01,130 --> 00:20:03,590
-The game is already over.
+00:27:30,970 --> 00:27:31,700
+Sao ạ?
 
 303
-00:20:03,590 --> 00:20:06,100
-I dont give a shit!
+00:27:32,730 --> 00:27:34,060
+Ở lâu đài của Mezarte,
 
 304
-00:20:06,100 --> 00:20:07,680
-Let me go!
+00:27:34,870 --> 00:27:37,030
+Hoàng tử sẽ đính hôn
 
 305
-00:20:07,680 --> 00:20:10,350
-I am terribly sorry. The ruling has already been passed down.
+00:27:37,860 --> 00:27:38,880
+với một người xinh đẹp...
 
 306
-00:20:10,350 --> 00:20:12,640
-Let me hit her!
+00:27:40,500 --> 00:27:41,820
+Lei... lia...
 
 307
-00:20:12,640 --> 00:20:14,520
-Let me go, damn it!
+00:27:43,170 --> 00:27:44,400
+Này, Maquia!
 
 308
-00:20:14,520 --> 00:20:15,440
-Forgive me.
+00:27:46,740 --> 00:27:51,130
+Cô có thể lên con thuyền Darel dùng để chở vật liệu, theo những gì tôi đã nghe được từ ông ấy.
 
 309
-00:20:34,420 --> 00:20:37,040
-Lets be off.
+00:27:52,070 --> 00:27:53,010
+Nhìn đi, là cô gái đó.
 
 310
-00:20:37,040 --> 00:20:38,090
-This way.
+00:27:53,230 --> 00:27:56,220
+Có vẻ như mọi thứ đã được sắp xếp hoàn hảo.
 
 311
-00:20:44,590 --> 00:20:45,800
-Well, then.
+00:27:57,940 --> 00:27:59,930
+Nhưng cô sẽ làm gì với Ariel?
 
 312
-00:20:45,800 --> 00:20:46,800
-I bid you farewell.
+00:28:01,920 --> 00:28:05,890
+Đưa một đứa trẻ đi một chuyến dài khó hơn cô tưởng tượng đấy.
 
 313
-00:22:17,770 --> 00:22:19,560
-Nice job!
+00:28:06,750 --> 00:28:09,480
+Hơn nữa, hãy tính đến mọi tình huống khác đi.
 
 314
-00:22:19,560 --> 00:22:21,560
-Thank you very much.
+00:28:11,360 --> 00:28:13,070
+Tôi có thể lo cho Ariel ở đây.
 
 315
-00:22:22,730 --> 00:22:24,070
-What did you think?
+00:28:13,810 --> 00:28:15,160
+Mẹ ơi!
 
 316
-00:22:26,320 --> 00:22:27,570
-It was awful.
+00:28:15,220 --> 00:28:16,540
+Mẹ!
 
 317
-00:22:28,990 --> 00:22:30,530
-Youll get used to it soon.
+00:28:16,540 --> 00:28:17,330
+Ariel!
 
 318
-00:22:32,740 --> 00:22:34,830
-Where did each of them end up going?
+00:28:30,830 --> 00:28:33,280
+Anh ơi, nếu anh chôn nó sâu quá
 
 319
-00:22:34,830 --> 00:22:37,580
-Takashis soul was sent for reincarnation,
+00:28:33,520 --> 00:28:34,150
+và nếu như...
 
 320
-00:22:37,580 --> 00:22:39,330
-and Machikos was sent into the void, right?
+00:28:34,570 --> 00:28:36,190
+nếu như Onora trở về...
 
 321
-00:22:39,540 --> 00:22:40,290
-Yes.
+00:28:36,190 --> 00:28:36,640
+Đồ ngốc.
 
 322
-00:22:40,960 --> 00:22:42,250
-I see.
+00:28:37,790 --> 00:28:39,900
+Nếu đào nông, lũ chó hoang có thể đào nó lên đấy.
 
 323
-00:22:43,380 --> 00:22:44,090
-Um...
+00:28:40,940 --> 00:28:41,450
+Nào.
+
+324
+00:28:55,830 --> 00:28:57,780
+Nếu cô phủ đất lên nó, cháu không thể gặp nó nữa.
+
+325
+00:28:58,160 --> 00:29:00,350
+Cháu luôn có thể gặp nó ở đây mà.
+
+326
+00:29:01,140 --> 00:29:03,240
+Nếu cô phủ đất lên nó, cháu không thể chơi với nó nữa đâu.
+
+327
+00:29:03,810 --> 00:29:05,300
+Gửi đến nó lời chào phù hợp đi.
+
+328
+00:29:05,830 --> 00:29:08,550
+Nó đã sống một cuộc đời bình yên và không đau đớn.
+
+329
+00:29:10,410 --> 00:29:12,600
+Tất cả mọi người đều sẽ phải đối mặt với ngày này.
+
+330
+00:29:13,440 --> 00:29:17,890
+Chỉ có điều là Onora phải gặp chuyện này nhanh hơn chúng ta.
+
+331
+00:29:23,050 --> 00:29:23,790
+Maquia!
+
+332
+00:29:25,120 --> 00:29:26,170
+Để con đi.
+
+333
+00:29:30,580 --> 00:29:31,180
+Cô ơi.
+
+334
+00:29:32,370 --> 00:29:33,840
+Mọi người đều sẽ chết ạ?
+
+335
+00:29:34,560 --> 00:29:35,180
+Ừ.
+
+336
+00:29:35,520 --> 00:29:36,480
+Kể cả mẹ ạ?
+
+337
+00:29:37,700 --> 00:29:38,180
+Ừ.
+
+338
+00:29:43,260 --> 00:29:44,060
+Maquia!
+
+339
+00:29:44,450 --> 00:29:45,200
+Đợi đã!
+
+340
+00:29:45,380 --> 00:29:46,320
+Tôi nói là đợi đã!
+
+341
+00:29:52,500 --> 00:29:53,490
+Ariel sẽ...
+
+342
+00:29:54,860 --> 00:29:57,120
+mọi người... sẽ đến...
+
+343
+00:29:58,980 --> 00:29:59,820
+ngày đó...
+
+344
+00:30:00,710 --> 00:30:03,730
+nhanh hơn tôi nhiều!
+
+345
+00:30:04,090 --> 00:30:04,770
+Maquia...
+
+346
+00:30:05,750 --> 00:30:07,820
+Tôi không biết điều đó...
+
+347
+00:30:08,500 --> 00:30:09,850
+Tôi hiểu, nhưng...
+
+348
+00:30:10,620 --> 00:30:11,480
+Nhưng...
+
+349
+00:30:12,580 --> 00:30:14,890
+Ai quan tâm tới quy luật đó cơ chứ!
+
+350
+00:30:16,740 --> 00:30:17,700
+Đừng khóc!
+
+351
+00:30:19,470 --> 00:30:20,860
+Kể cả cậu, Lang!
+
+352
+00:30:22,180 --> 00:30:24,770
+Cô có phải mẹ Ariel không?
+
+353
+00:30:26,370 --> 00:30:28,660
+Những người mẹ sẽ không khóc!
+
+354
+00:30:28,820 --> 00:30:29,990
+Mẹ tôi...
+
+355
+00:30:31,800 --> 00:30:34,260
+Tôi chắc chắn những người mẹ sẽ không khóc!
+
+356
+00:30:39,150 --> 00:30:40,010
+Tôi sẽ không khóc đâu.
+
+357
+00:30:41,020 --> 00:30:42,360
+Phải, đừng khóc.
+
+358
+00:30:45,090 --> 00:30:46,180
+Đừng khóc.
+
+359
+00:30:47,250 --> 00:30:49,060
+Ừ, tôi không khóc đâu.
+
+360
+00:30:53,260 --> 00:30:54,060
+Chúc ngủ ngon.
+
+361
+00:30:54,290 --> 00:30:55,100
+Chúc ngủ ngon.
+
+362
+00:30:59,620 --> 00:31:00,390
+Ariel!
+
+363
+00:31:08,260 --> 00:31:09,590
+Con đợi mẹ à?
+
+364
+00:31:10,560 --> 00:31:11,800
+Đi lên giường ngủ đi.
+
+365
+00:31:19,220 --> 00:31:20,560
+Con nặng hơn rồi đấy.
+
+366
+00:31:21,200 --> 00:31:21,850
+Nhưng...
+
+367
+00:31:24,300 --> 00:31:26,130
+Con vẫn có mùi hương như mặt trời vậy.
+
+368
+00:31:27,090 --> 00:31:28,880
+Mẹ sẽ không khóc đâu.
+
+369
+00:31:29,660 --> 00:31:31,440
+Bởi vì mẹ là mẹ con, Ariel.
+
+370
+00:31:32,500 --> 00:31:35,890
+Vì chúng ta sẽ luôn ở cùng nhau.
+
+371
+00:31:38,060 --> 00:31:39,470
+Xin lỗi về chuyện cũ...
+
+372
+00:31:39,540 --> 00:31:40,840
+Xin lỗi về chuyện cũ...
+
+373
+00:31:41,020 --> 00:31:42,160
+Xin lỗi về chuyện cũ...
+
+374
+00:31:42,480 --> 00:31:43,600
+Xin lỗi về chuyện cũ...
+
+375
+00:31:44,060 --> 00:31:45,280
+Xin lỗi về chuyện cũ...
+
+376
+00:31:47,220 --> 00:31:48,270
+Xin lỗi về chuyện cũ...
+
+377
+00:31:48,480 --> 00:31:49,650
+Xin lỗi về chuyện cũ...
+
+378
+00:31:51,360 --> 00:31:52,930
+Tìm Ariel đấy à, cậu ấy đi rồi.
+
+379
+00:32:03,300 --> 00:32:04,890
+Anh vẫn ổn khi không đi tạm biệt họ à?
+
+380
+00:32:22,930 --> 00:32:24,170
+Con muốn xem bên ngoài!
+
+381
+00:32:24,270 --> 00:32:26,310
+Đợi đã! Đừng làm thế!
+
+382
+00:32:26,400 --> 00:32:27,430
+Ariel!
+
+383
+00:32:28,020 --> 00:32:30,290
+Trời ạ, không phải con đã hứa
+
+384
+00:32:30,390 --> 00:32:31,880
+con sẽ ở đây làm một cậu bé ngoan à!
+
+385
+00:32:32,780 --> 00:32:34,340
+Con... con xin lỗi.
+
+386
+00:32:37,420 --> 00:32:38,280
+Maquia?
+
+387
+00:32:42,150 --> 00:32:43,850
+Cậu còn sống, Maquia!
+
+388
+00:32:44,460 --> 00:32:47,040
+Cậu còn sống... Krim!
+
+389
+00:32:54,370 --> 00:32:58,880
+Mezarte đang truy tìm dòng máu những người sống lâu của Iorph.
+
+390
+00:32:59,810 --> 00:33:01,160
+Ngôi làng bị tấn công...
+
+391
+00:33:02,270 --> 00:33:03,040
+và Leilia đã...
+
+392
+00:33:04,170 --> 00:33:06,830
+Mẹ ơi, Leilia là ai?
+
+393
+00:33:07,220 --> 00:33:08,980
+Cậu cho phép nó gọi cậu là mẹ à?
+
+394
+00:33:09,870 --> 00:33:11,000
+À, không!
+
+395
+00:33:11,100 --> 00:33:13,020
+Cho phép nó gọi mình là mẹ là...
+
+396
+00:33:13,290 --> 00:33:14,490
+Mình không giận đâu.
+
+397
+00:33:15,160 --> 00:33:16,120
+Minh sẽ không đổ lỗi cho cậu.
+
+398
+00:33:17,220 --> 00:33:19,890
+Chỉ là... Tộc trưởng luôn nói...
+
+399
+00:33:22,130 --> 00:33:24,260
+Ừ, mình đã quên mất.
+
+400
+00:33:25,610 --> 00:33:26,720
+Vậy là mọi thứ vẫn ổn.
+
+401
+00:33:58,160 --> 00:34:02,010
+Sáng mai, sẽ có buổi diễu hành ăn mừng lễ cưới Hoàng tử.
+
+402
+00:34:03,130 --> 00:34:05,290
+Đại diện của Hoàng tử xuất hiện từ Cung điện Hoàng gia
+
+403
+00:34:05,690 --> 00:34:09,730
+sẽ đi qua cầu để gặp đại diện của Leilia ở biệt thự này.
+
+404
+00:34:10,320 --> 00:34:12,930
+Ở điểm này, bọn mình sẽ tấn công con Renato chở Hoàng tử,
+
+405
+00:34:13,260 --> 00:34:14,250
+gây náo loạn
+
+406
+00:34:14,660 --> 00:34:17,090
+làm giảm an ninh ở biệt thự ấy...
+
+407
+00:34:17,990 --> 00:34:19,670
+và bọn mình sẽ đưa Leilia ra.
+
+408
+00:34:21,800 --> 00:34:23,540
+Con cũng sẽ đi xem diễu hành.
+
+409
+00:34:23,850 --> 00:34:26,880
+Mẹ hiểu... Xin lỗi con, để lần sau nhé.
+
+410
+00:34:27,970 --> 00:34:28,690
+Con...
+
+411
+00:34:29,570 --> 00:34:31,120
+Con muốn về nhà!
+
+412
+00:34:31,570 --> 00:34:32,480
+Ariel?
+
+413
+00:34:34,150 --> 00:34:37,700
+Mẹ không giống mẹ nữa khi mẹ ở đây!
+
+414
+00:34:45,330 --> 00:34:46,280
+Ariel.
+
+415
+00:34:47,000 --> 00:34:48,840
+Sâu bọ ngọ nguậy...
+
+416
+00:34:48,840 --> 00:34:50,180
+ở đây này!
+
+417
+00:34:50,180 --> 00:34:53,880
+Ngọ nguậy ngọ nguậy ngọ nguậy!
+
+418
+00:35:16,000 --> 00:35:19,140
+Có rất nhiều thứ ở đây để ăn mừng ngày tốt lành này!
+
+419
+00:35:26,040 --> 00:35:32,100
+Giờ đây chúng ta sẽ gọi Hoàng gia là dòng máu của Iorph!
+
+420
+00:35:32,790 --> 00:35:34,320
+Loài Renato và người Iorph.
+
+421
+00:35:35,140 --> 00:35:37,790
+Những huyền thoại cổ xưa tồn tại đến hiện nay
+
+422
+00:35:38,420 --> 00:35:41,040
+bây giờ chúng ta đã đạt được nó!
+
+423
+00:35:41,840 --> 00:35:43,960
+Chúng ta, những kẻ được các vị thần chọn,
+
+424
+00:35:44,320 --> 00:35:46,850
+giờ đây không sợ kẻ thù nào hết!
+
+425
+00:35:51,830 --> 00:35:56,350
+Và với sự đính ước của Hoàng tử Hazel và Công chúa Leilia,
+
+426
+00:35:56,770 --> 00:36:01,540
+một huyền thoại mới sẽ ra đời ở Mezarte!
+
+427
+00:37:15,620 --> 00:37:16,330
+Đó là...!
+
+428
+00:37:31,830 --> 00:37:32,890
+Sát thủ?
+
+429
+00:37:33,060 --> 00:37:34,010
+Cái gì xảy ra thế?
+
+430
+00:37:42,070 --> 00:37:43,900
+Leilia... Leilia....
+
+431
+00:37:53,100 --> 00:37:54,740
+Xin lỗi nhé!
+
+432
+00:38:02,590 --> 00:38:03,510
+Leilia!
+
+433
+00:38:06,430 --> 00:38:07,240
+Maquia.
+
+434
+00:38:08,210 --> 00:38:09,460
+Sao cậu ở đây?
+
+435
+00:38:10,260 --> 00:38:11,700
+Krim cũng ở đây.
+
+436
+00:38:13,110 --> 00:38:14,130
+Krim?
+
+437
+00:38:14,250 --> 00:38:15,570
+Ừ, đi thôi!
+
+438
+00:38:15,790 --> 00:38:17,470
+Mọi người đang đợi cậu đấy!
+
+439
+00:38:18,260 --> 00:38:18,990
+Leilia?
+
+440
+00:38:20,470 --> 00:38:22,460
+Mình không đi được.
+
+441
+00:38:23,430 --> 00:38:24,230
+Tại sao?
+
+442
+00:38:25,840 --> 00:38:26,980
+Vì mình không thể chạy.
+
+443
+00:38:27,950 --> 00:38:28,970
+Tại sao?
+
+444
+00:38:29,220 --> 00:38:30,810
+Cậu nhanh nhẹn lắm mà!
+
+445
+00:38:31,080 --> 00:38:32,050
+Đúng vậy!
+
+446
+00:38:32,180 --> 00:38:34,580
+Cậu còn nhảy qua được hàng rào cao của lâu đài...
+
+447
+00:38:44,490 --> 00:38:46,740
+Mình không thể gặp Krim nữa đâu.
+
+448
+00:38:49,130 --> 00:38:50,120
+Không đời nào...
+
+449
+00:38:50,820 --> 00:38:51,700
+Chỉ là...
+
+450
+00:38:51,700 --> 00:38:52,870
+Cô Leilia!
+
+451
+00:38:54,910 --> 00:38:56,160
+Chạy đi, Maquia!
+
+452
+00:38:57,210 --> 00:38:58,690
+Nhưng, Leilia!
+
+453
+00:38:59,490 --> 00:39:00,200
+Đi đi!
+
+454
+00:39:00,470 --> 00:39:02,740
+Không sao đâu! Tớ có thể nhảy mà, đúng không?
+
+455
+00:39:03,840 --> 00:39:04,720
+Đừng để chúng chạy thoát!
+
+456
+00:39:16,570 --> 00:39:17,400
+Cô Leilia.
+
+457
+00:39:19,020 --> 00:39:19,440
+Đuổi theo chúng!
+
+458
+00:39:19,440 --> 00:39:19,940
+Đợi đã.
+
+459
+00:39:20,690 --> 00:39:22,240
+Nếu các người đặt tay lên cô ấy...
+
+460
+00:39:33,740 --> 00:39:34,760
+Cô Leilia.
+
+461
+00:39:43,120 --> 00:39:43,950
+Mình có thể
+
+462
+00:39:45,570 --> 00:39:46,210
+nhảy mà.
+
+463
+00:39:53,820 --> 00:39:55,490
+Thằng bé lớn rồi à?
+
+464
+00:39:57,010 --> 00:39:59,200
+Chắc nó đã sáu tuổi nếu còn sống.
+
+465
+00:40:00,700 --> 00:40:02,650
+Cô nghĩ gì về thế giới ngoài kia?
+
+466
+00:40:04,660 --> 00:40:06,740
+Anh cũng là người Iorph.
+
+467
+00:40:07,150 --> 00:40:08,520
+Một nửa thôi.
+
+468
+00:40:09,380 --> 00:40:10,210
+Racine...
+
+469
+00:40:10,780 --> 00:40:11,720
+Tộc trưởng
+
+470
+00:40:11,990 --> 00:40:15,560
+đã đặt lệnh cấm cho người Iorph khi ra ngoài
+
+471
+00:40:16,960 --> 00:40:21,100
+bởi vì họ sẽ biết mình nhận được số phận nào sau này.
+
+472
+00:40:22,350 --> 00:40:23,860
+Kể cả khi họ không ước nó,
+
+473
+00:40:23,950 --> 00:40:27,500
+họ sẽ nhận được những cái nhìn xa lạ, bị sỉ nhục,
+
+474
+00:40:28,470 --> 00:40:31,010
+và cuối cùng bị căm ghét và bị đuổi đi.
+
+475
+00:40:32,280 --> 00:40:32,910
+Đúng thế.
+
+476
+00:40:33,360 --> 00:40:38,530
+Thị tộc Biệt lập là những người bị tấn công bởi sự chia cắt.
+
+477
+00:40:43,270 --> 00:40:45,020
+Mong là cô có được một cuộc sống tương đối thoả mãn.
+
+478
+00:41:04,530 --> 00:41:06,180
+Krim, vết thương của cậu...
+
+479
+00:41:12,530 --> 00:41:14,280
+Cậu cởi áo khoác ra nhé?
+
+480
+00:41:19,620 --> 00:41:22,150
+Một đứa bé... làm thế nào?
+
+481
+00:41:23,880 --> 00:41:26,090
+Làm thế nào một người... trở thành mẹ?
+
+482
+00:41:28,740 --> 00:41:31,790
+Mình là mẹ à?
+
+483
+00:41:34,160 --> 00:41:35,400
+Những điều mình không biết
+
+484
+00:41:35,800 --> 00:41:37,330
+Mido đã dạy mình.
+
+485
+00:41:38,560 --> 00:41:40,000
+Mình đã giúp,
+
+486
+00:41:40,550 --> 00:41:42,320
+vì thế cảm giác như mình đối xử cậu ấy như em trai,
+
+487
+00:41:43,440 --> 00:41:45,840
+nhưng, nó khác một chút.
+
+488
+00:41:47,460 --> 00:41:51,120
+Mình thấy thực sự hạnh phúc mỗi khi Ariel cười.
+
+489
+00:41:52,080 --> 00:41:52,850
+Đó là lí do vì sao...
+
+490
+00:41:53,490 --> 00:41:56,790
+Nếu Ariel mỉm cười khi ở bên mình,
+
+491
+00:41:57,540 --> 00:41:59,580
+thì mình sẽ ở với nó...
+
+492
+00:41:59,580 --> 00:42:00,700
+Quả là một câu chuyện kỳ lạ.
+
+493
+00:42:04,150 --> 00:42:06,170
+Ariel sẽ chết trước chúng ta.
+
+494
+00:42:08,370 --> 00:42:09,070
+Ariel sẽ
+
+495
+00:42:10,020 --> 00:42:11,800
+sẽ khiến cậu cô độc đấy, Maquia.
+
+496
+00:42:17,500 --> 00:42:18,560
+Đừng làm mẹ khóc!
+
+497
+00:42:18,560 --> 00:42:19,820
+Không phải đâu, Ariel!
+
+498
+00:42:19,280 --> 00:42:22,070
+- Đừng làm mẹ tôi khóc!
+
+499
+00:42:22,070 --> 00:42:23,890
+Dừng lại, Ariel!
+
+500
+00:42:24,670 --> 00:42:25,570
+Cậu có thể bảo vệ họ không?
+
+501
+00:42:27,570 --> 00:42:30,560
+Những thứ cậu yêu quý nhất?
+
+502
+00:42:51,950 --> 00:42:55,330
+Chúng ta ở Mezarte để cứu Leilia.
+
+503
+00:42:56,490 --> 00:42:58,650
+Cậu sẽ gây cản trở vì cậu có con rồi.
+
+504
+00:43:00,180 --> 00:43:02,090
+Vì vậy, Maquia,
+
+505
+00:43:03,320 --> 00:43:04,160
+đây là lời tạm biệt.
+
+506
+00:43:07,360 --> 00:43:08,710
+Chúng ta về nhà ạ?
+
+507
+00:43:09,750 --> 00:43:11,680
+Chúng ta sẽ không về nhà.
+
+508
+00:43:12,460 --> 00:43:13,390
+Còn mọi người thì sao ạ?
+
+509
+00:43:15,680 --> 00:43:18,690
+Hai mẹ con mình sẽ đến một nơi mới.
+
+510
+00:43:19,540 --> 00:43:20,770
+"Nơi ở mới",
+
+511
+00:43:21,120 --> 00:43:23,930
+ý mẹ là Mido và anh Lang không ở đó?
+
+512
+00:43:25,890 --> 00:43:26,810
+Mẹ xin lỗi.
+
+513
+00:43:27,210 --> 00:43:29,570
+Đó là lời chào cuối với họ rồi.
+
+514
+00:43:30,700 --> 00:43:32,890
+Con sẽ ổn, chỉ cần mẹ ở bên con thôi!
+
+515
+00:43:33,980 --> 00:43:38,160
+Ừ, mẹ sẽ ổn chỉ cần con ở với mẹ, Ariel à.
+
+516
+00:43:39,160 --> 00:43:40,350
+Không được.
+
+517
+00:43:40,810 --> 00:43:42,440
+Cô có lý do phải không?
+
+518
+00:43:42,720 --> 00:43:46,350
+Cô gây rắc rối và bỏ trốn. Thế là quá đủ rồi!
+
+519
+00:43:49,220 --> 00:43:50,080
+Ariel!
+
+520
+00:43:52,020 --> 00:43:52,850
+Chúng tôi xin lỗi ông!
+
+521
+00:43:53,460 --> 00:43:55,210
+Này! Đứng lại!
+
+522
+00:43:55,420 --> 00:43:56,320
+Thằng ranh!
+
+523
+00:43:57,410 --> 00:43:59,740
+Mẹ sẽ đi thêm một lúc nữa,
+
+524
+00:44:00,100 --> 00:44:01,710
+nên con chờ ở trong phòng trọ nhé?
+
+525
+00:44:03,250 --> 00:44:03,840
+Con không muốn.
+
+526
+00:44:04,260 --> 00:44:05,950
+Đợi ở đây đi. Mẹ xin con đấy.
+
+527
+00:44:11,870 --> 00:44:13,320
+Cảm ơn cô nhiều lắm!
+
+528
+00:44:13,770 --> 00:44:16,230
+Chúng tôi chuyên về rượu
+
+529
+00:44:16,430 --> 00:44:18,100
+vì thế đây là công việc buổi tối,
+
+530
+00:44:18,300 --> 00:44:19,020
+nhưng cô thấy được chứ?
+
+531
+00:44:20,320 --> 00:44:21,940
+Buổi tối ạ?
+
+532
+00:44:22,300 --> 00:44:23,440
+Có vấn đề gì à?
+
+533
+00:44:25,030 --> 00:44:26,670
+Con tôi...
+
+534
+00:44:27,270 --> 00:44:29,030
+vẫn còn nhỏ,
+
+535
+00:44:30,980 --> 00:44:33,500
+cô gái bỏ việc trước đây cũng thế.
+
+536
+00:44:33,960 --> 00:44:36,380
+Họ không nghĩ nhiều ở tuổi còn trẻ này.
+
+537
+00:44:36,810 --> 00:44:37,630
+À, cái đó khác...
+
+538
+00:44:38,460 --> 00:44:40,220
+Khác? Cái gì khác?
+
+539
+00:44:40,680 --> 00:44:42,890
+Rằng cô không nhận thức mình là mẹ à?
+
+540
+00:44:44,110 --> 00:44:44,960
+Xin lỗi với cô,
+
+541
+00:44:45,660 --> 00:44:48,660
+không ai sẽ cho một người như thế một công việc đâu.
+
+542
+00:45:04,300 --> 00:45:05,550
+Mừng mẹ về ạ!
+
+543
+00:45:07,520 --> 00:45:08,360
+Mẹ về rồi này.
+
+544
+00:45:11,280 --> 00:45:12,850
+Mẹ ơi, nhìn này!
+
+545
+00:45:12,970 --> 00:45:14,460
+Con đã làm Hibiol đấy...
+
+546
+00:45:20,450 --> 00:45:22,160
+Đừng bắt mẹ làm việc thêm nữa.
+
+547
+00:45:23,770 --> 00:45:25,610
+Sao con lại lấy nó ra khỏi cái của mẹ?
+
+548
+00:45:28,570 --> 00:45:30,360
+Nào, nhìn đi mẹ...
+
+549
+00:45:30,360 --> 00:45:32,440
+Sao con không nghe lời mẹ?
+
+550
+00:45:33,060 --> 00:45:33,810
+Tại sao...
+
+551
+00:45:34,110 --> 00:45:35,510
+Tại sao con lại gây khó khăn thế?
+
+552
+00:45:36,040 --> 00:45:40,080
+Nếu mẹ không thể làm việc, chúng ta sẽ không có cái ăn đâu!
+
+553
+00:45:40,690 --> 00:45:41,650
+Mẹ...
+
+554
+00:45:41,720 --> 00:45:43,330
+Sao con lại gây rắc rối cho mẹ?
+
+555
+00:45:44,700 --> 00:45:45,670
+Tại sao...
+
+556
+00:45:47,060 --> 00:45:49,420
+Lũ bọ ngọ nguậy ở đây này!
+
+557
+00:45:49,560 --> 00:45:50,930
+Ngọ nguậy ngọ nguậy...
+
+558
+00:45:50,930 --> 00:45:52,580
+Ngọ nguậy ngọ nguậy...
+
+559
+00:45:53,120 --> 00:45:55,420
+Mẹ mua bữa tối rồi.
+
+560
+00:46:00,200 --> 00:46:01,130
+Ariel!
+
+561
+00:46:09,740 --> 00:46:12,380
+Mình... không phải là mẹ.
+
+562
+00:46:13,360 --> 00:46:15,150
+Mình không tự nhận thức được
+
+563
+00:46:15,950 --> 00:46:17,200
+rằng mình là mẹ.
+
+564
+00:46:18,330 --> 00:46:20,840
+Mình chỉ đang bắt chước thôi,
+
+565
+00:46:21,990 --> 00:46:23,680
+và Mido đã ở đó với mình,
+
+566
+00:46:24,660 --> 00:46:26,090
+con đừng bao giờ yêu ai.
+
+567
+00:46:27,060 --> 00:46:30,410
+Khi con yêu một người, con sẽ thực sự cô độc đấy.
+
+568
+00:46:32,220 --> 00:46:33,170
+Thực sự...
+
+569
+00:46:34,780 --> 00:46:35,700
+cô đơn.
+
+570
+00:46:49,420 --> 00:46:51,850
+Mẹ...
+
+571
+00:46:53,700 --> 00:46:54,740
+Mẹ...
+
+572
+00:47:09,560 --> 00:47:10,590
+Ariel!
+
+573
+00:47:15,870 --> 00:47:16,800
+Ariel!
+
+574
+00:47:18,200 --> 00:47:20,250
+Con đi đâu rồi?
+
+575
+00:47:20,360 --> 00:47:21,300
+Ariel!
+
+576
+00:47:25,200 --> 00:47:26,190
+Ariel!
+
+577
+00:47:26,190 --> 00:47:26,940
+Mom.
+
+578
+00:47:28,510 --> 00:47:29,270
+Ariel!
+
+579
+00:47:35,900 --> 00:47:37,100
+Mẹ bị lừa rồi!
+
+580
+00:47:38,260 --> 00:47:40,400
+Mẹ tưởng đấy là da con lột ra đúng không?
+
+581
+00:47:46,620 --> 00:47:47,660
+Da lột...
+
+582
+00:47:47,960 --> 00:47:49,700
+Mẹ cười rồi kìa!
+
+583
+00:47:51,080 --> 00:47:51,940
+Ariel!
+
+584
+00:47:55,530 --> 00:47:56,300
+Đồ ngốc.
+
+585
+00:47:58,140 --> 00:47:59,050
+Mẹ?
+
+586
+00:48:00,400 --> 00:48:04,900
+Ước gì con sẽ không lớn hơn thế này.
+
+587
+00:48:06,370 --> 00:48:07,060
+Con không muốn!
+
+588
+00:48:09,730 --> 00:48:13,020
+Nếu con không lớn lên, con không thể bảo vệ mẹ được!
+
+589
+00:48:18,610 --> 00:48:20,180
+Mẹ lại khóc rồi.
+
+590
+00:48:22,700 --> 00:48:23,940
+Mẹ sẽ không khóc nữa đâu!
+
+591
+00:48:24,550 --> 00:48:26,360
+Vì mẹ là một người mẹ mà!
+
+592
+00:48:30,260 --> 00:48:31,420
+Mẹ hứa nhé.
+
+593
+00:48:31,910 --> 00:48:32,480
+Ừ!
+
+594
+00:48:41,780 --> 00:48:43,810
+Ariel, con cũng hứa đi.
+
+595
+00:48:44,240 --> 00:48:45,680
+Vâng, con hứa!
+
+596
+00:48:46,640 --> 00:48:49,140
+Con sẽ bảo vệ mẹ.
+
+597
+00:49:04,940 --> 00:49:06,850
+Đúng rồi, đẹp và đều đặn lắm.
+
+598
+00:49:30,670 --> 00:49:31,980
+Đây, xong rồi!
+
+599
+00:49:32,550 --> 00:49:33,510
+Maquia!
+
+600
+00:49:34,180 --> 00:49:34,790
+Tôi đến đây!
+
+601
+00:49:38,480 --> 00:49:40,830
+Tôi chắc chắn anh sẽ trả món nợ cũ.
+
+602
+00:49:41,170 --> 00:49:43,410
+Gì thế? Cố gây ấn tượng với một cô gái à?
+
+603
+00:49:43,410 --> 00:49:45,230
+Tôi đâu nói thế! Đừng gây sự với tôi!
+
+604
+00:49:46,820 --> 00:49:49,000
+Góc này chỉ có thể được làm bởi kinh nghiệm thôi.
+
+605
+00:49:53,970 --> 00:49:56,270
+Đó là lý do tôi bảo anh dừng lại, đúng không?
+
+606
+00:49:56,530 --> 00:49:58,980
+Tôi nghĩ mọi thứ lẽ ra nên tốt hơn.
+
+607
+00:49:59,250 --> 00:50:00,530
+Mời quý khách vào ạ!
+
+608
+00:50:04,890 --> 00:50:07,040
+Maquia, cho 3 cốc Cherubies!
+
+609
+00:50:07,200 --> 00:50:07,920
+Vâng!
+
+610
+00:50:09,460 --> 00:50:10,370
+Có ngay!
+
+611
+00:50:10,470 --> 00:50:11,680
+Cho tôi nữa nhé.
+
+612
+00:50:11,780 --> 00:50:12,440
+Vâng.
+
+613
+00:50:13,950 --> 00:50:15,890
+Quý cô này có mông đẹp đấy!
+
+614
+00:50:17,460 --> 00:50:18,550
+Vậy à?
+
+615
+00:50:19,850 --> 00:50:22,880
+Mặc dù vậy, hai người trông chẳng giống nhau gì cả.
+
+616
+00:50:23,490 --> 00:50:24,230
+A.
+
+617
+00:50:24,780 --> 00:50:28,150
+Đã khoảng một năm từ khi cậu đến đây hả?
+
+618
+00:50:28,800 --> 00:50:30,010
+Cậu đến từ đâu?
+
+619
+00:50:31,830 --> 00:50:34,170
+Có tin đồn hai người là anh em là nói dối
+
+620
+00:50:34,500 --> 00:50:37,700
+và hai người là một cặp bỏ nhà đi.
+
+621
+00:50:38,180 --> 00:50:39,360
+Cảm ơn đã chờ đợi!
+
+622
+00:50:41,070 --> 00:50:43,010
+Cảm ơn các anh nhiều.
+
+623
+00:50:45,160 --> 00:50:46,410
+Mời quý khách vào ạ!
+
+624
+00:50:49,950 --> 00:50:51,790
+Thêm người mới vào.
+
+625
+00:50:52,390 --> 00:50:54,970
+Phải bao nhiêu người gác nữa thì họ mới hài lòng đây?
+
+626
+00:50:55,490 --> 00:50:57,650
+Sắt là biểu hiện của thời nay đấy.
+
+627
+00:50:58,190 --> 00:51:00,640
+Vì Mezarte đang làm ra những khẩu đại bác điên cuồng,
+
+628
+00:51:00,700 --> 00:51:02,530
+mà chúng ta đều phải ăn.
+
+629
+00:51:21,920 --> 00:51:24,260
+Mặc dù trông nó hơi lạ.
+
+630
+00:51:24,910 --> 00:51:26,800
+Họ định bắt đầu chiến tranh à?
+
+631
+00:51:27,430 --> 00:51:30,450
+Không đời nào tên Hoàng tử ngu dốt đó có thể lãnh đạo quân đội được.
+
+632
+00:51:30,450 --> 00:51:31,090
+Đúng rồi đấy.
+
+633
+00:51:37,750 --> 00:51:39,270
+Nó luôn như thế đấy.
+
+634
+00:51:39,760 --> 00:51:41,160
+Xin lỗi về tiếng ồn đó ạ.
+
+635
+00:51:41,480 --> 00:51:43,600
+Các anh xin chọn ở đây ạ.
+
+636
+00:51:54,140 --> 00:51:55,190
+Maquia!
+
+637
+00:51:55,730 --> 00:51:56,730
+Lang?
+
+638
+00:51:58,560 --> 00:52:00,010
+Đúng là cô rồi, Maquia!
+
+639
+00:52:00,010 --> 00:52:01,360
+Cô chẳng thay đổi gì hết!
+
+640
+00:52:01,510 --> 00:52:02,470
+Tự nhiên thôi.
+
+641
+00:52:02,940 --> 00:52:04,400
+Cậu thay đổi nhiều quá, Lang!
+
+642
+00:52:04,900 --> 00:52:06,870
+Sao cậu lớn từng này thế?
+
+643
+00:52:07,220 --> 00:52:09,340
+Đừng đối xử với mọi người như lúa mì thế.
+
+644
+00:52:11,660 --> 00:52:13,410
+Này, Ariel!
+
+645
+00:52:13,830 --> 00:52:15,080
+Ariel!
+
+646
+00:52:15,880 --> 00:52:18,180
+Là Lang! Anh Lang này!
+
+647
+00:52:18,690 --> 00:52:20,240
+Là em đấy à, Ariel?
+
+648
+00:52:31,870 --> 00:52:33,260
+Có ổn không khi bắt tôi ngồi ở đây?
+
+649
+00:52:33,530 --> 00:52:35,840
+Không sao. Xin lỗi vì bừa bộn quá.
+
+650
+00:52:36,680 --> 00:52:37,890
+Nhưng tôi vui lắm.
+
+651
+00:52:38,280 --> 00:52:39,990
+Mido và Deol vẫn khoẻ chứ?
+
+652
+00:52:40,370 --> 00:52:41,070
+Ừ.
+
+653
+00:52:41,430 --> 00:52:44,350
+Nhưng chỉ những thị trấn như Doriel mới có tầm nhìn đẹp.
+
+654
+00:52:44,930 --> 00:52:46,880
+Ở vùng quê, mọi thứ đang ngày càng cũ đi.
+
+655
+00:52:47,830 --> 00:52:49,090
+Cả Deol cũng rời làng rồi...
+
+656
+00:52:49,200 --> 00:52:50,140
+À, cảm ơn.
+
+657
+00:52:50,630 --> 00:52:52,260
+Deol cũng đi tìm việc rồi à?
+
+658
+00:52:52,730 --> 00:52:54,480
+Nếu không thế thì nó không sống nổi.
+
+659
+00:52:55,250 --> 00:52:57,300
+Em ra ngoài một lúc.
+
+660
+00:52:59,220 --> 00:53:01,390
+Gì, em đi hẹn hò à?
+
+661
+00:53:01,600 --> 00:53:03,780
+Không, em đi làm đêm.
+
+662
+00:53:05,190 --> 00:53:06,800
+Cẩn thận nhé, Ariel.
+
+663
+00:53:07,490 --> 00:53:09,230
+Mẹ sẽ chuẩn bị bữa ăn nhẹ cho con.
+
+664
+00:53:18,780 --> 00:53:21,300
+Kể từ khi chúng tôi đến đây nhận việc,
+
+665
+00:53:21,970 --> 00:53:23,700
+nó ngày càng khó tính hơn.
+
+666
+00:53:24,180 --> 00:53:24,990
+Tôi thấy rồi.
+
+667
+00:53:25,880 --> 00:53:28,210
+Tôi không bán được Hibiol nữa.
+
+668
+00:53:28,620 --> 00:53:33,010
+và, chỉ vì tôi, nên chúng tôi không thể ở yên một chỗ.
+
+669
+00:53:35,880 --> 00:53:37,940
+Tôi hiểu... Cô nói đúng.
+
+670
+00:53:38,630 --> 00:53:41,060
+Tôi chắc là cậu ấy đã biết
+
+671
+00:53:41,350 --> 00:53:42,730
+cô không phải người thân.
+
+672
+00:53:45,310 --> 00:53:45,860
+Ừ.
+
+673
+00:53:46,790 --> 00:53:48,080
+Khoảng 5 năm trước.
+
+674
+00:53:48,820 --> 00:53:51,450
+Từ khi nó nói chúng tôi nên ngủ riêng.
+
+675
+00:53:52,310 --> 00:53:54,410
+Nó dừng gọi tôi là mẹ,
+
+676
+00:53:56,210 --> 00:53:59,250
+"này" và "đợi đã"
+
+677
+00:53:59,630 --> 00:54:00,850
+là tất cả những gì tôi nghe thấy nó nói!
+
+678
+00:54:00,960 --> 00:54:03,660
+Hẳn là trong giai đoạn đó. Sau tất cả thì cậu ấy là một anh chàng rồi.
+
+679
+00:54:04,790 --> 00:54:05,740
+Nói đi, Lang,
+
+680
+00:54:07,090 --> 00:54:09,470
+anh có biết chuyện gì đã xảy ra với Leilia không?
+
+681
+00:54:19,420 --> 00:54:20,820
+Thêm một con nữa chết.
+
+682
+00:54:23,720 --> 00:54:27,170
+Thiêu cháy nó đến tận xương và đảm bảo tro cốt được chôn sâu dưới đất.
+
+683
+00:54:30,200 --> 00:54:31,340
+Ta sợ quá.
+
+684
+00:54:31,590 --> 00:54:33,710
+Không sao đâu, tiểu thư Medmel.
+
+685
+00:54:34,210 --> 00:54:35,890
+Nói đi, cha yêu quý của ta đâu?
+
+686
+00:54:36,040 --> 00:54:38,290
+Ngài Hazel đang bận.
+
+687
+00:54:41,090 --> 00:54:41,980
+Mẹ...
+
+688
+00:54:43,530 --> 00:54:44,670
+Tiểu thư Medmel?
+
+689
+00:54:47,370 --> 00:54:48,520
+Không có gì?
+
+690
+00:54:50,330 --> 00:54:54,460
+Tóc như màu mặt trăng, một chiếc nhẫn vàng xuất hiện trong mắt chúng,
+
+691
+00:54:54,460 --> 00:54:57,960
+và người Iorph được cho là có thân nhiệt thấp,
+
+692
+00:54:58,090 --> 00:55:01,750
+nhưng không cái nào biểu hiện trên tiểu thư Medmel.
+
+693
+00:55:01,920 --> 00:55:02,710
+Không thể nào!
+
+694
+00:55:03,080 --> 00:55:05,800
+Nếu ta không thể sinh một đứa con trai thừa kế ngai vàng,
+
+695
+00:55:05,800 --> 00:55:08,410
+thế thì con quái vật đó có tác dụng gì chứ?
+
+696
+00:55:10,680 --> 00:55:13,560
+Rất khó để cô ta mang thai sau tiểu thư Medmel
+
+697
+00:55:13,780 --> 00:55:17,880
+và có vẻ Ngài Hazel đã chán tiểu thư Leilia rồi.
+
+698
+00:55:18,810 --> 00:55:21,190
+Hazel đáng thương của ta!
+
+699
+00:55:21,440 --> 00:55:22,640
+Làm gì đi chứ!
+
+700
+00:55:22,760 --> 00:55:25,390
+Ít nhất thì mang người phụ nữ khác đến đây!
+
+701
+00:55:25,810 --> 00:55:26,560
+Sẽ như Ngài muốn.
+
+702
+00:55:26,610 --> 00:55:29,130
+Chúng tôi sẽ tìm những người Iorph còn sống
+
+703
+00:55:29,170 --> 00:55:31,250
+và biến cô ta thành kẻ thay thế.
+
+704
+00:55:32,430 --> 00:55:33,170
+Ta không muốn!
+
+705
+00:55:33,440 --> 00:55:34,450
+Tiểu thư Leilia!
+
+706
+00:55:36,120 --> 00:55:38,310
+Nếu ta phải đeo những thứ trang sức này,
+
+707
+00:55:38,740 --> 00:55:40,480
+nếu hắn không muốn ngủ cạnh ta nữa,
+
+708
+00:55:41,040 --> 00:55:42,890
+thì hãy đuổi ta đi!
+
+709
+00:55:48,020 --> 00:55:49,080
+Tiểu thư Leilia đã...
+
+710
+00:55:49,300 --> 00:55:50,450
+Cứ để cho ta.
+
+711
+00:55:56,890 --> 00:55:58,320
+Một con Renato nữa chết rồi phải không?
+
+712
+00:55:59,290 --> 00:55:59,880
+Phải.
+
+713
+00:56:01,390 --> 00:56:03,070
+Từ khi ta sinh Medmel,
+
+714
+00:56:04,590 --> 00:56:06,780
+ta đã bị giam ở đây.
+
+715
+00:56:08,150 --> 00:56:09,680
+ta vẫn chưa gặp chúng kể từ đó.
+
+716
+00:56:12,500 --> 00:56:13,340
+Ta chắc chắn...
+
+717
+00:56:14,540 --> 00:56:16,410
+ta cũng như bọn Renato.
+
+718
+00:56:17,470 --> 00:56:21,220
+Những sinh vật mơ hồ chỉ sống trong truyền thuyết.
+
+719
+00:56:23,470 --> 00:56:25,110
+Kể cả thị tộc biết bay,
+
+720
+00:56:26,080 --> 00:56:27,610
+và bông hoa biết hát lúc bình minh,
+
+721
+00:56:28,340 --> 00:56:30,360
+không thể sống trong thế giới này.
+
+722
+00:56:31,580 --> 00:56:33,560
+Chắc chắn cô chịu được.
+
+723
+00:56:34,060 --> 00:56:36,350
+Để tìm con đường rời bỏ huyền thoại.
+
+724
+00:56:39,100 --> 00:56:40,280
+Tất cả đều đến từ các ngươi.
+
+725
+00:56:42,090 --> 00:56:46,190
+Các ngươi đã giết chết một huyền thoại.
+
+726
+00:57:04,600 --> 00:57:07,170
+Cho phép ta chuộc lỗi.
+
+727
+00:57:07,170 --> 00:57:08,100
+Nhảm nhí!
+
+728
+00:57:09,500 --> 00:57:11,570
+Vậy thì để ta gặp Medmel!
+
+729
+00:57:12,130 --> 00:57:14,050
+Sao không cho ta gặp nó?
+
+730
+00:57:14,830 --> 00:57:16,660
+Nó không phải đứa con ta sinh ra à?
+
+731
+00:57:17,970 --> 00:57:21,110
+Ta... đã quên mất mùi hương của nó rồi.
+
+732
+00:57:23,210 --> 00:57:25,450
+Cả sự mềm mại khi ôm nó.
+
+733
+00:57:26,910 --> 00:57:28,000
+Tại sao...
+
+734
+00:57:28,770 --> 00:57:32,020
+Các ngươi định lấy đi của ta bao nhiêu nữa hả?
+
+735
+00:57:32,870 --> 00:57:33,980
+Có phải là...
+
+736
+00:57:34,500 --> 00:57:37,250
+các ngươi muốn ta cô độc?
+
+737
+00:57:39,030 --> 00:57:40,770
+Nếu ngươi không muốn ta gặp Medmel,
+
+738
+00:57:41,710 --> 00:57:43,320
+vậy thì hãy đưa ta đến gặp Maquia!
+
+739
+00:57:47,310 --> 00:57:48,280
+Làm ơn...
+
+740
+00:57:49,040 --> 00:57:50,610
+Maquia người Iorph,
+
+741
+00:57:51,600 --> 00:57:52,260
+Ta không muốn cô ấy
+
+742
+00:57:53,370 --> 00:57:55,940
+trở nên... cô độc.
+
+743
+00:58:07,540 --> 00:58:09,360
+Cô thực sự kỹ lưỡng quá đấy.
+
+744
+00:58:09,920 --> 00:58:11,820
+Thì luôn chỉ có hai chúng ta mà, đúng không?
+
+745
+00:58:12,240 --> 00:58:14,770
+Trước giờ không có khách nào đến thăm hết.
+
+746
+00:58:19,380 --> 00:58:20,860
+Này, con giúp mẹ được không?
+
+747
+00:58:31,090 --> 00:58:32,660
+Con lại lớn thêm rồi.
+
+748
+00:58:33,120 --> 00:58:34,240
+Cái quái gì...
+
+749
+00:58:40,540 --> 00:58:42,290
+Maquia, chúng ta cần nói chuyện.
+
+750
+00:58:43,010 --> 00:58:44,710
+Cô cho tôi chút thời gian sau khi xong việc được không?
+
+751
+00:58:45,490 --> 00:58:46,850
+Được, nhưng tôi vẫn đang...
+
+752
+00:58:46,850 --> 00:58:48,260
+Tôi sẽ đi uống vài ngụm lúc đợi cô nhé.
+
+753
+00:58:49,320 --> 00:58:51,210
+Maquia, đi giao hàng mấy thứ kia ngay!
+
+754
+00:58:51,210 --> 00:58:51,880
+Vâng.
+
+755
+00:58:57,640 --> 00:59:00,800
+Tôi đã luôn kìm nén vì nghĩ đó là bạn gái cậu.
+
+756
+00:59:01,210 --> 00:59:02,560
+Đúng đấy.
+
+757
+00:59:03,010 --> 00:59:06,070
+Còn nhiều người tốt ngoài kia mà, phải không?
+
+758
+00:59:07,290 --> 00:59:09,310
+Đối với cô ta, bị tên khốn đó tóm được...
+
+759
+00:59:09,490 --> 00:59:11,200
+Người đó không phải vậy đâu.
+
+760
+00:59:12,080 --> 00:59:13,050
+Người đó?
+
+761
+00:59:13,600 --> 00:59:15,200
+Trông cậu ủ rũ quá đấy.
+
+762
+00:59:15,630 --> 00:59:16,840
+Nào, làm một cốc đi!
+
+763
+00:59:17,520 --> 00:59:18,430
+Không được, tôi...
+
+764
+00:59:18,720 --> 00:59:20,360
+Cậu đâu còn là thằng ranh con nữa, đúng không?
+
+765
+00:59:26,010 --> 00:59:27,230
+Hay quá.
+
+766
+00:59:27,330 --> 00:59:29,090
+Vậy thì cậu cũng xử lý được chỗ này.
+
+767
+00:59:30,750 --> 00:59:33,130
+Giờ thì đến lúc tham gia với người lớn rồi.
+
+768
+00:59:33,290 --> 00:59:35,330
+Uống, uống, uống!
+
+769
+00:59:35,380 --> 00:59:37,260
+Nếu cậu là đàn ông.
+
+770
+00:59:37,330 --> 00:59:39,130
+Mạnh mẽ lên! Đập nó đi!
+
+771
+00:59:39,280 --> 00:59:41,170
+Mạnh mẽ lên! Đập nó đi!
+
+772
+00:59:41,300 --> 00:59:43,200
+Cố lên! Cố lên!
+
+773
+00:59:43,250 --> 00:59:45,190
+Cố lên! Cố lên!
+
+774
+00:59:47,020 --> 00:59:48,310
+Không tồi chút nào!
+
+775
+00:59:48,310 --> 00:59:49,710
+Làm thêm cốc nữa đi!
+
+776
+00:59:50,180 --> 00:59:52,260
+Tỏ ra đàn ông đi!
+
+777
+00:59:57,050 --> 00:59:58,400
+Họ đang tìm tôi à?
+
+778
+01:00:01,150 --> 01:00:03,280
+Tôi không thể ở lại thị trấn này nữa.
+
+779
+01:00:04,430 --> 01:00:06,790
+Cô muốn quay về trang trại với tôi không?
+
+780
+01:00:07,090 --> 01:00:08,680
+Ơ? Nhưng...
+
+781
+01:00:08,730 --> 01:00:09,830
+Tôi chắc chắn là được.
+
+782
+01:00:10,240 --> 01:00:11,980
+Giá sữa dê đã tăng lên.
+
+783
+01:00:12,560 --> 01:00:13,790
+Và cô với Ariel.
+
+784
+01:00:14,480 --> 01:00:15,990
+Tôi không thể làm phiền cậu được.
+
+785
+01:00:16,340 --> 01:00:17,150
+Maquia.
+
+786
+01:00:17,680 --> 01:00:21,240
+Nếu Mido và Deol bị kéo vào chuyện này,
+
+787
+01:00:22,210 --> 01:00:23,060
+thì tôi sẽ...
+
+788
+01:00:24,550 --> 01:00:25,290
+Tôi muốn cô...
+
+789
+01:00:26,700 --> 01:00:28,050
+làm phiền tôi.
+
+790
+01:00:29,860 --> 01:00:31,250
+Kể từ khi còn nhỏ,
+
+791
+01:00:31,930 --> 01:00:34,030
+tôi đã muốn làm chỗ dựa cho cô.
+
+792
+01:00:35,820 --> 01:00:37,340
+Tôi muốn cô suy nghĩ về nó, Maquia.
+
+793
+01:00:38,880 --> 01:00:39,880
+Về tương lai của cô,
+
+794
+01:00:40,630 --> 01:00:41,260
+và...
+
+795
+01:00:43,460 --> 01:00:44,450
+về chúng ta.
+
+796
+01:01:01,950 --> 01:01:03,120
+Tôi nghĩ là không thể
+
+797
+01:01:03,520 --> 01:01:04,430
+nghĩ về chuyện đó được đâu.
+
+798
+01:01:06,450 --> 01:01:09,820
+Ariel là điều duy nhất tôi nghĩ tới.
+
+799
+01:01:11,910 --> 01:01:14,740
+Tôi có thể sống cùng Ariel như thế nào đây?
+
+800
+01:01:16,130 --> 01:01:19,000
+Làm sao tôi có thể trở thành hơn cả một người mẹ với nó?
+
+801
+01:01:20,420 --> 01:01:24,120
+Nhưng có vẻ tôi không thể tìm được câu trả lời.
+
+802
+01:01:25,830 --> 01:01:29,940
+Đến giờ tôi vẫn không thể tìm thấy câu trả lời.
+
+803
+01:01:32,500 --> 01:01:35,140
+Bời vì tôi không thông minh.
+
+804
+01:01:36,420 --> 01:01:39,580
+Tôi vẫn muốn tiếp tục
+
+805
+01:01:40,660 --> 01:01:42,110
+nghĩ về Ariel...
+
+806
+01:01:48,650 --> 01:01:49,520
+Tôi hiểu mà.
+
+807
+01:01:50,550 --> 01:01:51,230
+Nhưng,
+
+808
+01:01:52,200 --> 01:01:56,300
+hãy để tôi giúp cô tìm nơi ở mới và một công việc.
+
+809
+01:01:57,200 --> 01:01:58,570
+Đừng gánh vác một mình.
+
+810
+01:02:30,420 --> 01:02:31,280
+Ariel?
+
+811
+01:02:36,040 --> 01:02:37,310
+Con làm gì thế?
+
+812
+01:02:38,920 --> 01:02:40,080
+Người con nồng nặc mùi rượu rồi đấy.
+
+813
+01:02:40,670 --> 01:02:41,830
+Tôi về rồi này.
+
+814
+01:02:42,010 --> 01:02:43,460
+Đừng nói thế!
+
+815
+01:02:43,720 --> 01:02:44,790
+Sao vậy, Ariel?
+
+816
+01:02:44,790 --> 01:02:46,290
+Nụ hôn mừng-tôi-về-nhà đâu rồi?
+
+817
+01:02:47,280 --> 01:02:51,330
+Cô luôn làm thế mà.
+
+818
+01:02:54,940 --> 01:02:55,650
+Mẹ xin lỗi.
+
+819
+01:02:56,590 --> 01:02:58,480
+Này, con dậy được chứ?
+
+820
+01:02:59,120 --> 01:03:04,080
+Chúng ta toàn bị nghĩ là đôi tình nhân bỏ nhà đi.
+
+821
+01:03:05,730 --> 01:03:08,410
+Rằng cô sắp bị một người khác cướp mất.
+
+822
+01:03:09,720 --> 01:03:11,030
+Con nói cái gì vậy?
+
+823
+01:03:11,240 --> 01:03:12,980
+Nào, đứng dậy đi!
+
+824
+01:03:13,550 --> 01:03:15,210
+Nếu con định ngủ thì lên giường đi...
+
+825
+01:03:25,260 --> 01:03:26,220
+Con đi được không?
+
+826
+01:03:33,750 --> 01:03:34,650
+Đừng giẫm lên nó!
+
+827
+01:03:42,120 --> 01:03:42,890
+Đây là...
+
+828
+01:03:44,640 --> 01:03:46,570
+thứ mà con đã dệt mà?
+
+829
+01:03:52,580 --> 01:03:53,470
+Tôi đã lớn để ghét nó rồi.
+
+830
+01:03:56,270 --> 01:03:58,310
+Sao cô còn giữ nó?
+
+831
+01:03:59,450 --> 01:04:01,200
+Cô luôn đối xử với tôi như một đứa trẻ!
+
+832
+01:04:29,540 --> 01:04:31,010
+Nó chưa bao giờ thay đổi cả.
+
+833
+01:04:35,650 --> 01:04:37,070
+Nó là một thứ quý giá lắm đấy.
+
+834
+01:04:41,440 --> 01:04:42,310
+Ariel!
+
+835
+01:04:47,800 --> 01:04:49,110
+Nghe này, Ariel,
+
+836
+01:04:49,800 --> 01:04:52,330
+chúng ta lại phải dời đi rồi.
+
+837
+01:04:54,220 --> 01:04:55,770
+Con muốn đi đâu tiếp theo?
+
+838
+01:04:56,390 --> 01:04:58,020
+Mẹ thì ở đâu cũng được.
+
+839
+01:04:59,560 --> 01:05:00,990
+Miễn là mẹ ở gần con.
+
+840
+01:05:02,710 --> 01:05:03,680
+Tôi không...
+
+841
+01:05:04,570 --> 01:05:07,440
+nghĩ cô là mẹ tôi đâu.
+
+842
+01:05:32,650 --> 01:05:35,010
+Anh có thể xin giúp em
+
+843
+01:05:35,550 --> 01:05:37,140
+làm lính trong lâu đài được không?
+
+844
+01:05:41,200 --> 01:05:42,260
+Làm ơn.
+
+845
+01:05:43,330 --> 01:05:44,980
+Maquia sẽ buồn đấy.
+
+846
+01:05:45,820 --> 01:05:47,230
+Cô ấy không còn là mẹ em nữa.
+
+847
+01:05:48,860 --> 01:05:49,860
+Em nói thế à?
+
+848
+01:05:52,150 --> 01:05:53,770
+Em nói thế với Maquia à?
+
+849
+01:05:54,800 --> 01:05:55,680
+Em nói rồi.
+
+850
+01:05:57,890 --> 01:05:59,060
+Em có biết
+
+851
+01:05:59,520 --> 01:06:02,340
+Maquia đã cảm thấy thế nào khi nuôi em lớn lên không hả?
+
+852
+01:06:03,740 --> 01:06:04,690
+Đừng có khờ dại như thế!
+
+853
+01:06:05,490 --> 01:06:07,140
+Khi cô ấy bằng tuổi em bây giờ,
+
+854
+01:06:07,300 --> 01:06:09,650
+Maquia đã phải cố gắng đến tuyệt vọng để làm mẹ của em đấy.
+
+855
+01:06:10,170 --> 01:06:10,990
+Còn em...
+
+856
+01:06:11,090 --> 01:06:12,890
+Vâng, em không biết!
+
+857
+01:06:15,010 --> 01:06:19,650
+Tại sao người đó... cứ đối xử với em chu đáo vậy?
+
+858
+01:06:23,580 --> 01:06:24,500
+Ariel.
+
+859
+01:06:25,250 --> 01:06:26,930
+Luôn ở đó
+
+860
+01:06:27,860 --> 01:06:30,170
+và làm mọi thứ vì lợi ích của mình
+
+861
+01:06:31,250 --> 01:06:34,520
+là những gì em nghĩ về một người mẹ.
+
+862
+01:06:35,460 --> 01:06:38,120
+Đấy là lý do em gọi cô ấy là mẹ.
+
+863
+01:06:41,460 --> 01:06:42,770
+Em đã từng muốn bảo vệ cô ấy.
+
+864
+01:06:46,950 --> 01:06:49,680
+Nhưng em không thể bảo vệ cô ấy theo cách bây giờ được.
+
+865
+01:06:50,760 --> 01:06:52,000
+Gần như ngược lại,
+
+866
+01:06:53,870 --> 01:06:54,910
+em đã làm cô ấy tổn thương.
+
+867
+01:06:56,230 --> 01:06:58,550
+Em nhận ra cảm giác đó.
+
+868
+01:07:00,810 --> 01:07:03,260
+Em không thể tự bảo vệ cô ấy được!
+
+869
+01:07:16,390 --> 01:07:18,300
+Em khóc như này
+
+870
+01:07:19,140 --> 01:07:20,850
+nhìn không khác khi em còn bé đâu.
+
+871
+01:07:25,600 --> 01:07:27,850
+Em vẫn thật sự ổn chứ?
+
+872
+01:07:47,770 --> 01:07:49,850
+Không sao đâu. Tôi sẽ tự làm.
+
+873
+01:07:50,270 --> 01:07:51,800
+Không phải cô ra ngoài thị trấn à?
+
+874
+01:07:52,730 --> 01:07:54,890
+Mẹ sẽ tiễn con đi, Ariel.
+
+875
+01:08:07,090 --> 01:08:09,200
+Đi an toàn nhé, Ariel.
+
+876
+01:08:11,950 --> 01:08:12,980
+Nhớ giữ gìn sức khoẻ.
+
+877
+01:08:18,650 --> 01:08:19,540
+Tôi đi đây.
+
+878
+01:08:55,210 --> 01:08:57,120
+Mẹ sẽ... không khóc đâu.
+
+879
+01:08:58,400 --> 01:08:59,380
+Mẹ sẽ không khóc đâu.
+
+880
+01:09:00,320 --> 01:09:01,370
+Mẹ hứa đấy.
+
+881
+01:09:05,780 --> 01:09:07,730
+Ariel, con nói dối.
+
+882
+01:09:08,780 --> 01:09:10,800
+Con đã hứa sẽ bảo vệ mẹ mà...
+
+883
+01:09:14,310 --> 01:09:15,330
+Đồ nói dối.
+
+884
+01:09:17,760 --> 01:09:18,800
+Mẹ ghét nó.
+
+885
+01:10:32,420 --> 01:10:36,600
+Con tưởng sẽ được xem Renato thật cơ mà.
+
+886
+01:10:36,880 --> 01:10:38,320
+Chúng ta không thể giúp nó đâu.
+
+887
+01:10:38,450 --> 01:10:43,310
+Đã từng có rất nhiều con trước kia, nhưng giờ chỉ còn một con trong lâu đài thôi.
+
+888
+01:10:44,510 --> 01:10:47,360
+Diễu hành với một con Renato bọc giấy
+
+889
+01:10:47,440 --> 01:10:49,920
+cũng chẳng làm tăng tinh thần của chúng ta lên được.
+
+890
+01:10:50,560 --> 01:10:52,010
+Ừ, biết gì chưa?
+
+891
+01:10:52,400 --> 01:10:54,990
+Baiera đã tìm thấy một người Iorph khác rồi.
+
+892
+01:10:55,040 --> 01:10:56,820
+Baiera à? Thật chứ?
+
+893
+01:11:00,390 --> 01:11:04,110
+Chỉ huy sư đoàn, dừng đốt mấy con rận đi.
+
+894
+01:11:04,620 --> 01:11:05,370
+Im đi!
+
+895
+01:11:05,960 --> 01:11:06,990
+Chỉ huy sư đoàn Lang!
+
+896
+01:11:10,870 --> 01:11:12,730
+Ừ, chúng ta đang tìm.
+
+897
+01:11:13,590 --> 01:11:16,660
+Rõ ràng là cô ấy giống Công chúa Leilia ở tuổi đó.
+
+898
+01:11:19,230 --> 01:11:21,020
+Không chắc đấy là Maquia đâu.
+
+899
+01:11:22,160 --> 01:11:23,000
+Em lo lắng à?
+
+900
+01:11:24,150 --> 01:11:25,000
+Người đó
+
+901
+01:11:25,630 --> 01:11:26,780
+sau tất cả vẫn rất mạnh mẽ.
+
+902
+01:11:29,030 --> 01:11:31,390
+Maquia sẽ vui lắm nếu nghe thấy đấy.
+
+903
+01:11:32,350 --> 01:11:35,140
+Cô ấy đã lo lắng
+
+904
+01:11:35,650 --> 01:11:38,690
+không biết em có thể tự bảo vệ mình hay không, vì vậy cô ấy mới tuyệt vọng.
+
+905
+01:11:39,830 --> 01:11:44,180
+Để em nghĩ cô ấy là người mẹ em có thể tựa vào.
+
+906
+01:11:46,450 --> 01:11:47,290
+Em đúng là một thằng bé hỗn láo.
+
+907
+01:11:51,650 --> 01:11:54,180
+Có thể em là một thằng hỗn láo.
+
+908
+01:11:55,330 --> 01:11:55,990
+Nhưng em...
+
+909
+01:11:56,600 --> 01:11:59,020
+sắp làm bố rồi.
+
+910
+01:12:07,570 --> 01:12:08,710
+Mezarte,
+
+911
+01:12:09,170 --> 01:12:10,580
+Hỡi quốc gia nông cạn,
+
+912
+01:12:11,110 --> 01:12:13,800
+các ngươi đã thay đổi quyền lực cổ xưa với quyền lực chính trị.
+
+913
+01:12:14,010 --> 01:12:16,720
+Tiếp tục sự báng bổ này thì quá ngu ngốc!
+
+914
+01:12:17,460 --> 01:12:21,170
+Các ngươi hẳn là đang xin chúng ta hỗ trợ toàn lực.
+
+915
+01:12:41,120 --> 01:12:41,860
+Maquia.
+
+916
+01:12:43,020 --> 01:12:44,420
+Chuẩn bị xong rồi đấy.
+
+917
+01:12:46,580 --> 01:12:47,770
+Tóc cậu dài trở lại rồi.
+
+918
+01:12:48,700 --> 01:12:51,050
+Một người Iorph để tóc dài qua hông,
+
+919
+01:12:51,410 --> 01:12:52,610
+nghĩa là đang có thai.
+
+920
+01:12:54,300 --> 01:12:55,190
+Giờ thì, Maquia,
+
+921
+01:12:55,860 --> 01:12:57,300
+đi gặp Leilia thôi.
+
+922
+01:13:06,500 --> 01:13:07,890
+Sẽ có chiến tranh à?
+
+923
+01:13:08,700 --> 01:13:10,580
+Chỉ có đau đớn thời gian đầu.
+
+924
+01:13:11,410 --> 01:13:12,940
+Hơn nữa, vài năm qua,
+
+925
+01:13:13,260 --> 01:13:15,350
+cậu đã chịu đựng hơn thế rồi.
+
+926
+01:13:16,520 --> 01:13:20,320
+Cậu đã rời Iorph, và mọi thứ cậu có đã bị lấy đi.
+
+927
+01:13:20,850 --> 01:13:23,540
+Một mình trong hầm rượu, cứ như thể cậu đang chết dần...
+
+928
+01:13:24,740 --> 01:13:25,460
+Nói đi,
+
+929
+01:13:26,750 --> 01:13:29,200
+cậu đã nhận ra chúng ta cảm thấy thế nào.
+
+930
+01:13:30,030 --> 01:13:31,600
+Mọi người bị chia cắt
+
+931
+01:13:31,870 --> 01:13:34,930
+và chắc chắn Tộc trưởng không còn sống nữa.
+
+932
+01:13:36,260 --> 01:13:38,970
+Bọn mình đã quá buồn khi mất tất cả.
+
+933
+01:13:39,810 --> 01:13:40,820
+Trong khi đó,
+
+934
+01:13:41,570 --> 01:13:44,060
+chỉ có cậu thấy hạnh phúc...
+
+935
+01:13:45,230 --> 01:13:48,560
+Người Iorph đều dệt cùng loại vải.
+
+936
+01:13:49,240 --> 01:13:51,360
+Mình, cậu và Leilia,
+
+937
+01:13:51,710 --> 01:13:54,720
+Thật không hay khi chúng ta có ba quá khứ khác nhau.
+
+938
+01:14:05,130 --> 01:14:06,650
+Chúc mừng, Maquia.
+
+939
+01:14:07,300 --> 01:14:09,950
+Với thứ này, chỉ có quá khứ của cậu biến mất.
+
+940
+01:14:10,620 --> 01:14:14,100
+Chúng ta sẽ lại dệt tương lai duy nhất một lần nữa.
+
+941
+01:14:36,010 --> 01:14:36,810
+Dita!
+
+942
+01:14:38,440 --> 01:14:40,050
+Mừng anh về, Ariel!
+
+943
+01:14:45,530 --> 01:14:47,570
+Hôm nay anh về sớm hơn đấy.
+
+944
+01:14:47,900 --> 01:14:51,800
+Anh xin lỗi vì đã bận trong những lúc quan trọng này.
+
+945
+01:14:51,800 --> 01:14:54,510
+Họ nói vẫn còn thời gian mà.
+
+946
+01:14:55,970 --> 01:14:57,350
+Nhưng anh vẫn lo.
+
+947
+01:14:58,210 --> 01:14:59,530
+Bữa tối sắp có ngay đây.
+
+948
+01:15:00,130 --> 01:15:02,800
+Được rồi. Đừng cố quá. Để anh làm.
+
+949
+01:15:03,570 --> 01:15:05,850
+Sẽ tốt hơn nếu em đi lại một chút mà.
+
+950
+01:15:07,790 --> 01:15:09,770
+Nào, ngồi xuống đi.
+
+951
+01:15:14,890 --> 01:15:17,330
+Sắp đến lúc rồi. Cũng kì lạ thật.
+
+952
+01:15:19,410 --> 01:15:22,300
+Em đã đi tìm việc, rời khỏi Mezarte,
+
+953
+01:15:23,010 --> 01:15:25,030
+gặp lại anh,
+
+954
+01:15:26,560 --> 01:15:27,410
+và bây giờ...
+
+955
+01:15:30,290 --> 01:15:31,270
+Nói đi, Ariel,
+
+956
+01:15:32,480 --> 01:15:34,230
+ở với em anh vẫn ổn chứ?
+
+957
+01:15:38,970 --> 01:15:39,550
+Gì cơ?
+
+958
+01:16:06,440 --> 01:16:07,230
+Là Baiera à?
+
+959
+01:16:07,820 --> 01:16:09,280
+Không phải tàu Baiera.
+
+960
+01:16:10,060 --> 01:16:11,920
+Là York và Endra!
+
+961
+01:16:18,560 --> 01:16:19,890
+Ariel, đợi đã!
+
+962
+01:16:21,330 --> 01:16:23,480
+Hãy bảo vệ đứa con trong bụng!
+
+963
+01:16:41,880 --> 01:16:42,880
+Em muộn rồi đấy, Ariel.
+
+964
+01:16:43,300 --> 01:16:44,130
+Em xin lỗi.
+
+965
+01:16:51,240 --> 01:16:54,700
+Chúng ta vừa nhận được tin quân Baiera đã vượt qua cửa sông.
+
+966
+01:16:55,100 --> 01:16:55,900
+Chia làm hai...
+
+967
+01:17:01,510 --> 01:17:02,510
+Thật mỉa mai.
+
+968
+01:17:10,650 --> 01:17:15,810
+Mezarte đã lợi dụng sức mạnh cổ xưa để khoe khoang.
+
+969
+01:17:16,670 --> 01:17:17,790
+Và ngược lại,
+
+970
+01:17:18,280 --> 01:17:21,610
+Mezarte, kẻ đã lạm dụng những sức mạnh ấy phải bị trừng phạt.
+
+971
+01:17:21,940 --> 01:17:25,030
+Và dẫn đến các nước láng giếng tập hợp chống lại.
+
+972
+01:17:35,410 --> 01:17:36,910
+Các bộ trưởng đâu rồi?
+
+973
+01:17:37,530 --> 01:17:40,850
+Họ đã bỏ trốn khỏi lâu đài cùng người hầu rồi.
+
+974
+01:17:41,820 --> 01:17:43,610
+Vậy là chúng bỏ rơi ta à?
+
+975
+01:17:44,070 --> 01:17:45,940
+Cái gì thế này!
+
+976
+01:17:46,900 --> 01:17:49,880
+Vậy là hết! Tạm biệt!
+
+977
+01:17:51,000 --> 01:17:52,620
+Thưa Đức vua, hãy để chúng tôi hành động.
+
+978
+01:17:53,130 --> 01:17:55,280
+Này, tiểu thư Medmel đâu?
+
+979
+01:17:56,240 --> 01:17:57,620
+Một cái tên đáng ghét!
+
+980
+01:17:57,740 --> 01:18:00,960
+Chúng ta không cần thứ đấy. Bỏ nó lại với mẹ nó!
+
+981
+01:18:51,690 --> 01:18:52,960
+Maquia, đi nào!
+
+982
+01:19:28,890 --> 01:19:29,640
+Ariel!
+
+983
+01:19:32,630 --> 01:19:33,230
+Ariel!
+
+984
+01:19:51,440 --> 01:19:52,210
+Leilia.
+
+985
+01:19:54,010 --> 01:19:55,100
+Cuối cùng mình cũng tìm thấy cậu.
+
+986
+01:19:57,850 --> 01:19:58,770
+Krim?
+
+987
+01:20:00,500 --> 01:20:01,380
+Tại sao?
+
+988
+01:20:02,980 --> 01:20:04,000
+Cậu còn sống?
+
+989
+01:20:05,260 --> 01:20:07,610
+Có phải mình...
+
+990
+01:20:11,330 --> 01:20:12,350
+đang thấy ma?
+
+991
+01:20:17,890 --> 01:20:18,970
+Mình đến để đón cậu.
+
+992
+01:20:20,800 --> 01:20:21,570
+Kể từ bây giờ,
+
+993
+01:20:22,510 --> 01:20:24,370
+Mình sẽ mang đến nhiều đau đớn
+
+994
+01:20:25,140 --> 01:20:27,170
+cho những kẻ gây ra nỗi buồn của cậu.
+
+995
+01:20:28,080 --> 01:20:30,930
+Sau đó chúng ta sẽ bắt đầu lại.
+
+996
+01:20:31,000 --> 01:20:31,700
+Đợi đã.
+
+997
+01:20:35,240 --> 01:20:36,170
+Mình muốn gặp nó.
+
+998
+01:20:37,090 --> 01:20:39,010
+Con gái mình.
+
+999
+01:20:40,530 --> 01:20:41,780
+Cậu nói cái gì?
+
+1000
+01:20:42,730 --> 01:20:45,990
+Con bé là thứ không mong muốn mà cậu bị ép sinh ra, không phải à?
+
+1001
+01:20:46,320 --> 01:20:48,630
+Nhưng, mình đã sinh ra nó...
+
+1002
+01:20:48,630 --> 01:20:49,840
+Cậu có thể quên nó mà!
+
+1003
+01:20:50,390 --> 01:20:53,580
+Hibiol của cậu không có tên con gái cậu đâu.
+
+1004
+01:20:53,840 --> 01:20:54,990
+Nhưng...
+
+1005
+01:20:56,580 --> 01:20:58,840
+Krim và mọi người đã chết,
+
+1006
+01:20:58,840 --> 01:20:59,910
+mình đã tưởng vậy.
+
+1007
+01:21:09,800 --> 01:21:13,060
+Mình đã nghĩ mọi người mất rồi.
+
+1008
+01:21:13,880 --> 01:21:18,280
+Vì thế nên mình luôn nghĩ về con gái mình.
+
+1009
+01:21:19,750 --> 01:21:22,240
+Mình muốn gặp nó.
+
+1010
+01:21:23,940 --> 01:21:25,950
+Mình muốn ôm nó vào lòng.
+
+1011
+01:21:27,180 --> 01:21:31,320
+Bằng cách nào đó mình đã vượt qua được những cảm xúc này.
+
+1012
+01:21:33,880 --> 01:21:34,710
+Leilia.
+
+1013
+01:21:37,770 --> 01:21:40,200
+Medmel... của mình.
+
+1014
+01:21:54,580 --> 01:21:56,540
+Mình hiểu rồi, Leilia.
+
+1015
+01:21:58,830 --> 01:21:59,740
+Cùng nhau,
+
+1016
+01:22:00,860 --> 01:22:01,890
+hãy kết thúc nó ở đây.
+
+1017
+01:22:05,800 --> 01:22:06,600
+Krim!
+
+1018
+01:22:12,400 --> 01:22:13,210
+Mình sẽ không để...
+
+1019
+01:22:18,800 --> 01:22:20,040
+bất cứ ai khác...
+
+1020
+01:22:23,060 --> 01:22:24,720
+làm vấy bẩn Hibiol của chúng ta
+
+1021
+01:22:25,940 --> 01:22:27,060
+thêm lần nữa.
+
+1022
+01:22:35,290 --> 01:22:36,100
+Krim!
+
+1023
+01:22:40,030 --> 01:22:41,070
+Cô Leilia!
+
+1024
+01:23:13,410 --> 01:23:14,850
+Tại sao lại thế?
+
+1025
+01:23:16,010 --> 01:23:17,060
+Leilia
+
+1026
+01:23:17,720 --> 01:23:18,670
+và cả Maquia...
+
+1027
+01:23:19,400 --> 01:23:20,360
+Tại sao?
+
+1028
+01:23:21,860 --> 01:23:25,270
+Tại sao thời gian cứ tiến lên?
+
+1029
+01:24:04,000 --> 01:24:05,880
+Nó giống như hôm ấy.
+
+1030
+01:24:33,190 --> 01:24:33,830
+Ariel!
+
+1031
+01:24:35,970 --> 01:24:36,900
+Chỉ huy sư đoàn!
+
+1032
+01:24:37,890 --> 01:24:42,200
+Chúng tôi nhận được tin một chàng trai và cô gái Iorph trên tàu Baiera.
+
+1033
+01:24:44,740 --> 01:24:46,260
+Có gặp họ không?
+
+1034
+01:24:49,010 --> 01:24:49,610
+Có.
+
+1035
+01:24:51,010 --> 01:24:54,100
+Em xong việc rồi. Cứ để đó cho bọn anh. Đi gặp Maqui...
+
+1036
+01:24:54,100 --> 01:24:55,140
+Em sẽ chiến đấu!
+
+1037
+01:24:56,480 --> 01:24:58,800
+Em trung thành với Mezarte à?
+
+1038
+01:24:59,230 --> 01:25:00,030
+Không phải vậy, đúng không?
+
+1039
+01:25:00,370 --> 01:25:02,340
+Em chỉ không muốn gặp Maquia thôi...
+
+1040
+01:25:02,340 --> 01:25:02,970
+Không phải!
+
+1041
+01:25:04,700 --> 01:25:07,040
+Ban đầu thì đúng là vậy.
+
+1042
+01:25:08,160 --> 01:25:10,620
+Nhưng giờ, em có Dita.
+
+1043
+01:25:11,350 --> 01:25:12,300
+em còn đồng đội.
+
+1044
+01:25:13,070 --> 01:25:14,670
+Và một đứa bé sắp ra đời!
+
+1045
+01:25:15,900 --> 01:25:21,210
+Mezarte đã trở thành nhà của em kể từ khi em rời bỏ người đó.
+
+1046
+01:25:21,640 --> 01:25:22,950
+Em muốn bảo vệ nó!
+
+1047
+01:25:43,710 --> 01:25:44,780
+Cô không sao chứ?
+
+1048
+01:25:51,290 --> 01:25:52,000
+Cô là...
+
+1049
+01:25:52,050 --> 01:25:52,790
+Bác sĩ!
+
+1050
+01:25:53,220 --> 01:25:53,970
+Đừng!
+
+1051
+01:25:56,000 --> 01:25:57,400
+Không phải lúc này...
+
+1052
+01:25:57,400 --> 01:25:57,980
+Nhưng...
+
+1053
+01:26:00,460 --> 01:26:03,610
+Con của... Ariel!
+
+1054
+01:26:10,410 --> 01:26:11,340
+Bắn!
+
+1055
+01:26:31,730 --> 01:26:32,940
+Bắn!
+
+1056
+01:26:37,030 --> 01:26:37,700
+Dita.
+
+1057
+01:26:39,680 --> 01:26:41,810
+Giữ lấy nó! Sắp được rồi.
+
+1058
+01:26:42,590 --> 01:26:43,980
+Cô sắp được gặp con mình rồi!
+
+1059
+01:27:04,920 --> 01:27:06,270
+Đúng rồi, cô làm tốt lắm!
+
+1060
+01:27:07,660 --> 01:27:09,690
+Dita, chỉ một chút nữa thôi.
+
+1061
+01:27:11,620 --> 01:27:12,860
+Một tí nữa thôi!
+
+1062
+01:27:14,580 --> 01:27:15,220
+Dita!
+
+1063
+01:27:22,370 --> 01:27:23,460
+Đừng nản chí!
+
+1064
+01:27:33,250 --> 01:27:33,880
+Tôi sợ lắm...
+
+1065
+01:27:35,910 --> 01:27:36,440
+Dita!
+
+1066
+01:27:36,440 --> 01:27:38,210
+Tôi sợ lắm!
+
+1067
+01:27:38,400 --> 01:27:40,110
+Cứu tôi...
+
+1068
+01:27:40,110 --> 01:27:42,370
+Dita, không sao...
+
+1069
+01:27:40,980 --> 01:27:42,370
+- Đứa bé...
+
+1070
+01:27:42,760 --> 01:27:45,690
+Cứu đứa bé!
+
+1071
+01:27:45,690 --> 01:27:46,600
+Tôi sẽ cứu nó.
+
+1072
+01:27:47,960 --> 01:27:48,770
+Nó sẽ được cứu!
+
+1073
+01:27:51,900 --> 01:27:54,260
+Sắp bình minh rồi! Đã đến lúc xâm nhập!
+
+1074
+01:28:09,880 --> 01:28:12,860
+Cố lên, đứa bé đang đợi chui ra đấy!
+
+1075
+01:28:16,150 --> 01:28:20,180
+Cô và Ariel sắp trở thành cha mẹ rồi!
+
+1076
+01:28:51,830 --> 01:28:53,840
+Cô giỏi lắm, Dita à.
+
+1077
+01:28:55,200 --> 01:28:56,080
+Một người mẹ.
+
+1078
+01:29:14,250 --> 01:29:16,090
+Cô định mang nó theo à?
+
+1079
+01:29:16,840 --> 01:29:17,860
+Đó không phải đồ chơi đâu...
+
+1080
+01:29:17,860 --> 01:29:19,000
+Nó không phải đồ chơi.
+
+1081
+01:29:19,410 --> 01:29:20,310
+Nó là...
+
+1082
+01:29:21,400 --> 01:29:22,560
+Hibiol của tôi.
+
+1083
+01:29:25,740 --> 01:29:26,610
+Tôi hiểu rồi.
+
+1084
+01:29:29,030 --> 01:29:29,970
+Tôi hiểu rồi.
+
+1085
+01:29:41,310 --> 01:29:43,960
+Ariel, về nhà ngay!
+
+1086
+01:29:44,930 --> 01:29:46,360
+Mẹ!
+
+1087
+01:29:46,800 --> 01:29:48,260
+Con về rồi!
+
+1088
+01:29:52,090 --> 01:29:53,880
+Con lạnh quá.
+
+1089
+01:29:56,940 --> 01:29:58,950
+Mừng con về nhà, Ariel.
+
+1090
+01:30:06,770 --> 01:30:07,640
+Mừng con về,
+
+1091
+01:30:10,340 --> 01:30:11,190
+Ariel.
+
+1092
+01:30:15,270 --> 01:30:15,970
+Một giấc mơ...
+
+1093
+01:30:16,930 --> 01:30:18,290
+Không phải mơ đâu.
+
+1094
+01:30:19,390 --> 01:30:21,840
+Nhưng có tuyết...
+
+1095
+01:30:22,640 --> 01:30:25,190
+Không phải tuyết đâu. Đấy là tro bụi thôi.
+
+1096
+01:30:36,820 --> 01:30:39,830
+Con của con và Dita chào đời rồi.
+
+1097
+01:30:43,350 --> 01:30:44,310
+Đừng gắng quá sức.
+
+1098
+01:30:45,000 --> 01:30:47,870
+Ổn cả rồi. Họ đang đợi con đấy.
+
+1099
+01:30:48,370 --> 01:30:50,810
+Cả hai đang chờ đợi con.
+
+1100
+01:30:53,760 --> 01:30:55,230
+Vậy đó là cách
+
+1101
+01:30:56,240 --> 01:30:58,270
+mà mẹ con đã sinh ra con.
+
+1102
+01:31:04,560 --> 01:31:10,720
+Mẹ con đã ôm con rất chặt.
+
+1103
+01:31:12,180 --> 01:31:15,040
+Ngón tay cô ấy đã cứng lại.
+
+1104
+01:31:15,900 --> 01:31:17,490
+Mẹ đã không thể lấy con ra dễ dàng.
+
+1105
+01:31:18,970 --> 01:31:21,410
+Và từng ngón tay một...
+
+1106
+01:31:21,950 --> 01:31:22,770
+Đủ rồi.
+
+1107
+01:31:22,870 --> 01:31:23,620
+Mẹ...
+
+1108
+01:31:25,150 --> 01:31:28,340
+chưa từng là mẹ của con.
+
+1109
+01:31:28,340 --> 01:31:29,330
+Vậy là đủ rồi!
+
+1110
+01:31:31,800 --> 01:31:33,430
+Cô đã dạy tôi tất cả:
+
+1111
+01:31:34,280 --> 01:31:35,150
+lòng tốt,
+
+1112
+01:31:35,880 --> 01:31:36,760
+sức mạnh,
+
+1113
+01:31:37,500 --> 01:31:38,340
+sự tuyệt vọng,
+
+1114
+01:31:39,700 --> 01:31:41,800
+cảm giác yêu ai đó...
+
+1115
+01:31:47,880 --> 01:31:49,890
+Nghĩ về con
+
+1116
+01:31:50,890 --> 01:31:53,510
+cũng giống như nghĩ về mẹ vậy
+
+1117
+01:31:55,860 --> 01:31:57,570
+Khi mẹ gặp con
+
+1118
+01:31:58,320 --> 01:32:01,880
+mẹ đã nghĩ con sẽ khóc cùng mẹ,
+
+1119
+01:32:03,300 --> 01:32:06,190
+rằng con là Hibiol của mẹ.
+
+1120
+01:32:09,110 --> 01:32:10,720
+Khi ở cùng con,
+
+1121
+01:32:11,350 --> 01:32:14,840
+mọi nỗi buồn và đau đớn...
+
+1122
+01:32:16,020 --> 01:32:17,320
+đều lắng xuống.
+
+1123
+01:32:19,280 --> 01:32:21,390
+Nhưng, tôi...
+
+1124
+01:32:22,050 --> 01:32:22,900
+có từ cô...
+
+1125
+01:32:24,750 --> 01:32:26,960
+Con không phải kẻ nói dối, Ariel à.
+
+1126
+01:32:28,410 --> 01:32:31,810
+Con đã giữ lời hứa.
+
+1127
+01:32:32,840 --> 01:32:36,690
+Con đã luôn bảo vệ mẹ.
+
+1128
+01:32:38,160 --> 01:32:41,210
+Khi chúng ta xa nhau, khi mẹ chỉ có một mình,
+
+1129
+01:32:41,840 --> 01:32:44,240
+mẹ đã mất đi tầm nhìn.
+
+1130
+01:32:45,600 --> 01:32:48,310
+Nhưng khi mẹ nhớ về con,
+
+1131
+01:32:49,750 --> 01:32:51,040
+mẹ đã trở lại chính mình.
+
+1132
+01:32:52,700 --> 01:32:57,790
+Nếu con gọi mẹ, mẹ không quan tâm nếu con không gọi là "Mẹ" đâu.
+
+1133
+01:32:58,760 --> 01:33:00,080
+Không quan trọng cái tên là gì,
+
+1134
+01:33:00,820 --> 01:33:04,520
+tên đó sẽ là của mẹ.
+
+1135
+01:33:06,400 --> 01:33:11,030
+Người đã dệt nên mẹ... là con đấy.
+
+1136
+01:33:22,110 --> 01:33:22,930
+Maquia!
+
+1137
+01:33:27,510 --> 01:33:28,330
+Lang!
+
+1138
+01:33:29,220 --> 01:33:31,280
+Cậu có thể Ariel đi được không?
+
+1139
+01:33:33,060 --> 01:33:34,860
+Đến chỗ Dita và đứa bé.
+
+1140
+01:33:36,390 --> 01:33:38,710
+Đến nơi Ariel thuộc về.
+
+1141
+01:33:50,420 --> 01:33:51,390
+Đừng đi...
+
+1142
+01:33:59,790 --> 01:34:00,930
+Làm ơn đừng đi mà!
+
+1143
+01:34:01,700 --> 01:34:02,920
+Mẹ ơi!
+
+1144
+01:35:10,140 --> 01:35:13,050
+Đến lúc xuống rồi, tiểu thư Medmel.
+
+1145
+01:35:13,540 --> 01:35:15,000
+Cha và những người khác đâu?
+
+1146
+01:35:19,120 --> 01:35:21,620
+Ta hiểu rồi. Được thôi.
+
+1147
+01:35:23,330 --> 01:35:24,800
+Nếu ta đi xuống,
+
+1148
+01:35:25,050 --> 01:35:28,050
+một cuộc đời mới đang đợi ta.
+
+1149
+01:35:29,200 --> 01:35:32,080
+Nhưng kể cả thế, ta...
+
+1150
+01:35:48,740 --> 01:35:49,970
+Cô là ai?
+
+1151
+01:35:53,240 --> 01:35:54,500
+Tiểu thư Leilia...
+
+1152
+01:36:00,410 --> 01:36:01,400
+Cô là...
+
+1153
+01:36:02,410 --> 01:36:05,140
+Mẹ yêu quý của tôi...
+
+1154
+01:36:10,370 --> 01:36:12,310
+Mẹ là Leilia, người Iorph.
+
+1155
+01:36:14,110 --> 01:36:18,510
+Tính cách hiếu động và luôn nhảy về phía sau,
+
+1156
+01:36:20,870 --> 01:36:21,800
+một người phụ nữ có ý chí mạnh mẽ,
+
+1157
+01:36:22,830 --> 01:36:23,780
+và... tự do.
+
+1158
+01:36:27,440 --> 01:36:29,030
+Leilia, bay đi!
+
+1159
+01:36:43,640 --> 01:36:45,730
+Minh... có thể bay!
+
+1160
+01:36:48,750 --> 01:36:49,240
+Không!
+
+1161
+01:36:49,240 --> 01:36:50,370
+Mẹ yêu quí của con!
+
+1162
+01:37:08,800 --> 01:37:09,620
+Maquia.
+
+1163
+01:37:12,250 --> 01:37:13,040
+Phải rồi.
+
+1164
+01:37:14,450 --> 01:37:15,980
+Mày cũng có thể bay.
+
+1165
+01:37:22,740 --> 01:37:23,800
+Vĩnh biệt!
+
+1166
+01:37:24,500 --> 01:37:26,200
+Hãy quên mẹ đi!
+
+1167
+01:37:26,770 --> 01:37:28,160
+Mẹ cũng sẽ quên thôi!
+
+1168
+01:37:28,930 --> 01:37:31,810
+Những ngày mẹ ở trong lâu đài, vào sáng nay,
+
+1169
+01:37:31,930 --> 01:37:33,400
+mẹ sẽ không viết vào Hibiol đâu!
+
+1170
+01:37:33,960 --> 01:37:34,990
+Mẹ yêu quý của con...
+
+1171
+01:37:35,530 --> 01:37:39,160
+Mẹ sẽ quên nó khỏi ký ức dài của mình.
+
+1172
+01:37:40,120 --> 01:37:41,650
+Nó sẽ bị lãng quên thôi.
+
+1173
+01:37:42,980 --> 01:37:43,460
+Đúng rồi...
+
+1174
+01:37:44,580 --> 01:37:46,420
+Nó sẽ như đường may nối vải!
+
+1175
+01:37:51,590 --> 01:37:52,070
+Nói đi,
+
+1176
+01:37:52,790 --> 01:37:53,270
+Vâng?
+
+1177
+01:37:53,790 --> 01:37:57,600
+Mẹ yêu quý của ta là một người thật xinh đẹp.
+
+1178
+01:38:01,940 --> 01:38:03,070
+Tiểu thư Medmel.
+
+1179
+01:38:06,030 --> 01:38:06,940
+Là Renato!
+
+1180
+01:38:12,860 --> 01:38:14,010
+Tiểu thư Leilia...
+
+1181
+01:38:16,350 --> 01:38:17,660
+Chúng ta không cần Renato.
+
+1182
+01:38:18,640 --> 01:38:19,940
+Không cần Iorph.
+
+1183
+01:38:20,690 --> 01:38:23,330
+Định mệnh của những sinh vật cổ đang biến mất.
+
+1184
+01:38:24,240 --> 01:38:24,880
+Nếu vậy thì,
+
+1185
+01:38:25,810 --> 01:38:28,350
+cứ để cho chúng làm những gì chúng khao khát vào thời khắc cuối cùng.
+
+1186
+01:38:34,340 --> 01:38:36,310
+Đừng khóc mà, Leilia.
+
+1187
+01:38:41,290 --> 01:38:44,570
+Sẽ ổn thôi. Cậu sẽ không bao giờ quên đâu.
+
+1188
+01:38:56,590 --> 01:38:57,770
+Nó đau lắm.
+
+1189
+01:38:59,930 --> 01:39:02,150
+Đau nhiều lắm.
+
+1190
+01:39:04,430 --> 01:39:06,980
+Nhưng mình sẽ không bao giờ quên
+
+1191
+01:39:07,940 --> 01:39:09,700
+một thế giới đẹp như thế đâu.
+
+1192
+01:39:42,800 --> 01:39:43,650
+Anh về rồi.
+
+1193
+01:39:46,310 --> 01:39:47,570
+Anh về rồi...
+
+1194
+01:39:49,340 --> 01:39:50,500
+Tất nhiên rồi.
+
+1195
+01:40:05,390 --> 01:40:07,390
+Con bé thật mềm mại, thật đáng sợ...
+
+1196
+01:40:13,620 --> 01:40:15,760
+Chúng ta phải quyết định đặt tên nó thôi.
+
+1197
+01:40:18,150 --> 01:40:18,840
+Dita?
+
+1198
+01:40:19,940 --> 01:40:20,930
+Em xin lỗi.
+
+1199
+01:40:22,630 --> 01:40:24,170
+Khi chúng ta còn bé,
+
+1200
+01:40:25,390 --> 01:40:29,650
+"Thích mẹ mình là kỳ quặc"...
+
+1201
+01:40:30,890 --> 01:40:31,890
+em đã nói như vậy
+
+1202
+01:40:33,840 --> 01:40:35,520
+Nó không kỳ quặc đâu.
+
+1203
+01:40:36,410 --> 01:40:40,170
+Mẹ anh quá xinh đẹp
+
+1204
+01:40:41,030 --> 01:40:42,170
+và tốt bụng.
+
+1205
+01:40:44,130 --> 01:40:44,810
+Em...
+
+1206
+01:40:49,050 --> 01:40:51,010
+Em chắc chắn đứa trẻ này...
+
+1207
+01:40:51,380 --> 01:40:52,120
+Anh yêu em.
+
+1208
+01:40:53,680 --> 01:40:54,820
+Em cũng thế...
+
+1209
+01:40:55,940 --> 01:41:01,520
+Nhưng em đã từng luôn ghen tị với mẹ anh.
+
+1210
+01:41:04,260 --> 01:41:08,160
+Anh, người được mẹ nuôi lớn, sẽ yêu em.
+
+1211
+01:41:10,120 --> 01:41:12,620
+Đứa bé này chắc chắn sẽ có cuộc gặp gỡ định mệnh của mình.
+
+1212
+01:41:13,700 --> 01:41:15,410
+Hãy cùng nhau nuôi dạy nó nhé.
+
+1213
+01:41:16,780 --> 01:41:19,130
+Em và anh, cả hai chúng ta.
+
+1214
+01:41:20,410 --> 01:41:23,720
+Đứa bé này sẽ yêu ai đó kể từ bây giờ.
+
+1215
+01:41:30,030 --> 01:41:31,400
+Thị tộc Biệt lập
+
+1216
+01:41:33,160 --> 01:41:35,170
+đã tiễn nhiều chuyến khởi hành,
+
+1217
+01:41:36,210 --> 01:41:38,080
+tiễn đi nhiều thứ thay đổi,
+
+1218
+01:41:39,330 --> 01:41:42,560
+đã đến lúc họ tiếp tục không hồi kết rồi.
+
+1219
+01:41:44,540 --> 01:41:47,610
+Và đó là lý do, họ sẽ có những lần gặp gỡ,
+
+1220
+01:41:49,970 --> 01:41:50,860
+sẽ gặp,
+
+1221
+01:41:52,120 --> 01:41:53,250
+và sẽ dệt.
+
+1222
+01:42:08,560 --> 01:42:09,540
+Chúc một ngày tốt lành.
+
+1223
+01:42:13,580 --> 01:42:16,490
+Con đưa cô đến chỗ ông con được không?
+
+1224
+01:42:17,520 --> 01:42:18,660
+Ông á?
+
+1225
+01:42:18,770 --> 01:42:19,920
+Lily!
+
+1226
+01:42:20,450 --> 01:42:22,810
+Không tốt đâu. Con ở đây hả?
+
+1227
+01:42:25,160 --> 01:42:26,090
+Cô là...
+
+1228
+01:42:30,060 --> 01:42:32,590
+Mẹ tôi đã mất ba năm trước.
+
+1229
+01:42:33,290 --> 01:42:35,090
+Họ từng là một cặp yêu nhau.
+
+1230
+01:42:35,840 --> 01:42:37,460
+Kể từ khi Mezarte sụp đổ,
+
+1231
+01:42:37,860 --> 01:42:40,280
+họ quay lại đây để cảm ơn sự dìu dắt của Lang.
+
+1232
+01:42:41,720 --> 01:42:45,780
+Họ đã có những khoảng thời gian khó khăn, nhưng tôi nghĩ họ đã sống một cuộc đời hạnh phúc.
+
+1233
+01:42:52,580 --> 01:42:54,060
+Đợi đã!
+
+1234
+01:42:54,060 --> 01:42:56,600
+Họ đã nói rất nhiều về cô.
+
+1235
+01:42:57,390 --> 01:42:59,560
+Cả hai người, một cách hạnh phúc..
+
+1236
+01:43:00,690 --> 01:43:02,370
+Tôi mừng là cô đã đến kịp.
+
+1237
+01:43:03,270 --> 01:43:04,870
+Bố tôi đã...
+
+1238
+01:43:35,630 --> 01:43:36,470
+Mẹ về rồi,
+
+1239
+01:43:37,160 --> 01:43:37,970
+Ariel.
+
+1240
+01:43:48,650 --> 01:43:50,900
+Con thật kỳ diệu, Ariel à.
+
+1241
+01:43:55,400 --> 01:43:56,280
+Con đã sống
+
+1242
+01:44:00,290 --> 01:44:04,030
+trọn vẹn cuộc đời mình, phải không?
+
+1243
+01:44:04,460 --> 01:44:05,290
+Ariel.
+
+1244
+01:44:11,130 --> 01:44:12,190
+Mẹ sẽ không khóc đâu.
+
+1245
+01:44:13,140 --> 01:44:15,440
+Sau tất cả... mẹ đã hứa rồi.
+
+1246
+01:44:29,750 --> 01:44:33,670
+Mừng mẹ về nhà.
+
+1247
+01:44:42,380 --> 01:44:43,350
+Mẹ về rồi.
+
+1248
+01:45:32,170 --> 01:45:34,420
+Chúc con đi bình yên nhé, Ariel.
+
+1249
+01:45:36,260 --> 01:45:39,920
+Tôi sẽ trở lại trước bữa tối.
+
+1250
+01:45:46,310 --> 01:45:47,220
+Cô nhận đi!
+
+1251
+01:45:48,130 --> 01:45:49,160
+Cảm ơn con nhé.
+
+1252
+01:46:10,040 --> 01:46:12,890
+Mẹ! Mẹ ơi!
+
+1253
+01:46:12,800 --> 01:46:14,140
+Mừng mẹ về nhà!
+
+1254
+01:46:14,140 --> 01:46:14,920
+Nghe kìa!
+
+1255
+01:46:15,120 --> 01:46:15,860
+Nghe kìa!
+
+1256
+01:46:15,770 --> 01:46:17,330
+Con về rồi!
+
+1257
+01:46:17,620 --> 01:46:18,370
+Chào buổi sáng!
+
+1258
+01:46:19,570 --> 01:46:20,850
+Mẹ bị lừa rồi!
+
+1259
+01:46:20,780 --> 01:46:22,930
+Mẹ tưởng đấy là da con con lột ra, đúng không?
+
+1260
+01:46:22,820 --> 01:46:24,410
+Con sinh ra ở đâu?
+
+1261
+01:46:24,330 --> 01:46:26,650
+Những con bọ ngọ nguậy ở đây này!
+
+1262
+01:46:26,480 --> 01:46:28,010
+Mẹ cười rồi kìa!
+
+1263
+01:46:28,820 --> 01:46:31,060
+Họ nói mẹ khác với những người khác.
+
+1264
+01:46:30,500 --> 01:46:31,710
+Mẹ ơi, nhìn này!
+
+1265
+01:46:31,390 --> 01:46:32,690
+Thôi nào!
+
+1266
+01:46:32,620 --> 01:46:34,150
+Vì sao hả mẹ?
+
+1267
+01:46:35,220 --> 01:46:37,840
+Mẹ không giống mẹ nữa khi mẹ ở đây!
+
+1268
+01:46:37,740 --> 01:46:40,410
+Đừng làm mẹ khóc!
+
+1269
+01:46:40,410 --> 01:46:42,640
+Con sẽ ổn chỉ cần mẹ ở bên con thôi!
+
+1270
+01:46:42,560 --> 01:46:44,060
+Con sẽ bảo vệ mẹ!
+
+1271
+01:46:43,890 --> 01:46:44,670
+Mẹ...
+
+1272
+01:46:45,000 --> 01:46:45,930
+Mẹ ơi...
+
+1273
+01:46:45,550 --> 01:46:46,250
+Mẹ ơi...
+
+1274
+01:46:46,250 --> 01:46:46,780
+Này,
+
+1275
+01:46:47,040 --> 01:46:48,990
+Không sao đâu. Tôi sẽ tự làm.
+
+1276
+01:46:48,750 --> 01:46:49,600
+Tôi đi đây.
+
+1277
+01:46:49,420 --> 01:46:50,480
+Sẽ không sao đâu.
+
+1278
+01:46:50,760 --> 01:46:51,360
+Đợi đã.
+
+1279
+01:46:52,070 --> 01:46:52,910
+Tôi biết điều đó.
+
+1280
+01:46:52,910 --> 01:46:53,770
+Cái quái gì...
+
+1281
+01:46:53,700 --> 01:46:54,400
+Không, ổn cả rồi.
+
+1282
+01:46:54,560 --> 01:46:55,590
+Tôi đã lớn để ghét nó rồi.
+
+1283
+01:46:55,650 --> 01:46:56,260
+Tôi về rồi này.
+
+1284
+01:46:56,180 --> 01:46:58,890
+Tôi không nghĩ cô là mẹ tôi đâu.
+
+1285
+01:46:58,680 --> 01:47:00,400
+Vâng, em không biết!
+
+1286
+01:47:00,400 --> 01:47:01,640
+Em đã từng muốn bảo vệ cô ấy.
+
+1287
+01:47:01,640 --> 01:47:02,710
+Em đã không thể bảo vệ cô ấy.
+
+1288
+01:47:02,580 --> 01:47:04,890
+Em không thể... tự bảo vệ cô ấy được!
+
+1289
+01:47:05,150 --> 01:47:09,690
+Tại sao người đó... cứ đối xử với em chu đáo vậy?
+
+1290
+01:47:10,280 --> 01:47:11,690
+Cô đã dạy tôi.
+
+1291
+01:47:12,280 --> 01:47:13,270
+Làm ơn đừng đi mà!
+
+1292
+01:47:13,850 --> 01:47:14,880
+Mẹ ơi!
+
+1293
+01:47:15,650 --> 01:47:17,540
+Ariel, mẹ xin lỗi.
+
+1294
+01:47:18,490 --> 01:47:19,410
+Mẹ?
+
+1295
+01:47:20,470 --> 01:47:21,480
+Mẹ xin lỗi nhé.
+
+1296
+01:47:22,310 --> 01:47:23,730
+Mẹ sẽ không khóc nữa đâu!
+
+1297
+01:47:24,330 --> 01:47:26,180
+Vì mẹ là một người mẹ mà!
+
+1298
+01:47:27,270 --> 01:47:28,470
+Mẹ hứa nhé.
+
+1299
+01:47:29,630 --> 01:47:30,580
+Mẹ con sẽ...
+
+1300
+01:47:30,660 --> 01:47:34,290
+phá vỡ lời hứa của mình...
+
+1301
+01:47:39,910 --> 01:47:41,390
+Mẹ ơi!
+
+1302
+01:47:45,970 --> 01:47:47,830
+Con yêu mẹ, mẹ ơi!
+
+1303
+01:47:50,050 --> 01:47:51,290
+Con yêu mẹ!
+
+1304
+01:48:03,950 --> 01:48:05,020
+Ariel...
+
+1305
+01:48:11,480 --> 01:48:12,570
+Ariel...
+
+1306
+01:48:32,880 --> 01:48:34,030
+Xong rồi chứ?
+
+1307
+01:48:35,140 --> 01:48:36,080
+Nó sẽ không kết thúc đâu.
+
+1308
+01:48:36,900 --> 01:48:38,580
+Chừng nào tôi còn sống,
+
+1309
+01:48:39,450 --> 01:48:41,970
+Hibiol của Ariel sẽ còn tiếp tục.
+
+1310
+01:48:45,380 --> 01:48:46,960
+Đừng có cười chứ!
+
+1311
+01:48:47,260 --> 01:48:50,370
+Tộc trưởng chắc cũng sẽ cười vào mặt cô như thế thôi!
+
+1312
+01:48:57,710 --> 01:48:58,990
+Chắc chắn sẽ cười cô
+
+1313
+01:48:59,410 --> 01:49:01,640
+vì đã cho bà ấy thấy sự từ biệt
+
+1314
+01:49:01,640 --> 01:49:03,710
+không chỉ có nỗi đau.
+
+1315
+01:49:08,220 --> 01:49:09,570
+Nào, đi thôi.
+
+1316
+01:49:10,060 --> 01:49:13,050
+Một cuộc từ biệt mới cho một cuộc gặp gỡ khác nào!
+
+1317
+01:49:21,780 --> 01:49:22,860
+Tộc trưởng,
+
+1318
+01:49:24,700 --> 01:49:30,880
+con mừng vì mình đã yêu thương Ariel.
+
+1319
+01:49:33,370 --> 01:49:36,930
+Con mừng vì mình đã yêu.
+
+1320
+01:49:47,210 --> 01:49:53,550
+ちっぽけな星よ
+
+1321
+01:49:54,760 --> 01:50:01,320
+まわり続けて...
+
+1322
+01:50:01,810 --> 01:50:08,910
+あふれそうに輝いて
+
+1323
+01:50:09,330 --> 01:50:12,700
+流れて行く
+
+1324
+01:50:13,040 --> 01:50:20,770
+綺麗なままで
+
+1325
+01:50:44,140 --> 01:50:52,640
+歩き出す 愛を連れて
+
+1326
+01:50:52,980 --> 01:50:58,960
+奏でるように
+
+1327
+01:50:59,060 --> 01:51:09,860
+信じてる どんな形でも
+
+1328
+01:51:09,970 --> 01:51:21,110
+太陽は昇るから きっと
+
+1329
+01:51:34,830 --> 01:51:41,270
+ちっぽけな星よ
+
+1330
+01:51:42,320 --> 01:51:49,060
+落ちた涙は
+
+1331
+01:51:49,360 --> 01:51:56,510
+あふれそうな優しさを
+
+1332
+01:51:56,830 --> 01:52:00,080
+見せてくれる
+
+1333
+01:52:00,610 --> 01:52:09,330
+もう一度 笑って
+
+1334
+01:52:42,630 --> 01:52:58,330
+その胸の中には何があるの？
+
+1335
+01:53:01,540 --> 01:53:10,040
+歩き出す 愛になって
+
+1336
+01:53:10,430 --> 01:53:16,330
+光の中へ
+
+1337
+01:53:16,620 --> 01:53:27,120
+大丈夫 どんな未来でも
+
+1338
+01:53:27,360 --> 01:53:39,330
+太陽は昇るから きっと
+
+1339
+01:49:47,210 --> 01:49:53,550
+chippoke na hoshi yo
+
+1340
+01:49:54,760 --> 01:50:01,320
+mawari tsuzukete...
+
+1341
+01:50:01,810 --> 01:50:08,910
+afuresou ni kagayaite
+
+1342
+01:50:09,330 --> 01:50:12,700
+nagarete yuku
+
+1343
+01:50:13,040 --> 01:50:20,770
+kirei na mama de
+
+1344
+01:50:44,140 --> 01:50:52,640
+arukidasu ai wo tsurete
+
+1345
+01:50:52,980 --> 01:50:58,960
+kanaderu you ni
+
+1346
+01:50:59,060 --> 01:51:09,860
+shinjiru donna katachi demo
+
+1347
+01:51:09,970 --> 01:51:21,110
+taiyou wa noboru kara kitto
+
+1348
+01:51:34,830 --> 01:51:41,270
+chippoke na hoshi yo
+
+1349
+01:51:42,320 --> 01:51:49,060
+ochita namida wa
+
+1350
+01:51:49,360 --> 01:51:56,510
+afuresou na yasashisa wo
+
+1351
+01:51:56,830 --> 01:52:00,080
+misete kureru
+
+1352
+01:52:00,610 --> 01:52:09,330
+mou ichidou waratte
+
+1353
+01:52:42,630 --> 01:52:58,330
+sono mune no naka ni wa nani ga aru no?
+
+1354
+01:53:01,540 --> 01:53:10,040
+arukidasu ai ni natte
+
+1355
+01:53:10,430 --> 01:53:16,330
+hikari no naka e
+
+1356
+01:53:16,620 --> 01:53:27,120
+daijoubu donna mirai demo
+
+1357
+01:53:27,360 --> 01:53:39,330
+taiyou wa noboru kara kitto
+
+1358
+01:49:47,210 --> 01:49:53,550
+Hỡi những vì sao nhỏ
+
+1359
+01:49:54,760 --> 01:50:01,320
+hãy tiếp tục quay tròn
+
+1360
+01:50:01,810 --> 01:50:08,910
+và tràn ngập ánh sáng
+
+1361
+01:50:09,330 --> 01:50:12,700
+Hãy tiếp tục chảy đi
+
+1362
+01:50:13,040 --> 01:50:20,770
+bởi vì nó thật đẹp
+
+1363
+01:50:44,140 --> 01:50:52,640
+Đi dạo nói chuyện tình yêu
+
+1364
+01:50:52,980 --> 01:50:58,960
+tựa như chơi một giai điệu
+
+1365
+01:50:59,060 --> 01:51:09,860
+Tôi tin dù ở bất kì hình dáng nào
+
+1366
+01:51:09,970 --> 01:51:21,110
+Mặt Trời chắc chắn sẽ lên
+
+1367
+01:51:34,830 --> 01:51:41,270
+Hỡi những vì sao nhỏ
+
+1368
+01:51:42,320 --> 01:51:49,060
+Những giọt nước mắt rơi
+
+1369
+01:51:49,360 --> 01:51:56,510
+sẽ cho bạn thấy
+
+1370
+01:51:56,830 --> 01:52:00,080
+lòng tốt tràn đầy
+
+1371
+01:52:00,610 --> 01:52:09,330
+Xin hãy mỉm cười lần nữa
+
+1372
+01:52:42,630 --> 01:52:58,330
+Điều gì ẩn sâu trong tim?
+
+1373
+01:53:01,540 --> 01:53:10,040
+Đi dạo và kết thành tình yêu
+
+1374
+01:53:10,430 --> 01:53:16,330
+hướng về ánh sáng
+
+1375
+01:53:16,620 --> 01:53:27,120
+Dù cho tương lai có như thế nào
+
+1376
+01:53:27,360 --> 01:53:39,330
+Mặt Trời chắc chắn sẽ lên
 

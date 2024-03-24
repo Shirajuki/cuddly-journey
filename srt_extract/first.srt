@@ -19,7 +19,7 @@ Anh! Đây là đầu vậy?
 
 
 
-['Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa']
+['Anh! Đây là đâu vậy?', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa', 'Không biết nữa']
 4
 00:00:19,790 --> 00:00:20,830
 Không biết nữa
@@ -40,31 +40,31 @@ Eh? Cả anh cũng thể ư?
 
 
 
-['', '', '', '', '', '', 'Em cũng vậy à?']
+['', '', '', '', '', '', '']
 7
 00:00:24,170 --> 00:00:25,830
-Em cũng vậy à?
 
 
 
-['', '', 'Xin chào', 'Xin chào', 'Xin chào', 'Xin chào', 'Xin chào']
+
+['', '', '', 'Xin chào', 'Xin chào', 'Xin chào', 'Xin chào']
 8
 00:00:51,990 --> 00:00:53,240
 Xin chào
 
 
 
-['Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim']
+['', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim', 'Chào mừng quý khách đến với Quindecim']
 9
 00:00:54,610 --> 00:00:56,700
 Chào mừng quý khách đến với Quindecim
 
 
 
-['Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầý bar này']
+['Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này', 'Tôi là Decim, chủ quầy bar này']
 10
 00:02:18,860 --> 00:02:22,490
-Tôi là Decim, chủ quầý bar này
+Tôi là Decim, chủ quầy bar này
 
 
 
@@ -75,7 +75,7 @@ Chào anh
 
 
 
-['', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi']
+['', '', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi', 'Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi']
 12
 00:02:24,040 --> 00:02:26,620
 Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thôi
@@ -89,14 +89,14 @@ Giờ thì, nếu được, xin các vị trả lời tôi một câu hỏi thô
 
 
 
-['', '', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?']
+['', '', '', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?', 'xảy ra trước khi đến đây không?']
 14
 00:02:29,460 --> 00:02:32,290
 xảy ra trước khi đến đây không?
 
 
 
-['Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng']
+['', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng', 'Cũng không hẳn, nhưng']
 15
 00:02:33,500 --> 00:02:36,300
 Cũng không hẳn, nhưng
@@ -110,35 +110,35 @@ Hình như chúng tôi đang đi nghỉ tuần trăng mật
 
 
 
-['5 Hình như chúng tôi đangđingñifẩäWfängmật ˆ TM „', '" Hình như chúng tôi đang:đingñifZtngimật4 ——_—c', '5 Hình như chúng tôi đang:đingĩifZPtangimật z Kẻẳ =_==', 'n Hình như chúng tôi đang:đi,ngĩifZtangimậti 1TH ƯYN', '5 Hình như chúng tôi đangđi nghi ãngimật_„', ', cTP Hình như chúng tôi đang đi ngã WSTgimật„', ', 5 Hình như chúng tôi đang: đi ngÌÌ! gñifammangimậtÏ—YNỚG „']
+['5 Hình như chúng tôi đang:đingfifäTWängmật,', '5 Hình như chúng tôi đangđingñifẩäWfängmật ˆ TM „', '" Hình như chúng tôi đang:đingñifZtngimật4 ——_—c', '5 Hình như chúng tôi đang:đingĩifZPtangimật z Kẻẳ =_==', 'n Hình như chúng tôi đang:đi,ngĩifZtangimậti 1TH ƯYN', '5 Hình như chúng tôi đangđi nghi ãngimật_„', ', cTP Hình như chúng tôi đang đi ngã WSTgimật„']
 17
 00:02:37,880 --> 00:02:40,970
-, 5 Hình như chúng tôi đang: đi ngÌÌ! gñifammangimậtÏ—YNỚG „
+, cTP Hình như chúng tôi đang đi ngã WSTgimật„
 
 
 
-['Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi']
+['Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi', 'Đúng rồi, em cũng chỉ nhớ đến đó thôi']
 18
 00:02:41,650 --> 00:02:44,930
 Đúng rồi, em cũng chỉ nhớ đến đó thôi
 
 
 
-['V,Vâng, cám ơn hai bạn rất nhiều*', 'YVâng, cám ơn hai bạn rất nhiều', 'YVâng, cám ơn hai bạn rất nhiều', 'YVâng, cám ơn hai bạn rất nhiều', 'LVâng, cám ơn hai bạn rất nhiều', 'LVâng, cám ơn hai bạn rất nhiều', 'LVâng, cám ơn hai bạn rất nhiều']
+['V,Vâng, cám ơn hai bạn rất nhiều*', 'V,Vâng, cám ơn hai bạn rất nhiều*', 'YVâng, cám ơn hai bạn rất nhiều', 'YVâng, cám ơn hai bạn rất nhiều', 'YVâng, cám ơn hai bạn rất nhiều', 'LVâng, cám ơn hai bạn rất nhiều', 'LVâng, cám ơn hai bạn rất nhiều']
 19
 00:02:44,930 --> 00:02:46,310
 LVâng, cám ơn hai bạn rất nhiều
 
 
 
-["'ựVâng, cám ơn hai bạn rất nhiều", "'ựVâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", 'tựVâng, cám ơn hai bạn rất nhiều', 'tựVâng, cám ơn hai bạn rất nhiều']
+['"ựVâng, cám ơn hai bạn rất nhiều', "'ựVâng, cám ơn hai bạn rất nhiều", "'ựVâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", "'Vâng, cám ơn hai bạn rất nhiều", 'tựVâng, cám ơn hai bạn rất nhiều']
 20
 00:02:46,310 --> 00:02:47,930
 tựVâng, cám ơn hai bạn rất nhiều
 
 
 
-['Không có gì, nhưng cho hỏi đây là đâu va?', 'Không có gì, nhưng cho hỏi đây là đâu va?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đâyÏà đâu vậŸ?', 'Không có gì, nhưng cho hỏi đâyÏà đâu vậŸ?']
+['Không có gì, nhưng cho hỏi đây là đâu va?', 'Không có gì, nhưng cho hỏi đây là đâu va?', 'Không có gì, nhưng cho hỏi đây là đâu va?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đây;là đâu vậŸ?', 'Không có gì, nhưng cho hỏi đâyÏà đâu vậŸ?']
 21
 00:02:47,930 --> 00:02:50,940
 Không có gì, nhưng cho hỏi đâyÏà đâu vậŸ?
@@ -159,7 +159,7 @@ lắng nghe những điều tôi sắp nói
 
 
 
-['', '', '', '', '', 'hai bạn biết chúng ta đang ở đâu', 'hai bạn biết chúng ta đang ở đâu']
+['', '', '', '', '', '', 'hai bạn biết chúng ta đang ở đâu']
 24
 00:02:58,950 --> 00:03:00,110
 hai bạn biết chúng ta đang ở đâu
@@ -173,17 +173,17 @@ hai bạn biết chúng ta đang ở đâu
 
 
 
-['', '', '', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi']
+['', '', '', '', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi']
 26
 00:03:04,830 --> 00:03:05,950
 Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi
 
 
 
-['Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1trò chơi']
+['Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi', 'Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi']
 27
 00:03:05,950 --> 00:03:09,330
-Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1trò chơi
+Thứ hai: Ngay bây giờ, chúng ta sẽ phải chơi 1 trò chơi
 
 
 
@@ -194,7 +194,7 @@ Cái gì? Một trò chơi á?
 
 
 
-['', '', '', '', 'được quyết định bằng 1 con roulette', 'được quyết định bằng 1 con roulette', 'được quyết định bằng 1 con roulette']
+['', '', '', '', '', 'được quyết định bằng 1 con roulette', 'được quyết định bằng 1 con roulette']
 29
 00:03:12,170 --> 00:03:13,380
 được quyết định bằng 1 con roulette
@@ -208,14 +208,14 @@ Cái gì? Một trò chơi á?
 
 
 
-['', '', '', 'v Thứ tư:', 'v Thứ tư:', 'v Thứ tư:', 'v Thứ tư:']
+['', '', '', '', 'v Thứ tư:', 'v Thứ tư:', 'v Thứ tư:']
 31
 00:03:18,340 --> 00:03:19,340
 v Thứ tư:
 
 
 
-['2 ` ` `  `sống của mình vào trò chơi này ,', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này ,', 'sống của mình vào trò chơi này ,']
+['2 ` ` `  `sống của mình vào trò chơi này ,', '2 ` ` `  `sống của mình vào trò chơi này ,', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này', 'sống của mình vào trò chơi này ,']
 32
 00:03:20,090 --> 00:03:23,140
 sống của mình vào trò chơi này ,
@@ -257,10 +257,10 @@ Hả?
 
 
 
-['', '', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn Ta đi thôi!']
+['', '', '', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi', '` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi']
 38
 00:03:32,400 --> 00:03:34,900
-` 上4 ` A¡tMachiko, đừng nghe hăn Ta đi thôi!
+` 上4 ` A¡tMachiko, đừng nghe hăn, Ta đi thôi
 
 
 
@@ -271,7 +271,7 @@ Hả?
 
 
 
-['Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú']
+['', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú', 'Tổ hiệp thật, còn tế thế:mä đã bị lú']
 40
 00:03:36,230 --> 00:03:38,360
 Tổ hiệp thật, còn tế thế:mä đã bị lú
@@ -292,14 +292,14 @@ Bên này lại là toilet
 
 
 
-['', '', 'Khốn nạn', 'Khốn nạn', 'Khốn nạn', 'Khốn nạn', 'Khốn nạn']
+['', '', '', 'Khốn nạn', 'Khốn nạn', 'Khốn nạn', 'Khốn nạn']
 43
 00:03:46,700 --> 00:03:47,660
 Khốn nạn
 
 
 
-['', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?']
+['', '', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?', 'Lối raở đâu vậy?']
 44
 00:03:55,290 --> 00:03:56,880
 Lối raở đâu vậy?
@@ -313,28 +313,28 @@ cho đến khitrò chơi kết thúc đâu
 
 
 
-['Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—']
+['cho đến khitrb chơi kết thúc đâu', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—', 'Thế nếu tôi không muốn chơi thì sao?s—']
 46
 00:04:00,800 --> 00:04:03,050
 Thế nếu tôi không muốn chơi thì sao?s—
 
 
 
-['Việc đó tôi RHHTIISIKTOTGICnTd2US', 'Việc đó tôi RHHTIISIKTOTGITCnTd2US', 'Việc đó tôi RHHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnT2US', 'Việc đó tôi RSHTIISIKTOTGICnT2US']
+['Việc đó tôi RHHTIISIKTOTGICnTd2US', 'Việc đó tôi RHHTIISIKTOTGICnTd2US', 'Việc đó tôi RHHTIISIKTOTGITCnTd2US', 'Việc đó tôi RHHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US', 'Việc đó tôi RSHTIISIKTOTGICnTd2US']
 47
 00:04:04,150 --> 00:04:06,020
-Việc đó tôi RSHTIISIKTOTGICnT2US
+Việc đó tôi RSHTIISIKTOTGICnTd2US
 
 
 
-['', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?']
+['', '', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?', 'CCái gì vậy?']
 48
 00:04:10,430 --> 00:04:11,770
 CCái gì vậy?
 
 
 
-['Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là']
+['', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là', 'Anh, đó có phải là']
 49
 00:04:17,820 --> 00:04:19,730
 Anh, đó có phải là
@@ -369,14 +369,14 @@ mạng sống của mình vào và chơi trò chơi này đi thôi
 
 
 
-['', '', '', '', '', 'Hắn bị làm sao vậy?', 'Hắn bị làm sao vậy?']
+['', '', '', '', '', '', 'Hắn bị làm sao vậy?']
 54
 00:04:32,330 --> 00:04:35,290
 Hắn bị làm sao vậy?
 
 
 
-['Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,']
+['Hắn bị làm sao vậy?', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,', 'Sau khi tôi ấn nút này, con roulette sẽ quay,']
 55
 00:04:35,290 --> 00:04:39,090
 Sau khi tôi ấn nút này, con roulette sẽ quay,
@@ -390,7 +390,7 @@ và trò chơi sẽ được chọn hoàn toàn ngẫu nhiên
 
 
 
-['Anh à', 'Anh à', 'Anh à', 'Anh à', 'Anh à', 'Anh à', 'Anh à']
+['', 'Anh à', 'Anh à', 'Anh à', 'Anh à', 'Anh à', 'Anh à']
 57
 00:04:41,380 --> 00:04:42,880
 Anh à
@@ -404,21 +404,21 @@ Thôi thì cứ làm theo lời hắn đi đã
 
 
 
-['', '', '', '', 'Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ', 'Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ', 'Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ']
+['', '', '', '', '', 'Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ', 'Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ']
 59
 00:04:45,590 --> 00:04:49,430
 Ai mà biết được hán sẽ làm gì nếu chú ta:chống cự chứ
 
 
 
-['Phải đó  "', 'Phải đó  "', 'Phải đó  "', 'Phảiđó', 'Phảiđó', 'Phảiđó', 'Phải đó']
+['', 'Phải đó  "', 'Phải đó  "', 'Phải đó  "', 'Phảiđó', 'Phảiđó', 'Phảiđó']
 60
 00:04:49,430 --> 00:04:51,100
-Phải đó
+Phảiđó
 
 
 
-['Luật chơi của trò này hết sức đơn giản', 'Luật chơi của trò này hết sức đơn giản', 'Luật chơi của trò nà¡hết sức đơn giản', 'Luật chơi của tròÏnaÿ;hết sức đơn giản', 'Luật chơi của tròïnày hết sức đơn giản', 'Luật chơi của trò này hết sức đơn giản', 'Luật chơi của trò này hết sức đơn giản']
+['', 'Luật chơi của trò này hết sức đơn giản', 'Luật chơi của trò này hết sức đơn giản', 'Luật chơi của trò nà¡hết sức đơn giản', 'Luật chơi của tròÏnaÿ;hết sức đơn giản', 'Luật chơi của tròïnày hết sức đơn giản', 'Luật chơi của trò này hết sức đơn giản']
 61
 00:05:19,880 --> 00:05:21,920
 Luật chơi của trò này hết sức đơn giản
@@ -432,7 +432,7 @@ Hai người sẽ phải lần lượt phi tiêu vào mục tiêu đằng kia,
 
 
 
-['Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,']
+['', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,', 'Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,']
 63
 00:05:26,840 --> 00:05:30,470
 Hoặc là, nếu có ai đó hết phi tiêu trước khi hết điểm,
@@ -453,7 +453,7 @@ Mỗi người sẽ có 7 chiếc phi tiêu
 
 
 
-['Mỗi người sẽ có 7 chiếc phi tiêu', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia']
+['Mỗi người sẽ có 7 chiếc phi tiêu', 'Mỗi người sẽ có 7 chiếc phi tiêu', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia', 'Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia']
 66
 00:05:35,350 --> 00:05:38,190
 Khi nào sẵn sàng thì hãy đứng vào sau vạch đằng kia
@@ -467,17 +467,17 @@ Vòng gần ngoài kia là vùng gấp đôi,
 
 
 
-['Vòng gần ngoài kia là vùng gấp đôi,', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3']
+['Vòng gần ngoài kia là vùng gấp đôi,', 'Vòng gần ngoài kia là vùng gấp đôi,', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3', 'còn vòng kế tâm là gấp 3']
 68
 00:05:41,520 --> 00:05:44,110
 còn vòng kế tâm là gấp 3
 
 
 
-['', '', '', 'điểm KTinigiữE hồng tâm là 50', 'điểm tEninnNiữä hồng tâm là 50', 'điểm, cñTTiũa hồng tâm là 50', 'điểm, chí Giữa hồng tâm là 50']
+['', '', '', '', 'điểm KTinigiữE hồng tâm là 50', 'điểm tEninnNiữä hồng tâm là 50', 'điểm, cñTTiũa hồng tâm là 50']
 69
 00:05:44,110 --> 00:05:46,530
-điểm, chí Giữa hồng tâm là 50
+điểm, cñTTiũa hồng tâm là 50
 
 
 
@@ -488,17 +488,17 @@ còn vòng kế tâm là gấp 3
 
 
 
-['Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,']
+['', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,', 'Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,']
 71
 00:05:51,660 --> 00:05:54,950
 Mỗi mục tiêu đều thể hiện một bộ phận nào đó trên cơ thể,
 
 
 
-['và chúng được kết nối trực tiếp với Eỡ thể các bạnÝ `', 'và chúng đữợc kết nối trực tiếp với Èơ thể các bạn', 'và chúng được kết nối trực tiếp với Êơ thể các bạn_>', "và chúng 'được kết nối trực tiếp với ¿ơ thể các bạn_h", 'và chúng đượt kết nối trực tiếp với cơ thể các bạn„la', 'và chúng đượt kết nối trực tiếp với cơ thể các bạnP J', 'và chúng được kết nối trực tiếp với cơ thể các bạnxà th']
+['và chúng được kết nối trực tiếp với È thể các bạn', 'và chúng được kết nối trực tiếp với Eỡ thể các bạnÝ `', 'và chúng đữợc kết nối trực tiếp với Èơ thể các bạn', 'và chúng được kết nối trực tiếp với Êơ thể các bạn_>', "và chúng 'được kết nối trực tiếp với ¿ơ thể các bạn_h", 'và chúng đượt kết nối trực tiếp với cơ thể các bạn„la', 'và chúng đượt kết nối trực tiếp với cơ thể các bạnP J']
 72
 00:05:54,950 --> 00:05:58,420
-và chúng được kết nối trực tiếp với cơ thể các bạnxà th
+và chúng đượt kết nối trực tiếp với cơ thể các bạnP J
 
 
 
@@ -509,35 +509,35 @@ và chúng được kết nối trực tiếp với cơ thể các bạnxà th
 
 
 
-['>x_ `"', '>»>_ ` vừa nói gì vậy?', '>»>_ ` vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?', '_NE ỳÿ an:‹¡‹ v2 :']
+['3=', '>x_ `"', '>»>_ ` vừa nói gì vậy?', '>»>_ ` vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?', 'ng ẴÃŠGẼ Anh vừa nói gì vậy?']
 74
 00:06:01,250 --> 00:06:02,670
-_NE ỳÿ an:‹¡‹ v2 :
+ng ẴÃŠGẼ Anh vừa nói gì vậy?
 
 
 
-['mỗi khi phi tiêu đâm (TU GTiêu ww', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG GV G1iêU', 'mỗi khi phi tiêu đâm MIÌNG GV G1iêU', 'mỗi khi phi tiêu đâm MIÌNG GV G1iêU']
+['mỗi khi phi tiêu đâm (TU Tiêu ww', 'mỗi khi phi tiêu đâm (TU Tiêu ww', 'mỗi khi phi tiêu đâm (TU GTiêu ww', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG 0T cfiêu', 'mỗi khi phi tiêu đâm MIÌNG GV G1iêU', 'mỗi khi phi tiêu đâm MIÌNG GV G1iêU']
 75
 00:06:02,940 --> 00:06:06,420
 mỗi khi phi tiêu đâm MIÌNG GV G1iêU
 
 
 
-['', '', 'gcw', 'gcw', 'gvw', 'uy', 'uy']
+['', '', '', 'gcw', 'gcw', 'gvw', 'uy']
 76
 00:06:06,420 --> 00:06:07,680
 uy
 
 
 
-['4 ền Cộng cao, Bzinói0e8ông) kéo dài', '4 ền Cộng cao, Bzinói0e8ông) kéo dài', 'A ền Cộng cao, Bzinóins8 ng) kéo dài', 'A ền Cộng cao, Bzinóins8 ng) kéo dài', 'A ền Cộng cao, Bzinói0s8 ôn) kéo dài', 'A ền Cộng cao, Bzinói0e8 Gôn) kéo dài', 'A ền Cộng cao, Bzinóins8 n) kéo dài']
+['A  6n Cộng cao, Bzinói0e8ông) kéo dài', '4 ền Cộng cao, Bzinói0e8ông) kéo dài', '4 ền Cộng cao, Bzinói0e8ông) kéo dài', 'A ền Cộng cao, Bzinóins8 ng) kéo dài', 'A ền Cộng cao, Bzinóins8 ng) kéo dài', 'A ền Cộng cao, Bzinói0s8 ôn) kéo dài', 'A ền Cộng cao, Bzinói0e8 Gôn) kéo dài']
 77
 00:06:07,680 --> 00:06:11,800
-A ền Cộng cao, Bzinóins8 n) kéo dài
+A ền Cộng cao, Bzinói0e8 Gôn) kéo dài
 
 
 
-['" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', "' Nữ :十inNn", "' Nữ :十inNn"]
+['', '" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', '" 8g :十oNn', "' Nữ :十inNn"]
 78
 00:06:11,800 --> 00:06:13,680
 ' Nữ :十inNn
@@ -565,52 +565,52 @@ Làm sao có chuyện đó được
 
 
 
-['Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa']
+['Làm sao có chuyện đó được', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa', 'Cứ để im xem hắn còn bày trò gì nữa']
 82
 00:06:18,100 --> 00:06:21,060
 Cứ để im xem hắn còn bày trò gì nữa
 
 
 
-['', 'Nhưng', 'Nhưng', 'Nhưng', 'Nhưng', 'Nhưng', 'Nhưng']
+['', '', 'Nhưng', 'Nhưng', 'Nhưng', 'Nhưng', 'Nhưng']
 83
 00:06:21,060 --> 00:06:21,980
 Nhưng
 
 
 
-['Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,']
+['Nhưng', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,', 'Nếu hắn nói thật,']
 84
 00:06:21,980 --> 00:06:23,070
 Nếu hắn nói thật,
 
 
 
-['anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau']
+['', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau', 'anh sẽ nghĩ cách đối phó sau']
 85
 00:06:23,480 --> 00:06:24,860
 anh sẽ nghĩ cách đối phó sau
 
 
 
-['Anh', 'Anh', 'Anh', 'Anh', 'Anh', 'Anh', 'Anh']
+['', 'Anh', 'Anh', 'Anh', 'Anh', 'Anh', 'Anh']
 86
 00:06:25,900 --> 00:06:26,990
 Anh
 
 
 
-['Vậy, độ IKHGiTTZUUTTEI0TUOTCHỢIXIDTDHCDTOUOCIDSDỢU, Ÿ', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiITTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOU']
+['Vậy, độ IKHGiTTZUUTTEI0TUOTCHỢIXIDTDHCDTOUOCIDSDỢU, Ÿ', 'Vậy, độ IKHGiTTZUUTTEI0TUOTCHỢIXIDTDHCDTOUOCIDSDỢU, Ÿ', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE', 'Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE']
 87
 00:06:28,240 --> 00:06:29,530
-Vậy, đểEHGiITTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOU
+Vậy, đểEHGiTTSTUTTDIOTUOETDIDITDLIEDOUOCDSUdOUE
 
 
 
-['Vạy để Khỏi máffil2WoeTziriTniTeTuTgg2TfSu', 'Vậy, để KHGiTTSt thì giờ OTƠIPXITTDTEDTOTOEDSDỢ2U', 'Vậy, để KHGiTTSt thì giờ OCTƠIPITTDTEDTOTOCDSDỢ2U', 'Vậy, để khỏiTS tờ, trò CIốIXITIDHGpIdƯỢCDStdáu', 'Vậy, để khỏiTS tờ, trò CIốIXITIDHGpIdƯỢCDStdáu', 'Vậy, để khỏi mấttffiDtrOChơi XiTIDHGDTdƯỢCIDo† đầu', 'Vậy, để khỏi mất tffiDtrO Chơi XiTIDHGDTdƯỢCIDo† đầu']
+['Vạy để Khỏi máffiið2WoeTziriTifeTuTgg2TfSu', 'Vạy để Khỏi máffil2WoeTziriTniTeTuTgg2TfSu', 'Vậy, để KHGiTTSt thì giờ OTƠIPXITTDTEDTOTOEDSDỢ2U', 'Vậy, để KHGiTTSt thì giờ OCTƠIPITTDTEDTOTOCDSDỢ2U', 'Vậy, để khỏiTS tờ, trò CIốIXITIDHGpIdƯỢCDStdáu', 'Vậy, để khỏiTS tờ, trò CIốIXITIDHGpIdƯỢCDStdáu', 'Vậy, để khỏi mấttffiDtrOChơi XiTIDHGDTdƯỢCIDo† đầu']
 88
 00:06:29,530 --> 00:06:31,120
-Vậy, để khỏi mất tffiDtrO Chơi XiTIDHGDTdƯỢCIDo† đầu
+Vậy, để khỏi mấttffiDtrOChơi XiTIDHGDTdƯỢCIDo† đầu
 
 
 
@@ -621,14 +621,14 @@ Vậy, để khỏi mất tffiDtrO Chơi XiTIDHGDTdƯỢCIDo† đầu
 
 
 
-['tàm gi có chuyện hoang đu D22 t2 MÀ 6', 'tàm gi có chuyện hoang nh T2 t2 Ầ gP', 'tâm gi có chuyện hoang Uống T2 Vồ Ầ P', 'tàm gi có chuyện hoang nh D2 t2 Ầ P', 'tàm gi có chuyện hoang ng T2 t2 Ầ X', 'tàm gi có chuyện hoang ng T2 t2 Ầ X', 'tàm gi có chuyện hoang nu T2 t2 Ầ X']
+['tàm gi có chuyện hoang ch (22 t2 À §', 'tàm gi có chuyện hoang đu D22 t2 MÀ 6', 'tàm gi có chuyện hoang nh T2 t2 Ầ gP', 'tâm gi có chuyện hoang Uống T2 Vồ Ầ P', 'tàm gi có chuyện hoang nh D2 t2 Ầ P', 'tàm gi có chuyện hoang ng T2 t2 Ầ X', 'tàm gi có chuyện hoang ng T2 t2 Ầ X']
 90
 00:06:46,010 --> 00:06:47,970
-tàm gi có chuyện hoang nu T2 t2 Ầ X
+tàm gi có chuyện hoang ng T2 t2 Ầ X
 
 
 
-['Machiko!', 'Machiko!', 'Machiko!', 'Machiko!', 'Machiko!', 'Machikot', 'Machikot']
+['Machiko!', 'Machiko!', 'Machiko!', 'Machiko!', 'Machiko!', 'Machiko!', 'Machikot']
 91
 00:06:55,140 --> 00:06:55,890
 Machikot
@@ -649,24 +649,24 @@ Có lẽ là em tưởng tượng ra thôi
 
 
 
-['Chỉ nhốiIểttmôtcnut thôi mà', 'Chỉ nhốiIểttmôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', '"w‹hiTnöilTleTtmotchút thôi mà', '"w‹hiTnöilTleTtmotchút thôi mà']
+['Chỉ nhốiIểttmôtcnut thôi mà', 'Chỉ nhốiIểttmôtcnut thôi mà', 'Chỉ nhốiIểttmôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', 'Chỉ ñh6iilểTftmtôtcnut thôi mà', '"w‹hiTnöilTleTtmotchút thôi mà']
 94
 00:06:59,890 --> 00:07:02,310
 "w‹hiTnöilTleTtmotchút thôi mà
 
 
 
-['Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi']
+['Chỉ nhói lên một chút thôi mà', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi', 'Giờ lại:hếtlúôn rồi']
 95
 00:07:02,310 --> 00:07:03,610
 Giờ lại:hếtlúôn rồi
 
 
 
-['aámam==e=v_', 'x6 «suy mm đâu, thật đấy', 'san Ẽ gno dâu, that dãy', '', '—ÝG, 7 nhu đâu, thật đấy', '4 Ả vs â â 2cốt sao đâu, thật đấy', '_=  ˆ qq Không sao đâu, thật đấy']
+['đã', 'aámam==e=v_', 'x6 «suy mm đâu, thật đấy', 'san Ẽ gno dâu, that dãy', '', '—ÝG, 7 nhu đâu, thật đấy', '4 Ả vs â â 2cốt sao đâu, thật đấy']
 96
 00:07:04,320 --> 00:07:06,400
-_=  ˆ qq Không sao đâu, thật đấy
+4 Ả vs â â 2cốt sao đâu, thật đấy
 
 
 
@@ -677,7 +677,7 @@ _=  ˆ qq Không sao đâu, thật đấy
 
 
 
-["à xthgỦ binffinh lại '¡ ng", "à xthgỦ binffinh lại '¡ ng", '', '', '', '', '']
+['meE1 binnTtinh lại ÑẶ Ạ', "à xthgỦ binffinh lại '¡ ng", "à xthgỦ binffinh lại '¡ ng", '', '', '', '']
 98
 00:07:08,280 --> 00:07:09,900
 
@@ -712,17 +712,17 @@ Không nghỉ ngờ gi nữa rồi!
 
 
 
-['Không nghỉ ngờ gi nữa rồi!', 'Không nghỉ ngờ gi nữa rồi!', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?']
+['Không nghỉ ngờ gi nữa rồi!', 'Không nghỉ ngờ gi nữa rồi!', 'Không nghỉ ngờ gi nữa rồi!', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?', 'Nhưng làm thế nào mả ?']
 103
 00:07:30,300 --> 00:07:32,180
 Nhưng làm thế nào mả ?
 
 
 
-['', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaƑaušTbăn mình bảng cái gi đó?', 'HaƑaušTbăn mình bảng cái gi đó?', 'đóh bằng cái giðnminMaƑ185n bái']
+['ă', '', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaP1a hãm bốnThình bảng cái gi đó?', 'HaƑaušTbăn mình bảng cái gi đó?', 'HaƑaušTbăn mình bảng cái gi đó?']
 104
 00:07:34,970 --> 00:07:36,810
-đóh bằng cái giðnminMaƑ185n bái
+HaƑaušTbăn mình bảng cái gi đó?
 
 
 
@@ -733,28 +733,28 @@ Không, không phải
 
 
 
-['lệnh: ị', 'Hậnh (', 'Hậnh (', 'Nh,', 'Nh', 'iWf—', 'j —']
+['', 'lệnh: ị', 'Hậnh (', 'Hậnh (', 'Nh,', 'Nh', 'iWf—']
 106
 00:07:42,600 --> 00:07:43,400
-j —
+iWf—
 
 
 
-['3! JjT, 1Em ` yê4ó!', "vực 2'qky ho:", 'BI tuEm dyan đó! `ẮÝ', '', 'ÂN   `Em yên đói,', '—TRy  2]lên đc,Em ởĩ', '']
+['Kế:= „ên đó:', '3! JjT, 1Em ` yê4ó!', "vực 2'qky ho:", 'BI tuEm dyan đó! `ẮÝ', '', 'ÂN   `Em yên đói,', '—TRy  2]lên đc,Em ởĩ']
 107
 00:07:43,400 --> 00:07:44,520
+—TRy  2]lên đc,Em ởĩ
 
 
 
-
-['', '', 'Đừng có bày trò lừa đảo nữa! !', 'Đừng có bày trò lừa đảo nữa!', 'Đừng có bày trò lừa đảo nữa!', 'Đừng có bày trò lừa đảo nữa!', 'Đừng có bày trò lừa đảo nữa!']
+['', '', '', 'Đừng có bày trò lừa đảo nữa! !', 'Đừng có bày trò lừa đảo nữa!', 'Đừng có bày trò lừa đảo nữa!', 'Đừng có bày trò lừa đảo nữa!']
 108
 00:07:45,190 --> 00:07:46,770
 Đừng có bày trò lừa đảo nữa!
 
 
 
-['Đừng có bày trò lừa đảo nữá!', 'Đừng có bày trò lừa đảo nữá!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!']
+['Đừng có bày trò lừa đảo nữá!', 'Đừng có bày trò lừa đảo nữá!', 'Đừng có bày trò lừa đảo nữá!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!', 'Tôi là bác sĩ nên tôi biết!']
 109
 00:07:46,770 --> 00:07:48,150
 Tôi là bác sĩ nên tôi biết!
@@ -775,17 +775,17 @@ Thực sự thì các người đã làm gì hả?
 
 
 
-['Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả']
+['Thực sự thì các người đã làm gì hả?', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả', 'Chẳng có gì đặc biệt cả']
 112
 00:07:52,240 --> 00:07:53,610
 Chẳng có gì đặc biệt cả
 
 
 
-['Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!N', 'Vậy thì cơn đau này là sao?!N', 'Vậy thì cơn đau này là sao?!']
+['Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!', 'Vậy thì cơn đau này là sao?!N', 'Vậy thì cơn đau này là sao?!N']
 113
 00:07:53,610 --> 00:07:56,370
-Vậy thì cơn đau này là sao?!
+Vậy thì cơn đau này là sao?!N
 
 
 
@@ -803,7 +803,7 @@ em mạng sống của mình ra đặt cược
 
 
 
-['', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt']
+['', '', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt', 'nữa thì anh có thể cố tình phi trượt']
 116
 00:08:07,170 --> 00:08:11,220
 nữa thì anh có thể cố tình phi trượt
@@ -824,7 +824,7 @@ Sau khi phi hết tiêu thì trò chơi cũng kết thúc mà
 
 
 
-['', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?']
+['', '', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?']
 119
 00:08:18,220 --> 00:08:19,310
 Đúng rồi, còn có cách đó nữa cơ mà?
@@ -838,7 +838,7 @@ Sau khi phi hết tiêu thì trò chơi cũng kết thúc mà
 
 
 
-['Đúng rồi, còn có cách đó nữa cơ mà?', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc']
+['Đúng rồi, còn có cách đó nữa cơ mà?', 'Đúng rồi, còn có cách đó nữa cơ mà?', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc', 'Vậy thì cô Machiko sẽ là người thắng cuộc']
 121
 00:08:20,850 --> 00:08:24,310
 Vậy thì cô Machiko sẽ là người thắng cuộc
@@ -852,35 +852,35 @@ Minh sẽ thua ư?
 
 
 
-['', '', '', '', '', 'Anh, có chuyện¡gì vậy?', 'Anh, có chuyện:gì vậy?']
+['', '', '', '', '', '', 'Anh, có chuyện¡gì vậy?']
 123
 00:08:32,450 --> 00:08:34,910
-Anh, có chuyện:gì vậy?
+Anh, có chuyện¡gì vậy?
 
 
 
-['Takashi?  ww', 'Takashi?  wxv', 'Takashi?  wxv', 'Takashi?  wxv', 'Takashi? ð P  DỤ', 'Takashi? Øÿ P  QỤNNE', 'Takashi? ð P  DỤ']
+['Takashi?  ww', 'Takashi?  ww', 'Takashi?  wxv', 'Takashi?  wxv', 'Takashi?  wxv', 'Takashi? ð P  DỤ', 'Takashi? Øÿ P  QỤNNE']
 124
 00:08:35,610 --> 00:08:36,740
-Takashi? ð P  DỤ
+Takashi? Øÿ P  QỤNNE
 
 
 
-['¿?ÀJ,738  Hả? À 02 qw', '¿?ÀJ,738  Hả? À 02 qw', '? 5 À " šHả? À Z0 M', '? 5 À " šHả? À Z0 [|', '? 5 À " šHả? À Z0 [|', '>ïÀ`Ù ÂHÀ ANG SE', '>ïÀ`Ù ÂHÀ ANG SE']
+['¿?ÀJg78  Hả? À 02 qw', '¿?ÀJ,738  Hả? À 02 qw', '¿?ÀJ,738  Hả? À 02 qw', '? 5 À " šHả? À Z0 M', '? 5 À " šHả? À Z0 [|', '? 5 À " šHả? À Z0 [|', '>ïÀ`Ù ÂHÀ ANG SE']
 125
 00:08:37,450 --> 00:08:38,450
 >ïÀ`Ù ÂHÀ ANG SE
 
 
 
-['Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi']
+['', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi', 'Xem ra, chúng ta phải tiếp tục chơi rồi']
 126
 00:08:38,780 --> 00:08:41,160
 Xem ra, chúng ta phải tiếp tục chơi rồi
 
 
 
-['Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm']
+['Xem ra, chúng ta phải tiếp tục chơi rồi', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm', 'Nhưng anh ta đã cho anh biết một ý hay lắm']
 127
 00:08:41,160 --> 00:08:43,750
 Nhưng anh ta đã cho anh biết một ý hay lắm
@@ -894,28 +894,28 @@ Không cần thiết phải phi trúng hết đâu
 
 
 
-['Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà']
+['Không cần thiết phải phi trúng hết đâu', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà', 'Như vậy trò chơi sẽ kết thúc nhanh hơn mà']
 129
 00:08:45,670 --> 00:08:47,380
 Như vậy trò chơi sẽ kết thúc nhanh hơn mà
 
 
 
-['Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?']
+['', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', 'Làm vậy cũng được ư?']
 130
 00:08:48,170 --> 00:08:49,380
 Làm vậy cũng được ư?
 
 
 
-['Làm vậy cũng được ư?', '', '', '', '', '', '']
+['Làm vậy cũng được ư?', 'Làm vậy cũng được ư?', '', '', '', '', '']
 131
 00:08:49,380 --> 00:08:50,170
 
 
 
 
-['', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì']
+['', '', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì', 'Nhưng nếu thế thì, anh sẽ thua mất còn gì']
 132
 00:08:51,510 --> 00:08:54,970
 Nhưng nếu thế thì, anh sẽ thua mất còn gì
@@ -929,7 +929,7 @@ Em không cần lo về việc đó đâu, Machiko
 
 
 
-['', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng']
+['', '', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng', 'Phải rồi, thắng thua đâu có quan trọng']
 134
 00:09:00,720 --> 00:09:02,270
 Phải rồi, thắng thua đâu có quan trọng
@@ -943,10 +943,10 @@ Phải rồi, thắng thua đâu có quan trọng
 
 
 
-['Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR((((', 'Cuối cùngTnìTHWán có DCmephico ni  NRR((((']
+['Cuối cùng?! Vấn có DCmephieon', 'Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephieon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR?', 'Cuối cùngTnìTHWán có DCmephicon NRR((((']
 136
 00:09:06,310 --> 00:09:08,310
-Cuối cùngTnìTHWán có DCmephico ni  NRR((((
+Cuối cùngTnìTHWán có DCmephicon NRR((((
 
 
 
@@ -964,7 +964,7 @@ Sao vậy?
 
 
 
-['Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi']
+['', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi', 'Àừ, anh xin lỗi']
 139
 00:09:18,780 --> 00:09:19,950
 Àừ, anh xin lỗi
@@ -978,10 +978,10 @@ Sao vậy?
 
 
 
-['c6: W¿éẽ:', 'ˆ›` é十', '` W‹«<', 't `) — Vú', '2À í十:', 'x`G<', '']
+['qà 十««', 'c6: W¿éẽ:', 'ˆ›` é十', '` W‹«<', 't `) — Vú', '2À í十:', 'x`G<']
 141
 00:09:39,970 --> 00:09:41,220
-
+x`G<
 
 
 
@@ -1013,21 +1013,21 @@ Thật đấy
 
 
 
-['Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!']
+['', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!', 'Mắt tôi!']
 146
 00:10:02,580 --> 00:10:07,500
 Mắt tôi!
 
 
 
-['Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'V, Em xin lỗi!']
+['Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!', 'Em xin lỗi!']
 147
 00:10:08,620 --> 00:10:10,920
-V, Em xin lỗi!
+Em xin lỗi!
 
 
 
-['', '', 'Anh đau lắm không?!', 'Anh đau lắm không?!', 'Anh đau lắm không?!', 'Anh đau lắm không?!', 'Anh đau lắm không?!']
+['', '', '', 'Anh đau lắm không?!', 'Anh đau lắm không?!', 'Anh đau lắm không?!', 'Anh đau lắm không?!']
 148
 00:10:11,840 --> 00:10:13,090
 Anh đau lắm không?!
@@ -1055,21 +1055,21 @@ Em xin lỗi, em thực sự xin lễ¡
 
 
 
-['Anh, làm ơn tha lỗi cho em', 'Anh, làm ơn tha lỗi cho em', 'Anh, làm ơn tha lỗi cho em', 'y Anh, làm ơn tha lỗi cho em', '—ợạn" Anh, làm ơn tha lỗi cho em', 'KGưen à Anh, làm ơn tha lỗi cho em', 'Ạ ` N Anh, làm ơn tha lỗi cho em']
+['Anh, làm ơn tha lỗi cho em', 'Anh, làm ơn tha lỗi cho em', 'Anh, làm ơn tha lỗi cho em', 'Anh, làm ơn tha lỗi cho em', 'y Anh, làm ơn tha lỗi cho em', '—ợạn" Anh, làm ơn tha lỗi cho em', 'KGưen à Anh, làm ơn tha lỗi cho em']
 152
 00:10:30,310 --> 00:10:31,940
-Ạ ` N Anh, làm ơn tha lỗi cho em
+KGưen à Anh, làm ơn tha lỗi cho em
 
 
 
-['__ugg‹wgẹV', '__ugg‹wgẹV', '__ugg‹wgẹV', '__ugg‹wgẹV', 'aiïằ c6', '__Ng‹wgẹV', '__Ng‹wgẹV']
+['_—Ngc‹wgẹV', '__ugg‹wgẹV', '__ugg‹wgẹV', '__ugg‹wgẹV', '__ugg‹wgẹV', 'aiïằ c6', '__Ng‹wgẹV']
 153
 00:10:32,900 --> 00:10:34,440
 __Ng‹wgẹV
 
 
 
-['!', '!', '!', '!', 'Làm ơn, ít nhất thì ">', 'Làm ơn, ít nhất thì ">', 'Làm ơn, ít nhất thì ">']
+['!', '!', '!', '!', '!', 'Làm ơn, ít nhất thì ">', 'Làm ơn, ít nhất thì ">']
 154
 00:10:35,860 --> 00:10:37,950
 Làm ơn, ít nhất thì ">
@@ -1097,7 +1097,7 @@ Cái gì? Thật ư?
 
 
 
-['q', '', 'Vâng', 'Vâng', 'Vâng', 'Vâng', 'Vâng']
+['q', 'q', '', 'Vâng', 'Vâng', 'Vâng', 'Vâng']
 158
 00:10:48,000 --> 00:10:48,960
 Vâng
@@ -1111,28 +1111,28 @@ Vâng
 
 
 
-['_SENNHNYfLgc một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ HH VYfU¿c một thời gian rồi đúng không?', '_ ⁄AYPENEVYU¿c một thời gian rồi đúng không?']
+['', '_SENNHNYfLgc một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ ⁄AYHPHNKEVYfU¿c một thời gian rồi đúng không?', '_ HH VYfU¿c một thời gian rồi đúng không?']
 160
 00:10:57,210 --> 00:10:58,800
-_ ⁄AYPENEVYU¿c một thời gian rồi đúng không?
+_ HH VYfU¿c một thời gian rồi đúng không?
 
 
 
-['_ ⁄AYPNNEYVYU¿c một thời gian rồi đúng không?', 'Vâng', 'Vâng', 'Vâng', 'Vâng', 'Vâng', 'Vâng']
+['_ ⁄AYPNNEYVYU¿c một thời gian rồi đúng không?', '_ ⁄AYPNNEYVYU¿c một thời gian rồi đúng không?', 'Vâng', 'Vâng', 'Vâng', 'Vâng', 'Vâng']
 161
 00:10:58,800 --> 00:10:59,590
 Vâng
 
 
 
-['', '', '', '', '', 'Mấy tháng rồi?', 'Mấy tháng rồi?']
+['', '', '', '', '', '', 'Mấy tháng rồi?']
 162
 00:10:59,590 --> 00:11:01,510
 Mấy tháng rồi?
 
 
 
-['Mấy tháng rồi?', 'Mấy tháng rồi?', '10 tuần rồi', '10 tuần rồi', '10 tuần rồi', '10 tuần rồi', '10 tuần rồi']
+['Mấy tháng rồi?', 'Mấy tháng rồi?', 'Mấy tháng rồi?', '10 tuần rồi', '10 tuần rồi', '10 tuần rồi', '10 tuần rồi']
 163
 00:11:01,510 --> 00:11:03,100
 10 tuần rồi
@@ -1153,10 +1153,10 @@ Em đã định sẽ tạo bất ngờ cho anh trong kì nghỉ này
 
 
 
-['', '', '', '', '', '', 'Và, em cũng chưa cho ai biết cả']
+['', '', '', '', '', '', '']
 166
 00:11:08,600 --> 00:11:11,400
-Và, em cũng chưa cho ai biết cả
+
 
 
 
@@ -1167,49 +1167,49 @@ Em muốn anh là người đâu tiên được biết tin này
 
 
 
-['Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi']
+['', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi', 'Anh hiểu rồi']
 168
 00:11:16,190 --> 00:11:17,360
 Anh hiểu rồi
 
 
 
-['Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', '7  am ơn em, Machiko']
+['', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko', 'Cám ơn em, Machiko']
 169
 00:11:18,820 --> 00:11:20,610
-7  am ơn em, Machiko
+Cám ơn em, Machiko
 
 
 
-['MụgZruưựy Cám ơñ em, Machiko', 'MụgZruựy Cám ơñ em, Machiko', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ']
+['x ăx Cám di em, Machiko', 'MụgZruưựy Cám ơñ em, Machiko', 'MụgZruựy Cám ơñ em, Machiko', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ', '__ C ác ra em nên chơ anh biết sớm hơn chứ']
 170
 00:11:20,610 --> 00:11:22,660
 __ C ác ra em nên chơ anh biết sớm hơn chứ
 
 
 
-['JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng']
+['"MwWWƯZ: ra em nên cho anh biết sớm hơn chứ', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng', 'JÃãR7BS<z?Z Vàng']
 171
 00:11:22,660 --> 00:11:23,370
 JÃãR7BS<z?Z Vàng
 
 
 
-['', '', '', 'B Erfbn lỗi', 'B Erfbn lỗi', 'B Erfbn lỗi', 'B Erfbn lỗi']
+['', '', '', '', 'B Erfbn lỗi', 'B Erfbn lỗi', 'B Erfbn lỗi']
 172
 00:11:23,660 --> 00:11:24,910
 B Erfbn lỗi
 
 
 
-['Vậy 1à cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao']
+['', 'Vậy 1à cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao', 'Vậy tà cuố? cùng mình cũng được làm cha sao']
 173
 00:11:27,950 --> 00:11:31,370
 Vậy tà cuố? cùng mình cũng được làm cha sao
 
 
 
-['Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn']
+['', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn', 'Tàn nhẫn']
 174
 00:11:59,690 --> 00:12:00,780
 Tàn nhẫn
@@ -1223,7 +1223,7 @@ Không phải cố tình đâu
 
 
 
-['` ˆ —  z  ` 2 Z9  r ` 1Còn không nữa! Nếu có chuyện gì xảy ra với đúajbé¡thì sao ?:', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!', 'Còn không nữa! Nếu có chuyện gì xảy ra với đữa bé thì sao?!', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!1e', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!']
+['` 2 Z1 Niếi „  Ì: 2 ANH, T十Y: TT 1g?!Còn không nữa! Nếu có chuyện gì xảŸ ra vớiHUTbeTttiisso', '` ˆ —  z  ` 2 Z9  r ` 1Còn không nữa! Nếu có chuyện gì xảy ra với đúajbé¡thì sao ?:', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!', 'Còn không nữa! Nếu có chuyện gì xảy ra với đữa bé thì sao?!', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!1e', 'Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!']
 176
 00:12:02,150 --> 00:12:05,410
 Còn không nữa! Nếu có chuyện gì xảy ra với đứa bé thì sao?!
@@ -1244,24 +1244,24 @@ chuyện quan trọng đến vậy đấy
 
 
 
-['USICHUVCTIQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?']
+['USICHUVCTIQÌ ?', 'USICHUVCTIQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?', 'USICHUVCTQÌ ?']
 179
 00:12:12,790 --> 00:12:15,130
 USICHUVCTQÌ ?
 
 
 
-['GD GD 000010070 I lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?']
+['GD GD 000010070 I lỗi mình xem?', 'GD GD 000010070 I lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?', 'GD 00n010U7DI lỗi mình xem?']
 180
 00:12:15,130 --> 00:12:17,500
 GD 00n010U7DI lỗi mình xem?
 
 
 
-['_ 8uổi lễ hoành tráng thật đấy?', '__ Buổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', 'Suối lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?']
+['_, Buổi lễ hoành tráng thật đấy?', '_ 8uổi lễ hoành tráng thật đấy?', '__ Buổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', '8uổi lễ hoành tráng thật đấy?', 'Suối lễ hoành tráng thật đấy?']
 181
 00:12:18,130 --> 00:12:19,800
-8uổi lễ hoành tráng thật đấy?
+Suối lễ hoành tráng thật đấy?
 
 
 
@@ -1279,21 +1279,21 @@ Phải rồi
 
 
 
-['Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?']
+['Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'Matchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?']
 184
 00:12:25,510 --> 00:12:28,510
 tMatchy? tà Machiko u?
 
 
 
-['tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko ưu?', 'tMatchy? tà Machiko ưu?', 'tMatchy? tà Machiko ưu?']
+['tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko u?', 'tMatchy? tà Machiko ưu?', 'tMatchy? tà Machiko ưu?']
 185
 00:12:26,890 --> 00:12:28,510
 tMatchy? tà Machiko ưu?
 
 
 
-['nhỏ ấy diễn mấy bài đó thành thục quá röiG gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục CU21771⁄0 gì nữa?', 'nhỏ ấy diễn mấy bài đó thành thục CU21771⁄0 gì nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?']
+['nhỏ ấy diễn mấy bài đó thành thục quá rồi )gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá röiG gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục CU21771⁄0 gì nữa?', 'nhỏ ấy diễn mấy bài đó thành thục CU21771⁄0 gì nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?', 'nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?']
 186
 00:12:28,510 --> 00:12:31,100
 nhỏ ấy diễn mấy bài đó thành thục quá rồi còn gi nữa?
@@ -1321,10 +1321,10 @@ Tôi đã nghe rõ từng lời họ nói với nhau rồi
 
 
 
-['Đám bạn của cô đúng là hết cñy€TTđeIBtôT rồi nhỉ?', 'Đám bạn của cô đúng là hết cy€TTđIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cy€TTđeIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñy€TTđIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñY€TTđelBtôOT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñY€TTđelBtôOT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñÿệTGelBuUô6nrồi nhỉ?']
+['Đám bạn của cô đúng là hết cy€TTđeIBtôOT tôi nhỉ?', 'Đám bạn của cô đúng là hết cñy€TTđeIBtôT rồi nhỉ?', 'Đám bạn của cô đúng là hết cy€TTđIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cy€TTđeIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñy€TTđIBtôT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñY€TTđelBtôOT ôi nhỉ?', 'Đám bạn của cô đúng là hết cñY€TTđelBtôOT ôi nhỉ?']
 190
 00:12:46,780 --> 00:12:49,030
-Đám bạn của cô đúng là hết cñÿệTGelBuUô6nrồi nhỉ?
+Đám bạn của cô đúng là hết cñY€TTđelBtôOT ôi nhỉ?
 
 
 
@@ -1349,7 +1349,7 @@ Em chẳng biết gì về chưyện đó cả!
 
 
 
-['Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại']
+['Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy NINH tồi) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại', 'Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại']
 194
 00:12:59,000 --> 00:13:04,130
 Vậy RHNg LöI002) KHông đủ dũng khí để dừng đám cưới lại
@@ -1370,7 +1370,7 @@ Anh nhầm rồi, không phải đâu!
 
 
 
-['Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!']
+['Anh nhầm rồi, không phải đâu!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!', 'Vậy mà tôi đã dành hết tất cả clfo cô đấy!']
 197
 00:13:08,970 --> 00:13:11,560
 Vậy mà tôi đã dành hết tất cả clfo cô đấy!
@@ -1384,10 +1384,10 @@ Em cũng vậy mài! Anh hiểu lầm hết rồi!
 
 
 
-['Đừng có già mồm nữa: amaw— gẹ —', 'Đừng có già mồm nữa: mm g', 'Đừng có già mồm nữa am m', 'Đừng có già mồm nữa aw m', 'Đừng có già mồm nữ xxx A', 'Đừng có già mồm nữa, xxx œ', 'Đừng có già mồm nữa w§ư đ']
+['Đừng có già mồm nữa! đẾẾ Ứ   Á W', 'Đừng có già mồm nữa: amaw— gẹ —', 'Đừng có già mồm nữa: mm g', 'Đừng có già mồm nữa am m', 'Đừng có già mồm nữa aw m', 'Đừng có già mồm nữ xxx A', 'Đừng có già mồm nữa, xxx œ']
 199
 00:13:13,810 --> 00:13:15,140
-Đừng có già mồm nữa w§ư đ
+Đừng có già mồm nữa, xxx œ
 
 
 
@@ -1398,7 +1398,7 @@ Thật mà, em thề đấy!
 
 
 
-['Giờ thì hết rồi_=', 'Giờ thì hết rồi1=', 'Giờ thì hết rồi', 'Giờ thì hết rồi', 'Giờ thì hết rồi', 'Giờ thì hết rồi', 'Giờ thì hết rồi']
+['Giờ thì hết rồi_=', 'Giờ thì hết rồi_=', 'Giờ thì hết rồi1=', 'Giờ thì hết rồi', 'Giờ thì hết rồi', 'Giờ thì hết rồi', 'Giờ thì hết rồi']
 201
 00:13:20,650 --> 00:13:22,570
 Giờ thì hết rồi
@@ -1419,59 +1419,59 @@ Vâng?
 
 
 
-['Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?']
+['', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?', 'Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?']
 204
 00:13:28,030 --> 00:13:31,040
 Vẫn còn điều gì đó anh chưa cho chúng tôi biết đúng không?
 
 
 
-['Á', 'Á', 'Á', 'Á', 'Đó đâu phải tiêu của anh', 'Đó đâu phải tiêu của anh', 'Đó đâu phải tiêu của anh']
+['Á', 'Á', 'Á', 'Á', 'Á', 'Đó đâu phải tiêu của anh', 'Đó đâu phải tiêu của anh']
 205
 00:13:31,040 --> 00:13:33,290
 Đó đâu phải tiêu của anh
 
 
 
-['—_w Phi <S', '—_w Phi <S', '_—_w Phi <S', '_—w Phi <S', '_—w Phi <S', '_—w Phi <S', '_—w Phi <S']
+['—_w Phi <S', '—_w Phi <S', '—_w Phi <S', '_—_w Phi <S', '_—w Phi <S', '_—w Phi <S', '_—w Phi <S']
 206
 00:13:33,290 --> 00:13:34,960
 _—w Phi <S
 
 
 
-['cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì về TRỤc tiêu cả', 'cũng chẳng nói gì về TRỤc tiêu cả']
+['cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì vềTRỤc tiêu cả', 'cũng chẳng nói gì về TRỤc tiêu cả']
 207
 00:13:34,960 --> 00:13:38,670
 cũng chẳng nói gì về TRỤc tiêu cả
 
 
 
-['ẳ`ewfPhải không?§', '__wfPhải không?§', '_—_wfPhải không?§', '_—_wfPhải không?§', '_—_wfPhải không?§', '__wfPhải không?§', '__wfPhải không?§']
+['ẳ`ewfPhải không?§', 'ẳ`ewfPhải không?§', '__wfPhải không?§', '_—_wfPhải không?§', '_—_wfPhải không?§', '_—_wfPhải không?§', '__wfPhải không?§']
 208
 00:13:38,670 --> 00:13:39,540
 __wfPhải không?§
 
 
 
-['Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói lä: đế trúng mục ti TT', 'Chính xác, tôÏ Chỉ nói lä: đế trúng mục ti TT', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục ti PT', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết']
+['Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói lä: đế trúng mục ti TT', 'Chính xác, tôÏ Chỉ nói lä: đế trúng mục ti TT', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục ti PT', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết', 'Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết']
 209
 00:13:39,540 --> 00:13:41,170
 Chính xác, tôÏ Chỉ nói là: đế trúng mục tiết
 
 
 
-['Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏ Chỉ nói là:iểT trúng mục tiêm']
+['Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến', 'Chính xác, tốÏhỉ nói là:fETi trúng mục tiến']
 210
 00:13:41,170 --> 00:13:44,210
-Chính xác, tốÏ Chỉ nói là:iểT trúng mục tiêm
+Chính xác, tốÏhỉ nói là:fETi trúng mục tiến
 
 
 
-['chúñ6fồïTtTÙIKHUTTHgU rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', '— cú S1 nắn, rồi', '— 8:61 nu rồi']
+['chúñ6fồïTtTÙIKHUTTHgU rồi', 'chúñ6fồïTtTÙIKHUTTHgU rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', 'ÝÏ_ố SN 6cauS6innnninns rồi', '— cú S1 nắn, rồi']
 211
 00:13:45,260 --> 00:13:48,760
-— 8:61 nu rồi
+— cú S1 nắn, rồi
 
 
 
@@ -1496,17 +1496,17 @@ Mục tiêu nào bị ném trúng thì đó sẽ là người thắng cuộc
 
 
 
-['huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'Chuyện gì sẽ xảy ra với người thua cuộc?', 'Chuyện gì sẽ xảy ra với người thua cuộc?', 'Chuyện gì sẽ xảy ra với người thua cuộc?']
+['huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'huyện gì sẽ xảy ra với người thua cuộc?', 'Chuyện gì sẽ xảy ra với người thua cuộc?', 'Chuyện gì sẽ xảy ra với người thua cuộc?']
 215
 00:13:55,930 --> 00:13:58,560
 Chuyện gì sẽ xảy ra với người thua cuộc?
 
 
 
-['', '', '', 'Thành thật xin lõifôi không thếfữả lời cau hỏi được', 'Thành thật xin lõifồi không thểfữả lời cau hỏi được', 'Thành thật xin lõifồi không thểfữả lời cau hỏi được', 'Thành thật xin lõifồi không thếfữả lời cau hỏi được']
+['', '', '', '', 'Thành thật xin lõifôi không thếfữả lời cau hỏi được', 'Thành thật xin lõifồi không thểfữả lời cau hỏi được', 'Thành thật xin lõifồi không thểfữả lời cau hỏi được']
 216
 00:13:58,560 --> 00:14:02,070
-Thành thật xin lõifồi không thếfữả lời cau hỏi được
+Thành thật xin lõifồi không thểfữả lời cau hỏi được
 
 
 
@@ -1524,10 +1524,10 @@ Cô nghe rồi đó
 
 
 
-['NGR(GG7r17', 'NWWWGGICGILHIT', 'WWWGCGIGGUULHHLET', 'WWWGGGELGULIE', '', '十9 NEEVEEGEEWGITmNE:', '']
+['NGE(GG7tr1G7', 'NGR(GG7r17', 'NWWWGGICGILHIT', 'WWWGCGIGGUULHHLET', 'WWWGGGELGULIE', '', '十9 NEEVEEGEEWGITmNE:']
 219
 00:14:10,320 --> 00:14:11,580
-
+十9 NEEVEEGEEWGITmNE:
 
 
 
@@ -1566,28 +1566,28 @@ Hồi cao trung, cậu ấy rất ghét cái tên c8 iình
 
 
 
-['Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vilio nghe nam tính quá', 'Vilio nghe nam tính quá', 'Vilio nghe nam tính quá']
+['Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vinoinghe nam tính quá', 'Vilio nghe nam tính quá', 'Vilio nghe nam tính quá']
 225
 00:14:31,890 --> 00:14:33,850
 Vilio nghe nam tính quá
 
 
 
-['TThế thì làm 4A', 'TThế thì làm 4A', 'TThế thì lai', 'TThế thì lai', 'TThế thì lINN', 'TThế thì lINNN', 'TThế thì lINNN']
+['TThế thì làm Đ  A', 'TThế thì làm 4A', 'TThế thì làm 4A', 'TThế thì lai', 'TThế thì lai', 'TThế thì lINN', 'TThế thì lINNN']
 226
 00:14:35,060 --> 00:14:36,600
 TThế thì lINNN
 
 
 
-['Đó là lí do bötểm đều gọi cô ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"']
+['Đó là lí do bötểm đều gọi cô ấy là "Matchy"', 'Đó là lí do bötểm đều gọi cô ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"', 'Đó là lí do bổEm đều gọi cõ ấy là "Matchy"']
 227
 00:14:37,430 --> 00:14:39,600
 Đó là lí do bổEm đều gọi cõ ấy là "Matchy"
 
 
 
-['cig `"', 'CgmmwẺ nHgp', '(CámwV nguy', '€Cámyawv ngự', 'tijp"— NRg', 'tijp"— NRg', 'tijp"— NRg']
+['cig `"NHHỤP', 'cig `"', 'CgmmwẺ nHgp', '(CámwV nguy', '€Cámyawv ngự', 'tijp"— NRg', 'tijp"— NRg']
 228
 00:14:40,850 --> 00:14:42,110
 tijp"— NRg
@@ -1601,10 +1601,10 @@ Cách đây vài năm cậu ấy đã kết hôn với 1 bác sĩ,
 
 
 
-['muốn chiảtay với bạn trai cũ', 'muốn chiả†ay với bạn trai cũ', 'muốn chiảtay với bạn trai cũ', 'muốn chiảtay với bạn trai cũ', 'muốn chiätay với bạn trai cũ', 'muốn chiätay với bạn trai cũ', 'muốn chia tay với bạn trai cũ']
+['muốn chiä†ay với bạn trai cũ', 'muốn chiảtay với bạn trai cũ', 'muốn chiả†ay với bạn trai cũ', 'muốn chiảtay với bạn trai cũ', 'muốn chiảtay với bạn trai cũ', 'muốn chiätay với bạn trai cũ', 'muốn chiätay với bạn trai cũ']
 230
 00:14:45,940 --> 00:14:48,780
-muốn chia tay với bạn trai cũ
+muốn chiätay với bạn trai cũ
 
 
 
@@ -1622,21 +1622,21 @@ Anh nghĩ em lại đi đặt chuyện sao?
 
 
 
-['', '', '', 'Matchy đã đánh đầu (3 thắng đó nhứ', 'Matchy đã đánh đầu (3 thắng đó nhứ', 'Matchy đã đánh đầu (3 thắng đó nhứ', 'Matchy đã đánh đầu (3 thắng đó nhứ']
+['', '', '', '', 'Matchy đã đánh đầu (3 thắng đó nhứ', 'Matchy đã đánh đầu (3 thắng đó nhứ', 'Matchy đã đánh đầu (3 thắng đó nhứ']
 233
 00:14:55,450 --> 00:14:59,370
 Matchy đã đánh đầu (3 thắng đó nhứ
 
 
 
-['', '', '', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,']
+['', '', '', '', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,', 'Nghe nói hôn thê của nhỏ lầm bác sí đó,']
 234
 00:14:59,370 --> 00:15:01,920
 Nghe nói hôn thê của nhỏ lầm bác sí đó,
 
 
 
-['', '', '', 'KKhông thể nào Vậy là', 'KKhông thể nào Vậy là', 'KKhông thể nào Vậy là', 'KKhông thể nào Vậy là']
+['', '', '', '', 'KKhông thể nào Vậy là', 'KKhông thể nào Vậy là', 'KKhông thể nào Vậy là']
 235
 00:15:02,250 --> 00:15:04,250
 KKhông thể nào Vậy là
@@ -1657,17 +1657,17 @@ KKhông thể nào Vậy là
 
 
 
-['Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết']
+['Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa dối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết', 'Em chưa từng lừa đối anh bất kì điều gì hết']
 238
 00:15:08,420 --> 00:15:11,010
 Em chưa từng lừa đối anh bất kì điều gì hết
 
 
 
-['Machiko! Nghe anlfnói đã!', 'Machiko! Nghe anlnói đã! `', 'Machiko! Nghe arffì nói đất', 'Machiko! Nghe añh nói đất', 'Machiko! Nghe đh nói đã!', 'Machiko! Nghe đñh nói đất', 'Machiko! Nghe afh nói đã!']
+['Machiko! Nghe anffnói đã!', 'Machiko! Nghe anlfnói đã!', 'Machiko! Nghe anlnói đã! `', 'Machiko! Nghe arffì nói đất', 'Machiko! Nghe añh nói đất', 'Machiko! Nghe đh nói đã!', 'Machiko! Nghe đñh nói đất']
 239
 00:15:12,010 --> 00:15:14,300
-Machiko! Nghe afh nói đã!
+Machiko! Nghe đñh nói đất
 
 
 
@@ -1685,14 +1685,14 @@ Thôi đủ rồi!
 
 
 
-['Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xeml', 'Tôi sẽ cho anh xeml', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xeml']
+['Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xem!', 'Tôi sẽ cho anh xeml', 'Tôi sẽ cho anh xeml', 'Tôi sẽ cho anh xem!']
 242
 00:15:20,440 --> 00:15:21,940
-Tôi sẽ cho anh xeml
+Tôi sẽ cho anh xem!
 
 
 
-['', '', '', '', '', '', '']
+['„ê_9‹:', '', '', '', '', '', '']
 243
 00:15:21,940 --> 00:15:22,770
 
@@ -1734,35 +1734,35 @@ Xin hai người hãy trở ra theo lối này
 
 
 
-['Khoan đã! im', 'Khoan đã! mm', 'Khoan đã!  ]', 'Khoan đã!  ]', 'Khoan đã! mm', 'Khoan đã! ma', 'Khoan đã! ma']
+['Khoan đã! lÀ, |', 'Khoan đã! im', 'Khoan đã! mm', 'Khoan đã!  ]', 'Khoan đã!  ]', 'Khoan đã! mm', 'Khoan đã! ma']
 249
 00:16:23,210 --> 00:16:24,080
 Khoan đã! ma
 
 
 
-['Làm! Cho tôi một cơ hội nữa thôi!', 'Làm 8h! Cho tôi một cơ hội nữa thôi!', 'Làm ổn! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Lành! Cho tôi một cơ hội nữa thôi!']
+['Làm?! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Làm 8h! Cho tôi một cơ hội nữa thôi!', 'Làm ổn! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!', 'Làm! Cho tôi một cơ hội nữa thôi!']
 250
 00:16:24,500 --> 00:16:27,290
-Lành! Cho tôi một cơ hội nữa thôi!
+Làm! Cho tôi một cơ hội nữa thôi!
 
 
 
-['', 'Đủ rồi!mvưitlt y', '', '', '', 'Đủ rồi!tang ĐỂ,', '十Đủ rồi!mm: BẾẾ ¡']
+['', '', 'Đủ rồi!mvưitlt y', '', '', '', 'Đủ rồi!tang ĐỂ,']
 251
 00:16:27,290 --> 00:16:28,300
-十Đủ rồi!mm: BẾẾ ¡
+Đủ rồi!tang ĐỂ,
 
 
 
-["Cái'gì?TH ấ", "Cái'gì?HN", "Cái'gì?ri ấ", "Cái'gì?ri _ấ", "Cái'gì?ri _ấ", "Cái'gì?ri _ấ", "Cái'gì?TL _ấ"]
+['ụ r ì2 ==ng!:', "Cái'gì?TH ấ", "Cái'gì?HN", "Cái'gì?ri ấ", "Cái'gì?ri _ấ", "Cái'gì?ri _ấ", "Cái'gì?ri _ấ"]
 252
 00:16:28,300 --> 00:16:29,050
-Cái'gì?TL _ấ
+Cái'gì?ri _ấ
 
 
 
-['', 'Chuyện này', 'Chuyện này', 'Chuyện này', 'Chuyện này', 'Chuyện này', 'Chuyện này']
+['', '', 'Chuyện này', 'Chuyện này', 'Chuyện này', 'Chuyện này', 'Chuyện này']
 253
 00:16:29,500 --> 00:16:30,460
 Chuyện này
@@ -1811,17 +1811,17 @@ Phải, hai người Vốn đều đã chết rồi
 
 
 
-['Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi']
+['Phải, hai ñgữờïVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi', 'Phải, hai ngữờiVốn đều đã chết rồi']
 260
 00:16:44,060 --> 00:16:46,650
 Phải, hai ngữờiVốn đều đã chết rồi
 
 
 
-['lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡñ8 höặc xuống địa ngục']
+['lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục', 'lên thiên đữỡn8 höặc xuống địa ngục']
 261
 00:16:46,650 --> 00:16:47,980
-lên thiên đữỡñ8 höặc xuống địa ngục
+lên thiên đữỡn8 höặc xuống địa ngục
 
 
 
@@ -1832,56 +1832,56 @@ lên thiên đường hoặc xuống địa ngục
 
 
 
-['', '', '', 'Và Quindecim tồn tại để phán xét điều đó', 'Và Quindecim tồn tại để phán xét điều đó', 'Và Quindecim tồn tại để phán xét điều đó', 'Và Quindecim tồn tại để phán xét điều đó']
+['', '', '', '', 'Và Quindecim tồn tại để phán xét điều đó', 'Và Quindecim tồn tại để phán xét điều đó', 'Và Quindecim tồn tại để phán xét điều đó']
 263
 00:16:51,320 --> 00:16:55,570
 Và Quindecim tồn tại để phán xét điều đó
 
 
 
-['Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó']
+['Cũng có một luật bất thành văn là, chỉ có hai người nào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó', 'Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó']
 264
 00:16:55,950 --> 00:17:01,450
 Cũng có một luật bất thành văn là, chỉ có hai ngườinào đó
 
 
 
-['<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<,gYtiEcTnailbBam biết sớm hơn']
+['<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn', '<YtiEcTnailbBam biết sớm hơn']
 265
 00:17:02,750 --> 00:17:05,790
-<,gYtiEcTnailbBam biết sớm hơn
+<YtiEcTnailbBam biết sớm hơn
 
 
 
-['Sao em khôtf5', 'Sao em khổig3 J7  w', 'Sao em khổiDi2 ly, À Àà, c', '`»s»oen4iN524A2—NGMRRVS', 'ssoen4iZN5194PAGNRBVS', "xwepvv ›r'§30 em không 2 JờiTa", '_ x上2217173 ÿs»oen4i221007ã—GMNRRBYVSE']
+['', 'Sao em khôtf5', 'Sao em khổig3 J7  w', 'Sao em khổiDi2 ly, À Àà, c', '`»s»oen4iN524A2—NGMRRVS', 'ssoen4iZN5194PAGNRBVS', "xwepvv ›r'§30 em không 2 JờiTa"]
 266
 00:17:19,890 --> 00:17:21,100
-_ x上2217173 ÿs»oen4i221007ã—GMNRRBYVSE
+xwepvv ›r'§30 em không 2 JờiTa
 
 
 
-['Hả?Em khôn UðnuT5 I00112 4À, vì x', '', '', '', '⁄ả?Em kôZ2227225 NHH`€ŒWNNậặ', 'Mả?tm khôSthu20075 IQ1712Šy Yawa', 'Hả? Em khối, CUOI) lộ IOITHQ ĐỀ á']
+['Hả?Em khôriDfUO0fT2 (Z7 3 va', 'Hả?Em khôn UðnuT5 I00112 4À, vì x', '', '', '', '⁄ả?Em kôZ2227225 NHH`€ŒWNNậặ', 'Mả?tm khôSthu20075 IQ1712Šy Yawa']
 267
 00:17:21,100 --> 00:17:21,720
-Hả? Em khối, CUOI) lộ IOITHQ ĐỀ á
+Mả?tm khôSthu20075 IQ1712Šy Yawa
 
 
 
-['TERHHAẠWV? ST h6Ẻ', 'TERHHAẠWV? ST h6Ẻ', '', '', '" E100 0001000 (0 0Á 6 sua', '(22E071000701001172 (5: Tư', 'Lý2 x >3¡ NNGÐu,á T001772 (2012 1⁄⁄Ƒ V000,7ý 7T) 3']
+['TEHAEIAAẠVWC? 2ˆ', 'TERHHAẠWV? ST h6Ẻ', 'TERHHAẠWV? ST h6Ẻ', '', '', '" E100 0001000 (0 0Á 6 sua', '(22E071000701001172 (5: Tư']
 268
 00:17:22,060 --> 00:17:23,770
-Lý2 x >3¡ NNGÐu,á T001772 (2012 1⁄⁄Ƒ V000,7ý 7T) 3
+(22E071000701001172 (5: Tư
 
 
 
-['0)ê)62)ÑCO420015000f2217g0Z2) ",', '0)ê)62)ÑCO420015000f2217g0Z2) ",', 'l 0Ð6B)ðHGvO22001fˆ2đE10gp2 `, "NHÀ cứ', 'l 0Ð6B)ðHCG04O220i01fˆ2đE10gp2 `, "NRẠdú', 'T2 Xệu HH 020200102 ĐUỂNM', 'T2 Xệu HH0 U20200102 ĐUỂNM', 'mw [27557 Kêu 0100027222112']
+['mmHRSS=<G', '0)ê)62)ÑCO420015000f2217g0Z2) ",', '0)ê)62)ÑCO420015000f2217g0Z2) ",', 'l 0Ð6B)ðHGvO22001fˆ2đE10gp2 `, "NHÀ cứ', 'l 0Ð6B)ðHCG04O220i01fˆ2đE10gp2 `, "NRẠdú', 'T2 Xệu HH 020200102 ĐUỂNM', 'T2 Xệu HH0 U20200102 ĐUỂNM']
 269
 00:17:24,730 --> 00:17:26,900
-mw [27557 Kêu 0100027222112
+T2 Xệu HH0 U20200102 ĐUỂNM
 
 
 
-['Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ em', 'Thôi đ, kệ em', 'Thôi đ, kệ em']
+['Thôi đ, kệ em', 'Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ emi', 'Thôi đ, kệ em', 'Thôi đ, kệ em']
 270
 00:17:26,900 --> 00:17:27,980
 Thôi đ, kệ em
@@ -1895,17 +1895,17 @@ hứa trước kia!
 
 
 
-['Tôi chết rổ quay', 'Tôi chết r7 qua', 'Tôi chết rồ7P quaav', 'Tôi chết rồi E0 qua', 'Tôi chết rồi 7 gan', 'Tôi chết rồi ?p am', 'Tôi chết rồi 9e qua']
+['Tôi chết rổ? quaaewv', 'Tôi chết rổ quay', 'Tôi chết r7 qua', 'Tôi chết rồ7P quaav', 'Tôi chết rồi E0 qua', 'Tôi chết rồi 7 gan', 'Tôi chết rồi ?p am']
 272
 00:17:42,120 --> 00:17:43,450
-Tôi chết rồi 9e qua
+Tôi chết rồi ?p am
 
 
 
-['SaoC', '', '', '', '', 'Sao', '']
+['ýSao có tiểfthe được?', 'SaoC', '', '', '', '', 'Sao']
 273
 00:17:43,910 --> 00:17:46,960
-
+Sao
 
 
 
@@ -1944,17 +1944,17 @@ Sao có thể thế được!
 
 
 
-['Làm ơn cứu tôi với!', 'Làm ơn cứu tôi với!', 'Làm đñ cừu tôi với!„: * Ar', 'Làm ØPRuu tôi với!', '1[änŸốn cứu tôi với!z', 'ˆ1LäŸớn cứu tôi với!', 'Làm ơn cứu tôi với!']
+['Làm ơn cứu tôi với!', 'Làm ơn cứu tôi với!', 'Làm ơn cứu tôi với!', 'Làm đñ cừu tôi với!„: * Ar', 'Làm ØPRuu tôi với!', '1[änŸốn cứu tôi với!z', 'ˆ1LäŸớn cứu tôi với!']
 279
 00:18:01,970 --> 00:18:03,180
-Làm ơn cứu tôi với!
+ˆ1LäŸớn cứu tôi với!
 
 
 
-['wwna‹: cơ mà, đúng không?!', 'w1"«: cơ mà, đúng không?!', 'PTTHI3I6huacơ mà, đúng không?!', 'PTTH]I3Ichuacơ mà, đúng không?!', 'PTTH]I3I6huäcơ mà, đúng không?!', 'PNTHIISTEHua,cơ mà, đúng không?!', 'PNTHII3TEHua,cơ mà, đúng không?!']
+['315⁄‹ cơ mà, đúng không?!', 'wwna‹: cơ mà, đúng không?!', 'w1"«: cơ mà, đúng không?!', 'PTTHI3I6huacơ mà, đúng không?!', 'PTTH]I3Ichuacơ mà, đúng không?!', 'PTTH]I3I6huäcơ mà, đúng không?!', 'PNTHIISTEHua,cơ mà, đúng không?!']
 280
 00:18:03,180 --> 00:18:04,730
-PNTHII3TEHua,cơ mà, đúng không?!
+PNTHIISTEHua,cơ mà, đúng không?!
 
 
 
@@ -1965,17 +1965,17 @@ Tôi chỉ đóng vai trò nhữThột quan tòa thôi
 
 
 
-['đường thế này có thể xây ra được!', 'đường thế này có thể xây ra được!', 'đường thế này có thể xảy ra được! 7', 'đường thế này có thể xảy ra được!', 'đường thế này có thể xảy ra được!', 'đường thế này có thể xảy ra được!', 'đường thế này có thể xảy ra được!']
+['đường thế này có thể xây ra được!', 'đường thế này có thể xây ra được!', 'đường thế này có thể xây ra được!', 'đường thế này có thể xảy ra được! 7', 'đường thế này có thể xảy ra được!', 'đường thế này có thể xảy ra được!', 'đường thế này có thể xảy ra được!']
 282
 00:18:07,480 --> 00:18:12,320
 đường thế này có thể xảy ra được!
 
 
 
-['T"\' NWNEðfhỏi diễn trò đi được rồi đấy!', '7` nWWEð thỏi diễn trò đi được rồi đấy!', '""MWEEðftôi diễn trò đi được rôi đấy!', '"MWEEðftôi diễn trò đi được rôi đấy:', '_WWEEEfhôi diễn trò đi được rồi đấy!', '_WWWEẽ thôi diễn trò đi được rồi đấy!', 'ME thôi diễn trò đi được rôi đấy!']
+['"NWESfthỏi diễn trò đi được rồi đấy!', 'T"\' NWNEðfhỏi diễn trò đi được rồi đấy!', '7` nWWEð thỏi diễn trò đi được rồi đấy!', '""MWEEðftôi diễn trò đi được rôi đấy!', '"MWEEðftôi diễn trò đi được rôi đấy:', '_WWEEEfhôi diễn trò đi được rồi đấy!', '_WWWEẽ thôi diễn trò đi được rồi đấy!']
 283
 00:18:13,360 --> 00:18:16,110
-ME thôi diễn trò đi được rôi đấy!
+_WWWEẽ thôi diễn trò đi được rồi đấy!
 
 
 
@@ -1986,31 +1986,31 @@ Diễn trò?
 
 
 
-['Đó không phải con tôi!', 'Đó không phải con tôi!', 'xSEHEHKAW¿ (iông phải con tôi!', '"NEW ENö¿ không phải con tôi!', 'Đó không phải con tôi!', 'Đó không phải con tôi!', 'Đó không phải con tôi!']
+['Đó không phải con tôi!', 'Đó không phải con tôi!', 'Đó không phải con tôi!', 'xSEHEHKAW¿ (iông phải con tôi!', '"NEW ENö¿ không phải con tôi!', 'Đó không phải con tôi!', 'Đó không phải con tôi!']
 285
 00:18:17,860 --> 00:18:19,610
 Đó không phải con tôi!
 
 
 
-['Vậy thì là cửa ai?', 'Vậy thì là của 99', 'Vậy thì là của a9', 'Vậy thì là của ai?', 'Vậy thì là của ai?', 'Vậy thì là của ai?', 'Vậy thì là của ai?']
+['Vậy thì là của i7', 'Vậy thì là cửa ai?', 'Vậy thì là của 99', 'Vậy thì là của a9', 'Vậy thì là của ai?', 'Vậy thì là của ai?', 'Vậy thì là của ai?']
 286
 00:18:20,160 --> 00:18:22,870
 Vậy thì là của ai?
 
 
 
-['SEN TT7:77;77', 'VNNEEEEETTT1::,27', 'xi  * TRÀ ` TP', '* TT RẺ x TT', '', '', 'GTOENNNENNEH:TT10 77']
+['', 'SEN TT7:77;77', 'VNNEEEEETTT1::,27', 'xi  * TRÀ ` TP', '* TT RẺ x TT', '', '']
 287
 00:18:22,870 --> 00:18:26,620
-GTOENNNENNEH:TT10 77
 
 
 
-['Takashi wr', 'Takashi wr', 'Takashi wr', 'TakashiĂẳ', 'TakashiĂẳ', 'TakashiĂẳ', 'Takashi']
+
+['Takashi se', 'Takashi wr', 'Takashi wr', 'Takashi wr', 'TakashiĂẳ', 'TakashiĂẳ', 'TakashiĂẳ']
 288
 00:18:27,910 --> 00:18:29,710
-Takashi
+TakashiĂẳ
 
 
 
@@ -2028,10 +2028,10 @@ Nói cho mà biết
 
 
 
-['Tôi còn yêu người đó hơn anhinữa cơ" X', 'Tôi còn yêu người đó hơn anhinữa cơ" X', 'Tôi còn yêu người đó hơn anhinữa cơn Na', 'Tôi còn yêu người đó hơn anhinữa cơn Na', 'Tôi còn yêu người đó hơn anhinữa cơn kẽ _', 'Tôi còn yêu người đó hơn anhinữa cơn kẽ _', 'Tôi còn yêu người đó hơn anhinửa cơ BA']
+['Tôi còn yêu người đó hơn anhinữa cơ— Ba', 'Tôi còn yêu người đó hơn anhinữa cơ" X', 'Tôi còn yêu người đó hơn anhinữa cơ" X', 'Tôi còn yêu người đó hơn anhinữa cơn Na', 'Tôi còn yêu người đó hơn anhinữa cơn Na', 'Tôi còn yêu người đó hơn anhinữa cơn kẽ _', 'Tôi còn yêu người đó hơn anhinữa cơn kẽ _']
 291
 00:19:16,420 --> 00:19:18,670
-Tôi còn yêu người đó hơn anhinửa cơ BA
+Tôi còn yêu người đó hơn anhinữa cơn kẽ _
 
 
 
@@ -2049,59 +2049,59 @@ Anh nghĩ có đứa nào lại đi yêu anh thật lòng không?
 
 
 
-['Anh nghĩ mẪìNfIä ai hả?!', 'Anh nghĩ mìNfIäai hả?!', 'Anh nghĩ mìNfIäai:hả?!', 'Anh nghĩ mìNfläai:hả?!', "Anh nghĩ mìNflä'ai:hả?!", 'Anh nghĩ mìNfläai:hả?!', 'Anh nghĩ mìNfläai:hả?!']
+['Anh nghĩTTlà ai hả?!', 'Anh nghĩ mẪìNfIä ai hả?!', 'Anh nghĩ mìNfIäai hả?!', 'Anh nghĩ mìNfIäai:hả?!', 'Anh nghĩ mìNfläai:hả?!', "Anh nghĩ mìNflä'ai:hả?!", 'Anh nghĩ mìNfläai:hả?!']
 294
 00:19:33,440 --> 00:19:35,440
 Anh nghĩ mìNfläai:hả?!
 
 
 
-['Thứ tôi ÿ', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!']
+['Thứ tôi yêu chỉ là tiền ch thô mm', 'Thứ tôi ÿ', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!', 'Thứ tôi yêu chỉ là tiền của anh thôi!']
 295
 00:19:35,440 --> 00:19:37,440
 Thứ tôi yêu chỉ là tiền của anh thôi!
 
 
 
-['Cô quả nhiên, nãy giờ IxcO ống kịch sao?!', 'Cô quả nhiên, nãy giờ l3Z2Riỡng kịch sao?!', 'Cô quả nhiên, nãy giờ l3Z2Riỡng kịch sao?!', 'Cô quả nhiên, nãy giờI3EMỡng kịch sao?!', 'Cô quả nhiên, nãy giờI3EMỡng kịch sao?!', 'Cô quả nhiên, nãy giờISEôMống kịch sao?!', 'Cô quả nhiên, nãy giờISEôMống kịch sao?!']
+['Cô quả nhiên, nãy giờ Ixcôjống kịch sao?!', 'Cô quả nhiên, nãy giờ IxcO ống kịch sao?!', 'Cô quả nhiên, nãy giờ l3Z2Riỡng kịch sao?!', 'Cô quả nhiên, nãy giờ l3Z2Riỡng kịch sao?!', 'Cô quả nhiên, nãy giờI3EMỡng kịch sao?!', 'Cô quả nhiên, nãy giờI3EMỡng kịch sao?!', 'Cô quả nhiên, nãy giờISEôMống kịch sao?!']
 296
 00:19:37,820 --> 00:19:39,360
 Cô quả nhiên, nãy giờISEôMống kịch sao?!
 
 
 
-['Cô quả nhiên, nšŸHiờlà:cô đóng kịch sao?!', 'Cô quả nhiên, nà giờ làicô đóng kịch sao?!', 'Cô quả nhiên; 1„nấŸ giờ lả cö đóng kịch sao?!', 'Cô quả nhiên;ãÿ giờ là cô đóng kịch sao?!', 'Cô quả nhiên;i3ÿ giờ là cô đóng kịch sao?!', 'Cô quả nhiên, ñẫygiờ lä cõ đóng kịch sao?!', 'Cô quả nhiên; nảy giờ 1ä cô đóng kịch sao?!']
+['Cô quả nhiên, nã nãY Ÿgiờllà Tô đóng kịch sao?!', 'Cô quả nhiên, nšŸHiờlà:cô đóng kịch sao?!', 'Cô quả nhiên, nà giờ làicô đóng kịch sao?!', 'Cô quả nhiên; 1„nấŸ giờ lả cö đóng kịch sao?!', 'Cô quả nhiên;ãÿ giờ là cô đóng kịch sao?!', 'Cô quả nhiên;i3ÿ giờ là cô đóng kịch sao?!', 'Cô quả nhiên, ñẫygiờ lä cõ đóng kịch sao?!']
 297
 00:19:39,360 --> 00:19:42,280
-Cô quả nhiên; nảy giờ 1ä cô đóng kịch sao?!
+Cô quả nhiên, ñẫygiờ lä cõ đóng kịch sao?!
 
 
 
-['ức 88m', 'cưc8EmRRRB=', 'cuc', 'cưcJj8mpRRRBee', 'cưc8mmpRRRB=', 'cưcjEmRRREe', 'ức']
+['ức 88m', 'ức 88m', 'cưc8EmRRRB=', 'cuc', 'cưcJj8mpRRRBee', 'cưc8mmpRRRB=', 'cưcjEmRRREe']
 298
 00:19:42,280 --> 00:19:45,620
-ức
+cưcjEmRRREe
 
 
 
-['Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!']
+['Con khốn ñày!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!', 'Con khốn này!']
 299
 00:19:47,580 --> 00:19:50,830
 Con khốn này!
 
 
 
-['Chó má!', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!']
+['Chó mát', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!', 'Chó má!']
 300
 00:19:54,380 --> 00:19:55,500
 Chó má!
 
 
 
-['Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéogì đây?!', '2 đán dì đâu2!Cái đéo gì đây?!', '„wr —"VW,,¡oÀ da):']
+['Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéo gì đây?!', 'Cái đéogì đây?!', '2 đán dì đâu2!Cái đéo gì đây?!']
 301
 00:19:58,340 --> 00:19:59,840
-„wr —"VW,,¡oÀ da):
+2 đán dì đâu2!Cái đéo gì đây?!
 
 
 
@@ -2133,10 +2133,10 @@ Thành thật xin lỗi, luật chơi tôi đã nói rất rõ rồi
 
 
 
-['Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! 3', 'Kệ mẹ cái luật của mày! 8', 'Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! ,', 'Kệ mẹ cái luật của mày! 5']
+['Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! 3', 'Kệ mẹ cái luật của mày! 8', 'Kệ mẹ cái luật của mày! 5', 'Kệ mẹ cái luật của mày! ,']
 306
 00:20:10,350 --> 00:20:12,640
-Kệ mẹ cái luật của mày! 5
+Kệ mẹ cái luật của mày! ,
 
 
 
@@ -2147,56 +2147,56 @@ Thả tao ra!
 
 
 
-['Xin lỗi 8 „', 'Xin lỗi 8 x', 'Xin lỗi 8', 'Xin lỗi 8 „', 'Xin lỗi 8 z', 'Xin lỗi 8 „', 'Xin lỗi 8 „']
+['Xin lỗi 8 "`', 'Xin lỗi 8 „', 'Xin lỗi 8 x', 'Xin lỗi 8', 'Xin lỗi 8 „', 'Xin lỗi 8 z', 'Xin lỗi 8 „']
 308
 00:20:14,520 --> 00:20:15,440
 Xin lỗi 8 „
 
 
 
-['', '', 'TYW Tão, đến lúcựồiđi', 'TWW Tão, đến lúcựồichi', 'v `— 3z 十 十| v W Tào, đến lúc rồi,', 'xứW Tão, đến lúcựồichi', 'xứW Tão, đến lúcựồichi']
+['', '', '', 'TYW Tão, đến lúcựồiđi', 'TWW Tão, đến lúcựồichi', 'v `— 3z 十 十| v W Tào, đến lúc rồi,', 'xứW Tão, đến lúcựồichi']
 309
 00:20:34,420 --> 00:20:37,040
 xứW Tão, đến lúcựồichi
 
 
 
-['x` ` "Mồi thểØNGi: ám', '„xu _by ewểố mm', 'x„xMNWšẽ wể  m', 'x„xMNVWgšẽ wểố m', 'awNi=ả', 'aạ x6"Ni)ạ œw', 'aạ x6"Ni)ạ œw']
+['—vx 十 g', 'x` ` "Mồi thểØNGi: ám', '„xu _by ewểố mm', 'x„xMNWšẽ wể  m', 'x„xMNVWgšẽ wểố m', 'awNi=ả', 'aạ x6"Ni)ạ œw']
 310
 00:20:37,040 --> 00:20:38,090
 aạ x6"Ni)ạ œw
 
 
 
-['— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ']
+['«Í v, ˆ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ', '— Mãythôi ˆ œ']
 311
 00:20:44,590 --> 00:20:45,800
 — Mãythôi ˆ œ
 
 
 
-['quy TạmbiệŸ†quý:khắch œ', 'quy TạmbiệŸ†quý:khắch œ', 'quy Tạm biệt quý khách =>', 'quy Tạm biệt quý khách =>', 'quy Tạm biệt quý khách =>', 'j Tạm biệt quý khãth wớ>', 'j Tạm biệt quý khãth wớ>']
+['quy TạmbiệŸ†quý:khắch œ', 'quy TạmbiệŸ†quý:khắch œ', 'quy TạmbiệŸ†quý:khắch œ', 'quy Tạm biệt quý khách =>', 'quy Tạm biệt quý khách =>', 'quy Tạm biệt quý khách =>', 'j Tạm biệt quý khãth wớ>']
 312
 00:20:45,800 --> 00:20:46,800
 j Tạm biệt quý khãth wớ>
 
 
 
-['cã08fäñ十zH7LU3*27Ÿ*上, hululC C§fS šEU<ldt 8?qHP⁄', 'cã08fä十H7LU3*27Ÿ>上, hululC CffS šEU<Ildt 8?qHP⁄', 'cã28fä十H7LU3*27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄', 'cã28fä十H7LU3*27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄', 'cã08fä十H7LU3*⁄27Ÿ*上, hululC C§fS šEU<Ildt 8?qHP⁄', 'cã8fñÖH7LU3*27Ÿ>上, hululC C§fSt šEU<ldt 8?qHP⁄', 'cã08fñÖH7LU3*⁄27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄']
+['cã08fä十H7LU3*27Ÿ*上, hululC C§efS šEU<ldt 8?qHP⁄', 'cã08fäñ十zH7LU3*27Ÿ*上, hululC C§fS šEU<ldt 8?qHP⁄', 'cã08fä十H7LU3*27Ÿ>上, hululC CffS šEU<Ildt 8?qHP⁄', 'cã28fä十H7LU3*27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄', 'cã28fä十H7LU3*27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄', 'cã08fä十H7LU3*⁄27Ÿ*上, hululC C§fS šEU<Ildt 8?qHP⁄', 'cã8fñÖH7LU3*27Ÿ>上, hululC C§fSt šEU<ldt 8?qHP⁄']
 313
 00:22:17,770 --> 00:22:19,560
-cã08fñÖH7LU3*⁄27Ÿ*上, hululC CffS šEU<ldt 8?qHP⁄
+cã8fñÖH7LU3*27Ÿ>上, hululC C§fSt šEU<ldt 8?qHP⁄
 
 
 
-['c308fñÖH7U3*⁄27Ÿ*上, hululc CffSt šEU<ldt 8?8HP⁄', "cã8fäÖH7LU3*⁄27Ÿ*上, hululc'CfofS šEU<ldt 8?HP⁄", "cã8fäÖH7LU3*⁄27Ÿ>上, hululc'CfofS šEU<ldt8?8HP⁄", 'cã08fñÖH7LU3*⁄27Ÿ>上, hululc CfofS šEU<ldt8?8HP⁄', "cã08fñÖH7LU3*⁄27Ÿ*上, hululc'CfofSt šEU<ldt8?8HP⁄", 'cã08fñÖH7LU3*⁄27Ÿ>上, hululc CfofS šU<ldt 8?8HP⁄', "cã08fñÖH7LU3*⁄27Ÿ*上, hululc'CfofSt šEU<ldt8?8HP⁄"]
+["cã08fñÖH7LU3*⁄27Ÿ>上, hululc'CfefS šEU<ldt 8?8HP⁄", 'c308fñÖH7U3*⁄27Ÿ*上, hululc CffSt šEU<ldt 8?8HP⁄', "cã8fäÖH7LU3*⁄27Ÿ*上, hululc'CfofS šEU<ldt 8?HP⁄", "cã8fäÖH7LU3*⁄27Ÿ>上, hululc'CfofS šEU<ldt8?8HP⁄", 'cã08fñÖH7LU3*⁄27Ÿ>上, hululc CfofS šEU<ldt8?8HP⁄', "cã08fñÖH7LU3*⁄27Ÿ*上, hululc'CfofSt šEU<ldt8?8HP⁄", 'cã08fñÖH7LU3*⁄27Ÿ>上, hululc CfofS šU<ldt 8?8HP⁄']
 314
 00:22:19,560 --> 00:22:21,560
-cã08fñÖH7LU3*⁄27Ÿ*上, hululc'CfofSt šEU<ldt8?8HP⁄
+cã08fñÖH7LU3*⁄27Ÿ>上, hululc CfofS šU<ldt 8?8HP⁄
 
 
 
-['7L  (ôthãÿsao? q8? ii', 'TL cô tHấýsãö?', 'Liệc á Cô thấysãö?', '` Cô thấy s55?', 'Cô thăysã8?', 'Cô thăysã8?', 'Cô thăysã8?']
+['TL  Côtiäysão? t? 48H', '7L  (ôthãÿsao? q8? ii', 'TL cô tHấýsãö?', 'Liệc á Cô thấysãö?', '` Cô thấy s55?', 'Cô thăysã8?', 'Cô thăysã8?']
 315
 00:22:22,730 --> 00:22:24,070
 Cô thăysã8?
