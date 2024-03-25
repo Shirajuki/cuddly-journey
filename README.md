@@ -29,6 +29,9 @@ pip3 install -r requirements.txt
 ```
 
 ## Useful commands
+To convert mp3 to wav run:
+- ffmpeg -i audio.mp3 -acodec pcm_u8 -ar 22050 audio.wav
+
 To extract sub channels from a video file run:
 - ffmpeg -i movie.mkv -map 0:s:0 subs.srt
 

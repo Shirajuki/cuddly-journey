@@ -4,11 +4,18 @@ import pysrt
 import re
 import threading
 from pydub import AudioSegment
+from lingua import Language, LanguageDetectorBuilder
+from langdetect import detect
+import pycld2 as cld2
 
 sys.path.append('../ai_tools')
 from edgetts import edgetts
 sys.path.append('../tts_srt_parsing')
 
+languages = [Language.VIETNAMESE, Language.JAPANESE]
+detector = LanguageDetectorBuilder.from_languages(*languages).build()
+
+LANGUAGE_TO_DETECT = "vi"
 WORDS_TO_REPLACE = [
     ["D", "Đ"],
 ]
@@ -115,6 +122,35 @@ def srt_parse(srt, nodiff=False):
             dialogue = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": ntext.strip(), "duration": subs[i].duration}
             dialogue_srt.append(dialogue)
 
+    # Skip over wrong language subs
+    ndialogue_srt = []
+    for i, dialogue in enumerate(dialogue_srt):
+        line = dialogue["text"]
+        score = 0
+        language = "un"
+        try:
+            language = detect(line)
+            if language == LANGUAGE_TO_DETECT:
+                score += 1
+        except:
+            pass
+        language2 = detector.detect_language_of(line)
+        confidence_values = detector.compute_language_confidence_values(line)
+        if language2 == Language.VIETNAMESE:
+            score += 1
+        isReliable, textBytesFound, details = cld2.detect(line)
+
+        details = [x[1] for x in details if x[1] != "un"]
+        if LANGUAGE_TO_DETECT in details:
+            score += 1
+        if len(line.split()) == 1:
+            score += 1
+        if score < 2 and i not in [140, 157, 305, 306, 449, 459, 429, 609, 643, 854, 957, 1022, 1178]:
+            print('[SKIPPED]', i, score, line)
+            continue
+        ndialogue_srt.append(dialogue)
+
+    dialogue_srt = ndialogue_srt
     # Merge dialogues if duplicate
     ndialogue_srt = []
     for i, dialogue in enumerate(dialogue_srt):

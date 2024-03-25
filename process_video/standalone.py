@@ -44,6 +44,7 @@ def standalone_parse():
     audios = {}
     threads = []
     files = os.listdir("../output")
+    
     for f in files:
         if f.endswith(".mp3"):
             thread = threading.Thread(target=parse, args=(f, audios))
@@ -64,13 +65,16 @@ def standalone_save(audios, segments):
     print("[*] Saving audio...")
     # Get max duration from data
     last_audio = audios[max(*audios.keys())]
-
+    
+    print("Overlay audios in segments")
     # Create 3 empty audio segments and process through the segments
     audio_segments = [AudioSegment.silent(duration=last_audio["start"]+last_audio["duration"]) for _ in range(len(segments))]
     for i, audio_segment in enumerate(segments):
         for seg in audio_segment:
+            print(i)
             audio_segments[i] = audio_segments[i].overlay(seg["audio"], position=seg["start"])
 
+    print("Combine audio into one")
     # Overlay all the different audio segments into one
     combined = audio_segments[0].overlay(audio_segments[1])
     for i, seg in enumerate(audio_segments):
