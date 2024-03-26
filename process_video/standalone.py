@@ -70,11 +70,11 @@ def standalone_save(audios, segments):
     # Create 3 empty audio segments and process through the segments
     audio_segments = [AudioSegment.silent(duration=last_audio["start"]+last_audio["duration"]) for _ in range(len(segments))]
     for i, audio_segment in enumerate(segments):
+        print(f"Segment num:", i)
         for seg in audio_segment:
-            print(i)
             audio_segments[i] = audio_segments[i].overlay(seg["audio"], position=seg["start"])
 
-    print("Combine audio into one")
+    print("Combining audio segments into one track")
     # Overlay all the different audio segments into one
     combined = audio_segments[0].overlay(audio_segments[1])
     for i, seg in enumerate(audio_segments):

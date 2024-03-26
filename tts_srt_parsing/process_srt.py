@@ -26,6 +26,7 @@ SENTENCE_TO_REPLACE = [
     ['<i>', ''],
     ['</i>', ''],
     ['{\\an8}', ''],
+    ['…','...'],
 ]
 CHARACTERS_TO_REPLACE = [
     ["“", '"'],
@@ -69,7 +70,7 @@ def srt_parse(srt, nodiff=False):
     
     subs = pysrt.open(srt)
     for i in range(len(subs)):
-        # Parse multiple dialogues on same timestamp
+        # Parse multiple dialogues on same timestamp by "-" char
         texts = [x.strip() for x in subs[i].text.split("\n-")]
         if len(texts) > 1:
             texts = [" ".join(x.replace("\n", " ").split()) for x in texts]
@@ -108,6 +109,9 @@ def srt_parse(srt, nodiff=False):
                     match = match[0]
                 ntext = ntext.replace(match, "")
                 filtered_texts.append(f"{match}")
+            upper = [x.isupper() for x in text if x != " "]
+            if all(upper) and len(upper) > 2:
+                filtered_texts.append(text)
 
             # Replace sentences
             for stor in SENTENCE_TO_REPLACE:
@@ -125,6 +129,9 @@ def srt_parse(srt, nodiff=False):
     # Skip over wrong language subs
     ndialogue_srt = []
     for i, dialogue in enumerate(dialogue_srt):
+        if nodiff:
+            ndialogue_srt.append(dialogue)
+            continue
         line = dialogue["text"]
         score = 0
         language = "un"

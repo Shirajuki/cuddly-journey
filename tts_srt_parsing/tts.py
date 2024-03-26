@@ -27,7 +27,7 @@ def generate_tts(text, duration, index):
     audio_duration = len(audio)
     # Speedup
     if duration + 350 <= audio_duration:
-        edgetts(text, voice, out, "+20%")
+        edgetts(text, voice, out, "+10%")
 
 def srt_process(srt_list):
     print("[*] Generating TTS...")
