@@ -60,7 +60,7 @@ def millis_to_srt_timestamp(total_millis):
     time_format = '{:02}:{:02}:{:02},{:03}'
     return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
-def srt_parse(srt, nodiff=False):
+def srt_parse(srt, diff=False, merge=False):
     print("[*] Processing SRT...")
     if srt == "none":
         return
@@ -129,7 +129,7 @@ def srt_parse(srt, nodiff=False):
     # Skip over wrong language subs
     ndialogue_srt = []
     for i, dialogue in enumerate(dialogue_srt):
-        if nodiff:
+        if not diff:
             ndialogue_srt.append(dialogue)
             continue
         line = dialogue["text"]
@@ -161,7 +161,7 @@ def srt_parse(srt, nodiff=False):
     # Merge dialogues if duplicate
     ndialogue_srt = []
     for i, dialogue in enumerate(dialogue_srt):
-        if nodiff:
+        if not merge:
             ndialogue_srt.append(dialogue)
             continue
         # Skip dialogue if the skip value is set
@@ -196,8 +196,8 @@ def srt_process(srt_list, outfile, tts=False):
             f.write(f"{i+1}\n{sub['timestamp']}\n{sub['text']}\n\n")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("usage: python3 process_srt.py input.srt [diff]")
+    if len(sys.argv) != 4:
+        print("usage: python3 process_srt.py input.srt [diff:True/False] [merge:True/False]")
     else:
         print("[*] Parsing...")
-        srt_parse(sys.argv[1], sys.argv[2])
+        srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True")
