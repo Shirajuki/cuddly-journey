@@ -109,13 +109,16 @@ def srt_parse(srt, diff=False, merge=False):
                     match = match[0]
                 ntext = ntext.replace(match, "")
                 filtered_texts.append(f"{match}")
-            upper = [x.isupper() for x in text if x != " "]
-            if all(upper) and len(upper) > 2:
-                filtered_texts.append(text)
 
             # Replace sentences
             for stor in SENTENCE_TO_REPLACE:
                 ntext = ntext.replace(stor[0], stor[1])
+
+            # Filter if all character is upper
+            upper = [x.isupper() for x in ntext if x not in " -:;!?'\".,1234567890"]
+            if all(upper) and len(upper) > 2:
+                filtered_texts.append(ntext)
+                ntext = ""
 
             if len(filtered_texts) > 0:
                 filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": " ".join(filtered_texts), "duration": subs[i].duration}
