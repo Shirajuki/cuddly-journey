@@ -5,6 +5,7 @@ __pycache__
 *.txt
 *.png
 *.mkv
+*.wav
 
 piper
 yt-dlp
