@@ -2,6 +2,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import ExtractSRT from "./ExtractSRT";
 import ProcessSRT from "./ProcessSRT";
+import ProcessAudio from "./ProcessAudio";
 import TTS from "./TTS";
 
 export default function PlaygroundPage() {
@@ -36,15 +37,7 @@ export default function PlaygroundPage() {
         </TabsContent>
 
         <TabsContent value="process-audio">
-          <Card>
-            <CardHeader>
-              <CardTitle>Process audio</CardTitle>
-              <CardDescription>Card Description</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <p>Card Content</p>
-            </CardContent>
-          </Card>
+          <ProcessAudio />
         </TabsContent>
 
         <TabsContent value="ai-translate">

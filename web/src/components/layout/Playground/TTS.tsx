@@ -43,7 +43,7 @@ export default function TTS() {
               <Label htmlFor="based-srt-input">TTS Voices</Label>
               <Select>
                 <SelectTrigger>
-                  <SelectValue placeholder="" />
+                  <SelectValue placeholder="vi-VN-HoaiMyNeural ♀" />
                 </SelectTrigger>
                 <SelectContent>
                   {TTS_VOICES.map((voice) => (
