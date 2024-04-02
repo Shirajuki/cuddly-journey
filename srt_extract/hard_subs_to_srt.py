@@ -48,7 +48,7 @@ PREVIEW_MAX_SIZE = (1280, 720)
 # Tesseract works better with some blank space around the text.
 SUBTITLE_BOUNDS_LEFT = 0
 SUBTITLE_BOUNDS_RIGHT = 1280
-SUBTITLE_BOUNDS_TOP = 620
+SUBTITLE_BOUNDS_TOP = 620-50
 SUBTITLE_BOUNDS_BOTTOM = 720
 # We force some space above and below the subtitles to be white before feeding
 # the text images to Tesseract.
