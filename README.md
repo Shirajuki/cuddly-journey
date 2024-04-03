@@ -29,6 +29,9 @@ pip3 install -r requirements.txt
 ```
 
 ## Useful commands
+To convert mkv to mp4 run:
+- ffmpeg -i video.mkv -codec copy video.mp4
+
 To convert mp3 to wav run:
 - ffmpeg -i audio.mp3 -acodec pcm_u8 -ar 22050 audio.wav
 
@@ -57,4 +60,4 @@ The codebase builds upon the foundations of the following projects:
 - [victorjoh](https://github.com/victorjoh/hard-subs-to-srt) for the initial code that this project were based on
 - [rany2](https://github.com/rany2/edge-tts) for the Microsoft Edge's tts python wrapper
 - [vsakkas](https://github.com/vsakkas/sydney.py) used as inspiration in reverse engineering the Bing Chat / Copilot / Sydney API
-- [RVC-Project](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) inference audio, making tts more natural
+- [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) for the VideoSubFinderCli binary :pray:
