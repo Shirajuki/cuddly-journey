@@ -2,10 +2,21 @@ from imutils.video import FileVideoStream
 import cv2
 import subprocess
 import sys
+import numpy
 SUBTITLE_BOUNDS_LEFT = 0
 SUBTITLE_BOUNDS_RIGHT = 1280
 SUBTITLE_BOUNDS_TOP = 620-50
 SUBTITLE_BOUNDS_BOTTOM = 720-20
+
+SUBTITLE_BLANK_SPACE_ABOVE = 17
+SUBTITLE_BLANK_SPACE_BELOW = 13
+SUBTITLES_MIN_VALUE = 200
+
+# After blurring the image we make the image monochrome since that works better
+# for Tesseract. This is the limit for what should be considered a (white)
+# subtitle pixel after the blur.
+SUBTITLES_MIN_VALUE_AFTER_BLUR = 50
+
 
 def get_millis_for_frame(video, frame_number):
     return 1000.0 * frame_number / video.stream.get(cv2.CAP_PROP_FPS)
@@ -17,6 +28,94 @@ def millis_to_srt_timestamp(total_millis):
     time_format = '{:02}:{:02}:{:02},{:03}'
     return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
+def get_contours(cropped_frame, gray_image):
+    img = cropped_frame
+    kernel = numpy.ones((5,5), numpy.uint8) 
+    gray_image = cv2.threshold(gray_image, SUBTITLES_MIN_VALUE_AFTER_BLUR, 255, cv2.THRESH_BINARY)[1]
+    # Perform Canny edge detection on the expanded white areas
+    edges = cv2.Canny(gray_image, 100, 200, apertureSize = 3)
+    edges = cv2.dilate(edges, kernel, iterations=4)
+
+    contours, _ = cv2.findContours(edges.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
+    contours=list(filter(lambda cont: cv2.arcLength(cont, False) > 60, contours))
+    blank = numpy.zeros((img.shape[0],img.shape[1],3), numpy.uint8)
+    cv2.drawContours(blank, contours, -1,(255,255,255),2)
+
+    # Erode the dilated edges to get filled edges
+    edges = cv2.dilate(blank, kernel, iterations=2)
+    edges = cv2.erode(edges, kernel, iterations=1)
+    edges = cv2.cvtColor(edges, cv2.COLOR_BGR2GRAY)
+    contours, _ = cv2.findContours(edges.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
+    contours=list(filter(lambda cont: cv2.arcLength(cont, False) > 60, contours))
+    contour_mask = numpy.zeros_like(edges)
+    # cv2.drawContours(contour_mask, contours, -1, (255,255,255), 1)
+ 
+    # Get the center of the image
+    center_x = img.shape[1] // 2
+    center_y = img.shape[0] // 2
+    # Loop through contours
+    sizes = []
+    for i, contour in enumerate(contours):
+        # Get the bounding rectangle of each contour
+        x, y, w, h = cv2.boundingRect(contour)
+        bounding_rect_center_x = x + w // 2
+        bounding_rect_center_y = y + h // 2
+        # Calculate the distance from the center of the image to the center of the bounding rectangle
+        distance_x = abs(center_x - bounding_rect_center_x)
+        distance_y = abs(center_y - bounding_rect_center_y)
+    
+        # Define a threshold for how far from the center of the image the bounding rectangle's center can be
+        threshold = 50  # Adjust this threshold as needed
+        # Check if the bounding rectangle is in the middle
+        if distance_x < threshold and distance_y < threshold:
+            sizes.append(w*h)
+        else:
+            sizes.append(0)
+    # Fill the bounding rectangle in the mask by size
+    while len(sizes) > 0 and max(sizes) != 0:
+        i = sizes.index(max(sizes))
+        sizes.pop(i)
+        cv2.drawContours(contour_mask, [contours.pop(i)], 0, (255), cv2.FILLED)
+        # x, y, w, h = cv2.boundingRect(contours.pop(i))
+        # cv2.rectangle(contour_mask, (x, y), (x + w, y + h), (255, 255, 255), -1)
+
+    dilated_contours = cv2.dilate(contour_mask, kernel, iterations=1)
+    # Invert the edges to get the areas to keep
+    edges = cv2.bitwise_not(dilated_contours)
+
+    nimg = cv2.cvtColor(gray_image, cv2.COLOR_GRAY2BGR)
+    nimg[edges== 255] = (255,255,255)
+    # nimg = cv2.bitwise_not(nimg)
+    img = nimg 
+    return img
+
+def to_monochrome_subtitle_frame_custom(cropped_frame):
+    img = cropped_frame
+    # img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # make the image monochr3me where only the whitest pixel are kept white
+    img = cv2.threshold(img, SUBTITLES_MIN_VALUE, 255, cv2.THRESH_BINARY)[1]
+
+    # Draw bounding box rectangles to remove unecessary background colors
+    # Ensuring white above and below text. Some blank space is needed for Tesseract
+    bounds_width = SUBTITLE_BOUNDS_RIGHT - SUBTITLE_BOUNDS_LEFT
+    bounds_height = SUBTITLE_BOUNDS_BOTTOM - SUBTITLE_BOUNDS_TOP
+    whitespace_below_y = bounds_height - SUBTITLE_BLANK_SPACE_BELOW
+    above_subtitles = numpy.array([[0, 0], [0, SUBTITLE_BLANK_SPACE_ABOVE],
+        [bounds_width, SUBTITLE_BLANK_SPACE_ABOVE], [bounds_width, 0]])
+    below_subtitles = numpy.array([[0, whitespace_below_y], [0, bounds_height],
+    [bounds_width, bounds_height], [bounds_width, whitespace_below_y]])
+    img = cv2.fillPoly(img, pts=[above_subtitles, below_subtitles], color=0)
+    
+    # Invert the colors to have white background with black text.
+    img = cv2.bitwise_not(img)
+    
+    # Turn image into grayscale
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+    # Find pixels that are not black or white by a threshold
+    img = cv2.threshold(img, SUBTITLES_MIN_VALUE_AFTER_BLUR, 255, cv2.THRESH_BINARY)[1]
+
+    return img
 
 video = FileVideoStream("../deathparadevn01.mkv")
 video.stream.set(cv2.CAP_PROP_POS_FRAMES, 0)
@@ -52,7 +151,11 @@ while frame is not None:
     if srt_millis - 10 < millis < srt_millis + 10:
         print(frame_number, millis, millis_to_srt_timestamp(millis))
         cropped_frame = frame[SUBTITLE_BOUNDS_TOP:SUBTITLE_BOUNDS_BOTTOM, SUBTITLE_BOUNDS_LEFT:SUBTITLE_BOUNDS_RIGHT]
-        # cv2.imwrite(f"./test/{str(frame_number).rjust(10,'0')}.png", cropped_frame)
+        nframe = to_monochrome_subtitle_frame_custom(cropped_frame)
+        nframe = get_contours(cropped_frame, nframe)
+        cv2.imwrite(f"./test/{str(frame_number).rjust(10,'0')}.png", nframe)
+        if frame_number > 10000:
+            exit()
         if len(mss) > 0:
             srt_millis = mss.pop()
         else:
