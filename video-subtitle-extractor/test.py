@@ -3,6 +3,8 @@ import cv2
 import subprocess
 import sys
 import numpy
+import pytesseract
+
 SUBTITLE_BOUNDS_LEFT = 0
 SUBTITLE_BOUNDS_RIGHT = 1280
 SUBTITLE_BOUNDS_TOP = 620-50
@@ -16,7 +18,34 @@ SUBTITLES_MIN_VALUE = 200
 # for Tesseract. This is the limit for what should be considered a (white)
 # subtitle pixel after the blur.
 SUBTITLES_MIN_VALUE_AFTER_BLUR = 50
-
+TESSERACT_CONFIG = ''
+TESSERACT_EXPECTED_LANGUAGE = 'vie'
+COMMON_MISTAKES = {
+    '-': '一',
+    '+': '十',
+    'F': '上',
+    '，': '',
+    '。': '',
+    '”': '',
+    "¬" : "",
+    "一": "",
+    "#": "",
+    "°": "",
+    "®": "",
+    "%": "",
+    "ø": "",
+    ".": "",
+    "~": "",
+    "/": "",
+    "\\": "",
+    "“": "",
+    "£": "",
+    "@": "",
+    "}": "",
+    "{": "",
+    "^": "",
+    "\n": " "
+}
 
 def get_millis_for_frame(video, frame_number):
     return 1000.0 * frame_number / video.stream.get(cv2.CAP_PROP_FPS)
@@ -28,7 +57,25 @@ def millis_to_srt_timestamp(total_millis):
     time_format = '{:02}:{:02}:{:02},{:03}'
     return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
-def get_contours(cropped_frame, gray_image):
+def get_contours_by_color(cropped_frame, gray_image):
+    image = cropped_frame
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, binary = cv2.threshold(gray, 240, 255, cv2.THRESH_BINARY)
+    contours, _ = cv2.findContours(binary, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    contour_mask = numpy.zeros_like(gray)
+    for contour in contours:
+        x, y, w, h = cv2.boundingRect(contour)
+        if w < 40 and h > 2 and w > 1:
+            cv2.drawContours(contour_mask, [contour], 0, (255), cv2.FILLED)
+            # cv2.rectangle(contour_mask, (x, y), (x+w, y+h), (0, 255, 0), 2)
+    kernel = numpy.ones((5,5), numpy.uint8) 
+    edges = cv2.dilate(contour_mask, kernel, iterations=2)
+    nimg = cv2.cvtColor(gray_image, cv2.COLOR_GRAY2BGR)
+    nimg[edges != 255] = (255,255,255)
+    nimg = cv2.cvtColor(nimg, cv2.COLOR_BGR2GRAY)
+    return nimg
+
+def get_contours_by_canny(cropped_frame, gray_image):
     img = cropped_frame
     kernel = numpy.ones((5,5), numpy.uint8) 
     gray_image = cv2.threshold(gray_image, SUBTITLES_MIN_VALUE_AFTER_BLUR, 255, cv2.THRESH_BINARY)[1]
@@ -42,7 +89,7 @@ def get_contours(cropped_frame, gray_image):
     cv2.drawContours(blank, contours, -1,(255,255,255),2)
 
     # Erode the dilated edges to get filled edges
-    edges = cv2.dilate(blank, kernel, iterations=2)
+    edges = cv2.dilate(blank, kernel, iterations=1)
     edges = cv2.erode(edges, kernel, iterations=1)
     edges = cv2.cvtColor(edges, cv2.COLOR_BGR2GRAY)
     contours, _ = cv2.findContours(edges.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
@@ -55,7 +102,7 @@ def get_contours(cropped_frame, gray_image):
     center_y = img.shape[0] // 2
     # Loop through contours
     sizes = []
-    for i, contour in enumerate(contours):
+    for contour in contours:
         # Get the bounding rectangle of each contour
         x, y, w, h = cv2.boundingRect(contour)
         bounding_rect_center_x = x + w // 2
@@ -78,20 +125,20 @@ def get_contours(cropped_frame, gray_image):
         cv2.drawContours(contour_mask, [contours.pop(i)], 0, (255), cv2.FILLED)
         # x, y, w, h = cv2.boundingRect(contours.pop(i))
         # cv2.rectangle(contour_mask, (x, y), (x + w, y + h), (255, 255, 255), -1)
-
+        # print(x,y,w,h)
     dilated_contours = cv2.dilate(contour_mask, kernel, iterations=1)
     # Invert the edges to get the areas to keep
     edges = cv2.bitwise_not(dilated_contours)
 
     nimg = cv2.cvtColor(gray_image, cv2.COLOR_GRAY2BGR)
-    nimg[edges== 255] = (255,255,255)
-    # nimg = cv2.bitwise_not(nimg)
-    img = nimg 
+    # nimg = numpy.copy(gray_image)
+    nimg[edges == 255] = (255,255,255)
+    nimg = cv2.cvtColor(nimg, cv2.COLOR_BGR2GRAY)
+    img = nimg
     return img
 
 def to_monochrome_subtitle_frame_custom(cropped_frame):
     img = cropped_frame
-    # img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     # make the image monochr3me where only the whitest pixel are kept white
     img = cv2.threshold(img, SUBTITLES_MIN_VALUE, 255, cv2.THRESH_BINARY)[1]
 
@@ -108,14 +155,17 @@ def to_monochrome_subtitle_frame_custom(cropped_frame):
     
     # Invert the colors to have white background with black text.
     img = cv2.bitwise_not(img)
-    
     # Turn image into grayscale
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
     # Find pixels that are not black or white by a threshold
     img = cv2.threshold(img, SUBTITLES_MIN_VALUE_AFTER_BLUR, 255, cv2.THRESH_BINARY)[1]
-
     return img
+
+def clean_up_tesseract_output(text):
+    for key, value in COMMON_MISTAKES.items():
+        text = text.replace(key, value)
+    text = text.strip()
+    return text
 
 video = FileVideoStream("../deathparadevn01.mkv")
 video.stream.set(cv2.CAP_PROP_POS_FRAMES, 0)
@@ -135,29 +185,53 @@ for line in a:
         continue
     line = line.replace("Frame: ", "")
     h, m, s, ms = line.split('__')[0].split('_')
-    total_ms = int(ms) + int(s) * 1000 + int(m) * 60 * 1000 + int(h) * 60 * 60 * 1000
+    from_total_ms = int(ms) + int(s) * 1000 + int(m) * 60 * 1000 + int(h) * 60 * 60 * 1000
+    h, m, s, ms, _ = line.split('__')[1].split('_')
+    to_total_ms = int(ms) + int(s) * 1000 + int(m) * 60 * 1000 + int(h) * 60 * 60 * 1000
     print(h, m, s)
-    print(total_ms)
-    mss.append(total_ms)
+    print(from_total_ms)
+    print(to_total_ms)
+    obj = {"from": from_total_ms, "to": to_total_ms}
+    mss.append(obj)
 
 frame_number = 0
 mss = mss[::-1]
-srt_millis = mss.pop()
+obj = mss.pop()
+srt_millis = obj["from"]
 print(srt_millis)
+index = 1
 while frame is not None:
     if video.stream.get(cv2.CAP_PROP_FPS) <= 0:
         break
     millis = get_millis_for_frame(video, frame_number)
     if srt_millis - 10 < millis < srt_millis + 10:
+        lines = []
         print(frame_number, millis, millis_to_srt_timestamp(millis))
+        print(index)
+        index += 1
+        print(f"{millis_to_srt_timestamp(obj['from'])} --> {millis_to_srt_timestamp(obj['to'])}")
         cropped_frame = frame[SUBTITLE_BOUNDS_TOP:SUBTITLE_BOUNDS_BOTTOM, SUBTITLE_BOUNDS_LEFT:SUBTITLE_BOUNDS_RIGHT]
         nframe = to_monochrome_subtitle_frame_custom(cropped_frame)
-        nframe = get_contours(cropped_frame, nframe)
+        line = pytesseract.image_to_string(nframe, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
+        line = clean_up_tesseract_output(line)
+        lines.append(line)
+        nframe = get_contours_by_color(cropped_frame, nframe)
+        line = pytesseract.image_to_string(nframe, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
+        line = clean_up_tesseract_output(line)
+        lines.append(line)
+        nframe = get_contours_by_canny(cropped_frame, nframe)
+        line = pytesseract.image_to_string(nframe, lang=TESSERACT_EXPECTED_LANGUAGE, config=TESSERACT_CONFIG)
+        line = clean_up_tesseract_output(line)
+        lines.append(line)
+        for l in lines:
+            print(l)
+        print()
         cv2.imwrite(f"./test/{str(frame_number).rjust(10,'0')}.png", nframe)
         if frame_number > 10000:
             exit()
         if len(mss) > 0:
-            srt_millis = mss.pop()
+            obj = mss.pop()
+            srt_millis = obj["from"]
         else:
             srt_millis = 999999999
     frame_number += 1
