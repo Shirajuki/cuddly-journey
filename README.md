@@ -35,22 +35,34 @@ To convert mkv to mp4 run:
 To convert mp3 to wav run:
 - ffmpeg -i audio.mp3 -acodec pcm_u8 -ar 22050 audio.wav
 
+To convert mp4 to mkv run:
+- `ffmpeg -i input.mp4 -vcodec copy -acodec copy movie.mkv`
+
 To extract sub channels from a video file run:
 - ffmpeg -i movie.mkv -map 0:s:0 subs.srt
 
+## Standalone scripts
 To extract hardcoded subtitles from a video file run:
-- `ffmpeg -i input.mp4 -vcodec copy -acodec copy movie.mkv` (may be different depending on the video format)
-- `python3 hard_subs_to_srt.py movie.mkv output.srt crossroad.srt`
+- `python3 ./srt_extract/hard_subs_to_srt.py movie.mkv output.srt helper.srt`
 
-To generate tts from srt files run:
-- `python3 tts.py input.srt`
+To process and cleanup srt files run (outputs subbed.srt + filtered.srt):
+- `python3 ./tts_srt_parsing/process_tts.py input.srt`
 
-To process the generated tts into an audio file:
-- `python3 standalone.py`
+To generate tts from srt files run (outputs small tts chunks):
+- `python3 ./tts_srt_parsing/tts-edge.py input.srt`
+
+To process the generated tts into an audio file ():
+- `python3 ./process_video/standalone.py`
 
 Note that the script currently only support HD (1280x720) videos for now
 
 ## How to use
+TBA
+
+## Development
+TBA
+
+## Docker
 TBA
 
 # Credits
