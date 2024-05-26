@@ -1,6 +1,5 @@
 import os
 
-
 beep = "powershell.exe -c '[console]::beep(500,300)'"
 def alert(text):
     return f"""powershell.exe -c 'Add-Type -AssemblyName System.speech; $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer; $speak.Speak("{text}")'"""
