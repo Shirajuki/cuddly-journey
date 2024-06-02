@@ -31,6 +31,7 @@ def generate_tts(text, duration, index):
 
 def srt_process(srt_list):
     print("[*] Generating TTS...")
+    os.popen(f"echo 0 > ../output/progress-process-tts.txt").read()
     i = 0
     chunk_size = 100
     chunks = [srt_list[i:i + chunk_size] for i in range(0, len(srt_list), chunk_size)]
@@ -47,6 +48,7 @@ def srt_process(srt_list):
         # Wait for all threads to complete
         for thread in threads:
             thread.join()
+        os.popen(f"echo {int(i/len(srt_list) * 100)} > ../output/progress-process-tts.txt").read()
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:

@@ -3,7 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import ExtractSRT from "./ExtractSRT";
 import ProcessSRT from "./ProcessSRT";
 import ProcessAudio from "./ProcessAudio";
-import TTS from "./TTS";
+import ProcessTTS from "./ProcessTTS";
 
 export default function PlaygroundPage() {
   return (
@@ -19,7 +19,7 @@ export default function PlaygroundPage() {
         <TabsList className="">
           <TabsTrigger value="extract-srt">Extract SRT</TabsTrigger>
           <TabsTrigger value="process-srt">Process SRT</TabsTrigger>
-          <TabsTrigger value="tts">TTS</TabsTrigger>
+          <TabsTrigger value="process-tts">Process TTS</TabsTrigger>
           <TabsTrigger value="process-audio">Process audio</TabsTrigger>
           <TabsTrigger value="ai-translate">AI Translate</TabsTrigger>
         </TabsList>
@@ -32,8 +32,8 @@ export default function PlaygroundPage() {
           <ProcessSRT />
         </TabsContent>
 
-        <TabsContent value="tts">
-          <TTS />
+        <TabsContent value="process-tts">
+          <ProcessTTS />
         </TabsContent>
 
         <TabsContent value="process-audio">

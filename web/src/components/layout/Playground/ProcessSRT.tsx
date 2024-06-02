@@ -3,6 +3,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
 export default function ProcessSRT() {
   return (
@@ -31,30 +32,40 @@ export default function ProcessSRT() {
 
         <Card className="bg-black/45">
           <CardContent className="pt-6 h-full flex flex-col gap-4">
-            <div>
-              <p className="text-base font-bold">Process settings</p>
-              <p className="text-sm text-muted-foreground">Configure characters, words, sentences to be filtered.</p>
-            </div>
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">Characters to be replaced</Label>
-              <Textarea className="h-full resize-none" />
-            </div>
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">Words to be replaced</Label>
-              <Textarea className="h-full resize-none" />
-            </div>
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">Sentences to be replaced</Label>
-              <Textarea className="h-full resize-none" />
-            </div>
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">Text to be removed</Label>
-              <Textarea className="h-full resize-none" />
-            </div>
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">Regex to be filtered</Label>
-              <Textarea className="h-full resize-none" />
-            </div>
+            <Accordion type="single" collapsible>
+              <AccordionItem value="item-1">
+                <AccordionTrigger>
+                  <div className="text-left">
+                    <p className="text-base font-bold">Advanced process settings</p>
+                    <p className="text-sm text-muted-foreground">
+                      Configure characters, words, sentences to be filtered.
+                    </p>
+                  </div>
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="space-y-1 w-full">
+                    <Label htmlFor="based-srt-input">Characters to be replaced</Label>
+                    <Textarea className="h-full resize-none" />
+                  </div>
+                  <div className="space-y-1 w-full">
+                    <Label htmlFor="based-srt-input">Words to be replaced</Label>
+                    <Textarea className="h-full resize-none" />
+                  </div>
+                  <div className="space-y-1 w-full">
+                    <Label htmlFor="based-srt-input">Sentences to be replaced</Label>
+                    <Textarea className="h-full resize-none" />
+                  </div>
+                  <div className="space-y-1 w-full">
+                    <Label htmlFor="based-srt-input">Text to be removed</Label>
+                    <Textarea className="h-full resize-none" />
+                  </div>
+                  <div className="space-y-1 w-full">
+                    <Label htmlFor="based-srt-input">Regex to be filtered</Label>
+                    <Textarea className="h-full resize-none" />
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            </Accordion>
           </CardContent>
         </Card>
 
