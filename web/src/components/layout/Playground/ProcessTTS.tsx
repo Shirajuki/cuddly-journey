@@ -23,7 +23,12 @@ export default function TTS() {
   }, [engine]);
 
   const convertTTS = useCallback(async () => {
+    // Reset status
+    setProgress(0);
     setDisabled(true);
+    setFiles([]);
+
+    // Start fetching progress intervally
     const interval = setInterval(async () => {
       const res = await fetch("http://localhost:3000/api/progress?type=process-tts");
       const progress = Number(await res.text());
@@ -32,6 +37,8 @@ export default function TTS() {
         clearInterval(interval);
       }
     }, 2000);
+
+    // Request process TTS
     const res = await fetch("http://localhost:3000/api/process-tts", {
       method: "POST",
       headers: {
@@ -43,9 +50,13 @@ export default function TTS() {
         text: textareaRef.current?.value,
       }),
     });
-    const files = [...(await res.json())].reverse();
-    setFiles(files);
-    setDisabled(false);
+
+    // Retrieve response containing file list, making sure to update right after progress
+    const files = await res.json();
+    setTimeout(() => {
+      setFiles(files);
+      setDisabled(false);
+    }, 2000);
   }, [engine, voice]);
 
   return (
@@ -99,7 +110,7 @@ export default function TTS() {
           <CardContent className="pt-6 h-full flex flex-col gap-4">
             <div className="space-y-1 w-full">
               <Label htmlFor="based-srt-input">SRT to Synthesize</Label>
-              <Textarea className="h-full resize-none" ref={textareaRef} />
+              <Textarea className="h-full resize-y" ref={textareaRef} />
             </div>
           </CardContent>
         </Card>
@@ -108,6 +119,7 @@ export default function TTS() {
           {disabled ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <></>}
           Convert TTS
         </Button>
+
         <br />
         <hr />
         <br />

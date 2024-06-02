@@ -155,12 +155,12 @@ def srt_parse(srt, diff=False, merge=False):
             score += 1
         if len(line.split()) == 1:
             score += 1
-        if score < 2 and i not in [140, 157, 305, 306, 449, 459, 429, 609, 643, 854, 957, 1022, 1178]:
+        if score < 2:
             print('[SKIPPED]', i, score, line)
             continue
         ndialogue_srt.append(dialogue)
-
     dialogue_srt = ndialogue_srt
+
     # Merge dialogues if duplicate
     ndialogue_srt = []
     for i, dialogue in enumerate(dialogue_srt):
@@ -200,7 +200,7 @@ def srt_process(srt_list, outfile, tts=False):
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("usage: python3 process_srt.py input.srt [diff:True/False] [merge:True/False]")
+        print("usage: python3 process_srt.py input.srt [lang_diff:True/False] [merge:True/False]")
     else:
         print("[*] Parsing...")
         srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True")

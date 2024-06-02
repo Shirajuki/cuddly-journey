@@ -16,8 +16,16 @@ export default function Home() {
           </p>
         </div>
         <div className="flex gap-4">
-          <Link to="/playground">
-            <Button>Playground</Button>
+          <Link to="/documentation">
+            <Button>Get Started</Button>
+          </Link>
+          <Link
+            to="/playground"
+            search={{
+              tab: "extract-srt",
+            }}
+          >
+            <Button>Try It In The playground</Button>
           </Link>
           <Link to="/editor">
             <Button>Editor</Button>

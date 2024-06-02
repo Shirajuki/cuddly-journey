@@ -13,21 +13,16 @@ import { createFileRoute } from '@tanstack/react-router'
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
+import { Route as PlaygroundImport } from './routes/playground'
 
 // Create Virtual Routes
 
-const PlaygroundLazyImport = createFileRoute('/playground')()
 const EditorLazyImport = createFileRoute('/editor')()
 const DocumentationLazyImport = createFileRoute('/documentation')()
 const BatchEditLazyImport = createFileRoute('/batch-edit')()
 const IndexLazyImport = createFileRoute('/')()
 
 // Create/Update Routes
-
-const PlaygroundLazyRoute = PlaygroundLazyImport.update({
-  path: '/playground',
-  getParentRoute: () => rootRoute,
-} as any).lazy(() => import('./routes/playground.lazy').then((d) => d.Route))
 
 const EditorLazyRoute = EditorLazyImport.update({
   path: '/editor',
@@ -44,6 +39,11 @@ const BatchEditLazyRoute = BatchEditLazyImport.update({
   getParentRoute: () => rootRoute,
 } as any).lazy(() => import('./routes/batch-edit.lazy').then((d) => d.Route))
 
+const PlaygroundRoute = PlaygroundImport.update({
+  path: '/playground',
+  getParentRoute: () => rootRoute,
+} as any)
+
 const IndexLazyRoute = IndexLazyImport.update({
   path: '/',
   getParentRoute: () => rootRoute,
@@ -55,6 +55,10 @@ declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
     '/': {
       preLoaderRoute: typeof IndexLazyImport
+      parentRoute: typeof rootRoute
+    }
+    '/playground': {
+      preLoaderRoute: typeof PlaygroundImport
       parentRoute: typeof rootRoute
     }
     '/batch-edit': {
@@ -69,10 +73,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof EditorLazyImport
       parentRoute: typeof rootRoute
     }
-    '/playground': {
-      preLoaderRoute: typeof PlaygroundLazyImport
-      parentRoute: typeof rootRoute
-    }
   }
 }
 
@@ -80,10 +80,10 @@ declare module '@tanstack/react-router' {
 
 export const routeTree = rootRoute.addChildren([
   IndexLazyRoute,
+  PlaygroundRoute,
   BatchEditLazyRoute,
   DocumentationLazyRoute,
   EditorLazyRoute,
-  PlaygroundLazyRoute,
 ])
 
 /* prettier-ignore-end */
