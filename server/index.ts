@@ -45,7 +45,7 @@ const app = new Elysia()
           await $`echo 100 > progress-process-srt.txt`.cwd("../scripts/output").quiet();
           return [];
         }
-        await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))}`.cwd("../scripts/tts_srt_parsing").text();
+        await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))}`.cwd("../scripts/tts_srt_parsing").quiet();
 
         const files = await readdir("../scripts/output");
         return files.filter(f => f === "subbed.srt" || f === "filtered.srt");
@@ -60,23 +60,13 @@ const app = new Elysia()
         })
       })
       .post("/process-tts", async ({ body }) => {
-        const {engine, voice, text} = body;
+        const {engine, voice, input} = body;
 
         await clear("mp3");
         await clear("wav");
-        const tmp = (await $`mktemp`.text()).trim()
 
-        // Check whether text is correct SRT format or not
-        const firstTimestamp = text.trim().split("\n").at(1)?.trim();
-        if (firstTimestamp?.includes(" --> ") && firstTimestamp.length === 29) {
-          await Bun.write(tmp, text.trim());
-        } else {
-          const ntext = `1\n00:00:00,000 --> 00:13:37,000\n${text.trim()}`;
-          await Bun.write(tmp, ntext);
-        }
-
-        // await $`python3 tts-${engine}.py ${tmp} ${voice}`.cwd("../scripts/tts_srt_parsing").text();
-        await $`python3 tts-${engine}.py ${tmp}`.cwd("../scripts/tts_srt_parsing").text();
+        // await $`python3 tts-${engine}.py ${input ${voice}`.cwd("../scripts/tts_srt_parsing").text();
+        await $`python3 tts-${engine}.py ${input}`.cwd("../scripts/tts_srt_parsing").quiet();
 
         const files = await readdir("../scripts/output");
         const filteredFiles = files.filter(f => (f.includes(".mp3") || f.includes(".wav")) && f.split(".")?.at(0) == String(Number(f.split(".")?.at(0))));
@@ -85,11 +75,20 @@ const app = new Elysia()
         body: t.Object({
           engine: t.String(),
           voice: t.String(),
-          text: t.String()
+          input: t.String()
         })
       })
       .post("/process-audio", async ({ body }) => {
-        return body;
+        const { config } = body;
+        if (config.trim() === "standalone") {
+          await $`python3 standalone.py`.cwd("../scripts/process_video").quiet();
+        }
+        const files = await readdir("../scripts/output");
+        return files.filter(f => f === "output.mp3");
+      }, {
+        body: t.Object({
+          config: t.String(),
+        })
       })
   })
 	.listen(3000)

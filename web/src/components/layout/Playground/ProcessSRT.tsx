@@ -77,6 +77,7 @@ export default function ProcessSRT() {
             </div>
           </CardContent>
         </Card>
+
         <Card className="w-full bg-black/45">
           <CardContent className="pt-6 h-full flex flex-col gap-4">
             <div>

@@ -1,5 +1,4 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
@@ -7,6 +6,7 @@ import { Progress } from "@/components/ui/progress";
 import { TTS_EDGE_VOICES, TTS_VOLCENGINE_VOICES, TTS_YOUDAO_VOICES } from "@/lib/consts";
 import { Loader2 } from "lucide-react";
 import { useCallback, useMemo, useRef, useState } from "react";
+import { Input } from "@/components/ui/input";
 
 export default function TTS() {
   const [engine, setEngine] = useState("edge");
@@ -14,7 +14,7 @@ export default function TTS() {
   const [progress, setProgress] = useState(0);
   const [disabled, setDisabled] = useState(false);
   const [files, setFiles] = useState<string[]>([]);
-  const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const voices = useMemo(() => {
     if (engine === "edge") return TTS_EDGE_VOICES;
@@ -47,7 +47,7 @@ export default function TTS() {
       body: JSON.stringify({
         engine: engine,
         voice: voice,
-        text: textareaRef.current?.value,
+        input: inputRef.current?.value,
       }),
     });
 
@@ -66,6 +66,19 @@ export default function TTS() {
         <CardDescription>Includes scripts for audio generation through audio inference and TTS</CardDescription>
       </CardHeader>
       <CardContent className="flex flex-col gap-4">
+        <Card className="w-full bg-black/45">
+          <CardContent className="pt-6 h-full flex flex-col gap-4">
+            <div>
+              <p className="text-base font-bold">Input and output files</p>
+              <p className="text-sm text-muted-foreground">The absolute system path to the files.</p>
+            </div>
+            <div className="space-y-1">
+              <Label htmlFor="video-input">SRT input (.srt)</Label>
+              <Input id="video-input" defaultValue="/tmp/input.srt" ref={inputRef} />
+            </div>
+          </CardContent>
+        </Card>
+
         <Card className="bg-black/45">
           <CardContent className="pt-6 h-full flex flex-col gap-4">
             <div className="space-y-1 w-full">
@@ -102,15 +115,6 @@ export default function TTS() {
                   ))}
                 </SelectContent>
               </Select>
-            </div>
-          </CardContent>
-        </Card>
-
-        <Card className="bg-black/45">
-          <CardContent className="pt-6 h-full flex flex-col gap-4">
-            <div className="space-y-1 w-full">
-              <Label htmlFor="based-srt-input">SRT to Synthesize</Label>
-              <Textarea className="h-full resize-y" ref={textareaRef} />
             </div>
           </CardContent>
         </Card>

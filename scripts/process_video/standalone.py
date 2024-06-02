@@ -73,6 +73,7 @@ def standalone_save(audios, segments):
         print(f"Segment num:", i)
         for seg in audio_segment:
             audio_segments[i] = audio_segments[i].overlay(seg["audio"], position=seg["start"])
+        os.popen(f"echo {33+((i+1)*16)} > ../output/progress-process-audio.txt").read()
 
     print("Combining audio segments into one track")
     # Overlay all the different audio segments into one
@@ -81,6 +82,7 @@ def standalone_save(audios, segments):
         if i > 1:
             combined = combined.overlay(seg)
     file_handle = combined.export("../output/output.mp3", format="mp3")
+    os.popen(f"echo 100 > ../output/progress-process-audio.txt").read()
 
 def srt_parse(srt, data, meta={}):
     segments = [[],[],[]]
@@ -91,6 +93,7 @@ def srt_parse(srt, data, meta={}):
         start = srt_timestamp_to_millis(str(subs[i].start))
         d = {"index": i, "start": start}
         standalone_process(d, segments, meta)
+    os.popen(f"echo 33 > ../output/progress-process-audio.txt").read()
 
     standalone_save(data, segments)
 
@@ -100,6 +103,8 @@ if __name__ == "__main__":
         exit(0)
 
     print("[*] Parsing...")
+    os.popen(f"echo 0 > ../output/progress-process-audio.txt").read()
     data, meta = standalone_parse()
+    os.popen(f"echo 16 > ../output/progress-process-audio.txt").read()
     srt_parse(srt, data, data)
 
