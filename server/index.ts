@@ -10,7 +10,7 @@ const capitalize = (str: string) => str.substring(0,1).toUpperCase() + str.subst
 
 const app = new Elysia()
   .use(cors())
-	.get('/', () => 'Hello Elysia')
+	.get('/', () => 'Hello Elysia (*/ω＼*)')
   .group("/api", app => {
     return app
       .get("/progress", async ({ query }) => {
@@ -34,6 +34,7 @@ const app = new Elysia()
         })
       })
       .post("/extract-srt", async ({ body }) => {
+        // TBA
         return body;
       })
       .post("/process-srt", async ({ body }) => {
@@ -61,11 +62,9 @@ const app = new Elysia()
       })
       .post("/process-tts", async ({ body }) => {
         const {engine, voice, input} = body;
-
         await clear("mp3");
         await clear("wav");
 
-        // await $`python3 tts-${engine}.py ${input ${voice}`.cwd("../scripts/tts_srt_parsing").text();
         await $`python3 tts-${engine}.py ${input}`.cwd("../scripts/tts_srt_parsing").quiet();
 
         const files = await readdir("../scripts/output");
@@ -80,14 +79,36 @@ const app = new Elysia()
       })
       .post("/process-audio", async ({ body }) => {
         const { config } = body;
+        
+        // Only process if config is valid
         if (config.trim() === "standalone") {
           await $`python3 standalone.py`.cwd("../scripts/process_video").quiet();
+        } else {
+          await $`echo 100 > progress-process-audio.txt`.cwd("../scripts/output").quiet();
         }
         const files = await readdir("../scripts/output");
         return files.filter(f => f === "output.mp3");
       }, {
         body: t.Object({
           config: t.String(),
+        })
+      })
+      .post("/batch-edit", async ({ body }) => {
+        const { index } = body;
+        
+        // Check if specific files exist before processing
+        if (!await Bun.file("../scripts/output/filtered.srt").exists()) return 0;
+        if (!await Bun.file("../scripts/output/subbed.srt").exists()) return 0;
+        if (!await Bun.file("../scripts/output/output.mp3").exists()) return 0;
+        
+        await $`cp filtered.srt batch/${String(index).padStart(3, "0")}-filtered.srt`.cwd("../scripts/output").quiet();
+        await $`cp subbed.srt batch/${String(index).padStart(3, "0")}-subbed.srt`.cwd("../scripts/output").quiet();
+        await $`cp output.mp3 batch/${String(index).padStart(3, "0")}-output.mp3`.cwd("../scripts/output").quiet();
+
+        return 1;
+      }, {
+        body: t.Object({
+          index: t.Number(),
         })
       })
   })

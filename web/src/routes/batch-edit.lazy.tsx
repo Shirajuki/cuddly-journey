@@ -1,3 +1,4 @@
+import BatchEditPage from "@/components/layout/Editor/BatchEditPage";
 import { createLazyFileRoute } from "@tanstack/react-router";
 
 export const Route = createLazyFileRoute("/batch-edit")({
@@ -5,9 +6,5 @@ export const Route = createLazyFileRoute("/batch-edit")({
 });
 
 function BatchEdit() {
-  return (
-    <>
-      <h1>Batch edit</h1>
-    </>
-  );
+  return <BatchEditPage />;
 }

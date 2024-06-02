@@ -171,17 +171,15 @@ export default function ProcessSRT() {
         <hr />
         <br />
 
-        <Card className="w-[calc(100%-1rem)]">
+        <Card className="w-full">
           <CardContent className="pt-6 flex flex-col justify-center items-center gap-4">
             <div className="space-y-1 w-full">
               <Progress value={progress} />
             </div>
             <div className="space-y-1 w-full">
               {files.map((filename) => (
-                <div className="bg-white/5 rounded-md w-full">
-                  <Button variant="link" key={filename}>
-                    {filename}
-                  </Button>
+                <div className="bg-white/5 rounded-md w-full" key={filename}>
+                  <Button variant="link">{filename}</Button>
                 </div>
               ))}
             </div>
