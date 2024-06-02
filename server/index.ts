@@ -6,6 +6,7 @@ import { readdir } from "node:fs/promises";
 const clear = async (extension: string) => {
   await $`rm -f *.${extension} || ls`.cwd("../scripts/output").quiet();
 }
+const capitalize = (str: string) => str.substring(0,1).toUpperCase() + str.substring(1,str.length).toLowerCase();
 
 const app = new Elysia()
   .use(cors())
@@ -36,11 +37,30 @@ const app = new Elysia()
         return body;
       })
       .post("/process-srt", async ({ body }) => {
-        return body;
+        const {input, options} = body;
+        await clear("srt");
+
+        // Only process if file exist
+        if (!await Bun.file(input.trim()).exists()) {
+          await $`echo 100 > progress-process-srt.txt`.cwd("../scripts/output").quiet();
+          return [];
+        }
+        await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))}`.cwd("../scripts/tts_srt_parsing").text();
+
+        const files = await readdir("../scripts/output");
+        return files.filter(f => f === "subbed.srt" || f === "filtered.srt");
+      }, {
+        body: t.Object({
+          input: t.String(),
+          options: t.Object({
+            langdiff: t.Boolean(), 
+            merge: t.Boolean(), 
+            crosstalk: t.Boolean(), 
+          }),
+        })
       })
       .post("/process-tts", async ({ body }) => {
         const {engine, voice, text} = body;
-        if (!engine || !voice || !text) return 0;
 
         await clear("mp3");
         await clear("wav");
@@ -55,6 +75,7 @@ const app = new Elysia()
           await Bun.write(tmp, ntext);
         }
 
+        // await $`python3 tts-${engine}.py ${tmp} ${voice}`.cwd("../scripts/tts_srt_parsing").text();
         await $`python3 tts-${engine}.py ${tmp}`.cwd("../scripts/tts_srt_parsing").text();
 
         const files = await readdir("../scripts/output");

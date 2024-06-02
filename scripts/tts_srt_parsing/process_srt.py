@@ -16,6 +16,11 @@ languages = [Language.VIETNAMESE, Language.JAPANESE]
 detector = LanguageDetectorBuilder.from_languages(*languages).build()
 
 LANGUAGE_TO_DETECT = "vi"
+CHARACTERS_TO_REPLACE = [
+    ["“", '"'],
+    ["”", '"'],
+    ["'", ""],
+]
 WORDS_TO_REPLACE = [
     ["D", "Đ"],
 ]
@@ -27,17 +32,9 @@ SENTENCE_TO_REPLACE = [
     ['</i>', ''],
     ['{\\an8}', ''],
     ['…','...'],
+    ["(Xem anime sớm nhất tai VuiGhe.App nhé!)", ""],
+    ["(Xem anime sớm nhất tạii VuiGhe.App nhé!)", ""]
 ]
-CHARACTERS_TO_REPLACE = [
-    ["“", '"'],
-    ["”", '"'],
-    ["'", ""],
-]
-TEXT_TO_REMOVE = [
-    "(Xem anime sớm nhất tai VuiGhe.App nhé!)",
-    "(Xem anime sớm nhất tạii VuiGhe.App nhé!)"
-]
-REGEX = r'\(.*\)'
 REGEX = r'((size=("30")+(.*)<\/font>)|(face=("(OranienbaumEroded||Cagliostro||Courte||BorisBlackBloxx||Kozuka Mincho Pro Strippedv2 R||FOT Seurat ProN Strp Medium)"))+(.*)<\/font>)'
 
 def srt_timestamp_to_millis(timestamp):
@@ -62,6 +59,7 @@ def millis_to_srt_timestamp(total_millis):
 
 def srt_parse(srt, diff=False, merge=False, crosstalk=False):
     print("[*] Processing SRT...")
+    os.popen(f"echo 0 > ../output/progress-process-srt.txt").read()
     if srt == "none":
         return
 
@@ -99,10 +97,6 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
                         text[j] = c[1]
             text = "".join(text)
 
-            # Remove words
-            for ttr in TEXT_TO_REMOVE:
-                text = text.replace(ttr, "")
-
             # Parse display text and thinking dialogues
             ntext = text
             filtered_texts = []
@@ -130,6 +124,7 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
 
             dialogue = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": ntext.strip(), "duration": subs[i].duration}
             dialogue_srt.append(dialogue)
+    os.popen(f"echo 25 > ../output/progress-process-srt.txt").read()
 
     # Skip over wrong language subs
     ndialogue_srt = []
@@ -162,6 +157,7 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
             continue
         ndialogue_srt.append(dialogue)
     dialogue_srt = ndialogue_srt
+    os.popen(f"echo 50 > ../output/progress-process-srt.txt").read()
 
     # Merge dialogues if duplicate
     ndialogue_srt = []
@@ -192,6 +188,7 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
         dialogue["timestamp"] = f"{millis_to_srt_timestamp(start)} --> {millis_to_srt_timestamp(end)}"
         dialogue["duration"] = millis_to_srt_timestamp(duration)
         ndialogue_srt.append(dialogue)
+    os.popen(f"echo 75 > ../output/progress-process-srt.txt").read()
 
     print("[*] Saving SRT...")
     srt_process(ndialogue_srt, "../output/subbed.srt")
@@ -201,10 +198,11 @@ def srt_process(srt_list, outfile, tts=False):
     with open(outfile, "w") as f:
         for i, sub in enumerate(srt_list):
             f.write(f"{i+1}\n{sub['timestamp']}\n{sub['text']}\n\n")
+    os.popen(f"echo 100 > ../output/progress-process-srt.txt").read()
 
 if __name__ == "__main__":
     if len(sys.argv) != 5:
-        print("usage: python3 process_srt.py input.srt [lang_diff:True/False] [merge:True/False] [crosstalk:True/False]")
+        print("usage: python3 process_srt.py input.srt [langdiff:True/False] [merge:True/False] [crosstalk:True/False]")
     else:
         print("[*] Parsing...")
         srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True", sys.argv[4]=="True")
