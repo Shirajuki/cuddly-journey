@@ -16,30 +16,18 @@ The scripts relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) fo
 - Process SRT-file and generate audio dubbing through a given TTS model
 - All in one tool for easier video subbing and dubbing
 
-## Dependencies
-
-- [Python 3](https://www.python.org/downloads/)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract#installing-tesseract) with support for your target language
-- [FFmpeg](https://ffmpeg.org/download.html) to convert video to a supported format
-
-To download the required python package dependencies, run
-
-```
-pip3 install -r requirements.txt
-```
-
 ## Useful commands
 To convert mkv to mp4 run:
-- ffmpeg -i video.mkv -codec copy video.mp4
+- `ffmpeg -i video.mkv -codec copy video.mp4`
 
 To convert mp3 to wav run:
-- ffmpeg -i audio.mp3 -acodec pcm_u8 -ar 22050 audio.wav
+- `ffmpeg -i audio.mp3 -acodec pcm_u8 -ar 22050 audio.wav`
 
 To convert mp4 to mkv run:
 - `ffmpeg -i input.mp4 -vcodec copy -acodec copy movie.mkv`
 
 To extract sub channels from a video file run:
-- ffmpeg -i movie.mkv -map 0:s:0 subs.srt
+- `ffmpeg -i movie.mkv -map 0:s:0 subs.srt`
 
 ## Standalone scripts
 To extract hardcoded subtitles from a video file run:
@@ -59,7 +47,20 @@ Note that the script currently only support HD (1280x720) videos for now
 ## How to use
 TBA
 
+## Dependencies
+
+- [Python 3](https://www.python.org/downloads/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract#installing-tesseract) with support for your target language
+- [FFmpeg](https://ffmpeg.org/download.html) to convert video to a supported format
+
+To download the required python package dependencies, run
+
+```
+pip3 install -r requirements.txt
+```
+
 ## Development
+
 TBA
 
 ## Docker
