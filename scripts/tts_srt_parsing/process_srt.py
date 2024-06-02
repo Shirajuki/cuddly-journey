@@ -60,7 +60,7 @@ def millis_to_srt_timestamp(total_millis):
     time_format = '{:02}:{:02}:{:02},{:03}'
     return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
-def srt_parse(srt, diff=False, merge=False):
+def srt_parse(srt, diff=False, merge=False, crosstalk=False):
     print("[*] Processing SRT...")
     if srt == "none":
         return
@@ -70,11 +70,13 @@ def srt_parse(srt, diff=False, merge=False):
     
     subs = pysrt.open(srt)
     for i in range(len(subs)):
-        # Parse multiple dialogues on same timestamp by "-" char
+        # Parse multiple dialogues on same timestamp by "-" char / crosstalk
         texts = [x.strip() for x in subs[i].text.split("\n-")]
         if len(texts) > 1:
             texts = [" ".join(x.replace("\n", " ").split()) for x in texts]
             texts = [x[1:].strip() if x.startswith("-") else x.strip() for x in texts]
+            if not crosstalk:
+                texts = [". ".join(texts)]
         else:
             texts = subs[i].text.replace("\n", " ").split()
             texts = [" ".join(texts)]
@@ -167,9 +169,11 @@ def srt_parse(srt, diff=False, merge=False):
         if not merge:
             ndialogue_srt.append(dialogue)
             continue
+
         # Skip dialogue if the skip value is set
         if dialogue.get("skip", False):
             continue
+
         # Seek 4 next dialogues and merge them if text is same
         next = dialogue_srt[i+1:i+5]
         if len(next) == 0:
@@ -199,8 +203,8 @@ def srt_process(srt_list, outfile, tts=False):
             f.write(f"{i+1}\n{sub['timestamp']}\n{sub['text']}\n\n")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
-        print("usage: python3 process_srt.py input.srt [lang_diff:True/False] [merge:True/False]")
+    if len(sys.argv) != 5:
+        print("usage: python3 process_srt.py input.srt [lang_diff:True/False] [merge:True/False] [crosstalk:True/False]")
     else:
         print("[*] Parsing...")
-        srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True")
+        srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True", sys.argv[4]=="True")

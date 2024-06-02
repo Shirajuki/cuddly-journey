@@ -43,6 +43,7 @@ const app = new Elysia()
         if (!engine || !voice || !text) return 0;
 
         await clear("mp3");
+        await clear("wav");
         const tmp = (await $`mktemp`.text()).trim()
 
         // Check whether text is correct SRT format or not
@@ -57,7 +58,7 @@ const app = new Elysia()
         await $`python3 tts-${engine}.py ${tmp}`.cwd("../scripts/tts_srt_parsing").text();
 
         const files = await readdir("../scripts/output");
-        const filteredFiles = files.filter(f => f.includes(".mp3") && f.split(".")?.at(0) == String(Number(f.split(".")?.at(0))));
+        const filteredFiles = files.filter(f => (f.includes(".mp3") || f.includes(".wav")) && f.split(".")?.at(0) == String(Number(f.split(".")?.at(0))));
         return filteredFiles.sort((a, b) => Number(a.split(".").at(0)) - Number(b.split(".").at(0)));
       }, {
         body: t.Object({
