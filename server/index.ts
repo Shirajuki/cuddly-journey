@@ -3,8 +3,8 @@ import { Elysia, t } from 'elysia';
 import { cors } from '@elysiajs/cors';
 import { readdir } from "node:fs/promises";
 
-const clear = async (selection: string) => {
-  await $`rm -f ${selection} || ls`.cwd("../scripts/output").quiet();
+const clear = async (extension: string) => {
+  await $`rm -f *.${extension} || ls`.cwd("../scripts/output").quiet();
 }
 const capitalize = (str: string) => str.substring(0,1).toUpperCase() + str.substring(1,str.length).toLowerCase();
 
@@ -15,7 +15,7 @@ const app = new Elysia()
     return app
       .get("/file", async ({ query }) => {
         const { filename } = query;
-        return Bun.file(filename);
+        return await Bun.file(filename).text();
       }, {
         query: t.Object({
           filename: t.String()
@@ -47,7 +47,7 @@ const app = new Elysia()
       })
       .post("/process-srt", async ({ body }) => {
         const {input, options} = body;
-        await clear("*.srt");
+        await clear("srt");
 
         // Only process if file exist
         if (!await Bun.file(input.trim()).exists()) {
@@ -70,8 +70,8 @@ const app = new Elysia()
       })
       .post("/process-tts", async ({ body }) => {
         const {engine, voice, input} = body;
-        await clear("*.mp3");
-        await clear("*.wav");
+        await clear("mp3");
+        await clear("wav");
 
         await $`python3 tts-${engine}.py ${input}`.cwd("../scripts/tts_srt_parsing").quiet();
 

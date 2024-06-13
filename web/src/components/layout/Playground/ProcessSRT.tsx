@@ -10,23 +10,21 @@ import { Progress } from "@/components/ui/progress";
 import { Loader2 } from "lucide-react";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
-import { processSrt, pollProcessSrt } from "@/api/processSrt";
+import { apiProcessSRT } from "@/api/processSRT";
+import { poll } from "@/api/poll";
 import useProcessing from "@/lib/useProcessing";
 
 export default function ProcessSRT() {
-  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
+  const { startProcess, finishProcess, progress, setProgress, disabled, files } = useProcessing();
   const inputRef = useRef<HTMLInputElement>(null);
   const langdiffRef = useRef<HTMLButtonElement>(null);
   const mergeRef = useRef<HTMLButtonElement>(null);
   const crosstalkRef = useRef<HTMLButtonElement>(null);
 
   const processSRT = async () => {
-    // Reset status
-    reset();
-    // Start progress polling
-    pollProcessSrt(setProgress);
-    // Request process TTS and retrieve response containing file list, making sure to update right after progress
-    const { files } = await processSrt({
+    startProcess();
+    poll({ progressCallback: setProgress, type: "process-srt" });
+    const { files } = await apiProcessSRT({
       input: inputRef.current?.value,
       options: {
         langdiff: langdiffRef.current?.dataset?.state === "checked",
@@ -35,7 +33,7 @@ export default function ProcessSRT() {
       },
     });
     setTimeout(() => {
-      finish(files);
+      finishProcess(files);
     }, 2000);
   };
 

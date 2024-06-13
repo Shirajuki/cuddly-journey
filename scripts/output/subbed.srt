@@ -1,1156 +1,1289 @@
 1
+00:00:00,630 --> 00:00:03,760
+NGUYÊN TÁC: HYUUGA NATSU
+
+2
+00:01:30,930 --> 00:01:31,800
+TÁC PHẨM NÀY LÀ HƯ CẤU,
+TẤT CẢ TÊN NHÂN VẬT, TỔ CHỨC
+
+3
+00:01:31,930 --> 00:01:32,720
+ĐỀU LÀ SẢN PHẨM TƯỞNG TƯỢNG. NGOÀI RA,
+CÂU CHUYỆN KHÔNG LIÊN QUAN
+
+4
+00:01:32,850 --> 00:01:34,520
+TỚI CÁC SỰ KIỆN VÀ SỰ VIỆC NGOÀI ĐỜI THỰC.
+
+5
 00:01:37,730 --> 00:01:38,940
 Miêu Miêu.
 
-2
+6
 00:01:41,150 --> 00:01:44,400
-Con mang chỗ thuốc này tới Lục Thanh quán nhé?
+Con mang chỗ thuốc này
+tới Lục Thanh quán nhé?
 
-3
+7
 00:01:45,440 --> 00:01:46,650
 Biết rồi, ông già.
 
-4
+8
 00:01:47,990 --> 00:01:50,530
 Dạo này có nhiều cô gái bị bắt cóc lắm đó.
 
-5
+9
 00:01:50,660 --> 00:01:52,410
 Nhớ cẩn thận.
 
-6
+10
 00:01:52,530 --> 00:01:54,080
 Yên tâm, khỏi lo cho con.
 
-7
+11
 00:01:54,200 --> 00:01:55,870
 Con sẽ ghé qua vườn thuốc.
 
-8
+12
 00:01:56,000 --> 00:01:58,210
 Ừ. Cảm ơn con.
 
-9
+13
 00:01:58,330 --> 00:01:59,670
 Con đi đây!
 
-10
+14
+00:02:15,220 --> 00:02:17,640
+LỤC THANH QUÁN
+
+15
 00:02:23,690 --> 00:02:24,980
 Chỉ có bấy nhiêu thôi à?
 
-11
+16
 00:02:25,110 --> 00:02:26,900
 Còn sao nữa, toàn bộ gia tài của tôi đó!
 
-12
+17
 00:02:31,820 --> 00:02:34,280
 Có ai hỏi chuyện đó đâu.
 
-13
+18
 00:02:34,410 --> 00:02:36,870
-Một trong ba hồng bài của Lục Thanh quán kìa,
+Một trong ba hồng bài
+của Lục Thanh quán kìa,
 
-14
+19
 00:02:36,990 --> 00:02:38,450
 là Bạch Linh nổi tiếng đó!
 
-15
+20
 00:02:38,580 --> 00:02:40,290
 Ai cho ngắm miễn phí hả!
 
-16
+21
 00:02:49,920 --> 00:02:52,800
-Vết thương lâu lành quá. Thử đổi công thức xem sao.
+Vết thương lâu lành quá.
+Thử đổi công thức xem sao.
 
-17
+22
 00:02:52,930 --> 00:02:55,100
 Ô, Miêu Miêu đó à.
 
-18
+23
 00:02:55,220 --> 00:02:56,680
 Đại tỉ Bạch Linh!
 
-19
+24
 00:02:56,810 --> 00:02:58,770
 Nhìn mấy vết sẹo mới kìa!
 
-20
+25
 00:02:58,890 --> 00:03:00,270
 À, đây ạ?
 
-21
+26
 00:03:00,390 --> 00:03:02,390
 Em thử thuốc như mọi khi ấy mà.
 
-22
+27
 00:03:03,560 --> 00:03:05,150
 Em có ăn uống hẳn hoi không đó?
 
-23
+28
 00:03:05,270 --> 00:03:07,860
 Thứ đó vẫn ấn tượng như mọi khi vậy.
 
-24
+29
 00:03:07,980 --> 00:03:10,950
 Miêu Miêu! Nếu các thử nghiệm của mi
 
-25
+30
 00:03:11,070 --> 00:03:13,780
-mà làm nổ căn phòng này thì biết tay ta đấy!
+mà làm nổ căn phòng này
+thì biết tay ta đấy!
 
-26
+31
 00:03:16,280 --> 00:03:19,330
 Hay mi có muốn làm kỹ nữ ở đây không?
 
-27
+32
 00:03:19,450 --> 00:03:20,750
 Không đâu!
 
-28
+33
 00:03:20,870 --> 00:03:22,580
 Bà bà, con để thuốc ở đây nhé!
 
-29
+34
 00:03:22,710 --> 00:03:24,290
 Giúp ta gửi lời chào tới ông già nhé!
 
-30
+35
 00:03:24,420 --> 00:03:25,830
 Đúng thật là.
 
-31
+36
 00:03:25,960 --> 00:03:27,590
 Nghe như có tiếng của Miêu Miêu nhỉ.
 
-32
+37
 00:03:27,710 --> 00:03:30,800
-Miêu Miêu đi đâu rồi?. Con bé chuồn rồi.
+- Miêu Miêu đi đâu rồi?
+- Con bé chuồn rồi.
 
-33
+38
 00:03:30,920 --> 00:03:32,470
 Lão bà bà không đứng đắn ấy...
 
-34
+39
 00:03:32,590 --> 00:03:34,590
 Hơi tí là lại dụ mình làm kỹ nữ!
 
-35
+40
 00:03:50,860 --> 00:03:52,320
 Đây là bọn bắt cóc sao?
 
-36
+41
 00:03:58,580 --> 00:04:01,540
 Ông già sẽ lo cho mình lắm đây.
 
-37
+42
 00:04:18,850 --> 00:04:20,720
 Đông cung Thái tử đã chào đời!
 
-38
+43
 00:04:20,850 --> 00:04:22,850
 Xin chúc mừng Lê Hoa Phi!
 
-39
+44
 00:04:30,520 --> 00:04:33,400
-Nương nương đã hạ sinh mẹ tròn con vuông rồi ạ.
+Nương nương đã hạ sinh
+mẹ tròn con vuông rồi ạ.
 
-40
+45
 00:04:33,530 --> 00:04:35,450
 Ta biết rồi. Thật mừng...
 
-41
+46
+00:04:40,530 --> 00:04:43,660
+BA THÁNG SAU
+
+47
 00:04:48,750 --> 00:04:51,670
 Thèm ăn thịt xiên ngoài chợ quá.
 
-42
+48
 00:04:52,670 --> 00:04:55,420
 Mong là ông già vẫn ăn uống tử tế.
 
-43
+49
 00:04:57,090 --> 00:05:01,140
-Bực mình quá. Không biết mình bị bán đi hay phải thế thân cho ai nữa,
+Bực mình quá. Không biết mình
+bị bán đi hay phải thế thân cho ai nữa,
 
-44
+50
 00:05:01,260 --> 00:05:04,060
-nhưng đã được ba tháng kể từ khi mình tới nơi này.
+nhưng đã được ba tháng
+kể từ khi mình tới nơi này.
 
-45
+51
 00:05:04,180 --> 00:05:07,310
-Hoàng cung và phố đèn đỏ cũng không có gì khác biệt.
+Hoàng cung và phố đèn đỏ
+cũng không có gì khác biệt.
 
-46
+52
 00:05:07,440 --> 00:05:11,190
-Nếu có thể thì mình muốn tránh dính líu đến chuyện hậu cung, nhưng...
+Nếu có thể thì mình muốn tránh
+dính líu đến chuyện hậu cung, nhưng...
 
-47
+53
 00:05:12,570 --> 00:05:15,780
 giờ đã vào đây rồi thì khó lắm.
 
-48
-00:05:15,900 --> 00:05:19,620
-Mình đang có cuộc sống làm dược sư thoải mái vậy mà...
-
-49
-00:05:21,120 --> 00:05:25,330
-Hậu cung là nơi chỉ toàn phụ nữ, những người sinh con cho Hoàng đế.
-
-50
-00:05:25,450 --> 00:05:28,670
-Đàn ông bị nghiêm cấm không được đặt chân vào nơi này.
-
-51
-00:05:28,790 --> 00:05:33,460
-Những người duy nhất có thể vào đây là người đứng đầu đất nước và người nhà họ.
-
-52
-00:05:33,590 --> 00:05:36,010
-Ngoài ra, chỉ có thái giám, kẻ "từng là đàn ông"
-
-53
-00:05:36,130 --> 00:05:39,300
-nhưng đã mất đi "của quý" là có thể vào đây.
-
 54
+00:05:15,900 --> 00:05:19,620
+Mình đang có cuộc sống
+làm dược sư thoải mái vậy mà...
+
+55
+00:05:21,120 --> 00:05:25,330
+Hậu cung là nơi chỉ toàn phụ nữ,
+những người sinh con cho Hoàng đế.
+
+56
+00:05:25,450 --> 00:05:28,670
+Đàn ông bị nghiêm cấm
+không được đặt chân vào nơi này.
+
+57
+00:05:28,790 --> 00:05:33,460
+Những người duy nhất có thể vào đây là
+người đứng đầu đất nước và người nhà họ.
+
+58
+00:05:33,590 --> 00:05:36,010
+Ngoài ra, chỉ có thái giám,
+kẻ "từng là đàn ông"
+
+59
+00:05:36,130 --> 00:05:39,300
+nhưng đã mất đi "của quý"
+là có thể vào đây.
+
+60
 00:05:39,430 --> 00:05:42,470
 Tổng số phi tần và cung nữ là 2.000 người.
 
-55
+61
 00:05:42,600 --> 00:05:45,520
-Còn có 1.000 thái giám, cho thấy nơi này vô cùng rộng lớn.
+Còn có 1.000 thái giám,
+cho thấy nơi này vô cùng rộng lớn.
 
-56
+62
 00:05:45,640 --> 00:05:49,100
-Không như các phi tần thượng cấp, trung cấp và hạ cấp,
+Không như các phi tần thượng cấp,
+trung cấp và hạ cấp,
 
-57
+63
 00:05:49,230 --> 00:05:51,940
-những nô tì làm công việc tầm thường như mình
+những nô tì làm
+công việc tầm thường như mình
 
-58
+64
 00:05:52,060 --> 00:05:54,110
 có thể mất mạng bất cứ lúc nào.
 
-59
-00:05:56,030 --> 00:05:58,860
-Ngoài ra còn các phi tần hạ cấp đang ẩn mình.
+65
+00:05:54,230 --> 00:05:55,900
+THẬP THẤT
 
-60
+66
+00:05:56,030 --> 00:05:58,860
+Ngoài ra còn
+các phi tần hạ cấp đang ẩn mình.
+
+67
 00:05:58,990 --> 00:06:02,280
 Ít nhất thì mình vẫn được nhận lương bổng.
 
-61
+68
 00:06:02,410 --> 00:06:04,540
 Miêu Miêu ơi!
 
-62
+69
 00:06:04,660 --> 00:06:07,160
-Cậu có biết thẻ tên này là của phòng nào không?
+Cậu có biết thẻ tên này
+là của phòng nào không?
 
-63
+70
 00:06:08,160 --> 00:06:11,670
 Là của Cửu Tử Đằng, nên là ở đằng kia.
 
-64
+71
 00:06:11,790 --> 00:06:13,960
 Cảm ơn cậu!
 
-65
+72
 00:06:14,090 --> 00:06:17,380
 Có nhiều nô tì không biết đọc chữ.
 
-66
+73
 00:06:17,510 --> 00:06:18,970
 Trước khi vào làm việc ở hậu cung,
 
-67
+74
 00:06:19,090 --> 00:06:21,840
-bọn mình được dạy bảo khắt khe các phép tắc cơ bản,
+bọn mình được dạy bảo khắt khe
+các phép tắc cơ bản,
 
-68
+75
 00:06:21,970 --> 00:06:25,180
-nhưng những thứ đó khác với việc đọc và viết.
+nhưng những thứ đó
+khác với việc đọc và viết.
 
-69
+76
 00:06:25,310 --> 00:06:28,060
-Dù cho có được nhận lương cao hơn nếu biết chữ,
+Dù cho có được
+nhận lương cao hơn nếu biết chữ,
 
-70
+77
 00:06:28,180 --> 00:06:31,400
-thì lũ bắt cóc cũng sẽ nhận được tiền thưởng nhiều hơn.
+thì lũ bắt cóc cũng sẽ
+nhận được tiền thưởng nhiều hơn.
 
-71
+78
 00:06:32,520 --> 00:06:34,150
 Cũng có rất ít trường hợp
 
-72
+79
 00:06:34,270 --> 00:06:36,440
 nô tì được thăng lên làm phi tần hạ cấp.
 
-73
+80
 00:06:36,570 --> 00:06:37,570
 Đơn giản thôi...
 
-74
+81
 00:06:40,030 --> 00:06:41,110
 nếu có ngoại hình.
 
-75
+82
 00:06:41,240 --> 00:06:44,120
 Tàn nhang, ngực phẳng.
 
-76
+83
 00:06:44,240 --> 00:06:45,580
 Cơ thể không đường cong.
 
-77
+84
 00:06:45,700 --> 00:06:48,040
 Như mình thì hoàn toàn không có cơ hội.
 
-78
+85
 00:06:53,080 --> 00:06:56,630
-Nếu trông nổi trội quá thì mạng sống sẽ gặp nguy mất.
+Nếu trông nổi trội quá thì
+mạng sống sẽ gặp nguy mất.
 
-79
+86
 00:06:56,750 --> 00:06:57,920
 Mình thà như này còn hơn.
 
-80
+87
 00:06:59,300 --> 00:07:02,510
-Nếu lẳng lặng mà làm việc thì sẽ được ra khỏi đây sau hai năm.
+Nếu lẳng lặng mà làm việc
+thì sẽ được ra khỏi đây sau hai năm.
 
-81
+88
 00:07:04,340 --> 00:07:06,600
 Thèm nhậu quá đi mất!
 
-82
+89
 00:07:09,180 --> 00:07:10,930
-Nè, cậu nghe tin gì chưa?. Tin gì?
+- Nè, cậu nghe tin gì chưa?
+- Tin gì?
 
-83
+90
 00:07:11,060 --> 00:07:14,940
-Có một thái giám ở chính cung trông đẹp lắm đó.
+Có một thái giám ở chính cung
+trông đẹp lắm đó.
 
-84
+91
 00:07:15,060 --> 00:07:18,360
-Dạo gần đây, mọi người đều đang bàn tán về người đó!
+Dạo gần đây, mọi người
+đều đang bàn tán về người đó!
 
-85
+92
 00:07:18,480 --> 00:07:19,900
 Vậy à.
 
-86
+93
 00:07:20,030 --> 00:07:23,950
-Nếu đẹp đến vậy thì tớ cũng muốn được nhìn thấy một lần. Cậu có nghĩ vậy không?
+Nếu đẹp đến vậy thì tớ cũng muốn được
+nhìn thấy một lần. Cậu có nghĩ vậy không?
 
-87
+94
 00:07:25,120 --> 00:07:27,030
 Một thái giám sao?
 
-88
+95
 00:07:55,190 --> 00:07:58,440
-Nương nương sụt cân nhiều quá.. Đúng vậy.
+- Nương nương sụt cân nhiều quá.
+- Đúng vậy.
 
-89
+96
 00:08:04,820 --> 00:08:08,530
 Tiểu Linh... Thật không may,
 
-90
+97
 00:08:08,660 --> 00:08:11,660
-thái y đang tất bật với việc của Đông cung.
+thái y đang tất bật
+với việc của Đông cung.
 
-91
+98
 00:08:13,750 --> 00:08:15,290
 Ta hiểu rồi.
 
-92
+99
 00:08:16,880 --> 00:08:19,500
-Mới có ba tháng và sáu tháng tuổi thôi sao?
+Mới có ba tháng
+và sáu tháng tuổi thôi sao?
 
-93
+100
 00:08:19,630 --> 00:08:23,510
 Phải, cả Đông cung và công chúa Linh Lệ.
 
-94
+101
 00:08:23,630 --> 00:08:25,880
-Cậu có nghĩ đó là lời nguyền như tin đồn không?
+Cậu có nghĩ đó là lời nguyền
+như tin đồn không?
 
-95
+102
 00:08:27,180 --> 00:08:28,100
 Lời nguyền gì?
 
-96
+103
 00:08:28,220 --> 00:08:30,640
 Cậu không biết sao, Miêu Miêu?
 
-97
+104
 00:08:30,760 --> 00:08:34,560
-Toàn bộ hậu cung đều đang bàn tán về chuyện này!
+Toàn bộ hậu cung
+đều đang bàn tán về chuyện này!
 
-98
+105
 00:08:34,690 --> 00:08:38,110
-Về cái chết hàng loạt của các hậu duệ ở hậu cung ấy.
+Về cái chết hàng loạt
+của các hậu duệ ở hậu cung ấy.
 
-99
+106
 00:08:38,230 --> 00:08:40,860
 Cả ba con của Hoàng đế
 
-100
+107
 00:08:40,980 --> 00:08:43,860
 đều yếu dần sau khi sinh ra rồi chết yểu!
 
-101
+108
 00:08:43,990 --> 00:08:45,490
 Lạ lắm phải không?
 
-102
+109
 00:08:45,610 --> 00:08:46,820
 Cả ba đứa bé sao?
 
-103
+110
 00:08:46,950 --> 00:08:49,240
 Có vẻ như chuyện tương tự đang tái diễn.
 
-104
+111
 00:08:49,370 --> 00:08:50,490
 Cơ thể yếu đi sao?
 
-105
+112
 00:08:50,620 --> 00:08:54,290
-Đúng rồi đó! Nên lần này, thái y đã vào cung của cả Ngọc Diệp Phi
+Đúng rồi đó! Nên lần này, thái y
+đã vào cung của cả Ngọc Diệp Phi
 
-106
+113
 00:08:54,410 --> 00:08:57,670
 và Lê Hoa Phi!
 
-107
+114
 00:08:59,460 --> 00:09:01,960
 Hoàng đế hiện chưa có Hoàng hậu,
 
-108
+115
 00:09:02,090 --> 00:09:05,760
-nên Lê Hoa Phi, người hạ sinh ra Thái tử sẽ lên làm Hoàng hậu!
+nên Lê Hoa Phi, người hạ sinh
+ra Thái tử sẽ lên làm Hoàng hậu!
 
-109
+116
 00:09:05,880 --> 00:09:07,680
 Chuyện đó thì rõ mười mươi rồi.
 
-110
+117
 00:09:07,800 --> 00:09:11,760
-Nếu Hoàng đế chưa có Hoàng hậu, thì phi tần hạ sinh Thái tử,
+Nếu Hoàng đế chưa có Hoàng hậu,
+thì phi tần hạ sinh Thái tử,
 
-111
+118
 00:09:11,890 --> 00:09:14,270
 Lê Hoa Phi, sẽ là người đứng đầu hậu cung.
 
-112
+119
 00:09:14,390 --> 00:09:17,060
-Nhưng có tin đồn rằng người Hoàng đế sủng ái nhất
+Nhưng có tin đồn rằng
+người Hoàng đế sủng ái nhất
 
-113
+120
 00:09:17,190 --> 00:09:19,350
 lại là Ngọc Diệp Phi.
 
-114
+121
 00:09:19,480 --> 00:09:23,190
-Mọi người cho rằng chuyện đó có liên quan đến vụ này.
+Mọi người cho rằng
+chuyện đó có liên quan đến vụ này.
 
-115
+122
 00:09:23,320 --> 00:09:26,280
 Tranh giành quyền lực chính trị sao?
 
-116
+123
 00:09:26,400 --> 00:09:29,700
-Tớ đoán là tình trạng bên Lê Hoa Phi tệ hơn nhiều.
+Tớ đoán là tình trạng
+bên Lê Hoa Phi tệ hơn nhiều.
 
-117
+124
 00:09:29,820 --> 00:09:32,490
-Tớ nghe nói thái y túc trực bên đó cả ngày lẫn đêm luôn.
+Tớ nghe nói thái y
+túc trực bên đó cả ngày lẫn đêm luôn.
 
-118
+125
 00:09:32,620 --> 00:09:34,160
 Lê Hoa Phi cũng không khỏe sao?
 
-119
+126
 00:09:34,290 --> 00:09:35,830
 Ừ. Cả nương nương lẫn Thái tử luôn.
 
-120
+127
 00:09:35,950 --> 00:09:40,080
-Nghe nói họ đều bị đau đầu, đau bụng và buồn nôn.
+Nghe nói họ đều bị
+đau đầu, đau bụng và buồn nôn.
 
-121
+128
 00:09:41,210 --> 00:09:44,840
 Đau đầu, đau bụng và buồn nôn...
 
-122
+129
 00:09:44,960 --> 00:09:48,300
 Tớ biết mà! Chắc chắn là do lời nguyền!
 
-123
+130
 00:09:49,890 --> 00:09:53,680
-Lời đồn gì chứ! Cậu đùa à.. Chứ sao nữa?
+- Lời đồn gì chứ! Cậu đùa à.
+- Chứ sao nữa?
 
-124
+131
 00:09:58,020 --> 00:10:01,060
 Đau đầu, đau bụng và buồn nôn...
 
-125
+132
 00:10:01,190 --> 00:10:03,440
 Có khả năng là hạ độc để ám sát không?
 
-126
+133
 00:10:03,570 --> 00:10:07,860
-Không. Nếu muốn tranh ngai vàng thì không lý gì lại nhắm vào công chúa.
+Không. Nếu muốn tranh ngai vàng thì
+không lý gì lại nhắm vào công chúa.
 
-127
+134
 00:10:07,990 --> 00:10:10,780
 Không giống bị đầu độc.
 
-128
+135
 00:10:10,910 --> 00:10:13,370
 Có thể là một chứng bệnh, hoặc...
 
-129
+136
 00:10:14,490 --> 00:10:16,910
 Có khi nào là bệnh di truyền không?
 
-130
+137
 00:10:18,410 --> 00:10:22,750
-Sao mình phải bận tâm nhiều đến tin đồn vậy nhỉ?
+Sao mình phải bận tâm nhiều
+đến tin đồn vậy nhỉ?
 
-131
+138
 00:10:22,880 --> 00:10:26,380
 Chỉ là những suy đoán thôi mà.
 
-132
+139
 00:10:26,510 --> 00:10:29,470
 Chỉ là suy đoán. Tuy nhiên...
 
-133
+140
 00:10:29,590 --> 00:10:32,050
 mình có thể thử kiểm tra một chút nhỉ.
 
-134
+141
 00:10:36,520 --> 00:10:39,730
-Đúng là nơi ở của phi tần thượng cấp có khác,
+Đúng là nơi ở
+của phi tần thượng cấp có khác,
 
-135
+142
 00:10:39,850 --> 00:10:42,690
-đến cả cột trụ cũng được trau chuốt cầu kỳ hơn
+đến cả cột trụ
+cũng được trau chuốt cầu kỳ hơn
 
-136
+143
 00:10:42,810 --> 00:10:45,020
 so với nơi chúng mình sống.
 
-137
+144
 00:10:47,400 --> 00:10:48,610
 Tất cả là tại cô!
 
-138
+145
 00:10:48,740 --> 00:10:50,610
 Ngọc Diệp nương nương!
 
-139
+146
 00:10:50,740 --> 00:10:52,530
 Vì cô sinh ra con gái,
 
-140
+147
 00:10:52,660 --> 00:10:54,700
-nên mới dùng lời nguyền để hại chết con trai ta!
+nên mới dùng lời nguyền
+để hại chết con trai ta!
 
-141
+148
 00:10:54,830 --> 00:10:58,160
 Cô biết điều đó là không thể mà.
 
-142
+149
 00:10:58,290 --> 00:11:01,460
-Tiểu Linh cũng đang chịu đau đớn như con trai cô.
+Tiểu Linh cũng đang
+chịu đau đớn như con trai cô.
 
-143
+150
 00:11:01,580 --> 00:11:03,960
 Lê Hoa Phi đang giận lắm đó.
 
-144
+151
 00:11:04,080 --> 00:11:05,920
 Xui cho Ngọc Diệp Phi quá.
 
-145
+152
 00:11:06,040 --> 00:11:07,630
 Ngài Nhâm Thị...
 
-146
+153
 00:11:10,340 --> 00:11:14,140
-Vậy nên ta mới muốn thái y đến xem bệnh cho con ta.
+Vậy nên ta mới muốn thái y
+đến xem bệnh cho con ta.
 
-147
+154
 00:11:14,260 --> 00:11:16,390
 Vâng, nhưng mà... Thì là...
 
-148
+155
 00:11:16,510 --> 00:11:20,390
-Tên thái giám đang quay cuồng giữa họ có phải là thái y không?
+Tên thái giám đang quay cuồng giữa họ
+có phải là thái y không?
 
-149
+156
 00:11:20,520 --> 00:11:21,980
 Tên lang băm đó bị ngu à?
 
-150
+157
 00:11:22,100 --> 00:11:27,070
-Hắn túc trực liên tục bên hai vị phi tần vậy mà không phát hiện được gì sao?
+Hắn túc trực liên tục bên hai vị phi tần
+vậy mà không phát hiện được gì sao?
 
-151
+158
 00:11:27,190 --> 00:11:30,940
-Hay có khi nào là do hắn không biết thật không?
+Hay có khi nào
+là do hắn không biết thật không?
 
-152
+159
 00:11:31,070 --> 00:11:35,120
 Chết yểu. Đau đầu, đau bụng và buồn nôn.
 
-153
+160
 00:11:35,240 --> 00:11:39,240
-Và hơn hết là bộ dạng hốc hác của Lê Hoa Phi.
+Và hơn hết là
+bộ dạng hốc hác của Lê Hoa Phi.
 
-154
+161
 00:11:39,370 --> 00:11:43,040
 Đây hoàn toàn không phải lời nguyền.
 
-155
+162
 00:11:43,170 --> 00:11:44,830
 Vấn đề là làm sao nói cho họ biết.
 
-156
+163
 00:11:46,170 --> 00:11:48,130
 Phải chi tìm được thứ gì đó để viết...
 
-157
+164
 00:12:31,300 --> 00:12:34,670
 Chưa đầy một tháng sau khi tin tức về việc
 
-158
+165
 00:12:34,800 --> 00:12:37,760
 Thái tử qua đời được đưa ra.
 
-159
+166
 00:12:41,810 --> 00:12:45,060
 Hình như ngài có việc muốn hỏi ta.
 
-160
+167
 00:12:45,190 --> 00:12:47,020
 Thứ này...
 
-161
+168
 00:12:47,150 --> 00:12:49,270
 Đó là ngày ta tới Cung Thủy Tinh
 
-162
+169
 00:12:49,400 --> 00:12:52,480
 để yêu cầu thái y xem bệnh cho con gái ta.
 
-163
+170
 00:12:52,610 --> 00:12:55,360
-Sau chuyện hôm đó, ta thấy thứ này ở trên cửa sổ.
+Sau chuyện hôm đó,
+ta thấy thứ này ở trên cửa sổ.
 
-164
+171
 00:12:55,490 --> 00:12:56,990
 Nó được buộc vào nhành hoa này.
 
-165
+172
 00:12:58,030 --> 00:12:59,870
 Đỗ quyên sao?
 
-166
+173
 00:13:00,950 --> 00:13:04,330
-"Phấn trắng là độc dược. Đừng để em bé chạm phải.
+"Phấn trắng là độc dược.
+Đừng để em bé chạm phải.
 
-167
+174
 00:13:05,620 --> 00:13:08,170
 Vô minh là cái tội."
 
-168
+175
 00:13:08,290 --> 00:13:12,630
-Thái y trong cung sẽ không để lại một tin nhắn bí ẩn như vậy.
+Thái y trong cung sẽ không để lại
+một tin nhắn bí ẩn như vậy.
 
-169
+176
 00:13:12,750 --> 00:13:17,510
-Đúng vậy, có vẻ cuối cùng thì ông ta cũng không tìm ra cách chữa trị cho Thái tử.
+Đúng vậy, có vẻ cuối cùng thì ông ta cũng
+không tìm ra cách chữa trị cho Thái tử.
 
-170
+177
 00:13:17,630 --> 00:13:20,470
 Ai đã để lại lời nhắn này nhỉ?
 
-171
+178
 00:13:20,600 --> 00:13:23,010
 Ta muốn ngài giúp ta tìm ra người đó.
 
-172
+179
 00:13:27,310 --> 00:13:29,230
 Nghĩ lại lúc đó thì...
 
-173
+180
 00:13:30,400 --> 00:13:33,190
 Phải chi tìm được thứ gì đó để viết...
 
-174
+181
 00:13:37,650 --> 00:13:39,200
 Ta hiểu rồi.
 
-175
+182
 00:13:39,320 --> 00:13:42,410
 Ta có thể cầm theo thứ này không?
 
-176
+183
 00:13:48,330 --> 00:13:51,710
-Hoàng đế yêu chiều cô công chúa đã khỏi bệnh lắm,
+Hoàng đế yêu chiều
+cô công chúa đã khỏi bệnh lắm,
 
-177
+184
 00:13:51,840 --> 00:13:54,630
 nên thường ghé qua chỗ Ngọc Diệp Phi.
 
-178
+185
 00:13:54,750 --> 00:13:56,460
 Còn bên phía Lê Hoa Phi thì sao?
 
-179
+186
 00:13:56,590 --> 00:13:59,090
 Tớ không nghe được tin gì cả.
 
-180
+187
 00:13:59,220 --> 00:14:01,340
 Tiện cho ông ta quá nhỉ?
 
-181
+188
 00:14:01,470 --> 00:14:03,850
 A, cuối cùng cũng tìm được ngươi rồi!
 
-182
+189
 00:14:03,970 --> 00:14:07,390
-Ngươi được gọi đến phòng của Thượng cung quan ngay lập tức.
+Ngươi được gọi đến phòng
+của Thượng cung quan ngay lập tức.
 
-183
+190
 00:14:07,520 --> 00:14:08,480
 Sao cơ?
 
-184
+191
 00:14:08,600 --> 00:14:10,150
 Cậu bị triệu tập à?
 
-185
+192
 00:14:10,270 --> 00:14:11,940
 Không hiểu là có chuyện gì nữa.
 
-186
+193
 00:14:12,980 --> 00:14:17,150
-Được rồi, tất cả những người đã tập trung ở đây hãy vào trong.
+Được rồi, tất cả những người
+đã tập trung ở đây hãy vào trong.
 
-187
+194
 00:14:17,280 --> 00:14:20,030
 Các nô tì được quan trên triệu tập sao?
 
-188
+195
 00:14:20,160 --> 00:14:22,410
 Mình có dự cảm xấu cho chuyện này.
 
-189
+196
 00:14:23,490 --> 00:14:25,040
 Hay là họ thiếu nhân công nhỉ?
 
-190
+197
 00:14:36,590 --> 00:14:39,260
 Xin lỗi vì gọi các ngươi đến như này.
 
-191
+198
 00:14:43,850 --> 00:14:46,510
 Cung nữ hống hách này là ai vậy?
 
-192
+199
 00:14:49,270 --> 00:14:52,480
 Ta là chủ quản hậu cung, Nhâm Thị.
 
-193
+200
 00:14:57,110 --> 00:14:58,820
 Là đàn ông à?
 
-194
+201
 00:14:58,940 --> 00:15:04,620
-Mình đoán "thái giám trông rất đẹp" mà Tiểu Lan nói đến là người này.
+Mình đoán "thái giám trông rất đẹp"
+mà Tiểu Lan nói đến là người này.
 
-195
+202
 00:15:04,740 --> 00:15:06,790
 Thật quá đáng tiếc
 
-196
+203
 00:15:06,910 --> 00:15:09,660
-khi đẹp như này mà lại không thể sinh con nối dõi.
+khi đẹp như này
+mà lại không thể sinh con nối dõi.
 
-197
+204
+00:15:12,330 --> 00:15:13,290
+CÔ GÁI CÓ TÀN NHANG HÃY Ở LẠI
+
+205
 00:15:13,420 --> 00:15:15,670
 Gì cơ? Cô gái có tàn nhang...
 
-198
+206
 00:15:16,670 --> 00:15:18,170
 Ôi chết!
 
-199
+207
 00:15:20,090 --> 00:15:23,470
-Hôm nay xong việc rồi. Các ngươi về phòng mình đi.
+Hôm nay xong việc rồi.
+Các ngươi về phòng mình đi.
 
-200
+208
 00:15:23,590 --> 00:15:25,970
 Hả? Vậy là sao?
 
-201
+209
 00:15:26,100 --> 00:15:28,930
-Mình gây ra tội gì lớn để bị chú ý rồi sao?
+Mình gây ra tội gì lớn
+để bị chú ý rồi sao?
 
-202
+210
 00:15:29,060 --> 00:15:32,270
 Có khi nào là do bức thư từ lần đó...
 
-203
+211
 00:15:32,390 --> 00:15:36,150
-Hiểu rồi! Mình là nô tì duy nhất ở đây biết đọc.
+Hiểu rồi! Mình là
+nô tì duy nhất ở đây biết đọc.
 
-204
+212
 00:15:36,270 --> 00:15:39,480
 Hắn ta viết như vậy để tìm ra mình!
 
-205
+213
 00:15:39,610 --> 00:15:41,240
 Chết toi, phải chuồn thôi...
 
-206
+214
 00:15:41,360 --> 00:15:46,450
 Không được đi. Ta đã bảo ngươi ở lại mà.
 
-207
+215
 00:15:46,570 --> 00:15:48,120
 Ngậm miệng lại và đi theo ta.
 
-208
+216
 00:15:54,080 --> 00:15:56,250
 Mình bị chơi một vố rồi.
 
-209
+217
 00:15:56,380 --> 00:15:57,420
 Lạ thật.
 
-210
+218
 00:15:57,540 --> 00:16:02,090
-Ta xem trong ghi chép thì thấy ngươi không biết đọc.
+Ta xem trong ghi chép
+thì thấy ngươi không biết đọc.
 
-211
+219
 00:16:02,220 --> 00:16:04,880
-Vâng, nô tì sinh ra trong gia đình thấp hèn.
+Vâng, nô tì sinh ra
+trong gia đình thấp hèn.
 
-212
+220
 00:16:05,010 --> 00:16:07,850
 Chắc phải có nhầm lẫn gì đó rồi.
 
-213
+221
 00:16:07,970 --> 00:16:09,640
 Sao phải cho hắn biết chứ?
 
-214
+222
 00:16:09,760 --> 00:16:13,140
-Cuộc sống sẽ dễ thở hơn nếu mình vờ như không biết gì.
+Cuộc sống sẽ dễ thở hơn
+nếu mình vờ như không biết gì.
 
-215
+223
 00:16:13,270 --> 00:16:17,650
-Nhưng mà sao tên này phát hiện bức thư đó là của mình nhỉ?
+Nhưng mà sao tên này phát hiện
+bức thư đó là của mình nhỉ?
 
-216
+224
 00:16:17,770 --> 00:16:20,440
-Mình đã cẩn thận kiểm tra xung quanh rồi mà!
+Mình đã cẩn thận
+kiểm tra xung quanh rồi mà!
 
-217
+225
 00:16:24,110 --> 00:16:25,910
 Sao hắn có thể nghi ngờ mình nhỉ?
 
-218
+226
 00:16:27,280 --> 00:16:29,740
 Chắc do hắn rảnh rỗi quá chăng!
 
-219
+227
 00:16:30,870 --> 00:16:33,330
-Mời vào.. Xin thất lễ.
+- Mời vào.
+- Xin thất lễ.
 
-220
+228
 00:16:33,460 --> 00:16:35,960
 Họ sẽ trách mắng mình vì chuyện gì nhỉ?
 
-221
+229
 00:16:36,080 --> 00:16:38,040
 Mong là vẫn giữ được cái đầu này...
 
-222
+230
 00:16:42,380 --> 00:16:44,630
 Ta đã đưa người đó đến đây rồi.
 
-223
+231
 00:16:44,760 --> 00:16:45,800
 Vào đi.
 
-224
+232
 00:16:51,060 --> 00:16:52,680
 Ta xin lỗi vì gây rắc rối nhé.
 
-225
+233
 00:16:57,690 --> 00:16:58,730
 Thật may quá...
 
-226
+234
 00:17:00,230 --> 00:17:02,230
 Vậy là ngươi...
 
-227
+235
 00:17:02,360 --> 00:17:05,030
 Ngươi đã cứu sống Linh Lệ.
 
-228
+236
 00:17:05,150 --> 00:17:06,700
 Cảm ơn ngươi.
 
-229
+237
 00:17:06,820 --> 00:17:10,240
 Nô tì không xứng được nhận đại lễ này!
 
-230
+238
 00:17:11,240 --> 00:17:15,330
-Không. Không gì có thể bày tỏ sự cảm kích của ta.
+Không. Không gì có thể
+bày tỏ sự cảm kích của ta.
 
-231
+239
 00:17:15,460 --> 00:17:17,710
 Con gái ta nợ ngươi mạng sống này.
 
-232
+240
 00:17:17,830 --> 00:17:20,540
-Nương nương nhận nhầm nô tì với ai khác rồi ạ.
+Nương nương nhận nhầm
+nô tì với ai khác rồi ạ.
 
-233
+241
 00:17:20,670 --> 00:17:23,340
 Có lẽ đã có sự nhầm lẫn nào đó.
 
-234
+242
 00:17:23,460 --> 00:17:25,630
-Mình ghét bị chặt đầu vì trái lệnh người này,
+Mình ghét bị chặt đầu
+vì trái lệnh người này,
 
-235
+243
 00:17:25,760 --> 00:17:27,800
 nhưng mình cũng không muốn bị dính líu!
 
-236
+244
 00:17:31,470 --> 00:17:34,890
-Ta đã nhận được một thứ từ Ngọc Diệp nương nương.
+Ta đã nhận được một thứ
+từ Ngọc Diệp nương nương.
 
-237
+245
 00:17:37,520 --> 00:17:42,400
-Ngươi có biết loại vải này chỉ được dùng làm trang phục của nô tì không?
+Ngươi có biết loại vải này chỉ được dùng
+làm trang phục của nô tì không?
 
-238
+246
 00:17:42,520 --> 00:17:44,940
 Nô tì thấy trông cũng tương tự...
 
-239
+247
 00:17:45,070 --> 00:17:48,910
-Đúng vậy, nó được dùng cho người ở Thượng phục.
+Đúng vậy, nó được dùng
+cho người ở Thượng phục.
 
-240
+248
 00:17:49,030 --> 00:17:52,830
-Ví dụ như người hầu lo việc giặt giũ như ngươi chẳng hạn...
+Ví dụ như người hầu
+lo việc giặt giũ như ngươi chẳng hạn...
 
-241
+249
 00:17:52,950 --> 00:17:56,620
 Có lẽ nó được xé ra từ gấu váy của ngươi.
 
-242
+250
 00:17:59,540 --> 00:18:02,290
 Hắn còn biết cả điều đó sao?
 
-243
+251
 00:18:02,420 --> 00:18:04,170
 Giải thích đi.
 
-244
+252
 00:18:04,300 --> 00:18:07,260
-Tại sao ngươi lại đặt một cành đỗ quyên ở trên cửa sổ?
+Tại sao ngươi lại đặt
+một cành đỗ quyên ở trên cửa sổ?
 
-245
+253
 00:18:18,020 --> 00:18:21,400
-Bởi vì nô tì đã phát hiện sự thật đằng sau vụ việc đó.
+Bởi vì nô tì đã phát hiện
+sự thật đằng sau vụ việc đó.
 
-246
+254
 00:18:21,520 --> 00:18:23,110
 Tất cả là do bột phấn trang điểm.
 
-247
+255
 00:18:24,690 --> 00:18:26,860
 Ở phố đèn đỏ, nơi nô tì sinh sống,
 
-248
+256
 00:18:26,990 --> 00:18:30,820
-có nhiều kỹ nữ sử dụng những loại phấn đắt tiền.
+có nhiều kỹ nữ sử dụng
+những loại phấn đắt tiền.
 
-249
+257
 00:18:30,950 --> 00:18:32,490
 Hầu hết những người này
 
-250
+258
 00:18:32,620 --> 00:18:35,990
-đều trúng phải lượng độc có trong phấn trắng đó
+đều trúng phải lượng độc
+có trong phấn trắng đó
 
-251
+259
 00:18:36,120 --> 00:18:37,410
 và đều bỏ mạng.
 
-252
+260
 00:18:39,790 --> 00:18:42,500
-Họ cân đong đo đếm giữa sinh mạng và cái đẹp,
+Họ cân đong đo đếm
+giữa sinh mạng và cái đẹp,
 
-253
+261
 00:18:42,630 --> 00:18:44,750
 và kết cục là mất cả hai thứ đó.
 
-254
+262
 00:18:53,430 --> 00:18:57,060
 Nô tì từng là một dược sư,
 
-255
+263
 00:18:57,180 --> 00:18:58,850
 nên nô tì hiểu rõ về độc dược.
 
-256
+264
 00:19:07,320 --> 00:19:08,990
 Loại phấn trắng đó...
 
-257
+265
 00:19:09,110 --> 00:19:11,910
 Là do nhũ mẫu của công chúa sử dụng.
 
-258
+266
 00:19:12,030 --> 00:19:14,700
-Cô ta nói rằng loại phấn đó có màu trắng ấn tượng nhất,
+Cô ta nói rằng loại phấn đó
+có màu trắng ấn tượng nhất,
 
-259
+267
 00:19:14,820 --> 00:19:16,910
 nên rất thích dùng.
 
-260
+268
 00:19:17,040 --> 00:19:20,750
-Nhũ mẫu cũng bị ốm, nên ta cho cô ta về nhà rồi.
+Nhũ mẫu cũng bị ốm,
+nên ta cho cô ta về nhà rồi.
 
-261
+269
 00:19:20,870 --> 00:19:22,580
 Ta cũng đã cho cô ta rất nhiều tiền.
 
-262
+270
 00:19:23,710 --> 00:19:25,170
 Ra vậy.
 
-263
+271
 00:19:25,290 --> 00:19:27,800
 Vô minh là cái tội.
 
-264
+272
 00:19:27,920 --> 00:19:32,510
-Ta nên sát sao hơn với những thứ có thể vào miệng con gái mình.
+Ta nên sát sao hơn với những thứ
+có thể vào miệng con gái mình.
 
-265
+273
 00:19:32,630 --> 00:19:34,260
 Ta cũng vậy.
 
-266
+274
 00:19:34,390 --> 00:19:36,550
 Nếu ta nhận ra việc này sớm hơn,
 
-267
+275
 00:19:36,680 --> 00:19:40,730
-thì đã có thể cứu sống nhiều sinh mạng. Thậm chí là cả Thái tử...
+thì đã có thể cứu sống nhiều sinh mạng.
+Thậm chí là cả Thái tử...
 
-268
+276
 00:19:42,310 --> 00:19:44,100
 Sau khi nhìn thấy bức thư này,
 
-269
+277
 00:19:44,230 --> 00:19:47,770
-ta cũng đã nói cho Lê Hoa Phi biết về loại phấn trắng đó, nhưng...
+ta cũng đã nói cho Lê Hoa Phi biết
+về loại phấn trắng đó, nhưng...
 
-270
+278
 00:19:51,070 --> 00:19:54,780
 cô ấy không nghe bất kể điều gì ta nói.
 
-271
+279
 00:19:56,410 --> 00:19:57,740
 Vậy...
 
-272
+280
 00:19:58,870 --> 00:20:02,540
 nương nương muốn nô tì làm gì ạ?
 
-273
+281
 00:20:09,630 --> 00:20:12,720
 Kể từ hôm nay, ngươi sẽ là thị nữ của ta!
 
-274
+282
 00:20:14,180 --> 00:20:15,180
 Sao ạ?
 
-275
+283
 00:20:16,590 --> 00:20:18,850
 Thứ mà Miêu Miêu không thể kháng cự
 
-276
+284
 00:20:18,970 --> 00:20:21,980
-là tính hiếu kỳ và khao khát học hỏi kiến thức.
+là tính hiếu kỳ và
+khao khát học hỏi kiến thức.
 
-277
+285
 00:20:22,100 --> 00:20:25,650
-Chưa kể, còn là người đứng về lẽ phải nữa...
+Chưa kể, còn là người
+đứng về lẽ phải nữa...
 
-278
+286
 00:20:30,650 --> 00:20:33,360
 Thôi xong. Không xong rồi!
 
-279
+287
 00:20:33,490 --> 00:20:35,950
 Giá mà mình cứ yên phận làm việc.
 
-280
+288
 00:20:36,070 --> 00:20:38,070
-Mình có thể đã.... Cậu về rồi, Miêu Miêu!
+- Mình có thể đã...
+- Cậu về rồi, Miêu Miêu!
 
-281
+289
 00:20:38,200 --> 00:20:39,580
 Chuyện thế nào rồi?
 
-282
+290
 00:20:39,700 --> 00:20:44,410
-Vậy là Miêu Miêu trở thành thị nữ riêng cho Ngọc Diệp Phi,
+Vậy là Miêu Miêu trở thành thị nữ riêng
+cho Ngọc Diệp Phi,
 
-283
+291
 00:20:44,540 --> 00:20:46,710
 ái phi của Hoàng đế.
 
-284
+292
 00:20:46,830 --> 00:20:50,340
 Nói cách khác, cô ấy đã được thăng chức!
 
-285
+293
 00:20:50,460 --> 00:20:52,130
 LI
 
-286
+294
 00:20:58,590 --> 00:20:59,720
 Này!
 
-287
+295
 00:21:01,350 --> 00:21:02,770
 Có độc!
 
-288
+296
+00:22:34,820 --> 00:22:36,360
+GIỚI THIỆU TẬP SAU
+
+297
 00:22:46,290 --> 00:22:48,700
 Tập tiếp theo, "Dược sư Khó gần".
 
-289
+298
 00:22:48,830 --> 00:22:49,830
 sore dake yo muzukashikunai
-

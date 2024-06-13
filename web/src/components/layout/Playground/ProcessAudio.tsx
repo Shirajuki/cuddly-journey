@@ -8,44 +8,22 @@ import { Loader2 } from "lucide-react";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
 import useProcessing from "@/lib/useProcessing";
+import { poll } from "@/api/poll";
+import { apiProcessAudio } from "@/api/processAudio";
 
 export default function ProcessAudio() {
-  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
+  const { startProcess, finishProcess, progress, setProgress, disabled, files } = useProcessing();
   const [config, setConfig] = useState("standalone");
 
   const processAudio = useCallback(async () => {
-    // Reset status
-    reset();
-    // Start fetching progress intervally
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-audio");
-      const progress = Number(await res.text());
-      setProgress(progress);
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 2000);
-
-    // Request process TTS
-    const res = await fetch("http://localhost:3000/api/process-audio", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        config: config,
-      }),
-    });
-
-    // Retrieve response containing file list, making sure to update right after progress
-    let files = [];
-    if (res.ok) {
-      files = await res.json();
-    }
+    startProcess();
+    poll({ progressCallback: setProgress, type: "process-audio" });
+    const { files, ok } = await apiProcessAudio({ config });
+    if (!ok) files.length = 0;
     setTimeout(() => {
-      finish(files);
+      finishProcess(files);
     }, 2000);
-  }, [config, finish, reset, setProgress]);
+  }, [config, finishProcess, startProcess, setProgress]);
 
   return (
     <Card>

@@ -10,9 +10,11 @@ import { Input } from "@/components/ui/input";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
 import useProcessing from "@/lib/useProcessing";
+import { poll } from "@/api/poll";
+import { apiProcessTTS } from "@/api/processTTS";
 
 export default function TTS() {
-  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
+  const { startProcess, finishProcess, progress, setProgress, disabled, files } = useProcessing();
   const [engine, setEngine] = useState("edge");
   const [voice, setVoice] = useState("vi-VN-HoaiMyNeural");
   const inputRef = useRef<HTMLInputElement>(null);
@@ -24,38 +26,13 @@ export default function TTS() {
   }, [engine]);
 
   const convertTTS = useCallback(async () => {
-    // Reset status
-    reset();
-
-    // Start fetching progress intervally
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-tts");
-      const progress = Number(await res.text());
-      setProgress(progress);
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 2000);
-
-    // Request process TTS
-    const res = await fetch("http://localhost:3000/api/process-tts", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        engine: engine,
-        voice: voice,
-        input: inputRef.current?.value,
-      }),
-    });
-
-    // Retrieve response containing file list, making sure to update right after progress
-    const files = await res.json();
+    startProcess();
+    poll({ progressCallback: setProgress, type: "process-tts" });
+    const { files } = await apiProcessTTS({ engine, voice, input: inputRef.current?.value });
     setTimeout(() => {
-      finish(files);
+      finishProcess(files);
     }, 2000);
-  }, [engine, finish, reset, setProgress, voice]);
+  }, [engine, finishProcess, startProcess, setProgress, voice]);
 
   return (
     <Card>

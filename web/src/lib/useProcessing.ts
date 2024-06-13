@@ -5,18 +5,18 @@ const useProcessing = () => {
   const [disabled, setDisabled] = useState(false);
   const [files, setFiles] = useState<string[]>([]);
 
-  const reset = useCallback(() => {
+  const startProcess = useCallback(() => {
     setProgress(0);
     setDisabled(true);
     setFiles([]);
   }, []);
 
-  const finish = useCallback((files: string[]) => {
+  const finishProcess = useCallback((files: string[]) => {
     setProgress(100);
     setDisabled(false);
     setFiles(files);
   }, []);
 
-  return { reset, finish, progress, setProgress, disabled, files };
+  return { startProcess, finishProcess, progress, setProgress, disabled, files };
 };
 export default useProcessing;

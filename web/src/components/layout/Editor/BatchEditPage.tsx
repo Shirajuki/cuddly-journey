@@ -1,3 +1,7 @@
+import { pollBatch } from "@/api/poll";
+import { apiProcessAudio } from "@/api/processAudio";
+import { apiProcessSRT } from "@/api/processSRT";
+import { apiProcessTTS } from "@/api/processTTS";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
 import { Button } from "@/components/ui/button";
@@ -5,14 +9,25 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Progress } from "@/components/ui/progress";
 import { Textarea } from "@/components/ui/textarea";
 import { Toggle } from "@/components/ui/toggle";
+import useBatchProcessing from "@/lib/useBatchProcessing";
 import { Loader2 } from "lucide-react";
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useRef } from "react";
+
+const sleep = async (duration: number) => await new Promise((res) => setTimeout(res, duration));
 
 export default function BatchEditPage() {
-  const [disabled, setDisabled] = useState(false);
-  const [batchProgress, setBatchProgress] = useState([0, 0, 0, 0]);
-  const [progressText, setProgressText] = useState("");
-  const [files, setFiles] = useState<string[]>([]);
+  const {
+    startProcess,
+    finishProcess,
+    batchProgress,
+    updateProgress,
+    resetProgress,
+    progressText,
+    setProgressText,
+    disabled,
+    files,
+    setFiles,
+  } = useBatchProcessing();
 
   const extractSRTRef = useRef<HTMLButtonElement>(null);
   const processSRTRef = useRef<HTMLButtonElement>(null);
@@ -20,96 +35,39 @@ export default function BatchEditPage() {
   const processAudioRef = useRef<HTMLButtonElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
-  const processSRT = useCallback(async (filename: string) => {
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-srt");
-      const progress = Number(await res.text());
-      setBatchProgress((bprogress) => {
-        const p = [...bprogress];
-        p[1] = progress;
-        return p;
-      });
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 3000);
-
-    await fetch("http://localhost:3000/api/process-srt", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
+  const processSRT = useCallback(
+    async (filename: string) => {
+      pollBatch({ progressCallback: updateProgress, index: 1, type: "process-srt" });
+      await apiProcessSRT({
         input: filename,
         options: {
           langdiff: false,
           merge: false,
           crosstalk: false,
         },
-      }),
-    });
-    await new Promise((res) => setTimeout(res, 1000));
-  }, []);
-
-  const processTTS = useCallback(async (filename: string) => {
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-tts");
-      const progress = Number(await res.text());
-      setBatchProgress((bprogress) => {
-        const p = [...bprogress];
-        p[2] = progress;
-        return p;
       });
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 3000);
+      await sleep(1000);
+    },
+    [updateProgress],
+  );
 
-    await fetch("http://localhost:3000/api/process-tts", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        engine: "edge",
-        voice: "vi-VN-HoaiMyNeural",
-        input: filename,
-      }),
-    });
-    await new Promise((res) => setTimeout(res, 1000));
-  }, []);
+  const processTTS = useCallback(
+    async (filename: string) => {
+      pollBatch({ progressCallback: updateProgress, index: 2, type: "process-tts" });
+      await apiProcessTTS({ engine: "edge", voice: "vi-VN-HoaiMyNeural", input: filename });
+      await sleep(1000);
+    },
+    [updateProgress],
+  );
 
   const processAudio = useCallback(async () => {
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-audio");
-      const progress = Number(await res.text());
-      setBatchProgress((bprogress) => {
-        const p = [...bprogress];
-        p[3] = progress;
-        return p;
-      });
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 3000);
-
-    await fetch("http://localhost:3000/api/process-audio", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        config: "standalone",
-      }),
-    });
-    await new Promise((res) => setTimeout(res, 1000));
-  }, []);
+    pollBatch({ progressCallback: updateProgress, index: 3, type: "process-audio" });
+    await apiProcessAudio({ config: "standalone" });
+    await sleep(1000);
+  }, [updateProgress]);
 
   const processBatch = useCallback(async () => {
-    setBatchProgress([0, 0, 0, 0]);
-    setDisabled(true);
-    setFiles([]);
-
+    startProcess();
     const toggles = [
       extractSRTRef.current?.ariaPressed === "true",
       processSRTRef.current?.ariaPressed === "true",
@@ -119,58 +77,32 @@ export default function BatchEditPage() {
     const files = textareaRef.current?.value?.split("\n") ?? [];
 
     for (let i = 0; i < files.length; i++) {
-      setBatchProgress([0, 0, 0, 0]);
-      await new Promise((res) => setTimeout(res, 1000));
+      resetProgress();
+      await sleep(1000);
       let filename = files[i];
 
-      // Process extract srt
       setProgressText(`[RUN: ${i}] Extracting SRT...`);
       if (toggles[0]) {
         // TODO
       } else {
-        setBatchProgress((progress) => {
-          const p = [...progress];
-          p[0] = 100;
-          return p;
-        });
+        updateProgress(0, 100);
       }
 
-      // Process process srt
       setProgressText(`[RUN: ${i}] Processing SRT...`);
       if (toggles[1]) {
         await processSRT(filename);
         filename = "/home/juki/github/cuddly-journey/scripts/output/subbed.srt";
       } else {
-        setBatchProgress((progress) => {
-          const p = [...progress];
-          p[1] = 100;
-          return p;
-        });
+        updateProgress(1, 100);
       }
 
-      // Process process tts
       setProgressText(`[RUN: ${i}] Processing TTS...`);
-      if (toggles[2]) {
-        await processTTS(filename);
-      } else {
-        setBatchProgress((progress) => {
-          const p = [...progress];
-          p[2] = 100;
-          return p;
-        });
-      }
+      if (toggles[2]) await processTTS(filename);
+      else updateProgress(2, 100);
 
-      // Process process audio
       setProgressText(`[RUN: ${i}] Processing audio...`);
-      if (toggles[3]) {
-        await processAudio();
-      } else {
-        setBatchProgress((progress) => {
-          const p = [...progress];
-          p[3] = 100;
-          return p;
-        });
-      }
+      if (toggles[3]) await processAudio();
+      else updateProgress(3, 100);
 
       setProgressText(`[RUN: ${i}] Batch save...`);
       const res = await fetch("http://localhost:3000/api/batch-edit", {
@@ -182,21 +114,24 @@ export default function BatchEditPage() {
           index: i,
         }),
       });
-      const ok = await res.json();
-      if (ok) {
-        const num = String(i).padStart(3, "0");
-        setFiles((files) => [
-          ...files,
-          `./batch/${num}-filtered.srt`,
-          `./batch/${num}-subbed.srt`,
-          `./batch/${num}-output.mp3`,
-        ]);
+      const nfiles: string[] = await res.json();
+      if (res.ok && nfiles.length > 0) {
+        setFiles((ofiles) => [...ofiles, ...nfiles]);
       }
     }
 
-    setProgressText("");
-    setDisabled(false);
-  }, [processAudio, processSRT, processTTS]);
+    finishProcess();
+  }, [
+    finishProcess,
+    processAudio,
+    processSRT,
+    processTTS,
+    resetProgress,
+    setFiles,
+    setProgressText,
+    startProcess,
+    updateProgress,
+  ]);
 
   return (
     <>
@@ -260,7 +195,7 @@ export default function BatchEditPage() {
               <div className="py-1 text-center text-sm text-muted-foreground">{progressText}</div>
               <div className="space-y-1 w-full">
                 {files.map((filename) => (
-                  <File base="../scripts/output/batch/" filename={filename} key={filename} />
+                  <File filename={filename} key={filename} />
                 ))}
               </div>
             </CardContent>
