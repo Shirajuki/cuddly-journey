@@ -25,10 +25,7 @@ export default function Home() {
               tab: "extract-srt",
             }}
           >
-            <Button>Try It In The playground</Button>
-          </Link>
-          <Link to="/editor">
-            <Button>Editor</Button>
+            <Button>Try the Playground</Button>
           </Link>
         </div>
       </div>

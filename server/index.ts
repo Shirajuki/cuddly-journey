@@ -14,11 +14,13 @@ const app = new Elysia()
   .group("/api", app => {
     return app
       .get("/file", async ({ query }) => {
-        const { filename } = query;
-        return await Bun.file(filename).text();
+        const { filename, preview } = query;
+        if (preview == "1") return await Bun.file(filename).text();
+        return Bun.file(filename);
       }, {
         query: t.Object({
-          filename: t.String()
+          filename: t.String(),
+          preview: t.String()
         })
       })
       .get("/progress", async ({ query }) => {

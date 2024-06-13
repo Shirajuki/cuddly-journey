@@ -112,7 +112,7 @@ export default function ExtractSRT() {
                     <TableHead className="min-w-[120px]">Timestamp</TableHead>
                     <TableHead>Text</TableHead>
                     <TableHead>Parsed OCR</TableHead>
-                    <TableHead className="min-w-[100px]">AI cleanup</TableHead>
+                    <TableHead className="min-w-[100px]">Cleanup</TableHead>
                   </TableRow>
                 </TableHeader>
                 <TableBody>
