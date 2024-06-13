@@ -9,13 +9,12 @@ import { useCallback, useMemo, useRef, useState } from "react";
 import { Input } from "@/components/ui/input";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
+import useProcessing from "@/lib/useProcessing";
 
 export default function TTS() {
+  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
   const [engine, setEngine] = useState("edge");
   const [voice, setVoice] = useState("vi-VN-HoaiMyNeural");
-  const [progress, setProgress] = useState(0);
-  const [disabled, setDisabled] = useState(false);
-  const [files, setFiles] = useState<string[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
 
   const voices = useMemo(() => {
@@ -26,9 +25,7 @@ export default function TTS() {
 
   const convertTTS = useCallback(async () => {
     // Reset status
-    setProgress(0);
-    setDisabled(true);
-    setFiles([]);
+    reset();
 
     // Start fetching progress intervally
     const interval = setInterval(async () => {
@@ -56,10 +53,9 @@ export default function TTS() {
     // Retrieve response containing file list, making sure to update right after progress
     const files = await res.json();
     setTimeout(() => {
-      setFiles(files);
-      setDisabled(false);
+      finish(files);
     }, 2000);
-  }, [engine, voice]);
+  }, [engine, finish, reset, setProgress, voice]);
 
   return (
     <Card>

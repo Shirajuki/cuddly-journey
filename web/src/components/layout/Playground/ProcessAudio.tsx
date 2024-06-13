@@ -7,19 +7,15 @@ import { Progress } from "@/components/ui/progress";
 import { Loader2 } from "lucide-react";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
+import useProcessing from "@/lib/useProcessing";
 
 export default function ProcessAudio() {
+  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
   const [config, setConfig] = useState("standalone");
-  const [progress, setProgress] = useState(0);
-  const [disabled, setDisabled] = useState(false);
-  const [files, setFiles] = useState<string[]>([]);
 
   const processAudio = useCallback(async () => {
     // Reset status
-    setProgress(0);
-    setDisabled(true);
-    setFiles([]);
-
+    reset();
     // Start fetching progress intervally
     const interval = setInterval(async () => {
       const res = await fetch("http://localhost:3000/api/progress?type=process-audio");
@@ -42,12 +38,14 @@ export default function ProcessAudio() {
     });
 
     // Retrieve response containing file list, making sure to update right after progress
-    const files = await res.json();
+    let files = [];
+    if (res.ok) {
+      files = await res.json();
+    }
     setTimeout(() => {
-      if (res.ok) setFiles(files);
-      setDisabled(false);
+      finish(files);
     }, 2000);
-  }, [config]);
+  }, [config, finish, reset, setProgress]);
 
   return (
     <Card>

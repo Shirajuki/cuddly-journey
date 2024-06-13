@@ -5,17 +5,16 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
 // import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
-import { useRef, useState } from "react";
+import { useRef } from "react";
 import { Progress } from "@/components/ui/progress";
 import { Loader2 } from "lucide-react";
 import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
 import { processSrt, pollProcessSrt } from "@/api/processSrt";
+import useProcessing from "@/lib/useProcessing";
 
 export default function ProcessSRT() {
-  const [progress, setProgress] = useState(0);
-  const [disabled, setDisabled] = useState(false);
-  const [files, setFiles] = useState<string[]>([]);
+  const { reset, finish, progress, setProgress, disabled, files } = useProcessing();
   const inputRef = useRef<HTMLInputElement>(null);
   const langdiffRef = useRef<HTMLButtonElement>(null);
   const mergeRef = useRef<HTMLButtonElement>(null);
@@ -23,11 +22,8 @@ export default function ProcessSRT() {
 
   const processSRT = async () => {
     // Reset status
-    setProgress(0);
-    setDisabled(true);
-    setFiles([]);
-
-    // Start fetching progress intervally
+    reset();
+    // Start progress polling
     pollProcessSrt(setProgress);
     // Request process TTS and retrieve response containing file list, making sure to update right after progress
     const { files } = await processSrt({
@@ -39,8 +35,7 @@ export default function ProcessSRT() {
       },
     });
     setTimeout(() => {
-      setFiles(files);
-      setDisabled(false);
+      finish(files);
     }, 2000);
   };
 
