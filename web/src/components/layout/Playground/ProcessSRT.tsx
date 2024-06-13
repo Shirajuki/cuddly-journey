@@ -8,6 +8,9 @@ import { Checkbox } from "@/components/ui/checkbox";
 import { useRef, useState } from "react";
 import { Progress } from "@/components/ui/progress";
 import { Loader2 } from "lucide-react";
+import Divider from "@/components/custom/Divider";
+import File from "@/components/custom/File";
+import { processSrt, pollProcessSrt } from "@/api/processSrt";
 
 export default function ProcessSRT() {
   const [progress, setProgress] = useState(0);
@@ -25,33 +28,16 @@ export default function ProcessSRT() {
     setFiles([]);
 
     // Start fetching progress intervally
-    const interval = setInterval(async () => {
-      const res = await fetch("http://localhost:3000/api/progress?type=process-srt");
-      const progress = Number(await res.text());
-      setProgress(progress);
-      if (progress >= 100) {
-        clearInterval(interval);
-      }
-    }, 2000);
-
-    // Request process TTS
-    const res = await fetch("http://localhost:3000/api/process-srt", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
+    pollProcessSrt(setProgress);
+    // Request process TTS and retrieve response containing file list, making sure to update right after progress
+    const { files } = await processSrt({
+      input: inputRef.current?.value,
+      options: {
+        langdiff: langdiffRef.current?.dataset?.state === "checked",
+        merge: mergeRef.current?.dataset?.state === "checked",
+        crosstalk: crosstalkRef.current?.dataset?.state === "checked",
       },
-      body: JSON.stringify({
-        input: inputRef.current?.value,
-        options: {
-          langdiff: langdiffRef.current?.dataset?.state === "checked",
-          merge: mergeRef.current?.dataset?.state === "checked",
-          crosstalk: crosstalkRef.current?.dataset?.state === "checked",
-        },
-      }),
     });
-
-    // Retrieve response containing file list, making sure to update right after progress
-    const files = await res.json();
     setTimeout(() => {
       setFiles(files);
       setDisabled(false);
@@ -167,9 +153,7 @@ export default function ProcessSRT() {
           Process SRT
         </Button>
 
-        <br />
-        <hr />
-        <br />
+        <Divider />
 
         <Card className="w-full">
           <CardContent className="pt-6 flex flex-col justify-center items-center gap-4">
@@ -178,9 +162,7 @@ export default function ProcessSRT() {
             </div>
             <div className="space-y-1 w-full">
               {files.map((filename) => (
-                <div className="bg-white/5 rounded-md w-full" key={filename}>
-                  <Button variant="link">{filename}</Button>
-                </div>
+                <File filename={filename} key={filename} />
               ))}
             </div>
           </CardContent>

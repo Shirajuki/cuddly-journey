@@ -5,6 +5,8 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { useCallback, useState } from "react";
 import { Progress } from "@/components/ui/progress";
 import { Loader2 } from "lucide-react";
+import Divider from "@/components/custom/Divider";
+import File from "@/components/custom/File";
 
 export default function ProcessAudio() {
   const [config, setConfig] = useState("standalone");
@@ -42,7 +44,7 @@ export default function ProcessAudio() {
     // Retrieve response containing file list, making sure to update right after progress
     const files = await res.json();
     setTimeout(() => {
-      setFiles(files);
+      if (res.ok) setFiles(files);
       setDisabled(false);
     }, 2000);
   }, [config]);
@@ -77,9 +79,7 @@ export default function ProcessAudio() {
           Process audio
         </Button>
 
-        <br />
-        <hr />
-        <br />
+        <Divider />
 
         <Card className="w-full">
           <CardContent className="pt-6 flex flex-col justify-center items-center gap-4">
@@ -88,9 +88,7 @@ export default function ProcessAudio() {
             </div>
             <div className="space-y-1 w-full">
               {files.map((filename) => (
-                <div className="bg-white/5 rounded-md w-full" key={filename}>
-                  <Button variant="link">{filename}</Button>
-                </div>
+                <File filename={filename} key={filename} />
               ))}
             </div>
           </CardContent>

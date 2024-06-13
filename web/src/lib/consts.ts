@@ -1,3 +1,7 @@
+export const CONFIG = {
+  SERVER_URL: "http://localhost:3000/api",
+};
+
 type TTSType = {
   name: string;
   gender?: string;

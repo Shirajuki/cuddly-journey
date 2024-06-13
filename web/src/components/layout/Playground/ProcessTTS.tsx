@@ -7,6 +7,8 @@ import { TTS_EDGE_VOICES, TTS_VOLCENGINE_VOICES, TTS_YOUDAO_VOICES } from "@/lib
 import { Loader2 } from "lucide-react";
 import { useCallback, useMemo, useRef, useState } from "react";
 import { Input } from "@/components/ui/input";
+import Divider from "@/components/custom/Divider";
+import File from "@/components/custom/File";
 
 export default function TTS() {
   const [engine, setEngine] = useState("edge");
@@ -124,9 +126,7 @@ export default function TTS() {
           Convert TTS
         </Button>
 
-        <br />
-        <hr />
-        <br />
+        <Divider />
 
         <Card className="w-full">
           <CardContent className="pt-6 flex flex-col justify-center items-center gap-4">
@@ -135,9 +135,7 @@ export default function TTS() {
             </div>
             <div className="space-y-1 w-full">
               {files.map((filename) => (
-                <div className="bg-white/5 rounded-md w-full" key={filename}>
-                  <Button variant="link">{filename}</Button>
-                </div>
+                <File filename={filename} key={filename} />
               ))}
             </div>
           </CardContent>

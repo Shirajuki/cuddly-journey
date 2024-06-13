@@ -3,8 +3,8 @@ import { Elysia, t } from 'elysia';
 import { cors } from '@elysiajs/cors';
 import { readdir } from "node:fs/promises";
 
-const clear = async (extension: string) => {
-  await $`rm -f *.${extension} || ls`.cwd("../scripts/output").quiet();
+const clear = async (selection: string) => {
+  await $`rm -f ${selection} || ls`.cwd("../scripts/output").quiet();
 }
 const capitalize = (str: string) => str.substring(0,1).toUpperCase() + str.substring(1,str.length).toLowerCase();
 
@@ -13,6 +13,14 @@ const app = new Elysia()
 	.get('/', () => 'Hello Elysia (*/ω＼*)')
   .group("/api", app => {
     return app
+      .get("/file", async ({ query }) => {
+        const { filename } = query;
+        return Bun.file(filename);
+      }, {
+        query: t.Object({
+          filename: t.String()
+        })
+      })
       .get("/progress", async ({ query }) => {
         const { type } = query;
         if (type === "extract-srt") {
@@ -39,7 +47,7 @@ const app = new Elysia()
       })
       .post("/process-srt", async ({ body }) => {
         const {input, options} = body;
-        await clear("srt");
+        await clear("*.srt");
 
         // Only process if file exist
         if (!await Bun.file(input.trim()).exists()) {
@@ -62,8 +70,8 @@ const app = new Elysia()
       })
       .post("/process-tts", async ({ body }) => {
         const {engine, voice, input} = body;
-        await clear("mp3");
-        await clear("wav");
+        await clear("*.mp3");
+        await clear("*.wav");
 
         await $`python3 tts-${engine}.py ${input}`.cwd("../scripts/tts_srt_parsing").quiet();
 
@@ -97,15 +105,19 @@ const app = new Elysia()
         const { index } = body;
         
         // Check if specific files exist before processing
-        if (!await Bun.file("../scripts/output/filtered.srt").exists()) return 0;
-        if (!await Bun.file("../scripts/output/subbed.srt").exists()) return 0;
-        if (!await Bun.file("../scripts/output/output.mp3").exists()) return 0;
-        
-        await $`cp filtered.srt batch/${String(index).padStart(3, "0")}-filtered.srt`.cwd("../scripts/output").quiet();
-        await $`cp subbed.srt batch/${String(index).padStart(3, "0")}-subbed.srt`.cwd("../scripts/output").quiet();
-        await $`cp output.mp3 batch/${String(index).padStart(3, "0")}-output.mp3`.cwd("../scripts/output").quiet();
+        if (!await Bun.file("../scripts/output/filtered.srt").exists()) return [];
+        const filtered = `batch/${String(index).padStart(3, "0")}-filtered.srt`
+        await $`cp filtered.srt ${filtered}`.cwd("../scripts/output").quiet();
 
-        return 1;
+        if (!await Bun.file("../scripts/output/subbed.srt").exists()) return [filtered];
+        const subbed = `batch/${String(index).padStart(3, "0")}-subbed.srt`
+        await $`cp subbed.srt ${subbed}`.cwd("../scripts/output").quiet();
+
+        if (!await Bun.file("../scripts/output/output.mp3").exists()) return [filtered, subbed];
+        const output = `batch/${String(index).padStart(3, "0")}-output.mp3`
+        await $`cp output.mp3 ${output}`.cwd("../scripts/output").quiet();
+
+        return [filtered, subbed, output];
       }, {
         body: t.Object({
           index: t.Number(),

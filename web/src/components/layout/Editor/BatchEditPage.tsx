@@ -1,3 +1,5 @@
+import Divider from "@/components/custom/Divider";
+import File from "@/components/custom/File";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
@@ -248,9 +250,7 @@ export default function BatchEditPage() {
             Process batch
           </Button>
 
-          <br />
-          <hr />
-          <br />
+          <Divider />
 
           <Card className="w-full">
             <CardContent className="pt-6 flex flex-col justify-center items-center gap-4">
@@ -260,9 +260,7 @@ export default function BatchEditPage() {
               <div className="py-1 text-center text-sm text-muted-foreground">{progressText}</div>
               <div className="space-y-1 w-full">
                 {files.map((filename) => (
-                  <div className="bg-white/5 rounded-md w-full" key={filename}>
-                    <Button variant="link">{filename}</Button>
-                  </div>
+                  <File base="../scripts/output/batch/" filename={filename} key={filename} />
                 ))}
               </div>
             </CardContent>

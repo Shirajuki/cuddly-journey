@@ -37,9 +37,9 @@ export default function PlaygroundPage() {
           <TabsTrigger value="process-audio" onClick={() => tabsChangeHandler("process-audio")}>
             Process audio
           </TabsTrigger>
-          <TabsTrigger value="ai-translate" onClick={() => tabsChangeHandler("ai-translate")}>
+          {/* <TabsTrigger value="ai-translate" onClick={() => tabsChangeHandler("ai-translate")}>
             AI Translate
-          </TabsTrigger>
+          </TabsTrigger> */}
         </TabsList>
 
         <TabsContent value="extract-srt">
