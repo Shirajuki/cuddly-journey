@@ -640,11 +640,11 @@ Matchy? Họ ám chỉ Machiko ư?
 
 161
 00:12:27,002 --> 00:12:28,033
-Nhưng phải nói
+}Nhưng phải nói
 
 162
 00:12:28,033 --> 00:12:31,025
-cô ấy khôn ngoan thật nhỉ.
+}cô ấy khôn ngoan thật nhỉ.
 
 163
 00:12:31,025 --> 00:12:34,008
@@ -828,7 +828,7 @@ Anh định bảo em dựng ra chuyện này?
 
 208
 00:14:59,057 --> 00:15:02,026
-Chú rể lại là bác sĩ đấy.
+Chú rể lại là} bác sĩ đấy.
 
 209
 00:15:03,016 --> 00:15:06,049
