@@ -372,7 +372,7 @@ Mỗi lần bóng vào gôn được tính là 1 điểm.
 
 93
 00:08:02,060 --> 00:08:06,092
-{\t(4053 0 1 \c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Ai lên được 6 điểm trước thì sẽ là người chiến thắng.
+}Ai lên được 6 điểm trước thì sẽ là người chiến thắng.
 
 94
 00:08:09,043 --> 00:08:12,044
@@ -556,7 +556,7 @@ Tôi hiểu.
 
 139
 00:11:05,002 --> 00:11:07,089
-{\t(2605 0 \c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Vả lại thứ đó đã hỏng mất rồi.
+}Vả lại thứ đó đã hỏng mất rồi.
 
 140
 00:11:10,008 --> 00:11:12,098
@@ -640,7 +640,7 @@ Hồi nãy tôi có nói về chuyện nhìn mắt đánh giá người
 
 160
 00:12:41,064 --> 00:12:46,078
-{\t(4876 0 \c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}nhưng người tóc trắng đó đến một chút cảm xúc cũng không có.
+}nhưng người tóc trắng đó đến một chút cảm xúc cũng không có.
 
 161
 00:12:48,012 --> 00:12:51,016

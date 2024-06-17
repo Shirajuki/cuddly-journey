@@ -104,7 +104,7 @@ Không...
 
 26
 00:02:40,068 --> 00:02:42,080
-{\fad(0 96)}đấy chứ?!
+}đấy chứ?!
 
 27
 00:02:44,039 --> 00:02:46,016
@@ -432,7 +432,7 @@ Cô ta thô thiển quá.
 
 108
 00:07:09,036 --> 00:07:12,045
-{\t(2822 0 1 \c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Muốn thắng mau để về gặp Risa quá.
+}Muốn thắng mau để về gặp Risa quá.
 
 109
 00:07:29,076 --> 00:07:32,045
@@ -744,7 +744,7 @@ Nhưng...
 
 186
 00:12:21,050 --> 00:12:24,097
-{\t(3119 0 1 \c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}biết đâu lại lãng mạn như trong "Titanic".
+}biết đâu lại lãng mạn như trong "Titanic".
 
 187
 00:12:25,069 --> 00:12:27,094
@@ -776,7 +776,7 @@ Harada-kun!
 
 194
 00:13:21,094 --> 00:13:24,061
-{\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(0 111 1 \c&HFFFFFF&\3c&H3C2329&\4c&H000000&)}ĐI NÀO!!!
+}ĐI NÀO!!!
 
 195
 00:13:33,062 --> 00:13:35,000
@@ -1096,7 +1096,7 @@ Nè  Harada-kun.
 
 274
 00:19:02,016 --> 00:19:03,031
-{\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(0 106 1 \c&HFFFFFF&\3c&H3C2329&\4c&H000000&)}Dậy đi nào.
+}Dậy đi nào.
 
 275
 00:19:04,056 --> 00:19:06,017

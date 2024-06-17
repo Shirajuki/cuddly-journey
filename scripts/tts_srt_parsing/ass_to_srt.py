@@ -40,6 +40,16 @@ def ass_parse(inp, outp):
                         if not text.startswith("["):
                             text = f"[ {text} ]"
                 text = text.replace("\\N", "")
+
+                # Remove format on texts {\\X}
+                ind = text.find("{\\")
+                while ind >= 0:
+                    ind2 = text.find("}")
+                    part = text[ind:ind2]
+                    text = text.replace(part, "")
+                    ind = text.find("{\\")
+                text = text.strip()
+
                 start = srt_timestamp_to_millis(meta[1])
                 end = srt_timestamp_to_millis(meta[2])
                 sub = {"text": text, "start": start, "end": end}

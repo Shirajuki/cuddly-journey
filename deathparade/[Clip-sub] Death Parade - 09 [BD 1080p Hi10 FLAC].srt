@@ -132,7 +132,7 @@ Sự tàn bạo trong những vụ án mà cơ quan tôi điều tra sẽ khiế
 
 33
 00:03:21,014 --> 00:03:25,007
-{\t(3394 0 1 \3c&HFFFFFF&\4c&HFFFFFF&)}đến mức cậu sẽ không dám nghĩchúng còn là con người.
+}đến mức cậu sẽ không dám nghĩchúng còn là con người.
 
 34
 00:03:25,007 --> 00:03:30,031
@@ -632,7 +632,7 @@ Tôi điểm mặt những kẻ khả nghi  và phán xét chúng.
 
 158
 00:13:16,031 --> 00:13:20,053
-{\3c&HFFFFFF&\4c&HFFFFFF&\t(0 149 1 \3c&H3C2329&\4c&H000000&)}Gã kia là một trong số đó.
+}Gã kia là một trong số đó.
 
 159
 00:13:23,028 --> 00:13:25,028
@@ -720,7 +720,7 @@ Ha ha  tầm bậy  tầm bậy...
 
 180
 00:14:30,052 --> 00:14:33,085
-{\t(3006 0 1 \3c&HFFFFFF&\4c&HFFFFFF&)}Muốn phán xét thì phải có kẻ hi sinh mà?
+}Muốn phán xét thì phải có kẻ hi sinh mà?
 
 181
 00:14:34,060 --> 00:14:37,002
@@ -736,7 +736,7 @@ Cần kẻ hi sinh ư?
 
 184
 00:14:43,057 --> 00:14:45,074
-{\t(1779 0 1 \3c&HFFFFFF&\4c&HFFFFFF&)}Tất nhiên rồi.
+}Tất nhiên rồi.
 
 185
 00:14:47,037 --> 00:14:50,016

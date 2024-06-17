@@ -128,7 +128,7 @@ Không nhầm đi đâu được.
 
 32
 00:01:22,027 --> 00:01:24,073
-{\fad(0 450)}Vì hình như quản lý đang giấu tôi điều gì đấy.
+}Vì hình như quản lý đang giấu tôi điều gì đấy.
 
 33
 00:01:25,032 --> 00:01:27,053
@@ -1144,7 +1144,7 @@ Chưa kịp nhận ra thì đã có 5 đứa con...
 
 286
 00:19:09,059 --> 00:19:12,034
-{\fad(0 350)}Tôi chẳng quan tâm thiên hạ dèm pha nữa...
+}Tôi chẳng quan tâm thiên hạ dèm pha nữa...
 
 287
 00:19:13,072 --> 00:19:15,093
@@ -1172,7 +1172,7 @@ Tại sao tôi... lại tự sát cơ chứ?
 
 293
 00:19:57,005 --> 00:20:02,014
-{\fad(0 450)}Em ước gì một ngày nào đó sẽ được nghe tiếng gọi "mẹ" từ Yousuke-kun.
+}Em ước gì một ngày nào đó sẽ được nghe tiếng gọi "mẹ" từ Yousuke-kun.
 
 294
 00:20:03,006 --> 00:20:07,035

@@ -32,6 +32,7 @@ SENTENCE_TO_REPLACE = [
     ['</i>', ''],
     ['{\\an8}', ''],
     ['{\\i0}', ''],
+    ['{\\fad(0 300)}', ''],
     ['…','...'],
     ["(Xem anime sớm nhất tai VuiGhe.App nhé!)", ""],
     ["(Xem anime sớm nhất tạii VuiGhe.App nhé!)", ""]

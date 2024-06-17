@@ -28,15 +28,15 @@ Vì cô không có tên.
 
 7
 00:00:49,086 --> 00:00:55,045
-{\1a&H00&\b0\bord0\fscy170\fs40\blur1\move(640 177 640 215 23 5570)\c&H000000&\3c&HFFFFFF&\t(5290 5590 \1c&HC79B1F&\alpha&HFF&)}Clip-sub Presents
+}Clip-sub Presents
 
 8
 00:00:49,086 --> 00:00:55,045
-{\1a&HFF&\b0\fscy170\fs40\blur1\move(640 177 640 215 23 5570)\c&H000000&\3c&HFFFFFF&\t(5290 5590 \3c&HC79B1F&\alpha&HFF&)}Clip-sub Presents
+}Clip-sub Presents
 
 9
 00:00:49,086 --> 00:00:55,045
-{\1a&HFF&\b0\fscy170\bord5\blur8\fs40\move(640 177 640 215 23 5570)\c&H000000&\3c&HC79B1F&\t(5290 5590 \alpha&HFF&)}Clip-sub Presents
+}Clip-sub Presents
 
 10
 00:02:18,046 --> 00:02:20,086
@@ -660,7 +660,7 @@ Cảm ơn em  Machiko.
 
 165
 00:11:49,006 --> 00:11:51,092
-{\fad(0 540)}Cuối cùng thì mình cũng được làm bố.
+}Cuối cùng thì mình cũng được làm bố.
 
 166
 00:12:07,037 --> 00:12:09,060
@@ -820,7 +820,7 @@ Nhất định anh sẽ cho em hạnh phúc.
 
 205
 00:14:17,052 --> 00:14:20,080
-{\fad(0 700)}Hãy đồng ý lấy anh nhé.
+}Hãy đồng ý lấy anh nhé.
 
 206
 00:14:22,050 --> 00:14:25,054
@@ -1060,7 +1060,7 @@ Matchy? Họ ám chỉ Machiko ư?
 
 265
 00:17:56,042 --> 00:17:58,026
-{\an8}Nhưng phải nói...
+}Nhưng phải nói...
 
 266
 00:17:59,058 --> 00:18:03,010

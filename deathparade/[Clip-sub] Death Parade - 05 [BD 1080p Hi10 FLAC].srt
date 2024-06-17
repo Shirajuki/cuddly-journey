@@ -332,7 +332,7 @@ Nhìn cái này xem nào.
 
 83
 00:06:53,004 --> 00:06:59,044
-{\fad(123 0)\fs70\fnSVN-Acherus\b0\bord0\blur1.2\fscx90\org(1312 205.33)\fry1.04\frx0.79\frz-2.01\fax0.04\clip(m 812 38.67 l 1860 84 1880 762.67 800 758.67)\c&HF1F2F4&\pos(1318.67 194.66)}Space Billards Người chơi: Oculus 623 thắng / 5146 thua 9 bi Thái Dương Hệ
+}Space Billards Người chơi: Oculus 623 thắng / 5146 thua 9 bi Thái Dương Hệ
 
 84
 00:06:53,068 --> 00:06:56,019
