@@ -31,11 +31,12 @@ SENTENCE_TO_REPLACE = [
     ['<i>', ''],
     ['</i>', ''],
     ['{\\an8}', ''],
+    ['{\\i0}', ''],
     ['…','...'],
     ["(Xem anime sớm nhất tai VuiGhe.App nhé!)", ""],
     ["(Xem anime sớm nhất tạii VuiGhe.App nhé!)", ""]
 ]
-REGEX = r'((size=("30")+(.*)<\/font>)|(face=("(OranienbaumEroded||Cagliostro||Courte||BorisBlackBloxx||Kozuka Mincho Pro Strippedv2 R||FOT Seurat ProN Strp Medium)"))+(.*)<\/font>)'
+REGEX = r'((.*)Clip-sub Presents(.*)|(size=("30")+(.*)<\/font>)|(face=("(OranienbaumEroded||Cagliostro||Courte||BorisBlackBloxx||Kozuka Mincho Pro Strippedv2 R||FOT Seurat ProN Strp Medium)"))+(.*)<\/font>)'
 
 def srt_timestamp_to_millis(timestamp):
     if "," in timestamp:
@@ -70,7 +71,7 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False, filterupper=False):
     for i in range(len(subs)):
         # Skip 100% duplicates
         try:
-            if subs[i].text == subs[i-1].text and subs[i].start == subs[i-1].start and subs[i].end == subs[i-1].end:
+            if subs[i].text == subs[i-1].text and (subs[i].start == subs[i-1].start or subs[i].end == subs[i-1].end):
                 continue
         except:
             pass
@@ -123,6 +124,10 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False, filterupper=False):
                 if all(upper) and len(upper) > 2:
                     filtered_texts.append(ntext)
                     ntext = ""
+            # Filter if text startswith "[ "
+            if ntext.startswith("[ "):
+                filtered_texts.append(ntext)
+                ntext = ""
 
             if len(filtered_texts) > 0:
                 filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": " ".join(filtered_texts), "duration": subs[i].duration}

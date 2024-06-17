@@ -119,43 +119,6 @@ export default function ProcessSRT() {
           </CardContent>
         </Card>
 
-        {/* <Card className="bg-black/45">
-          <CardContent className="pt-6 h-full flex flex-col gap-4">
-            <Accordion type="single" collapsible>
-              <AccordionItem value="item-1">
-                <AccordionTrigger>
-                  <div className="text-left">
-                    <p className="text-base font-bold">Advanced process settings (WIP)</p>
-                    <p className="text-sm text-muted-foreground">
-                      Configure characters, words, sentences to be filtered.
-                    </p>
-                  </div>
-                </AccordionTrigger>
-                <AccordionContent>
-                  <div className="flex flex-col gap-4">
-                    <div className="space-y-1 w-full">
-                      <Label htmlFor="based-srt-input">Characters to be replaced</Label>
-                      <Textarea className="h-full resize-none" />
-                    </div>
-                    <div className="space-y-1 w-full">
-                      <Label htmlFor="based-srt-input">Words to be replaced</Label>
-                      <Textarea className="h-full resize-none" />
-                    </div>
-                    <div className="space-y-1 w-full">
-                      <Label htmlFor="based-srt-input">Sentences to be replaced</Label>
-                      <Textarea className="h-full resize-none" />
-                    </div>
-                    <div className="space-y-1 w-full">
-                      <Label htmlFor="based-srt-input">Regex to be filtered</Label>
-                      <Textarea className="h-full resize-none" />
-                    </div>
-                  </div>
-                </AccordionContent>
-              </AccordionItem>
-            </Accordion>
-          </CardContent>
-        </Card> */}
-
         <Button variant="outline" onClick={processSRT} disabled={disabled}>
           {disabled ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <></>}
           Process SRT

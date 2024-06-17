@@ -9,3 +9,4 @@ __pycache__
 
 piper
 yt-dlp
+**/output/batch/*

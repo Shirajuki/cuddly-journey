@@ -44,6 +44,7 @@ export default function BatchEditPage() {
           langdiff: false,
           merge: false,
           crosstalk: false,
+          upper: true,
         },
       });
       await sleep(1000);
