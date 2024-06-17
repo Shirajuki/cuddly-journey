@@ -20,6 +20,7 @@ export default function ProcessSRT() {
   const langdiffRef = useRef<HTMLButtonElement>(null);
   const mergeRef = useRef<HTMLButtonElement>(null);
   const crosstalkRef = useRef<HTMLButtonElement>(null);
+  const upperRef = useRef<HTMLButtonElement>(null);
 
   const processSRT = async () => {
     startProcess();
@@ -30,6 +31,7 @@ export default function ProcessSRT() {
         langdiff: langdiffRef.current?.dataset?.state === "checked",
         merge: mergeRef.current?.dataset?.state === "checked",
         crosstalk: crosstalkRef.current?.dataset?.state === "checked",
+        upper: upperRef.current?.dataset?.state === "checked",
       },
     });
     setTimeout(() => {
@@ -97,6 +99,19 @@ export default function ProcessSRT() {
                     className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
                   >
                     Parse multiple dialogues on the same timestamp, played at the same time
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div className="space-y-1">
+              <div className="items-top flex space-x-2">
+                <Checkbox id="upper" ref={upperRef} />
+                <div className="grid gap-1.5 leading-none">
+                  <label
+                    htmlFor="upper"
+                    className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
+                  >
+                    Parse full uppercase text as normal subtitle text, instead of filtering it out
                   </label>
                 </div>
               </div>

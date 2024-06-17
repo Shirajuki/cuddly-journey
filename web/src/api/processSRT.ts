@@ -6,6 +6,7 @@ type Props = {
     langdiff: boolean;
     merge: boolean;
     crosstalk: boolean;
+    upper: boolean;
   };
 };
 
@@ -21,6 +22,7 @@ const apiProcessSRT = async ({ input, options }: Props) => {
         langdiff: options.langdiff,
         merge: options.merge,
         crosstalk: options.crosstalk,
+        upper: options.upper,
       },
     }),
   });

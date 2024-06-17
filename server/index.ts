@@ -56,7 +56,7 @@ const app = new Elysia()
           await $`echo 100 > progress-process-srt.txt`.cwd("../scripts/output").quiet();
           return [];
         }
-        await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))}`.cwd("../scripts/tts_srt_parsing").quiet();
+        await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))} ${capitalize(String(options.upper))}`.cwd("../scripts/tts_srt_parsing").quiet();
 
         const files = await readdir("../scripts/output");
         return files.filter(f => f === "subbed.srt" || f === "filtered.srt");
@@ -67,6 +67,7 @@ const app = new Elysia()
             langdiff: t.Boolean(), 
             merge: t.Boolean(), 
             crosstalk: t.Boolean(), 
+            upper: t.Boolean(), 
           }),
         })
       })

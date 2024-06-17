@@ -57,7 +57,7 @@ def millis_to_srt_timestamp(total_millis):
     time_format = '{:02}:{:02}:{:02},{:03}'
     return time_format.format(int(hours), int(minutes), int(seconds), int(millis))
 
-def srt_parse(srt, diff=False, merge=False, crosstalk=False):
+def srt_parse(srt, diff=False, merge=False, crosstalk=False, filterupper=False):
     print("[*] Processing SRT...")
     os.popen(f"echo 0 > ../output/progress-process-srt.txt").read()
     if srt == "none":
@@ -68,6 +68,13 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
     
     subs = pysrt.open(srt)
     for i in range(len(subs)):
+        # Skip 100% duplicates
+        try:
+            if subs[i].text == subs[i-1].text and subs[i].start == subs[i-1].start and subs[i].end == subs[i-1].end:
+                continue
+        except:
+            pass
+
         # Parse multiple dialogues on same timestamp by "-" char / crosstalk
         texts = [x.strip() for x in subs[i].text.split("\n-")]
         if len(texts) > 1:
@@ -111,10 +118,11 @@ def srt_parse(srt, diff=False, merge=False, crosstalk=False):
                 ntext = ntext.replace(stor[0], stor[1])
 
             # Filter if all character is upper
-            upper = [x.isupper() for x in ntext if x not in " -:;!?'\".,1234567890"]
-            if all(upper) and len(upper) > 2:
-                filtered_texts.append(ntext)
-                ntext = ""
+            if (not filterupper):
+                upper = [x.isupper() for x in ntext if x not in " -:;!?'\".,1234567890"]
+                if all(upper) and len(upper) > 2:
+                    filtered_texts.append(ntext)
+                    ntext = ""
 
             if len(filtered_texts) > 0:
                 filtered = {"timestamp": f"{subs[i].start} --> {subs[i].end}", "text": " ".join(filtered_texts), "duration": subs[i].duration}
@@ -201,8 +209,8 @@ def srt_process(srt_list, outfile, tts=False):
     os.popen(f"echo 100 > ../output/progress-process-srt.txt").read()
 
 if __name__ == "__main__":
-    if len(sys.argv) != 5:
-        print("usage: python3 process_srt.py input.srt [langdiff:True/False] [merge:True/False] [crosstalk:True/False]")
+    if len(sys.argv) != 6:
+        print("usage: python3 process_srt.py input.srt [langdiff:True/False] [merge:True/False] [crosstalk:True/False] [upper:True/False]")
     else:
         print("[*] Parsing...")
-        srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True", sys.argv[4]=="True")
+        srt_parse(sys.argv[1], sys.argv[2]=="True", sys.argv[3]=="True", sys.argv[4]=="True", sys.argv[5]=="True")
