@@ -44,7 +44,7 @@ const app = new Elysia()
         })
       })
       .post("/extract-srt", async ({ body }) => {
-        // TBA
+        // TODO: run actual script and handle progress bar
         return body;
       })
       .post("/process-srt", async ({ body }) => {
@@ -54,7 +54,7 @@ const app = new Elysia()
         // Only process if file exist
         if (!await Bun.file(input.trim()).exists()) {
           await $`echo 100 > progress-process-srt.txt`.cwd("../scripts/output").quiet();
-          return [];
+          return ["ERROR_INPUT_FILE_NOT_FOUND"];
         }
         await $`python3 process_srt.py ${input.trim()} ${capitalize(String(options.langdiff))} ${capitalize(String(options.merge))} ${capitalize(String(options.crosstalk))} ${capitalize(String(options.upper))}`.cwd("../scripts/tts_srt_parsing").quiet();
 
@@ -64,10 +64,10 @@ const app = new Elysia()
         body: t.Object({
           input: t.String(),
           options: t.Object({
-            langdiff: t.Boolean(), 
-            merge: t.Boolean(), 
-            crosstalk: t.Boolean(), 
-            upper: t.Boolean(), 
+            langdiff: t.Boolean(),
+            merge: t.Boolean(),
+            crosstalk: t.Boolean(),
+            upper: t.Boolean(),
           }),
         })
       })
@@ -76,6 +76,13 @@ const app = new Elysia()
         await clear("mp3");
         await clear("wav");
 
+        // Only process if file exist
+        if (!await Bun.file(input.trim()).exists()) {
+          await $`echo 100 > progress-process-tts.txt`.cwd("../scripts/output").quiet();
+          return ["ERROR_INPUT_FILE_NOT_FOUND"];
+        }
+
+        // TODO: parse custom tts voice
         await $`python3 tts-${engine}.py ${input}`.cwd("../scripts/tts_srt_parsing").quiet();
 
         const files = await readdir("../scripts/output");
@@ -90,10 +97,16 @@ const app = new Elysia()
       })
       .post("/process-audio", async ({ body }) => {
         const { config } = body;
-        
+
         // Only process if config is valid
         if (config.trim() === "standalone") {
-          await $`python3 standalone.py`.cwd("../scripts/process_video").quiet();
+          try {
+            await $`python3 standalone.py`.cwd("../scripts/process_audio").quiet();
+          } catch (_e) {
+            // Return early if specific files does not exists when processing
+            await $`echo 100 > progress-process-audio.txt`.cwd("../scripts/output").quiet();
+            return ["ERROR_AUDIO_AND_SRT_FILES_NOT_FOUND"];
+          }
         } else {
           await $`echo 100 > progress-process-audio.txt`.cwd("../scripts/output").quiet();
         }
@@ -106,7 +119,7 @@ const app = new Elysia()
       })
       .post("/batch-edit", async ({ body }) => {
         const { index } = body;
-        
+
         // Check if specific files exist before processing
         if (!await Bun.file("../scripts/output/filtered.srt").exists()) return [];
         const filtered = `batch/${String(index).padStart(3, "0")}-filtered.srt`

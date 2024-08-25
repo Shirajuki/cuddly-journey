@@ -85,7 +85,7 @@ export default function ProcessSRT() {
                     htmlFor="merge"
                     className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
                   >
-                    Merge dialogues if duplicate, artifact resulted from extracting srt
+                    Merge dialogues if duplicate (usual artifact resulted from extracting srt)
                   </label>
                 </div>
               </div>
@@ -98,7 +98,7 @@ export default function ProcessSRT() {
                     htmlFor="crosstalk"
                     className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
                   >
-                    Parse multiple dialogues on the same timestamp, played at the same time
+                    Parse multiple dialogues on the same timestamp (toggled means that they will be played at the same time)
                   </label>
                 </div>
               </div>

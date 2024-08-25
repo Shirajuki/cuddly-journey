@@ -40,7 +40,7 @@ To generate tts from srt files run (outputs small tts chunks):
 - `python3 ./tts_srt_parsing/tts-edge.py input.srt`
 
 To process the generated tts into an audio file ():
-- `python3 ./process_video/standalone.py`
+- `python3 ./process_audio/standalone.py`
 
 Note that the script currently only support HD (1280x720) videos for now
 
