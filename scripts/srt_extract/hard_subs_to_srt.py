@@ -23,9 +23,6 @@ SUBTITLES_MIN_VALUE_AFTER_BLUR = 50
 TESSERACT_CONFIG = ''
 TESSERACT_EXPECTED_LANGUAGE = 'vie'
 COMMON_MISTAKES = {
-    '-': '一',
-    '+': '十',
-    'F': '上',
     '，': '',
     '。': '',
     '”': '',

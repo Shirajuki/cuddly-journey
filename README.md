@@ -7,7 +7,7 @@ The scripts relies on [Tesseract](https://github.com/tesseract-ocr/tesseract) fo
 
 ## Features (TODOs)
 
-- Parse SRT-file (either in another language / same language) and extract hardcoded subtitles in given timestamps (Fast)
+- Parse SRT-file (either in another language / same language) and extract hardcoded subtitles in same given timestamps (Fast)
 - Search for and extract the hardcoded subtitles by going through the frames and calculating the timestamps (Slower)
 - Web-based GUI editor for easier configuration and semi-automatic corrections
   - Configure total frames to extract from
@@ -60,7 +60,6 @@ pip3 install -r requirements.txt
 ```
 
 ## Development
-
 TBA
 
 ## Docker
