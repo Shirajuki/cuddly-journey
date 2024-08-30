@@ -34,6 +34,9 @@ const app = new Elysia()
         if (type === "process-tts") {
           return (await Bun.file("../scripts/output/progress-process-tts.txt").text()).trim();
         }
+        if (type === "test-tts") {
+          return (await Bun.file("../scripts/output/progress-test-tts.txt").text()).trim();
+        }
         if (type === "process-audio") {
           return (await Bun.file("../scripts/output/progress-process-audio.txt").text()).trim();
         }
@@ -51,7 +54,6 @@ const app = new Elysia()
         const {input, options} = body;
         await clear("srt");
 
-        // Only process if file exist
         if (!await Bun.file(input.trim()).exists()) {
           await $`echo 100 > progress-process-srt.txt`.cwd("../scripts/output").quiet();
           return ["ERROR_INPUT_FILE_NOT_FOUND"];
@@ -71,12 +73,40 @@ const app = new Elysia()
           }),
         })
       })
+      .post("/test-tts", async ({ body }) => {
+        const {engine, voice, input} = body;
+        await clear("mp3");
+        await clear("wav");
+
+        const text = input.trim().substring(0, 120);
+        if (text.length == 0) {
+          await $`echo 100 > progress-test-tts.txt`.cwd("../scripts/output").quiet();
+          return ["ERROR_INPUT_TEXT_IS_EMPTY"];
+        }
+        const path = "/tmp/test.srt"
+        await Bun.write(path, `1\n00:00:00,000 --> 00:00:00,000\n${text}`);
+
+        // TODO: parse custom tts voice
+        await $`python3 tts-${engine}.py ${path}`.cwd("../scripts/tts_srt_parsing").quiet();
+        const filename = await $`ls 0.*`.cwd("../scripts/output").text();
+        const extension = filename.trim().split(".").at(-1);
+        await $`mv 0.${extension} test-tts.${extension}`.cwd("../scripts/output").quiet();
+        await $`echo 100 > progress-test-tts.txt`.cwd("../scripts/output").quiet();
+
+        const files = await readdir("../scripts/output");
+        return files.filter(f => f.includes("test-tts") && (f.includes(".mp3") || f.includes(".wav")));
+      }, {
+        body: t.Object({
+          engine: t.String(),
+          voice: t.String(),
+          input: t.String()
+        })
+      })
       .post("/process-tts", async ({ body }) => {
         const {engine, voice, input} = body;
         await clear("mp3");
         await clear("wav");
 
-        // Only process if file exist
         if (!await Bun.file(input.trim()).exists()) {
           await $`echo 100 > progress-process-tts.txt`.cwd("../scripts/output").quiet();
           return ["ERROR_INPUT_FILE_NOT_FOUND"];
@@ -98,7 +128,6 @@ const app = new Elysia()
       .post("/process-audio", async ({ body }) => {
         const { config } = body;
 
-        // Only process if config is valid
         if (config.trim() === "standalone") {
           try {
             await $`python3 standalone.py`.cwd("../scripts/process_audio").quiet();
@@ -120,7 +149,6 @@ const app = new Elysia()
       .post("/batch-edit", async ({ body }) => {
         const { index } = body;
 
-        // Check if specific files exist before processing
         if (!await Bun.file("../scripts/output/filtered.srt").exists()) return [];
         const filtered = `batch/${String(index).padStart(3, "0")}-filtered.srt`
         await $`cp filtered.srt ${filtered}`.cwd("../scripts/output").quiet();

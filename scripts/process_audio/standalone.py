@@ -46,6 +46,8 @@ def standalone_parse():
     files = os.listdir("../output")
     
     for f in files:
+        if f == "test-tts.mp3" or f == "test-tts.wav":
+            continue
         if (f.endswith(".mp3") or f.endswith(".wav")) and not f.startswith("output"):
             thread = threading.Thread(target=parse, args=(f, audios))
             threads.append(thread)

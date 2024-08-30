@@ -23,4 +23,21 @@ const apiProcessTTS = async ({ engine, voice, input }: Props) => {
   return { files, ok: res.ok };
 };
 
-export { apiProcessTTS };
+const apiTestTTS = async ({ engine, voice, input }: Props) => {
+  const res = await fetch(`${CONFIG.SERVER_URL}/test-tts`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      engine: engine,
+      voice: voice,
+      input: input,
+    }),
+  });
+
+  const files: string[] = await res.json();
+  return { files, ok: res.ok };
+};
+
+export { apiProcessTTS, apiTestTTS };

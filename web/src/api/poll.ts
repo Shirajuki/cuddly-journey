@@ -1,13 +1,14 @@
 import { CONFIG } from "@/lib/consts";
 
+type ProcessType = "extract-srt" | "process-srt" | "process-tts" | "process-audio" | "test-tts"
 type Props = {
   progressCallback: React.Dispatch<React.SetStateAction<number>>;
-  type: "extract-srt" | "process-srt" | "process-tts" | "process-audio";
+  type: ProcessType;
 };
 type BatchProps = {
   progressCallback: (index: number, progress: number) => void;
   index: number;
-  type: "extract-srt" | "process-srt" | "process-tts" | "process-audio";
+  type: ProcessType;
 };
 
 const poll = ({ progressCallback, type }: Props) => {

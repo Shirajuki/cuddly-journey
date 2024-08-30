@@ -11,13 +11,16 @@ import Divider from "@/components/custom/Divider";
 import File from "@/components/custom/File";
 import useProcessing from "@/lib/useProcessing";
 import { poll } from "@/api/poll";
-import { apiProcessTTS } from "@/api/processTTS";
+import { apiProcessTTS, apiTestTTS } from "@/api/processTTS";
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { Textarea } from "@/components/ui/textarea";
 
 export default function TTS() {
   const { startProcess, finishProcess, progress, setProgress, disabled, files } = useProcessing();
   const [engine, setEngine] = useState("edge");
   const [voice, setVoice] = useState("vi-VN-HoaiMyNeural");
   const inputRef = useRef<HTMLInputElement>(null);
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   const voices = useMemo(() => {
     if (engine === "edge") return TTS_EDGE_VOICES;
@@ -29,6 +32,15 @@ export default function TTS() {
     startProcess();
     poll({ progressCallback: setProgress, type: "process-tts" });
     const { files } = await apiProcessTTS({ engine, voice, input: inputRef.current?.value });
+    setTimeout(() => {
+      finishProcess(files);
+    }, 2000);
+  }, [engine, finishProcess, startProcess, setProgress, voice]);
+
+  const testTTS = useCallback(async () => {
+    startProcess();
+    poll({ progressCallback: setProgress, type: "test-tts" });
+    const { files } = await apiTestTTS({ engine, voice, input: textareaRef.current?.value });
     setTimeout(() => {
       finishProcess(files);
     }, 2000);
@@ -91,6 +103,33 @@ export default function TTS() {
                 </SelectContent>
               </Select>
             </div>
+          </CardContent>
+        </Card>
+
+        <Card className="bg-black/45">
+          <CardContent className="h-full flex flex-col gap-4">
+            <Accordion type="single" collapsible>
+              <AccordionItem value="item-1">
+                <AccordionTrigger>Test TTS</AccordionTrigger>
+                <AccordionContent className="h-full flex flex-col gap-4">
+                  <div>
+                    <p className="text-base font-bold">Text input</p>
+                    <p className="text-sm text-muted-foreground">
+                      The text input to test the TTS voice output.
+                    </p>
+                  </div>
+                  <div className="flex gap-4">
+                    <div className="space-y-1 w-full">
+                      <Textarea ref={textareaRef} className="h-full resize-none" />
+                    </div>
+                  </div>
+                  <Button variant="outline" onClick={testTTS} disabled={disabled}>
+                    {disabled ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <></>}
+                    Test TTS
+                  </Button>
+                </AccordionContent>
+              </AccordionItem>
+            </Accordion>
           </CardContent>
         </Card>
 

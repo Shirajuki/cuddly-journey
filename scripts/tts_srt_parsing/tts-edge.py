@@ -35,6 +35,7 @@ def srt_process(srt_list):
     i = 0
     chunk_size = 100
     chunks = [srt_list[i:i + chunk_size] for i in range(0, len(srt_list), chunk_size)]
+    print(chunks)
     for chunk in chunks:
         threads = []
         for sub in chunk:
